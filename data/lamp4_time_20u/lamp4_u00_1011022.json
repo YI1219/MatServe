@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u00_1011022",
+  "lamp_id": "1011022",
+  "rank": 0,
+  "n_profile_raw": 1100,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: Proxy advisory firms Institutional Investors Services and Glass Lewis & Co said that the losing \"London Whale\" derivatives",
+      "article": "Proxy advisory firms Institutional Investors Services and Glass Lewis & Co said that the losing \"London Whale\" derivatives",
+      "pos": "Dimon May Leave JPMorgan Chase If Dual Role Is Split: Report",
+      "neg": "Overview: Proxy advisory firms Institutional Investors Services and Glass Lewis & Co said that the",
+      "date": "2013-05-11",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: Robinson was hit by more pitches than all but one other National League batter in 1947, and led the league in that category",
+      "article": "Robinson was hit by more pitches than all but one other National League batter in 1947, and led the league in that category",
+      "pos": "Fritz Ostermueller Misrepresented In Jackie Robinson Biopic '42,' Says Daughter",
+      "neg": "Overview: Robinson was hit by more pitches than all but one other National League batter",
+      "date": "2013-05-11",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: \"The biggest hurdle is getting the awareness of these choices and having choices in the proximity of where people are,\" he",
+      "article": "\"The biggest hurdle is getting the awareness of these choices and having choices in the proximity of where people are,\" he",
+      "pos": "Green Burials Catch On In The U.S.",
+      "neg": "Overview: \"The biggest hurdle is getting the awareness of these choices and having choices in",
+      "date": "2013-05-11",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: BIG REVISIONS NEEDED? By Timothy Gardner It could also set back TransCanada which last month said delays by Washington would",
+      "article": "BIG REVISIONS NEEDED? By Timothy Gardner It could also set back TransCanada which last month said delays by Washington would",
+      "pos": "Keystone XL Decision May Not Come Until Later In The Year, U.S. Official Says",
+      "neg": "BIG REVISIONS NEEDED",
+      "date": "2013-05-11",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: RIYADH, May 12 (Reuters) - World Health Organisation (WHO) officials said on Sunday it seemed likely a new coronavirus that",
+      "article": "RIYADH, May 12 (Reuters) - World Health Organisation (WHO) officials said on Sunday it seemed likely a new coronavirus that",
+      "pos": "SARS-Like Virus Can Probably Spread Person-To-Person, WHO Says",
+      "neg": "Overview: RIYADH, May 12 (Reuters) - World Health Organisation (WHO) officials said on Sunday it",
+      "date": "2013-05-12",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: About 57 percent of plants and 34 percent of animal species were likely to lose more than half the area with a climate suited",
+      "article": "About 57 percent of plants and 34 percent of animal species were likely to lose more than half the area with a climate suited",
+      "pos": "Climate Change To Shrink Animal And Plant Habitats Dramatically, Study Forecasts",
+      "neg": "Overview: About 57 percent of plants and 34 percent of animal species were likely to",
+      "date": "2013-05-12",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: Van Huis said barriers to enjoying dishes such as bee larvae yoghurt were psychological - in a blind test carried out by",
+      "article": "Van Huis said barriers to enjoying dishes such as bee larvae yoghurt were psychological - in a blind test carried out by",
+      "pos": "Eating Insects Could Help Combat Obesity, UN Report Says",
+      "neg": "Overview: Van Huis said barriers to enjoying dishes such as bee larvae yoghurt were psychological",
+      "date": "2013-05-13",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: RIYADH, May 14 (Reuters) - Saudi Arabia has confirmed four new cases of the SARS-like novel coronavirus in its Eastern Province",
+      "article": "RIYADH, May 14 (Reuters) - Saudi Arabia has confirmed four new cases of the SARS-like novel coronavirus in its Eastern Province",
+      "pos": "SARS-Like Virus: 4 New Coronavirus Cases Confirmed In Saudi Arabia",
+      "neg": "Overview: RIYADH, May 14 (Reuters) - Saudi Arabia has confirmed four new cases of the",
+      "date": "2013-05-14",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: On Sunday, Saudi Arabia said it had had a total of 24 confirmed cases since the disease was identified last year, of whom",
+      "article": "On Sunday, Saudi Arabia said it had had a total of 24 confirmed cases since the disease was identified last year, of whom",
+      "pos": "SARS-Like Virus: 6 New Coronavirus Cases Confirmed In Saudi Arabia",
+      "neg": "Overview: On Sunday, Saudi Arabia said it had had a total of 24 confirmed cases",
+      "date": "2013-05-14",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: \"We've been really trying for years to be more precise about who needs treatment ... Now we are more able to achieve it,\" said",
+      "article": "\"We've been really trying for years to be more precise about who needs treatment ... Now we are more able to achieve it,\" said",
+      "pos": "Skip Chemo? New Cancer Tools Allow Patients To Reconsider Harsh Cancer Treatments",
+      "neg": "\"We've been really trying for years to be more precise about who needs treatment ..",
+      "date": "2013-05-15",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: The scientists said they understood, from discussions with government officials, that the Food and Drug Administration and",
+      "article": "The scientists said they understood, from discussions with government officials, that the Food and Drug Administration and",
+      "pos": "Updated Mercury In Fish Advice Stalled In Health Department, Frustrating Scientists",
+      "neg": "Overview: The scientists said they understood, from discussions with government officials, that the Food and",
+      "date": "2013-05-15",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: The combination also appeared to be safe. About half of patients who got both treatments had a drug-related side effect, but",
+      "article": "The combination also appeared to be safe. About half of patients who got both treatments had a drug-related side effect, but",
+      "pos": "Nivolumab And Yervoy, Melanoma Drugs, Harness Body's Immune System To Fight Cancer",
+      "neg": "The combination also appeared to be safe",
+      "date": "2013-05-15",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: The drug, called MPDL3280A, significantly shrank tumors in 21 percent of 140 patients with advanced melanoma, lung cancer",
+      "article": "The drug, called MPDL3280A, significantly shrank tumors in 21 percent of 140 patients with advanced melanoma, lung cancer",
+      "pos": "MPDL3280A: Immunotherapy Drug Shows Promise Against Range Of Cancers",
+      "neg": "Overview: The drug, called MPDL3280A, significantly shrank tumors in 21 percent of 140 patients with",
+      "date": "2013-05-15",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: By Atossa Araxia Abrahamian In the agency's first-ever study of mental disorders among children aged 3 to 17, researchers",
+      "article": "By Atossa Araxia Abrahamian In the agency's first-ever study of mental disorders among children aged 3 to 17, researchers",
+      "pos": "Mental Disorders In Children: CDC Releases First-Ever Report",
+      "neg": "Overview: By Atossa Araxia Abrahamian In the agency's first-ever study of mental disorders among children",
+      "date": "2013-05-16",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: A mother of triplets on the autism spectrum, Weisman says \"I'm not sure my boys would be where they are today\" - in regular",
+      "article": "A mother of triplets on the autism spectrum, Weisman says \"I'm not sure my boys would be where they are today\" - in regular",
+      "pos": "DSM-5: Psychiatrists' 'Bible' Finally Unveiled",
+      "neg": "Overview: A mother of triplets on the autism spectrum, Weisman says \"I'm not sure my",
+      "date": "2013-05-17",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: It added that in past week as the number of new cases has dwindled, some provinces have begun to scale back emergency operations",
+      "article": "It added that in past week as the number of new cases has dwindled, some provinces have begun to scale back emergency operations",
+      "pos": "H7N9 Flu Death Toll Rises To 36 In China, WHO Reports",
+      "neg": "Overview: It added that in past week as the number of new cases has dwindled,",
+      "date": "2013-05-17",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: \"Nobody really knows; as Berra also astutely observed, it's tough to make predictions, especially about the future. But there",
+      "article": "\"Nobody really knows; as Berra also astutely observed, it's tough to make predictions, especially about the future. But there",
+      "pos": "Ben Bernanke Optimistic About Future Innovation In Commencement Address",
+      "neg": "\"Nobody really knows; as Berra also astutely observed, it's tough to make predictions, especially about the future",
+      "date": "2013-05-18",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: Les Echos reported that nearly 12,000 households paid taxes last year worth more than 75 percent of their 2011 revenues due",
+      "article": "Les Echos reported that nearly 12,000 households paid taxes last year worth more than 75 percent of their 2011 revenues due",
+      "pos": "France Taxed Some Wealthy Households More Than They Made In 2011",
+      "neg": "Overview: Les Echos reported that nearly 12,000 households paid taxes last year worth more than",
+      "date": "2013-05-18",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: It was not clear whether this audit included a Ferro scan. The retailer has so far released only a few details of the inspection",
+      "article": "It was not clear whether this audit included a Ferro scan. The retailer has so far released only a few details of the inspection",
+      "pos": "Bangladesh Factory Banned By Walmart Still Making Wrangler Shirts",
+      "neg": "It was not clear whether this audit included a Ferro scan",
+      "date": "2013-05-19",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: Lennon was shot to death in New York in 1980 by a deranged fan, and Harrison died of lung cancer in Los Angeles in 2001. The",
+      "article": "Lennon was shot to death in New York in 1980 by a deranged fan, and Harrison died of lung cancer in Los Angeles in 2001. The",
+      "pos": "Beatles' Guitar Goes For $408,000 In Recent Auction",
+      "neg": "Lennon was shot to death in New York in 1980 by a deranged fan, and Harrison died of lung cancer in Los Angeles in 2001",
+      "date": "2013-05-19",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: The rate of global warming has slowed after strong rises in the 1980s and 1990s, even though all the 10 warmest years since",
+      "article": "The rate of global warming has slowed after strong rises in the 1980s and 1990s, even though all the 10 warmest years since",
+      "pos": "Climate Change Study Shows Pace Is Slowing, But Extreme Action Still Vital",
+      "neg": "Overview: The rate of global warming has slowed after strong rises in the 1980s and",
+      "date": "2013-05-19",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: The study tested inotuzumab in combination with Roche Holding's Rituxan in patients with relapsed or refractory aggressive",
+      "article": "The study tested inotuzumab in combination with Roche Holding's Rituxan in patients with relapsed or refractory aggressive",
+      "pos": "Study Of Lymphoma Drug, Inotuzumab Ozogamicin, Halted Since It's Unlikely To Help Survival",
+      "neg": "Overview: The study tested inotuzumab in combination with Roche Holding's Rituxan in patients with relapsed",
+      "date": "2013-05-20",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: The average distance traveled is expected to stretch to 690 miles, 48 miles more than last year's average. Short trips, those",
+      "article": "The average distance traveled is expected to stretch to 690 miles, 48 miles more than last year's average. Short trips, those",
+      "pos": "Memorial Day Travel Expected To Decline For 2013 As U.S. Vacationers Hit Road, Grounded By High Fares",
+      "neg": "The average distance traveled is expected to stretch to 690 miles, 48 miles more than last year's average",
+      "date": "2013-05-22",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: \"It reflects the reality of what goes on in drug discovery ... you want to be able to easily move money from one molecule",
+      "article": "\"It reflects the reality of what goes on in drug discovery ... you want to be able to easily move money from one molecule",
+      "pos": "Government Inks Deal With GlaxoSmithKline To Tackle Drug Resistance, Bioterrorism",
+      "neg": "\"It reflects the reality of what goes on in drug discovery ..",
+      "date": "2013-05-22",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: It is early days, but so far, MERS has not caught on, despite the WHO's European branch saying \"the WHO and other committee",
+      "article": "It is early days, but so far, MERS has not caught on, despite the WHO's European branch saying \"the WHO and other committee",
+      "pos": "SARS-Related Virus Official Name: Will 'Middle East Respiratory Syndrome' Be A Controversial Choice?",
+      "neg": "Overview: It is early days, but so far, MERS has not caught on, despite the",
+      "date": "2013-05-22",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: A non-Saudi, whose nationality and age were not given, died on Tuesday, the Health Ministry said on its website late on Wednesday",
+      "article": "A non-Saudi, whose nationality and age were not given, died on Tuesday, the Health Ministry said on its website late on Wednesday",
+      "pos": "SARS-Like Virus: 17 Now Dead From Coronavirus In Saudi Arabia",
+      "neg": "Overview: A non-Saudi, whose nationality and age were not given, died on Tuesday, the Health",
+      "date": "2013-05-23",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: GlaxoSmithKline has been quiet about its approach. The drugmaker had been partnering with Nabi's failed StaphVax candidate",
+      "article": "GlaxoSmithKline has been quiet about its approach. The drugmaker had been partnering with Nabi's failed StaphVax candidate",
+      "pos": "Pfizer Takes Its Shot At A Vaccine For Evasive MRSA Superbug",
+      "neg": "GlaxoSmithKline has been quiet about its approach",
+      "date": "2013-05-23",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: Asked about the risk factors for contracting the disease, Memish said: \"It seems like being a male is a risk factor, being",
+      "article": "Asked about the risk factors for contracting the disease, Memish said: \"It seems like being a male is a risk factor, being",
+      "pos": "WHO Is Helping Saudi Arabia Investigate SARS-Like Virus Before Haj",
+      "neg": "Overview: Asked about the risk factors for contracting the disease, Memish said: \"It seems like",
+      "date": "2013-05-24",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: He had not spoken to dispatchers and had apparently stopped to pick up debris that had been deliberately placed in the roadway",
+      "article": "He had not spoken to dispatchers and had apparently stopped to pick up debris that had been deliberately placed in the roadway",
+      "pos": "Jason Ellis, Bardstown Police Officer, Killed In An Apparent Ambush",
+      "neg": "Overview: He had not spoken to dispatchers and had apparently stopped to pick up debris",
+      "date": "2013-05-26",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: \"That claim will be demonstrated in the evidence we will provide,\" said Benton County district attorney John Haroldson, whose",
+      "article": "\"That claim will be demonstrated in the evidence we will provide,\" said Benton County district attorney John Haroldson, whose",
+      "pos": "Grant Acord, Oregon School Bomb Suspect, Had 'Detailed Checklist: Cops",
+      "neg": "Overview: \"That claim will be demonstrated in the evidence we will provide,\" said Benton County",
+      "date": "2013-05-26",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: The Fed honcho's absence could mean Jackson Hole offers little in the way of news, in which case, head to the beach and read",
+      "article": "The Fed honcho's absence could mean Jackson Hole offers little in the way of news, in which case, head to the beach and read",
+      "pos": "Potential Federal Reserve Policy Changes Could Make For Volatile Summer",
+      "neg": "Overview: The Fed honcho's absence could mean Jackson Hole offers little in the way of",
+      "date": "2013-05-26",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: The union is also pressing for higher basic pay and bigger supplements for night shifts. Amazon said its workers' earnings",
+      "article": "The union is also pressing for higher basic pay and bigger supplements for night shifts. Amazon said its workers' earnings",
+      "pos": "Amazon Workers Strike Again For Better Pay In Germany",
+      "neg": "The union is also pressing for higher basic pay and bigger supplements for night shifts",
+      "date": "2013-05-26",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: \"Fast & Furious 6\" added $177 million in international markets, bringing global sales through Sunday to $275.5 million, Universal",
+      "article": "\"Fast & Furious 6\" added $177 million in international markets, bringing global sales through Sunday to $275.5 million, Universal",
+      "pos": "'Fast & Furious' Box Office Impresses, Beating Out 'Hangover 3'",
+      "neg": "Overview: \"Fast & Furious 6\" added $177 million in international markets, bringing global sales through",
+      "date": "2013-05-26",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: Authorities recovered an assault rifle, a handgun and hundreds of rounds of ammunition from the suspect, who was said to",
+      "article": "Authorities recovered an assault rifle, a handgun and hundreds of rounds of ammunition from the suspect, who was said to",
+      "pos": "Texas Shooting Spree Leaves 2 Dead, 5 Wounded",
+      "neg": "Overview: Authorities recovered an assault rifle, a handgun and hundreds of rounds of ammunition from",
+      "date": "2013-05-27",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: The New York Times Co, Wall Street bank Bear Stearns and chemical company Union Carbide also built ambitious headquarters",
+      "article": "The New York Times Co, Wall Street bank Bear Stearns and chemical company Union Carbide also built ambitious headquarters",
+      "pos": "Over-The-Top Tech Headquarters Might Be More Trouble Than They're Worth",
+      "neg": "Overview: The New York Times Co, Wall Street bank Bear Stearns and chemical company Union",
+      "date": "2013-05-27",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: The extinctions of some domesticated animals and plants was happening in tandem with accelerating losses of wild species",
+      "article": "The extinctions of some domesticated animals and plants was happening in tandem with accelerating losses of wild species",
+      "pos": "Biodiversity Loss Becoming Major Threat For Farmed Plants And Livestock Breeds",
+      "neg": "Overview: The extinctions of some domesticated animals and plants was happening in tandem with accelerating",
+      "date": "2013-05-27",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: The H7N9 virus was found to be resistant to Roche's widely used flu drug in three out of 14 patients who were studied in",
+      "article": "The H7N9 virus was found to be resistant to Roche's widely used flu drug in three out of 14 patients who were studied in",
+      "pos": "H7N9 Bird Flu Proves Resistant To Tamiflu For First Time",
+      "neg": "Overview: The H7N9 virus was found to be resistant to Roche's widely used flu drug",
+      "date": "2013-05-28",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: A large outbreak of HFMD infected about 35,000 people and killed 17 in China's Hunan province in June 2012. Symptoms of the",
+      "article": "A large outbreak of HFMD infected about 35,000 people and killed 17 in China's Hunan province in June 2012. Symptoms of the",
+      "pos": "Enterovirus 71 Vaccine Protects Kids Against Hand, Foot And Mouth Disease",
+      "neg": "A large outbreak of HFMD infected about 35,000 people and killed 17 in China's Hunan province in June 2012",
+      "date": "2013-05-28",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: The system then synchronises the avatar's lips with its speech, enabling a therapist to speak to the patient through the",
+      "article": "The system then synchronises the avatar's lips with its speech, enabling a therapist to speak to the patient through the",
+      "pos": "Computer Avatars Could Help People With Schizophrenia Confront Tormenting Voices",
+      "neg": "Overview: The system then synchronises the avatar's lips with its speech, enabling a therapist to",
+      "date": "2013-05-29",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: \"They make a terrible racket in public places, scrawl their names on tourist sites, ignore red lights when crossing the road",
+      "article": "\"They make a terrible racket in public places, scrawl their names on tourist sites, ignore red lights when crossing the road",
+      "pos": "Chinese Tourists The Focus Of International Scrutiny After Several High-Profile Incidents",
+      "neg": "Overview: \"They make a terrible racket in public places, scrawl their names on tourist sites,",
+      "date": "2013-05-30",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: After 39 FDA approvals last year - a record only beaten in 1996 - the continuing healthy run-rate for so-called new molecular",
+      "article": "After 39 FDA approvals last year - a record only beaten in 1996 - the continuing healthy run-rate for so-called new molecular",
+      "pos": "Tafinlar And Mekinist, Melanoma Drugs, Approved By FDA",
+      "neg": "Overview: After 39 FDA approvals last year - a record only beaten in 1996 -",
+      "date": "2013-05-30",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: Saudi Arabia has been the most affected by the virus, with 39 cases and 25 deaths so far, according to data from the World",
+      "article": "Saudi Arabia has been the most affected by the virus, with 39 cases and 25 deaths so far, according to data from the World",
+      "pos": "SARS-Like Virus: Italy Announces First Case Of MERS",
+      "neg": "Overview: Saudi Arabia has been the most affected by the virus, with 39 cases and",
+      "date": "2013-05-31",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: So when you are going to fly, it's important to figure out what you would be willing to pay extra to obtain. \"A lot of travelers",
+      "article": "So when you are going to fly, it's important to figure out what you would be willing to pay extra to obtain. \"A lot of travelers",
+      "pos": "Airline Fees Make Travel Cost Comparisons A Challenge",
+      "neg": "So when you are going to fly, it's important to figure out what you would be willing to pay extra to obtain",
+      "date": "2013-05-31",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: The findings are driving enthusiasm for immunotherapies. Merck plans to present an update of this study on June 2 at the",
+      "article": "The findings are driving enthusiasm for immunotherapies. Merck plans to present an update of this study on June 2 at the",
+      "pos": "Immunotherapy: Drugs That Harness Immune System To Fight Cancer Show Promise",
+      "neg": "The findings are driving enthusiasm for immunotherapies",
+      "date": "2013-05-31",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: The virus, which can cause coughing, fever and pneumonia, has spread from the Gulf to France, Britain and Germany. The WHO",
+      "article": "The virus, which can cause coughing, fever and pneumonia, has spread from the Gulf to France, Britain and Germany. The WHO",
+      "pos": "SARS-Related Virus: 3 More Deaths From MERS In Saudi Arabia, WHO Reports",
+      "neg": "The virus, which can cause coughing, fever and pneumonia, has spread from the Gulf to France, Britain and Germany",
+      "date": "2013-05-31",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: Electronic cigarettes, whose invention is widely credited to a Chinese pharmacist a decade ago, usually comprise disposable",
+      "article": "Electronic cigarettes, whose invention is widely credited to a Chinese pharmacist a decade ago, usually comprise disposable",
+      "pos": "France To Ban Electronic Cigarettes In Public",
+      "neg": "Overview: Electronic cigarettes, whose invention is widely credited to a Chinese pharmacist a decade ago,",
+      "date": "2013-05-31",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: NO RADIATION-RELATED DEATHS By Fredrik Dahl VIENNA, May 31 (Reuters) - The evacuation of tens of thousands of people helped",
+      "article": "NO RADIATION-RELATED DEATHS By Fredrik Dahl VIENNA, May 31 (Reuters) - The evacuation of tens of thousands of people helped",
+      "pos": "No Rise In Cancer Seen From Japan's Fukushima Nuclear Disaster, UN Says",
+      "neg": "Overview: NO RADIATION-RELATED DEATHS By Fredrik Dahl VIENNA, May 31 (Reuters) - The evacuation of",
+      "date": "2013-05-31",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: The team wants to combine Mekinist with an experimental Glaxo treatment that blocks a different protein called Akt based",
+      "article": "The team wants to combine Mekinist with an experimental Glaxo treatment that blocks a different protein called Akt based",
+      "pos": "Selumetinib, Advanced Uveal Melanoma Drug, Shows Success In Clinical Trial",
+      "neg": "Overview: The team wants to combine Mekinist with an experimental Glaxo treatment that blocks a",
+      "date": "2013-06-01",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: MICRO DENSITY Forty-one micro housing projects have come through the Seattle Department of Planning and Development since",
+      "article": "MICRO DENSITY Forty-one micro housing projects have come through the Seattle Department of Planning and Development since",
+      "pos": "Micro Living Trend Sweeps The U.S., As Cash-Strapped Renters Look For Affordable Housing In Pricey Cities",
+      "neg": "Overview: MICRO DENSITY Forty-one micro housing projects have come through the Seattle Department of Planning",
+      "date": "2013-06-02",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: The Justice Department contends that Apple's entry into the market provided publishers with a means to get together to increase",
+      "article": "The Justice Department contends that Apple's entry into the market provided publishers with a means to get together to increase",
+      "pos": "U.S. Takes Apple To Trial Over eBooks: 'This Case Will Effectively Set The Rules For Internet Commerce'",
+      "neg": "Overview: The Justice Department contends that Apple's entry into the market provided publishers with a",
+      "date": "2013-06-02",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: The duo in the shiny helmets, who were at the forefront of electronic dance music in the 1990s, have scored an international",
+      "article": "The duo in the shiny helmets, who were at the forefront of electronic dance music in the 1990s, have scored an international",
+      "pos": "Robin Thicke's 'Blurred Lines' Earns The Artist His First Number One",
+      "neg": "Overview: The duo in the shiny helmets, who were at the forefront of electronic dance",
+      "date": "2013-06-02",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: \"Their results are pretty compelling,\" said Dr Aaron Kesselheim of Harvard Medical School, who helped conduct the survey",
+      "article": "\"Their results are pretty compelling,\" said Dr Aaron Kesselheim of Harvard Medical School, who helped conduct the survey",
+      "pos": "New Drugs Are Barely An Improvement Over Decades-Old Standbys, Study Finds",
+      "neg": "Overview: \"Their results are pretty compelling,\" said Dr Aaron Kesselheim of Harvard Medical School, who",
+      "date": "2013-06-03",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: Fastjet flights in Tanzania sell for as little as $20. \"I don't know if it will happen tomorrow, but if it makes sense we",
+      "article": "Fastjet flights in Tanzania sell for as little as $20. \"I don't know if it will happen tomorrow, but if it makes sense we",
+      "pos": "FastJet Considers Africa Expansion After Early Success Bringing Low-Cost Travel To Tanzania",
+      "neg": "Fastjet flights in Tanzania sell for as little as $20",
+      "date": "2013-06-04",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: Yet autism campaigners, and the firms seeking to recruit people on the spectrum, know there will be problems, too. Povey",
+      "article": "Yet autism campaigners, and the firms seeking to recruit people on the spectrum, know there will be problems, too. Povey",
+      "pos": "Autism Finds Space In The Workplace",
+      "neg": "Yet autism campaigners, and the firms seeking to recruit people on the spectrum, know there will be problems, too",
+      "date": "2013-06-04",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: The threats to children of unsupervised use of the Internet are well known and range from identity theft, cyberbullying and",
+      "article": "The threats to children of unsupervised use of the Internet are well known and range from identity theft, cyberbullying and",
+      "pos": "Supervising Kids Online: McAfee Survey Shows Disconnect Between Parents And Tweens",
+      "neg": "Overview: The threats to children of unsupervised use of the Internet are well known and",
+      "date": "2013-06-04",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: \"They got it right for what they were allowed to say,\" said Marciniak. Some Record documents were redacted, he said, and",
+      "article": "\"They got it right for what they were allowed to say,\" said Marciniak. Some Record documents were redacted, he said, and",
+      "pos": "FDA Panel Revisits Avandia, But Likely Too Late For Diabetes Drug",
+      "neg": "\"They got it right for what they were allowed to say,\" said Marciniak",
+      "date": "2013-06-05",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: WASHINGTON, June 6 (Reuters) - A narrowly divided U.S. Food and Drug Administration panel of outside experts on Thursday",
+      "article": "WASHINGTON, June 6 (Reuters) - A narrowly divided U.S. Food and Drug Administration panel of outside experts on Thursday",
+      "pos": "Narrowly-Divided FDA Panel Votes To Modify Avandia Restrictions",
+      "neg": "WASHINGTON, June 6 (Reuters) - A narrowly divided U.S",
+      "date": "2013-06-06",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: Former school bus driver Ariel Castro was indicted on Friday on 329 criminal counts in connection with the imprisonment of",
+      "article": "Former school bus driver Ariel Castro was indicted on Friday on 329 criminal counts in connection with the imprisonment of",
+      "pos": "Ariel Castro Plea: Ohio Kidnapping Suspect To Plead 'Not Guilty', Says Lawyer",
+      "neg": "Overview: Former school bus driver Ariel Castro was indicted on Friday on 329 criminal counts",
+      "date": "2013-06-08",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: \"We never know what will come. So we are very proud about what has taken place last night, and we feel we are on the right",
+      "article": "\"We never know what will come. So we are very proud about what has taken place last night, and we feel we are on the right",
+      "pos": "Buffett Charity Lunch Goes For Over $1 Million, Down From Last Year's $3.5 Million",
+      "neg": "\"We never know what will come",
+      "date": "2013-06-08",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: SOWETO, South Africa, June 9 (Reuters) - South Africans prayed for Nelson Mandela's recovery on Sunday as the 94-year-old",
+      "article": "SOWETO, South Africa, June 9 (Reuters) - South Africans prayed for Nelson Mandela's recovery on Sunday as the 94-year-old",
+      "pos": "Nelson Mandela Hospitalized: South Africans Pray For Mandela's Recovery",
+      "neg": "Overview: SOWETO, South Africa, June 9 (Reuters) - South Africans prayed for Nelson Mandela's recovery",
+      "date": "2013-06-09",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: \"I honestly think this is a civil rights/equal justice issue because everybody in the world is watching to see if everybody",
+      "article": "\"I honestly think this is a civil rights/equal justice issue because everybody in the world is watching to see if everybody",
+      "pos": "Trayvon Martin Murder Case: Trial Set To Begin In Florida",
+      "neg": "Overview: \"I honestly think this is a civil rights/equal justice issue because everybody in the",
+      "date": "2013-06-09",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: Mapping services are among the five most-used applications on smartphones and are crucial to engaging and retaining mobile",
+      "article": "Mapping services are among the five most-used applications on smartphones and are crucial to engaging and retaining mobile",
+      "pos": "Google Close To Buying Waze, Israeli Newspaper Reports",
+      "neg": "Overview: Mapping services are among the five most-used applications on smartphones and are crucial to",
+      "date": "2013-06-09",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: Experts have struggled to predict how individual rivers will react because that requires an understanding of flows in each",
+      "article": "Experts have struggled to predict how individual rivers will react because that requires an understanding of flows in each",
+      "pos": "Climate Change And The Nile: Floods From Major Rivers Around The World May Increase",
+      "neg": "Overview: Experts have struggled to predict how individual rivers will react because that requires an",
+      "date": "2013-06-09",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: Ahead of Father's Day on June 16, insurance news website Insure.com on Monday released its annual \"Father's Day Index.\" To",
+      "article": "Ahead of Father's Day on June 16, insurance news website Insure.com on Monday released its annual \"Father's Day Index.\" To",
+      "pos": "Father's Day Index 2013: Dad's Housework Is Worth Less Than Mom's, According To Insure.com",
+      "neg": "Overview: Ahead of Father's Day on June 16, insurance news website Insure.com on Monday released",
+      "date": "2013-06-10",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: By Francesca Trianni Chelsea Clinton, now 33 and a special correspondent for NBC News, said on Twitter \"I completely agree",
+      "article": "By Francesca Trianni Chelsea Clinton, now 33 and a special correspondent for NBC News, said on Twitter \"I completely agree",
+      "pos": "Bill Clinton Receives 'Father Of The Year' Award From National Father's Day Council",
+      "neg": "Overview: By Francesca Trianni Chelsea Clinton, now 33 and a special correspondent for NBC News,",
+      "date": "2013-06-10",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: \"We now know that PrEP can work for all populations at increased risk for HIV,\" Mermin said in a statement. \"This is a significant",
+      "article": "\"We now know that PrEP can work for all populations at increased risk for HIV,\" Mermin said in a statement. \"This is a significant",
+      "pos": "AIDS Drugs Halve HIV Risk For Intravenous Drug Users, Study Shows",
+      "neg": "\"We now know that PrEP can work for all populations at increased risk for HIV,\" Mermin said in a statement",
+      "date": "2013-06-12",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: \"This could be the most effective method of smoking reduction that we have ever had,\" says Konstantinos Farsalinos of the",
+      "article": "\"This could be the most effective method of smoking reduction that we have ever had,\" says Konstantinos Farsalinos of the",
+      "pos": "E-Cigarettes Gain Steam, But Health Experts Wary It Could Serve As 'Gateway' To Tobacco Smoking",
+      "neg": "Overview: \"This could be the most effective method of smoking reduction that we have ever",
+      "date": "2013-06-13",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: The risk of breaches has grown as devices have become increasingly interconnected, via the Internet, hospital networks, other",
+      "article": "The risk of breaches has grown as devices have become increasingly interconnected, via the Internet, hospital networks, other",
+      "pos": "Medical Devices Need To Be Protected Against Cyber Threats: FDA",
+      "neg": "Overview: The risk of breaches has grown as devices have become increasingly interconnected, via the",
+      "date": "2013-06-13",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: Northern Ireland police regularly deal with sectarian rioting involving Catholic youths, who want Northern Ireland to unite",
+      "article": "Northern Ireland police regularly deal with sectarian rioting involving Catholic youths, who want Northern Ireland to unite",
+      "pos": "Belfast G8 Protests Smaller, More Peaceful Because People More Focused On Own Struggles: Activist",
+      "neg": "Overview: Northern Ireland police regularly deal with sectarian rioting involving Catholic youths, who want Northern",
+      "date": "2013-06-15",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: \"La La La\" by the British rapper Naughty Boy, featuring singer Sam Smith, remained in the number two spot. LONDON, June 16",
+      "article": "\"La La La\" by the British rapper Naughty Boy, featuring singer Sam Smith, remained in the number two spot. LONDON, June 16",
+      "pos": "Black Sabbath's '13': Veteran Rockers Top British Album Chart",
+      "neg": "\"La La La\" by the British rapper Naughty Boy, featuring singer Sam Smith, remained in the number two spot",
+      "date": "2013-06-16",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: \"It proves the reliability and potential of clean technologies, and this is crucial in pushing our message forward,\" Swiss",
+      "article": "\"It proves the reliability and potential of clean technologies, and this is crucial in pushing our message forward,\" Swiss",
+      "pos": "Solar Impulse Plane Lands At Washington Dulles International Airport After Flight From St. Louis",
+      "neg": "Overview: \"It proves the reliability and potential of clean technologies, and this is crucial in",
+      "date": "2013-06-16",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: In a study in the Journal of Clinical Oncology, the researchers said their findings may in future lead to people being screened",
+      "article": "In a study in the Journal of Clinical Oncology, the researchers said their findings may in future lead to people being screened",
+      "pos": "Blood Tests Could Detect Sexually Transmitted Oral Cancers From HPV",
+      "neg": "Overview: In a study in the Journal of Clinical Oncology, the researchers said their findings",
+      "date": "2013-06-17",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: CHICAGO, June 18 (Reuters) - In order to fight what it described as an \"obesity epidemic,\" the American Medical Association",
+      "article": "CHICAGO, June 18 (Reuters) - In order to fight what it described as an \"obesity epidemic,\" the American Medical Association",
+      "pos": "American Medical Association Votes To Recognize Obesity As A Disease",
+      "neg": "Overview: CHICAGO, June 18 (Reuters) - In order to fight what it described as an",
+      "date": "2013-06-18",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: \"Leading energy drink companies also voluntarily display total caffeine amounts - from all sources - on their packages, as",
+      "article": "\"Leading energy drink companies also voluntarily display total caffeine amounts - from all sources - on their packages, as",
+      "pos": "Ban On Marketing Energy Drinks To Kids Supported By American Medical Association",
+      "neg": "Overview: \"Leading energy drink companies also voluntarily display total caffeine amounts - from all sources",
+      "date": "2013-06-18",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: Most teens in the study said they like to take a break from technology and when they are stressed 82 percent said they want",
+      "article": "Most teens in the study said they like to take a break from technology and when they are stressed 82 percent said they want",
+      "pos": "Young Teens More Tech Savvy, Pragmatic Than Older Millennials (STUDY)",
+      "neg": "Overview: Most teens in the study said they like to take a break from technology",
+      "date": "2013-06-19",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: Nine infected patients in Saudi Arabia had received dialysis treatment at the same hospital, some at the same time. Eight",
+      "article": "Nine infected patients in Saudi Arabia had received dialysis treatment at the same hospital, some at the same time. Eight",
+      "pos": "MERS Coronavirus Is Serious Risk In Hospitals, Experts Say",
+      "neg": "Nine infected patients in Saudi Arabia had received dialysis treatment at the same hospital, some at the same time",
+      "date": "2013-06-19",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: \"I don't see room service going away any time in the near future,\" says David Morgan, vice president of food and beverage",
+      "article": "\"I don't see room service going away any time in the near future,\" says David Morgan, vice president of food and beverage",
+      "pos": "Room Service 'Not Going Away In The Near Future'; 6 Hotels With Over-The-Top Room Service",
+      "neg": "Overview: \"I don't see room service going away any time in the near future,\" says",
+      "date": "2013-06-19",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: Of the Chinese, the fastest-growing category of tourists visiting the City of Light, the guide says they are \"fervent shoppers",
+      "article": "Of the Chinese, the fastest-growing category of tourists visiting the City of Light, the guide says they are \"fervent shoppers",
+      "pos": "Parisians Given Etiquette Manual To Combat Rude Reputation",
+      "neg": "Overview: Of the Chinese, the fastest-growing category of tourists visiting the City of Light, the",
+      "date": "2013-06-19",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: On Gold Cup Day on Thursday, known as Ladies' Day, the Queen arrived in a lilac outfit, adding to a sea of color, feathers",
+      "article": "On Gold Cup Day on Thursday, known as Ladies' Day, the Queen arrived in a lilac outfit, adding to a sea of color, feathers",
+      "pos": "Royal Ascot Visitors Must Pay For Fashion Faux Pas",
+      "neg": "Overview: On Gold Cup Day on Thursday, known as Ladies' Day, the Queen arrived in",
+      "date": "2013-06-20",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: On Thursday, it confirmed four new cases, including three health workers, who have all recovered. The latest cases bring",
+      "article": "On Thursday, it confirmed four new cases, including three health workers, who have all recovered. The latest cases bring",
+      "pos": "MERS Coronavirus: 1 New Death, 6 New Cases In Saudi Arabia",
+      "neg": "On Thursday, it confirmed four new cases, including three health workers, who have all recovered",
+      "date": "2013-06-22",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011022_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The findings from the trio of late-stage studies suggest the treatment known as dulaglutide could be an important new weapon",
+      "article": "The findings from the trio of late-stage studies suggest the treatment known as dulaglutide could be an important new weapon",
+      "pos": "Dulaglutide, Once-Weekly Diabetes Drug, Works Better Than Some Other Medicines, Trials Show",
+      "neg": "Overview: The findings from the trio of late-stage studies suggest the treatment known as dulaglutide",
+      "date": "2013-06-22"
+    },
+    {
+      "id": "1011022_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: His hospitalisation is the fourth since December. (Reporting by Sherilee Lakmidas; Editing by Louise Ireland) Presidential",
+      "article": "His hospitalisation is the fourth since December. (Reporting by Sherilee Lakmidas; Editing by Louise Ireland) Presidential",
+      "pos": "Nelson Mandela Remains In 'Serious But Stable' Condition",
+      "neg": "His hospitalisation is the fourth since December",
+      "date": "2013-06-22"
+    },
+    {
+      "id": "1011022_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: At the heart of the disagreement, chiefly between Germany and France, was how much leeway countries should have when imposing",
+      "article": "At the heart of the disagreement, chiefly between Germany and France, was how much leeway countries should have when imposing",
+      "pos": "European Union Leaders Struggle To Decide Who Pays When Banks Fail",
+      "neg": "Overview: At the heart of the disagreement, chiefly between Germany and France, was how much",
+      "date": "2013-06-22"
+    },
+    {
+      "id": "1011022_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: After analysing data on hospital admissions, the team found that H5N1 bird flu had a fatality risk of around 60 percent for",
+      "article": "After analysing data on hospital admissions, the team found that H5N1 bird flu had a fatality risk of around 60 percent for",
+      "pos": "H7N9 Bird Flu May Have Petered Out For Now, But Experts Warn Of Resurgence",
+      "neg": "Overview: After analysing data on hospital admissions, the team found that H5N1 bird flu had",
+      "date": "2013-06-23"
+    },
+    {
+      "id": "1011022_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: They can even compensate for an unexpected early night. \"This is the first concrete example in a fundamental biological process",
+      "article": "They can even compensate for an unexpected early night. \"This is the first concrete example in a fundamental biological process",
+      "pos": "Plants 'Do Math' To Ensure Steady Food Supply, New Research Shows",
+      "neg": "They can even compensate for an unexpected early night",
+      "date": "2013-06-23"
+    },
+    {
+      "id": "1011022_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Last week's top-selling album, \"13\", by heavy metal veterans Black Sabbath, fell one spot to second place. (Reporting by",
+      "article": "Last week's top-selling album, \"13\", by heavy metal veterans Black Sabbath, fell one spot to second place. (Reporting by",
+      "pos": "Robin Thicke's Blurred Lines' Continues To Top Charts",
+      "neg": "Last week's top-selling album, \"13\", by heavy metal veterans Black Sabbath, fell one spot to second place",
+      "date": "2013-06-23"
+    },
+    {
+      "id": "1011022_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"Prime Minister Najib Razak has agreed to declare emergency status in Muar and Ledang with immediate effect,\" Malaysian Natural",
+      "article": "\"Prime Minister Najib Razak has agreed to declare emergency status in Muar and Ledang with immediate effect,\" Malaysian Natural",
+      "pos": "Malaysia's Air Pollution Calls For State Of Emergency As Indonesia Continues Smoking",
+      "neg": "Overview: \"Prime Minister Najib Razak has agreed to declare emergency status in Muar and Ledang",
+      "date": "2013-06-23"
+    },
+    {
+      "id": "1011022_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"We are still in shock, we've had to apologise to so many mountaineers across the world,\" said Hussain, who described the",
+      "article": "\"We are still in shock, we've had to apologise to so many mountaineers across the world,\" said Hussain, who described the",
+      "pos": "Pakistan Tourism Reeling Following Himalayan Mountaineering Massacre",
+      "neg": "Overview: \"We are still in shock, we've had to apologise to so many mountaineers across",
+      "date": "2013-06-24"
+    },
+    {
+      "id": "1011022_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: And for those children who do become infected, access to AIDS drugs that can keep their disease in check is \"unacceptably",
+      "article": "And for those children who do become infected, access to AIDS drugs that can keep their disease in check is \"unacceptably",
+      "pos": "Child HIV Infections Cut By Half In 7 Countries In Africa",
+      "neg": "Overview: And for those children who do become infected, access to AIDS drugs that can",
+      "date": "2013-06-25"
+    },
+    {
+      "id": "1011022",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: \"It is important that people living with psoriasis, a chronic skin disease, have highly effective and safe treatments they",
+      "article": "\"It is important that people living with psoriasis, a chronic skin disease, have highly effective and safe treatments they",
+      "pos": "Self-Administered Psoriasis Drug Effective In Late-Stage Trials",
+      "neg": "Overview: \"It is important that people living with psoriasis, a chronic skin disease, have highly",
+      "date": "dev_target"
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u08_1011281",
+  "lamp_id": "1011281",
+  "rank": 8,
+  "n_profile_raw": 305,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: Although many celebrities spend their days posing in couture, there are a few who love a great deal as much as we do. Since",
+      "article": "Although many celebrities spend their days posing in couture, there are a few who love a great deal as much as we do. Since",
+      "pos": "Sasha Obama's Shoes, Minnie Driver's Earrings & More Cheap Celeb Finds Of The Week (PHOTOS)",
+      "neg": "Although many celebrities spend their days posing in couture, there are a few who love a great deal as much as we do",
+      "date": "2013-06-23",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: Military jackets But on the four-year anniversary of his death today, we are taking a moment to remember Michael Jackson's",
+      "article": "Military jackets But on the four-year anniversary of his death today, we are taking a moment to remember Michael Jackson's",
+      "pos": "Michael Jackson's Style: How The Music Icon Continues To Set Trends (PHOTOS)",
+      "neg": "Overview: Military jackets But on the four-year anniversary of his death today, we are taking",
+      "date": "2013-06-25",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: Cheryl Cole's path to fame wasn't exactly ordinary. After winning a spot in the girl band, Girls Aloud, on the reality television",
+      "article": "Cheryl Cole's path to fame wasn't exactly ordinary. After winning a spot in the girl band, Girls Aloud, on the reality television",
+      "pos": "Cheryl Cole's Style Evolution: From Cornrows To Couture (PHOTOS)",
+      "neg": "Cheryl Cole's path to fame wasn't exactly ordinary",
+      "date": "2013-06-27",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: This week, the celebs were out and about in breezy and affordable summer looks. It seems as though the warmer weather has",
+      "article": "This week, the celebs were out and about in breezy and affordable summer looks. It seems as though the warmer weather has",
+      "pos": "Kourtney Kardashian's Shorts, Pippa's Jacket And More Celeb Steals Of The Week (PHOTOS)",
+      "neg": "This week, the celebs were out and about in breezy and affordable summer looks",
+      "date": "2013-06-30",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: There are few things quite as adorable as royal babies -- except royal babies in Canadian tuxedos. That might just be the",
+      "article": "There are few things quite as adorable as royal babies -- except royal babies in Canadian tuxedos. That might just be the",
+      "pos": "Canada Day Calls For Prince William & Prince Harry In Canadian Tuxedos (PHOTOS)",
+      "neg": "There are few things quite as adorable as royal babies -- except royal babies in Canadian tuxedos",
+      "date": "2013-07-01",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: Though there are about a million ways to sound off about Love's rocky career in Hollywood, there is one fact that is commonly",
+      "article": "Though there are about a million ways to sound off about Love's rocky career in Hollywood, there is one fact that is commonly",
+      "pos": "Courtney Love Is Fashion's Biggest Badass (PHOTOS)",
+      "neg": "Overview: Though there are about a million ways to sound off about Love's rocky career",
+      "date": "2013-07-09",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: We've found some great options. Between animal print bikinis, racy one-pieces and striped monokinis, you'll be sure to find",
+      "article": "We've found some great options. Between animal print bikinis, racy one-pieces and striped monokinis, you'll be sure to find",
+      "pos": "Swimwear On Sale: The Best Bathing Suit Deals Of The Season (PHOTOS)",
+      "neg": "We've found some great options",
+      "date": "2013-07-09",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: ASOS: With their stylish and affordable pieces, ASOS might just be one of the best retailers for petite shoppers. Targeted",
+      "article": "ASOS: With their stylish and affordable pieces, ASOS might just be one of the best retailers for petite shoppers. Targeted",
+      "pos": "Petite Shopping: Online Stores That Cater To Smaller Shoppers",
+      "neg": "ASOS: With their stylish and affordable pieces, ASOS might just be one of the best retailers for petite shoppers",
+      "date": "2013-07-10",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: No, seriously. She has already walked down the catwalk. She sits front row at fashion shows. Want more? Be sure to check",
+      "article": "No, seriously. She has already walked down the catwalk. She sits front row at fashion shows. Want more? Be sure to check",
+      "pos": "Harper Beckham's Style: Is This Two-Year-Old The Next Suri Cruise? (PHOTOS)",
+      "neg": "No, seriously. She has already walked down the catwalk. She sits front row at fashion shows. Want more",
+      "date": "2013-07-10",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: Peplums have had their moment in the sun. And now it seems like everyone and their mother is rocking the universally flattering",
+      "article": "Peplums have had their moment in the sun. And now it seems like everyone and their mother is rocking the universally flattering",
+      "pos": "Sick Of Peplums? Try One Of These Universally Flattering Tops Instead (PHOTOS)",
+      "neg": "Peplums have had their moment in the sun",
+      "date": "2013-07-17",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostBeauty",
+      "article": "Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostBeauty",
+      "pos": "Kat Nikol, Model, And Her Secret To Picture Perfect Brows",
+      "neg": "Want more HuffPost Style beauty content",
+      "date": "2013-07-18",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: Giuliana Rancic Emmy Rossum in Carolina Herrera Miley Cyrus in Marc Jacobs Gold seems to be this lady's color. The Olympic",
+      "article": "Giuliana Rancic Emmy Rossum in Carolina Herrera Miley Cyrus in Marc Jacobs Gold seems to be this lady's color. The Olympic",
+      "pos": "Emmy Rossum Tops The Best-Dressed List This Week In Carolina Herrera (PHOTOS)",
+      "neg": "Giuliana Rancic Emmy Rossum in Carolina Herrera Miley Cyrus in Marc Jacobs Gold seems to be this lady's color",
+      "date": "2013-07-19",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: Jennifer Lopez Olivia Munn There's a whole lot going on here. Between the sheen on her matching pants and bomber jacket, the",
+      "article": "Jennifer Lopez Olivia Munn There's a whole lot going on here. Between the sheen on her matching pants and bomber jacket, the",
+      "pos": "Chrissy Teigen Tops Our Worst-Dressed List This Week In Sheer Canary Yellow (PHOTOS)",
+      "neg": "Jennifer Lopez Olivia Munn There's a whole lot going on here",
+      "date": "2013-07-19",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: This week marks the hottest one we've had this summer, and many A-listers chose to brave the heat in some pretty affordable",
+      "article": "This week marks the hottest one we've had this summer, and many A-listers chose to brave the heat in some pretty affordable",
+      "pos": "Olivia Palermo's Aryn K Skirt And More Cheap Celeb Finds Of The Week (PHOTOS)",
+      "neg": "Overview: This week marks the hottest one we've had this summer, and many A-listers chose",
+      "date": "2013-07-21",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: But there is nothing childish about Gomez anymore. Since entering her late teens and early twenties, the actress and singer",
+      "article": "But there is nothing childish about Gomez anymore. Since entering her late teens and early twenties, the actress and singer",
+      "pos": "Selena Gomez Is No Longer The Child Star She Once Was (PHOTOS)",
+      "neg": "But there is nothing childish about Gomez anymore",
+      "date": "2013-07-22",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: So, do you think Matteo Mazotto will face the same harsh consequences as Dolce and Gabbana? And just when we thought all",
+      "article": "So, do you think Matteo Mazotto will face the same harsh consequences as Dolce and Gabbana? And just when we thought all",
+      "pos": "Matteo Marzotto, Former Valentino Chairman, Indicted For Tax Evasion",
+      "neg": "So, do you think Matteo Mazotto will face the same harsh consequences as Dolce and Gabbana",
+      "date": "2013-07-22",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. Yet",
+      "article": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. Yet",
+      "pos": "Jennifer Lopez's 10 Most Iconic Looks So Far (PHOTOS)",
+      "neg": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle",
+      "date": "2013-07-24",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: Name: Andrea Occupation: Artist Favorite item of clothing A white T-shirt. The older, the better. T by Alexander Wang tank",
+      "article": "Name: Andrea Occupation: Artist Favorite item of clothing A white T-shirt. The older, the better. T by Alexander Wang tank",
+      "pos": "10 Summer Street Style Outfit Ideas To Look Hot And Stay Cool (PHOTOS)",
+      "neg": "Name: Andrea Occupation: Artist Favorite item of clothing A white T-shirt",
+      "date": "2013-07-24",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostBeauty",
+      "article": "Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostBeauty",
+      "pos": "Nia Kiesow, Media Coordinator, And Her Natural Bug Repellent",
+      "neg": "Want more HuffPost Style beauty content",
+      "date": "2013-07-25",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: Name: Fardau Van der Wal (pictured left) Summer fashion staple: Light dresses. Favorite summer escape: \"I love peaceful places",
+      "article": "Name: Fardau Van der Wal (pictured left) Summer fashion staple: Light dresses. Favorite summer escape: \"I love peaceful places",
+      "pos": "The Modellounge Summer Hangout Is The Trendiest Spot To Beat The Heat (PHOTOS)",
+      "neg": "Name: Fardau Van der Wal (pictured left) Summer fashion staple: Light dresses",
+      "date": "2013-07-25",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: So how do you wear a bold ear cuff? It's actually pretty easy. You just need to treat it like any piece of costume jewelry",
+      "article": "So how do you wear a bold ear cuff? It's actually pretty easy. You just need to treat it like any piece of costume jewelry",
+      "pos": "Ear Cuffs: Why They're Not So Scary (PHOTOS)",
+      "neg": "So how do you wear a bold ear cuff? It's actually pretty easy",
+      "date": "2013-07-31",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: 9. Store your pieces properly. Hanging loose knit sweaters on wire hangers can stretch them out. If you store your item the",
+      "article": "9. Store your pieces properly. Hanging loose knit sweaters on wire hangers can stretch them out. If you store your item the",
+      "pos": "9 Tricks To Make Your Clothes Look More Expensive (PHOTOS, GIFS)",
+      "neg": "Overview: 9. Store your pieces properly. Hanging loose knit sweaters on wire hangers can stretch",
+      "date": "2013-07-31",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: There are two things we love most in this world: luscious locks and an awesome lip color. So it's no surprise that when we",
+      "article": "There are two things we love most in this world: luscious locks and an awesome lip color. So it's no surprise that when we",
+      "pos": "Hansol Park, Lighting Design Graduate, Mixes Lipsticks To Get The Perfect Shade",
+      "neg": "There are two things we love most in this world: luscious locks and an awesome lip color",
+      "date": "2013-08-01",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: The Jurlique Rosewater Balancing Mist comes with a steep price tag ($60 a pop), but I have been using it religiously for",
+      "article": "The Jurlique Rosewater Balancing Mist comes with a steep price tag ($60 a pop), but I have been using it religiously for",
+      "pos": "Jurlique Rosewater Balancing Mist Really Makes Your Skin Glow",
+      "neg": "Overview: The Jurlique Rosewater Balancing Mist comes with a steep price tag ($60 a pop),",
+      "date": "2013-08-07",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: When pressed for more details, Oglesbee revealed how simple this beauty trick really is. \"I just peel a raw brown potato",
+      "article": "When pressed for more details, Oglesbee revealed how simple this beauty trick really is. \"I just peel a raw brown potato",
+      "pos": "Bo Oglesbee, Tory Burch Fashion Designer, And Her Unusual Sunburn Remedy",
+      "neg": "When pressed for more details, Oglesbee revealed how simple this beauty trick really is",
+      "date": "2013-08-08",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: Behold, our eight commandment for guy's shorts. Significant others, if you're reading this, please pass the information along",
+      "article": "Behold, our eight commandment for guy's shorts. Significant others, if you're reading this, please pass the information along",
+      "pos": "Guys, There Is A Right Way And A Wrong Way To Wear Shorts",
+      "neg": "Behold, our eight commandment for guy's shorts",
+      "date": "2013-08-08",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: The \"Modern Family\" star attempted to wear an avant-garde dress, but she fell a little short. The tacked-on embellishments",
+      "article": "The \"Modern Family\" star attempted to wear an avant-garde dress, but she fell a little short. The tacked-on embellishments",
+      "pos": "The Week's Worst-Dressed List Includes Kelly Osbourne In An '80s Prom Dress (PHOTOS)",
+      "neg": "The \"Modern Family\" star attempted to wear an avant-garde dress, but she fell a little short",
+      "date": "2013-08-09",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: Strapless gowns can be so elegant, especially when they fit properly like Hatcher's. Her metallic dress flatters her hourglass",
+      "article": "Strapless gowns can be so elegant, especially when they fit properly like Hatcher's. Her metallic dress flatters her hourglass",
+      "pos": "Olivia Wilde Is A Lady In Red On Our Best-Dressed List This Week (PHOTOS)",
+      "neg": "Strapless gowns can be so elegant, especially when they fit properly like Hatcher's",
+      "date": "2013-08-09",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: Here at HuffPost Style, we love checking Net-A-Porter and creating fantasy shopping carts filled with Céline and Stella McCartney",
+      "article": "Here at HuffPost Style, we love checking Net-A-Porter and creating fantasy shopping carts filled with Céline and Stella McCartney",
+      "pos": "35 Fall Fashion Must-Haves That You Can Actually Afford (PHOTOS)",
+      "neg": "Overview: Here at HuffPost Style, we love checking Net-A-Porter and creating fantasy shopping carts filled",
+      "date": "2013-08-13",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: Forever 21 Contrast Waist Workout Shorts, $12 MICHAEL Michael Kors Down Vest, $90 6. The brighter, the better. 8. When in",
+      "article": "Forever 21 Contrast Waist Workout Shorts, $12 MICHAEL Michael Kors Down Vest, $90 6. The brighter, the better. 8. When in",
+      "pos": "Workout Clothes For Women: Our Favorite Celebs Show Us How To Sweat In Style (PHOTOS)",
+      "neg": "Forever 21 Contrast Waist Workout Shorts, $12 MICHAEL Michael Kors Down Vest, $90 6",
+      "date": "2013-08-13",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: I have to ask about the lingerie situation in prison because it's never explicitly dealt with in the show. Is it standard",
+      "article": "I have to ask about the lingerie situation in prison because it's never explicitly dealt with in the show. Is it standard",
+      "pos": "Jenn Rogien, 'Orange Is The New Black' Costume Designer, Talks Granny Panties And Maxi Pads",
+      "neg": "I have to ask about the lingerie situation in prison because it's never explicitly dealt with in the show",
+      "date": "2013-08-21",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: At one point or another, you've probably watched Kristen Wiig on Saturday Night Live and laughed so hard you cried. We've",
+      "article": "At one point or another, you've probably watched Kristen Wiig on Saturday Night Live and laughed so hard you cried. We've",
+      "pos": "Kristen Wiig's 'SNL' Costumes Were Ridiculous... But Her Style Is Actually Awesome",
+      "neg": "At one point or another, you've probably watched Kristen Wiig on Saturday Night Live and laughed so hard you cried",
+      "date": "2013-08-21",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: All photos by Raydene Salinas/HPMG. 4. Shirt cuffs. A quarter to half an inch of your shirt cuff is the perfect amount to",
+      "article": "All photos by Raydene Salinas/HPMG. 4. Shirt cuffs. A quarter to half an inch of your shirt cuff is the perfect amount to",
+      "pos": "Fellas, This Is How Your Suit Should Fit (PHOTOS)",
+      "neg": "All photos by Raydene Salinas/HPMG",
+      "date": "2013-08-21",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: When we stumbled across Garam Celina with her messy ombre braid, bold red lipstick and gorgeous wing tip eyeliner, we knew",
+      "article": "When we stumbled across Garam Celina with her messy ombre braid, bold red lipstick and gorgeous wing tip eyeliner, we knew",
+      "pos": "Garam Celina, Bartender, And Her DIY Green Tea Face Mask",
+      "neg": "Overview: When we stumbled across Garam Celina with her messy ombre braid, bold red lipstick",
+      "date": "2013-08-22",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: It looks like Lady Gaga is taking a page out of Michael Jackson's style book. But instead of looking like the King of Pop",
+      "article": "It looks like Lady Gaga is taking a page out of Michael Jackson's style book. But instead of looking like the King of Pop",
+      "pos": "This Week's Worst-Dressed List Includes Cate Blanchett In Head-To-Toe Orange Sherbet (PHOTOS)",
+      "neg": "It looks like Lady Gaga is taking a page out of Michael Jackson's style book",
+      "date": "2013-08-23",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: The 2013 MTV VMAs red carpet was full of glitz and glamour, and Selena Gomez's dress was no exception. The brunette beauty",
+      "article": "The 2013 MTV VMAs red carpet was full of glitz and glamour, and Selena Gomez's dress was no exception. The brunette beauty",
+      "pos": "Selena Gomez's 2013 VMAs Versace Dress Is Quite Revealing (PHOTOS)",
+      "neg": "The 2013 MTV VMAs red carpet was full of glitz and glamour, and Selena Gomez's dress was no exception",
+      "date": "2013-08-26",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: Well, they're often overlooked. But don't worry -- we've created a roster of 16 fashion editors who are making waves, just",
+      "article": "Well, they're often overlooked. But don't worry -- we've created a roster of 16 fashion editors who are making waves, just",
+      "pos": "16 Awesome Fashion Editors You Should Get To Know Before Fashion Week (PHOTOS)",
+      "neg": "Well, they're often overlooked",
+      "date": "2013-08-28",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: When you're editor-in-chief of a big magazine, you cannot be a cover girl for MAC, you cannot be the face of Givenchy -- of",
+      "article": "When you're editor-in-chief of a big magazine, you cannot be a cover girl for MAC, you cannot be the face of Givenchy -- of",
+      "pos": "Carine Roitfeld: French Style Means Going Naked Under A Trench Coat",
+      "neg": "Overview: When you're editor-in-chief of a big magazine, you cannot be a cover girl for",
+      "date": "2013-09-04",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: Known as one of the few designers who caters to women of all sizes, Shoji always creates ethereal dresses that are both intricate",
+      "article": "Known as one of the few designers who caters to women of all sizes, Shoji always creates ethereal dresses that are both intricate",
+      "pos": "Tadashi Shoji: You Don't Need Cosmetic Surgery If You Have The Right Draping",
+      "neg": "Overview: Known as one of the few designers who caters to women of all sizes,",
+      "date": "2013-09-05",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: Heidi Klum (born June 1) Kate Middleton (born January 9) Aries JB: Shop for the bright things to “lift” your wardrobe along",
+      "article": "Heidi Klum (born June 1) Kate Middleton (born January 9) Aries JB: Shop for the bright things to “lift” your wardrobe along",
+      "pos": "Fashion Horoscope For Fall 2013 To Help You Look Your Best",
+      "neg": "Overview: Heidi Klum (born June 1) Kate Middleton (born January 9) Aries JB: Shop for",
+      "date": "2013-09-06",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: Band Of Outsiders, Spring 2014 Derek Lam Spring Summer 2014 As a girl who despises heels, I couldn't have been happier to",
+      "article": "Band Of Outsiders, Spring 2014 Derek Lam Spring Summer 2014 As a girl who despises heels, I couldn't have been happier to",
+      "pos": "Flat Shoes Are Having A Moment At New York Fashion Week (PHOTOS)",
+      "neg": "Overview: Band Of Outsiders, Spring 2014 Derek Lam Spring Summer 2014 As a girl who",
+      "date": "2013-09-09",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: 14. Things got awkward at Marc by Marc Jacobs. More than one showgoer showed up in the exact same outfit -- eek! 2. Naomi",
+      "article": "14. Things got awkward at Marc by Marc Jacobs. More than one showgoer showed up in the exact same outfit -- eek! 2. Naomi",
+      "pos": "The 19 Things You Need To Remember From New York Fashion Week (PHOTOS)",
+      "neg": "14. Things got awkward at Marc by Marc Jacobs. More than one showgoer showed up in the exact same outfit -- eek",
+      "date": "2013-09-13",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. There",
+      "article": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. There",
+      "pos": "Yes, You Can Look Good In A Ratty, Old T-Shirt",
+      "neg": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle",
+      "date": "2013-09-16",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: Burberry Prorsum Jonathan Saunders Leave it to Topshop to pick up on one of the biggest embellishments of the season: fringe",
+      "article": "Burberry Prorsum Jonathan Saunders Leave it to Topshop to pick up on one of the biggest embellishments of the season: fringe",
+      "pos": "The 10 Looks That Remind Us That London Fashion Week Is SO Worth It (PHOTOS)",
+      "neg": "Overview: Burberry Prorsum Jonathan Saunders Leave it to Topshop to pick up on one of",
+      "date": "2013-09-17",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: One of the best things about the Kiehl's Creamy Eye Treatment is the price tag. At $28 a pop (for the smaller 0.5 fl. oz",
+      "article": "One of the best things about the Kiehl's Creamy Eye Treatment is the price tag. At $28 a pop (for the smaller 0.5 fl. oz",
+      "pos": "Kiehl's Creamy Eye Treatment With Avocado Gets Rid Of Pesky, Dry Skin Patches",
+      "neg": "One of the best things about the Kiehl's Creamy Eye Treatment is the price tag",
+      "date": "2013-09-19",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: Blondes look amazing in black. So it's no surprise that Emmelie Gustafsson's super bright mane and dark ensemble caught our",
+      "article": "Blondes look amazing in black. So it's no surprise that Emmelie Gustafsson's super bright mane and dark ensemble caught our",
+      "pos": "Emmelie Gustafsson, Intern, And Her Unusual Use For A Flat Iron",
+      "neg": "Blondes look amazing in black",
+      "date": "2013-09-19",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: Crystal Renn in Gabriela Cadena Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and",
+      "article": "Crystal Renn in Gabriela Cadena Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and",
+      "pos": "Best-Dressed List: Karlie Kloss Recycles An Outfit And Looks Stunning (PHOTOS)",
+      "neg": "Crystal Renn in Gabriela Cadena Want more",
+      "date": "2013-09-20",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: Guinness, a respected artist and style icon, went overboard in this all-silver ensemble. (It even matches her iPod!) The",
+      "article": "Guinness, a respected artist and style icon, went overboard in this all-silver ensemble. (It even matches her iPod!) The",
+      "pos": "Worst-Dressed List: Kerry Washington, Vanity Fair's Best-Dressed Star, Seriously Flops (PHOTOS)",
+      "neg": "Guinness, a respected artist and style icon, went overboard in this all-silver ensemble",
+      "date": "2013-09-20",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: Lena Dunham --> Temperley London Alyson Hannigan --> Delpozo January Jones --> Cushnie et Ochs If she's not in a wedding",
+      "article": "Lena Dunham --> Temperley London Alyson Hannigan --> Delpozo January Jones --> Cushnie et Ochs If she's not in a wedding",
+      "pos": "These Are The Dresses The Stars Should Have Worn To The Emmys (PHOTOS)",
+      "neg": "Overview: Lena Dunham --> Temperley London Alyson Hannigan --> Delpozo January Jones --> Cushnie et",
+      "date": "2013-09-23",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. More",
+      "article": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. More",
+      "pos": "The 26 Most Awkward Photos Of Mary-Kate And Ashley Olsen",
+      "neg": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle",
+      "date": "2013-09-25",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: We want to like this dress, but something is off. Maybe it's the color or perhaps it's the long feather train, but one way",
+      "article": "We want to like this dress, but something is off. Maybe it's the color or perhaps it's the long feather train, but one way",
+      "pos": "Worst-Dressed List: Kate Bosworth Is In Desperate Need Of A Tailor (PHOTOS)",
+      "neg": "We want to like this dress, but something is off",
+      "date": "2013-09-27",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: Check out our picks for best-dressed and let us what you think. Miranda Kerr in J. Mendel If this dress were black, it would",
+      "article": "Check out our picks for best-dressed and let us what you think. Miranda Kerr in J. Mendel If this dress were black, it would",
+      "pos": "Best-Dressed List: Coco Rocha Shows Us Everything That's Right With The Fashion World (PHOTOS)",
+      "neg": "Check out our picks for best-dressed and let us what you think",
+      "date": "2013-09-27",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: Valentino With news breaking this morning that Marc Jacobs is officially leaving Louis Vuitton, his last collection for the",
+      "article": "Valentino With news breaking this morning that Marc Jacobs is officially leaving Louis Vuitton, his last collection for the",
+      "pos": "The 10 Most Important Collections From Paris Fashion Week (PHOTOS)",
+      "neg": "Overview: Valentino With news breaking this morning that Marc Jacobs is officially leaving Louis Vuitton,",
+      "date": "2013-10-02",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: S.W. Basics of Brooklyn Body Scrub, $22, swbasicsofbk.com Want more HuffPost Style beauty content? Check us out on Twitter",
+      "article": "S.W. Basics of Brooklyn Body Scrub, $22, swbasicsofbk.com Want more HuffPost Style beauty content? Check us out on Twitter",
+      "pos": "S.W. Basics Body Scrub Could Get You A Boyfriend",
+      "neg": "S.W. Basics of Brooklyn Body Scrub, $22, swbasicsofbk.com Want more HuffPost Style beauty content",
+      "date": "2013-10-03",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: \"I have thin hair so to texturize it, I use a sea salt lavender spray,\" the costume designer told us. \"I've made it myself",
+      "article": "\"I have thin hair so to texturize it, I use a sea salt lavender spray,\" the costume designer told us. \"I've made it myself",
+      "pos": "Ruby Katilius, Costume Designer, And Her Trick To Making Thin Hair Look Thicker",
+      "neg": "\"I have thin hair so to texturize it, I use a sea salt lavender spray,\" the costume designer told us",
+      "date": "2013-10-03",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: This dress could have easily skewed bridal, but the Czech model knew how to make it look high-fashion instead. The midi-length",
+      "article": "This dress could have easily skewed bridal, but the Czech model knew how to make it look high-fashion instead. The midi-length",
+      "pos": "Naomi Campbell Shows Corporate America How To Wear A Suit On This Week's Best-Dressed List (PHOTOS)",
+      "neg": "This dress could have easily skewed bridal, but the Czech model knew how to make it look high-fashion instead",
+      "date": "2013-10-04",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: Okay, is this a new trend we aren't aware of? Layering tops underneath dresses? It appears as though Katy Perry put a billowy",
+      "article": "Okay, is this a new trend we aren't aware of? Layering tops underneath dresses? It appears as though Katy Perry put a billowy",
+      "pos": "Christina Hendricks Wears A Frumpy Floral Dress On This Week's Worst-Dressed List (PHOTOS)",
+      "neg": "Okay, is this a new trend we aren't aware of",
+      "date": "2013-10-04",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: Thankfully, we can look to ladies on the streets of New York for inspiration on how to look cool and maintain a reasonable",
+      "article": "Thankfully, we can look to ladies on the streets of New York for inspiration on how to look cool and maintain a reasonable",
+      "pos": "10 Outfit Ideas For This Tricky Transition Fall Weather (PHOTOS)",
+      "neg": "Overview: Thankfully, we can look to ladies on the streets of New York for inspiration",
+      "date": "2013-10-07",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: The verdict: If you want something elaborate or you have a special event to attend, leave it to the professionals. Otherwise",
+      "article": "The verdict: If you want something elaborate or you have a special event to attend, leave it to the professionals. Otherwise",
+      "pos": "Braid Bars: Are They Worth The Buzz And The Big Bucks?",
+      "neg": "The verdict: If you want something elaborate or you have a special event to attend, leave it to the professionals",
+      "date": "2013-10-08",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: Unfortunately, the $2,000+ price tags on these bad boys falls just slightly outside of my budget. But thanks to stores like",
+      "article": "Unfortunately, the $2,000+ price tags on these bad boys falls just slightly outside of my budget. But thanks to stores like",
+      "pos": "The Pink Coat From The Runway I'm Coveting... And The High-Street Version I'll Actually Buy (PHOTOS)",
+      "neg": "Unfortunately, the $2,000+ price tags on these bad boys falls just slightly outside of my budget",
+      "date": "2013-10-09",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: When we spotted Lena Auerbuch walking around our office, we could tell she knew a thing or two about makeup. Between her",
+      "article": "When we spotted Lena Auerbuch walking around our office, we could tell she knew a thing or two about makeup. Between her",
+      "pos": "Lena Auerbuch, PR Associate, Shows Us Her Trick To Applying Liquid Eyeliner",
+      "neg": "When we spotted Lena Auerbuch walking around our office, we could tell she knew a thing or two about makeup",
+      "date": "2013-10-10",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: Check out our picks for best-dressed and let us what you think. Though there were many A-listers who deserved gold stars",
+      "article": "Check out our picks for best-dressed and let us what you think. Though there were many A-listers who deserved gold stars",
+      "pos": "Jennifer Hudson Can Do No Wrong In A LWD On Our Best-Dressed List This Week (PHOTOS)",
+      "neg": "Check out our picks for best-dressed and let us what you think",
+      "date": "2013-10-11",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: Kristen Wiig More stars who missed the mark: Drew Barrymoore On this week's worst-dressed list, we saw a lot of A-listers",
+      "article": "Kristen Wiig More stars who missed the mark: Drew Barrymoore On this week's worst-dressed list, we saw a lot of A-listers",
+      "pos": "Sienna Miller Looks Like She Is Wearing A Bed Sheet On This Week's Worst-Dressed List (PHOTOS)",
+      "neg": "Overview: Kristen Wiig More stars who missed the mark: Drew Barrymoore On this week's worst-dressed",
+      "date": "2013-10-11",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: Costume designer Salvador Perez, Jr. is the man responsible for all the outfits worn by Kaling that we have fallen in love",
+      "article": "Costume designer Salvador Perez, Jr. is the man responsible for all the outfits worn by Kaling that we have fallen in love",
+      "pos": "'Mindy Project' Costume Designer: Those Are Some Beautiful, Custom-Made Scrubs",
+      "neg": "Costume designer Salvador Perez, Jr",
+      "date": "2013-10-17",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: This shade of yellow is really highlighting Olivia's strange orange skin. Next time the star has a bad fake tan, she should",
+      "article": "This shade of yellow is really highlighting Olivia's strange orange skin. Next time the star has a bad fake tan, she should",
+      "pos": "There Is A Whole Lot Of Skin On This Week's Worst-Dressed List (PHOTOS)",
+      "neg": "This shade of yellow is really highlighting Olivia's strange orange skin",
+      "date": "2013-10-18",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: Meanwhile, Sandra Bullock continued to hit it out of the park in an incredibly sexy lace dress (this lady is one to watch",
+      "article": "Meanwhile, Sandra Bullock continued to hit it out of the park in an incredibly sexy lace dress (this lady is one to watch",
+      "pos": "These Best-Dressed Stars Seriously Shone This Week (PHOTOS)",
+      "neg": "Overview: Meanwhile, Sandra Bullock continued to hit it out of the park in an incredibly",
+      "date": "2013-10-18",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: To help you on your way, we've put together a fashionable outfit that is Halloween-themed without being too obvious, that",
+      "article": "To help you on your way, we've put together a fashionable outfit that is Halloween-themed without being too obvious, that",
+      "pos": "How To Dress Up For A Halloween Party Without Wearing A Costume",
+      "neg": "Overview: To help you on your way, we've put together a fashionable outfit that is",
+      "date": "2013-10-23",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: When we spotted Janie Taylor on the streets of NYC, we were taken aback by her luscious locks. We were even more surprised",
+      "article": "When we spotted Janie Taylor on the streets of NYC, we were taken aback by her luscious locks. We were even more surprised",
+      "pos": "Janie Taylor, Ballet Dancer, Reveals The Trick Behind Her Glowing Skin",
+      "neg": "When we spotted Janie Taylor on the streets of NYC, we were taken aback by her luscious locks",
+      "date": "2013-10-24",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: Gwen Stefani There is way too much volume in this outfit. The pouffy sleeves, combined with the voluminous skirt, are making",
+      "article": "Gwen Stefani There is way too much volume in this outfit. The pouffy sleeves, combined with the voluminous skirt, are making",
+      "pos": "See What These Worst-Dressed Stars Wore This Week (And Don't Try It At Home)",
+      "neg": "Gwen Stefani There is way too much volume in this outfit",
+      "date": "2013-10-25",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: Miley Cyrus at the VMAs Kim Kardashian at the Met Gala Emojis The royal baby Want more? Be sure to check out HuffPost Style",
+      "article": "Miley Cyrus at the VMAs Kim Kardashian at the Met Gala Emojis The royal baby Want more? Be sure to check out HuffPost Style",
+      "pos": "These Epic Costumes Officially Win Halloween 2013",
+      "neg": "Miley Cyrus at the VMAs Kim Kardashian at the Met Gala Emojis The royal baby Want more",
+      "date": "2013-10-25",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: Timberland Women's 6\" Premium Boot, $134; Hat Attack Oversized Sunhat, $85; Monki Elisabeth Dungarees, $76; Topshop Crop",
+      "article": "Timberland Women's 6\" Premium Boot, $134; Hat Attack Oversized Sunhat, $85; Monki Elisabeth Dungarees, $76; Topshop Crop",
+      "pos": "The Halloween Costume That's Already In Your Closet",
+      "neg": "Timberland Women's 6\" Premium Boot, $134",
+      "date": "2013-10-30",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: Sometimes when girls wear hats, it's to disguise a bad hair day, over-waxed brows or a huge pimple. But this was far from",
+      "article": "Sometimes when girls wear hats, it's to disguise a bad hair day, over-waxed brows or a huge pimple. But this was far from",
+      "pos": "Laurence Mathieu-Leger, News Producer, Uses Baby Lotion To Achieve Flawless Skin",
+      "neg": "Sometimes when girls wear hats, it's to disguise a bad hair day, over-waxed brows or a huge pimple",
+      "date": "2013-10-31",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: More celebs who made the best-dressed list: Kate Bosworth in Christopher Kane Olivia Wilde in Cushnie et Ochs It's rare that",
+      "article": "More celebs who made the best-dressed list: Kate Bosworth in Christopher Kane Olivia Wilde in Cushnie et Ochs It's rare that",
+      "pos": "The Best Dressed Celebs Of The Week Just Get It",
+      "neg": "Overview: More celebs who made the best-dressed list: Kate Bosworth in Christopher Kane Olivia Wilde",
+      "date": "2013-11-01",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: Tory Lugged Booties, $77; Bianca Bow Ballet Shoes, $59; Blakeley Riding Boots, $249; Ashby Patent High Heel Shoes, $30. Blackwatch",
+      "article": "Tory Lugged Booties, $77; Bianca Bow Ballet Shoes, $59; Blakeley Riding Boots, $249; Ashby Patent High Heel Shoes, $30. Blackwatch",
+      "pos": "22 Amazing Finds From Lands' End (PHOTOS)",
+      "neg": "Tory Lugged Booties, $77; Bianca Bow Ballet Shoes, $59; Blakeley Riding Boots, $249; Ashby Patent High Heel Shoes, $30",
+      "date": "2013-11-04",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: When we first laid eyes on Tara Jaff in Union Square, we knew there was something different about her. Maybe it was her bold",
+      "article": "When we first laid eyes on Tara Jaff in Union Square, we knew there was something different about her. Maybe it was her bold",
+      "pos": "Tara Jaff, Student, Never Uses Heat On Her Gorgeous Hair",
+      "neg": "When we first laid eyes on Tara Jaff in Union Square, we knew there was something different about her",
+      "date": "2013-11-07",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: Photo/Art: Raydene Salinas Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest",
+      "article": "Photo/Art: Raydene Salinas Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest",
+      "pos": "Kate Erickson, Scandinavia House Communications Rep, And Her 5 Ingredients Or Less Rule",
+      "neg": "Photo/Art: Raydene Salinas Want more HuffPost Style beauty content",
+      "date": "2013-11-14",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. What",
+      "article": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle. What",
+      "pos": "The Quirkiest Things We Learned About Models Backstage At The Victoria's Secret Fashion Show",
+      "neg": "Want more? Be sure to check out HuffPost Style on Twitter, Facebook, Tumblr, Pinterest and Instagram at @HuffPostStyle",
+      "date": "2013-11-14",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: We'll admit that Poppy's dress is a little summery for this time of year, but the photo was taken in Los Angeles, so we'll",
+      "article": "We'll admit that Poppy's dress is a little summery for this time of year, but the photo was taken in Los Angeles, so we'll",
+      "pos": "See Which Stars Brought Their A-Game On This Week's Best Dressed List",
+      "neg": "Overview: We'll admit that Poppy's dress is a little summery for this time of year,",
+      "date": "2013-11-15",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: Costume designer Trish Summerville headed up wardrobe for the film -- yes, the woman responsible for Rooney Mara's transformation",
+      "article": "Costume designer Trish Summerville headed up wardrobe for the film -- yes, the woman responsible for Rooney Mara's transformation",
+      "pos": "'The Hunger Games: Catching Fire' Costume Designer Talks Dressing 5,800 Film Extras",
+      "neg": "Overview: Costume designer Trish Summerville headed up wardrobe for the film -- yes, the woman",
+      "date": "2013-11-20",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: Women's The Boyfriend Distressed Jeans: 50 percent off Start browsing: OldNavy.com What we love: We hope these stores have",
+      "article": "Women's The Boyfriend Distressed Jeans: 50 percent off Start browsing: OldNavy.com What we love: We hope these stores have",
+      "pos": "Old Navy's Black Friday 2013 Sale Is Making Us Jump For Joy",
+      "neg": "Overview: Women's The Boyfriend Distressed Jeans: 50 percent off Start browsing: OldNavy.com What we love:",
+      "date": "2013-11-21",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011281_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The Ferrum Styler did exactly what it promised: It straightened my hair, but gave it volume. It looked like it was professionally",
+      "article": "The Ferrum Styler did exactly what it promised: It straightened my hair, but gave it volume. It looked like it was professionally",
+      "pos": "The Ferrum Professional Styler Straightens Your Hair AND Gives You A Blowout",
+      "neg": "The Ferrum Styler did exactly what it promised: It straightened my hair, but gave it volume",
+      "date": "2013-11-21"
+    },
+    {
+      "id": "1011281_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest and Instagram. (For everything",
+      "article": "Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest and Instagram. (For everything",
+      "pos": "Isaac Lindsay, Model, On How She Stops Static Hair In The Winter",
+      "neg": "Want more HuffPost Style beauty content? Check us out on Twitter, Facebook, Tumblr, Pinterest and Instagram",
+      "date": "2013-11-21"
+    },
+    {
+      "id": "1011281_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Naomie Harris in Burberry This jewel-encrusted white dress is a real show-stopper. The interesting neckline is a nice departure",
+      "article": "Naomie Harris in Burberry This jewel-encrusted white dress is a real show-stopper. The interesting neckline is a nice departure",
+      "pos": "These Celebs Schooled Us On Style On This Week's Best-Dressed List",
+      "neg": "Naomie Harris in Burberry This jewel-encrusted white dress is a real show-stopper",
+      "date": "2013-11-22"
+    },
+    {
+      "id": "1011281_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The mirrored sunnies combined with her navy beanie make Ora the picture of cool. Rosie Huntington-Whiteley's baseball hat",
+      "article": "The mirrored sunnies combined with her navy beanie make Ora the picture of cool. Rosie Huntington-Whiteley's baseball hat",
+      "pos": "We're Adding These Accessories Of The Week To Our Wish List",
+      "neg": "The mirrored sunnies combined with her navy beanie make Ora the picture of cool",
+      "date": "2013-11-23"
+    },
+    {
+      "id": "1011281_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Slowly but surely, plus-size clothing is getting more fashionable. Though there are still some pretty atrocious items out",
+      "article": "Slowly but surely, plus-size clothing is getting more fashionable. Though there are still some pretty atrocious items out",
+      "pos": "Great Plus-Size Clothes, All On Sale For Less Than $100",
+      "neg": "Slowly but surely, plus-size clothing is getting more fashionable",
+      "date": "2013-11-24"
+    },
+    {
+      "id": "1011281_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Ripped jeans are definitely have their moment right now, especially in Hollywood. But who wants to pay an arm and a leg for",
+      "article": "Ripped jeans are definitely have their moment right now, especially in Hollywood. But who wants to pay an arm and a leg for",
+      "pos": "We're Definitely Going Shopping After Seeing The Items On This Week's Cheap Celeb Finds",
+      "neg": "Ripped jeans are definitely have their moment right now, especially in Hollywood",
+      "date": "2013-11-24"
+    },
+    {
+      "id": "1011281_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: If you're anything like us, your pajamas have seen better days. Maybe your favorite pair has a hole in the crotch, or perhaps",
+      "article": "If you're anything like us, your pajamas have seen better days. Maybe your favorite pair has a hole in the crotch, or perhaps",
+      "pos": "21 Pajamas You Wouldn't Mind Your Boyfriend Catching You In",
+      "neg": "If you're anything like us, your pajamas have seen better days",
+      "date": "2013-11-26"
+    },
+    {
+      "id": "1011281_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: If you're going to go out and try and score a deal, you should be well prepared. Make a list of what you need (not just what",
+      "article": "If you're going to go out and try and score a deal, you should be well prepared. Make a list of what you need (not just what",
+      "pos": "What To Wear To Survive Black Friday",
+      "neg": "If you're going to go out and try and score a deal, you should be well prepared",
+      "date": "2013-11-26"
+    },
+    {
+      "id": "1011281_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Thanksgiving is almost here and winter is most definitely already here, which are two perfect excuses to curl up in your",
+      "article": "Thanksgiving is almost here and winter is most definitely already here, which are two perfect excuses to curl up in your",
+      "pos": "18 Pairs Of Elastic Waist Pants, All For Under $100",
+      "neg": "Overview: Thanksgiving is almost here and winter is most definitely already here, which are two",
+      "date": "2013-11-27"
+    },
+    {
+      "id": "1011281",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: That awkward moment when a toddler has better clothes than you...",
+      "article": "That awkward moment when a toddler has better clothes than you...",
+      "pos": "Meet Sparkle, The 2-Year-Old Who's Your Next Style Crush",
+      "neg": "Overview: That awkward moment when a toddler has better clothes than you...",
+      "date": "dev_target"
+    }
+  ]
+}

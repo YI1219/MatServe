@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u09_10111",
+  "lamp_id": "10111",
+  "rank": 9,
+  "n_profile_raw": 286,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: The news was revealed during a \"Justice League\" panel at Comic-Con in San Diego.",
+      "article": "The news was revealed during a \"Justice League\" panel at Comic-Con in San Diego.",
+      "pos": "CONFIRMED: A 'Wonder Woman' Sequel Is On Its Way",
+      "neg": "Overview: The news was revealed during a \"Justice League\" panel at Comic-Con in San Diego.",
+      "date": "2017-07-23",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: As the U.S. president insulted LGBTQ troops as too costly, other countries stood up for them.",
+      "article": "As the U.S. president insulted LGBTQ troops as too costly, other countries stood up for them.",
+      "pos": "Here's How World Leaders Reacted To Trump's Transgender Military Ban",
+      "neg": "Overview: As the U.S. president insulted LGBTQ troops as too costly, other countries stood up",
+      "date": "2017-07-27",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: The ousted White House chief of staff also called news media \"dishonest\" and called the Russia investigation \"a joke.\"",
+      "article": "The ousted White House chief of staff also called news media \"dishonest\" and called the Russia investigation \"a joke.\"",
+      "pos": "Reince Priebus To Sean Hannity After Resignation: 'I'm Team Trump All The Time'",
+      "neg": "Overview: The ousted White House chief of staff also called news media \"dishonest\" and called",
+      "date": "2017-07-29",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: The International Association of Police Chiefs sends out a timely lesson on use of force.",
+      "article": "The International Association of Police Chiefs sends out a timely lesson on use of force.",
+      "pos": "Police Chiefs Defend 'Respect' After Trump Appears To Endorse Brutality",
+      "neg": "Overview: The International Association of Police Chiefs sends out a timely lesson on use of",
+      "date": "2017-07-29",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: The actress faced critics after the magazine said her directors gave Cambodian children money, then took it away.",
+      "article": "The actress faced critics after the magazine said her directors gave Cambodian children money, then took it away.",
+      "pos": "Angelina Jolie Refutes Vanity Fair's Portrayal Of Controversial Auditions",
+      "neg": "Overview: The actress faced critics after the magazine said her directors gave Cambodian children money,",
+      "date": "2017-07-30",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: The department said suggestions for using another standard for use of force \"sends the wrong message.\"",
+      "article": "The department said suggestions for using another standard for use of force \"sends the wrong message.\"",
+      "pos": "NYPD Calls Unreasonable Use Of Force 'Irresponsible' After Trump's Speech",
+      "neg": "Overview: The department said suggestions for using another standard for use of force \"sends the",
+      "date": "2017-07-30",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: Much like Michelle Carter, Knox was once cast as a \"femme fatale\" in a high-profile case.",
+      "article": "Much like Michelle Carter, Knox was once cast as a \"femme fatale\" in a high-profile case.",
+      "pos": "Amanda Knox Says Woman Who Told Boyfriend To Kill Himself Needs Sympathy, Not Prison",
+      "neg": "Overview: Much like Michelle Carter, Knox was once cast as a \"femme fatale\" in a",
+      "date": "2017-08-04",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: The gun group's spokeswoman, Dana Loesch, lashed out at people who didn't get it.",
+      "article": "The gun group's spokeswoman, Dana Loesch, lashed out at people who didn't get it.",
+      "pos": "Fist Or Fisk? NRA's Bizarre Ad Has A Confusing Message For New York Times",
+      "neg": "Overview: The gun group's spokeswoman, Dana Loesch, lashed out at people who didn't get it.",
+      "date": "2017-08-05",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: When Tammy Mick learned that her son had considered hurting himself, she turned to a friend for help.",
+      "article": "When Tammy Mick learned that her son had considered hurting himself, she turned to a friend for help.",
+      "pos": "50 Bikers With Big Hearts Escort Bullied 6th-Grader To School",
+      "neg": "Overview: When Tammy Mick learned that her son had considered hurting himself, she turned to",
+      "date": "2017-08-06",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: The sprinting phenom shocked the world when he lost the 100-meter dash to two Americans.",
+      "article": "The sprinting phenom shocked the world when he lost the 100-meter dash to two Americans.",
+      "pos": "Usain Bolt, Fastest In The World, Loses Final Solo Career Race",
+      "neg": "Overview: The sprinting phenom shocked the world when he lost the 100-meter dash to two",
+      "date": "2017-08-06",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: It's not easy being a production assistant when your dad is the President of the United States.",
+      "article": "It's not easy being a production assistant when your dad is the President of the United States.",
+      "pos": "Halle Berry Reveals The One Problem Malia Obama Had As A PA",
+      "neg": "Overview: It's not easy being a production assistant when your dad is the President of",
+      "date": "2017-08-06",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: State officials wanted to roll out a response plan before tensions escalated. Then the threats began.",
+      "article": "State officials wanted to roll out a response plan before tensions escalated. Then the threats began.",
+      "pos": "As Trump And North Korea Hurl Threats, Hawaii Prepares For A Nuclear Attack",
+      "neg": "State officials wanted to roll out a response plan before tensions escalated",
+      "date": "2017-08-12",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: Three people, including one counter-protester and two state troopers, died in the Charlottesville area on Saturday.",
+      "article": "Three people, including one counter-protester and two state troopers, died in the Charlottesville area on Saturday.",
+      "pos": "Federal And Civil Rights Investigations Opened After Virginia Rally Erupts In Violence",
+      "neg": "Overview: Three people, including one counter-protester and two state troopers, died in the Charlottesville area",
+      "date": "2017-08-13",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: By Sunday, White House officials clarified that he meant to do so, yet there was still no denouncement from Trump himself.",
+      "article": "By Sunday, White House officials clarified that he meant to do so, yet there was still no denouncement from Trump himself.",
+      "pos": "SAY IT: People Beg Trump To Clearly Denounce White Supremacy",
+      "neg": "Overview: By Sunday, White House officials clarified that he meant to do so, yet there",
+      "date": "2017-08-13",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: The former secretary of state said that \"incitement of hatred\" had brought white supremacists to the streets.",
+      "article": "The former secretary of state said that \"incitement of hatred\" had brought white supremacists to the streets.",
+      "pos": "Hillary Clinton On Violence In Virginia: If This Isn't America, 'Let's Prove It'",
+      "neg": "Overview: The former secretary of state said that \"incitement of hatred\" had brought white supremacists",
+      "date": "2017-08-13",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: The City of Lights dimmed its iconic monument to show solidarity with Catalonia.",
+      "article": "The City of Lights dimmed its iconic monument to show solidarity with Catalonia.",
+      "pos": "The Eiffel Tower Goes Dark To Honor Victims Of Barcelona Attack",
+      "neg": "Overview: The City of Lights dimmed its iconic monument to show solidarity with Catalonia.",
+      "date": "2017-08-17",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: The red and yellow lights atop the skyscraper honor the victims of the terrorist attacks in Spain.",
+      "article": "The red and yellow lights atop the skyscraper honor the victims of the terrorist attacks in Spain.",
+      "pos": "One World Trade Center's Spire Glows In Colors Of The Spanish Flag",
+      "neg": "Overview: The red and yellow lights atop the skyscraper honor the victims of the terrorist",
+      "date": "2017-08-18",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: The president was racist long before Bannon joined up with him, the CNN host said.",
+      "article": "The president was racist long before Bannon joined up with him, the CNN host said.",
+      "pos": "Jake Tapper's Grim Reminder: Steve Bannon Isn't The Problem. Trump Is.",
+      "neg": "Overview: The president was racist long before Bannon joined up with him, the CNN host",
+      "date": "2017-08-18",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: \"Heal\" can be a difficult word when you've been defending white supremacists all week.",
+      "article": "\"Heal\" can be a difficult word when you've been defending white supremacists all week.",
+      "pos": "Merriam-Webster Steps In After Trump Tells America To 'Heel'",
+      "neg": "Overview: \"Heal\" can be a difficult word when you've been defending white supremacists all week.",
+      "date": "2017-08-19",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: The performer, who had marched with Martin Luther King Jr., dedicated his life to the civil rights movement.",
+      "article": "The performer, who had marched with Martin Luther King Jr., dedicated his life to the civil rights movement.",
+      "pos": "Civil Rights Activist And Comedian Dick Gregory Dead At 84",
+      "neg": "Overview: The performer, who had marched with Martin Luther King Jr., dedicated his life to",
+      "date": "2017-08-20",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: Rep. Zoe Lofgren (D-Calif.) isn't a psychiatrist, but she wants the president to see one.",
+      "article": "Rep. Zoe Lofgren (D-Calif.) isn't a psychiatrist, but she wants the president to see one.",
+      "pos": "Lawmaker Urges Trump's Cabinet To Have Him Undergo Mental Health Evaluation",
+      "neg": "Overview: Rep. Zoe Lofgren (D-Calif.) isn't a psychiatrist, but she wants the president to see",
+      "date": "2017-08-20",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: The Army aviators went missing after a Black Hawk helicopter crashed during a training mission.",
+      "article": "The Army aviators went missing after a Black Hawk helicopter crashed during a training mission.",
+      "pos": "Coast Guard Calls Off Search For 5 Soldiers Missing Off Hawaii Coast",
+      "neg": "Overview: The Army aviators went missing after a Black Hawk helicopter crashed during a training",
+      "date": "2017-08-22",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: \"The Daily Show\" host won't let the president get away with this one.",
+      "article": "\"The Daily Show\" host won't let the president get away with this one.",
+      "pos": "Trevor Noah Caught Donald Trump's Glaring Omission During The Arizona Rally",
+      "neg": "Overview: \"The Daily Show\" host won't let the president get away with this one.",
+      "date": "2017-08-24",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: The editor-in-chief told reporters their coverage was packaged in \"selective criticism,\" according to emails obtained by The New York Times.",
+      "article": "The editor-in-chief told reporters their coverage was packaged in \"selective criticism,\" according to emails obtained by The New York Times.",
+      "pos": "Wall Street Journal Editor Berates Reporters For Critical Trump Coverage",
+      "neg": "Overview: The editor-in-chief told reporters their coverage was packaged in \"selective criticism,\" according to emails",
+      "date": "2017-08-24",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: Sen. Tammy Duckworth didn't care about the gender identity of the troops who risked their lives to save hers.",
+      "article": "Sen. Tammy Duckworth didn't care about the gender identity of the troops who risked their lives to save hers.",
+      "pos": "Senator Who Lost Both Legs In Iraq Blasts Trump's Military Transgender Ban",
+      "neg": "Overview: Sen. Tammy Duckworth didn't care about the gender identity of the troops who risked",
+      "date": "2017-08-25",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: \"Must be a Texas dog cause he can survive without help,\" one person said.",
+      "article": "\"Must be a Texas dog cause he can survive without help,\" one person said.",
+      "pos": "Resourceful Dog Walks Away With Bag Of Dog Food After Hurricane Harvey",
+      "neg": "Overview: \"Must be a Texas dog cause he can survive without help,\" one person said.",
+      "date": "2017-08-26",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: Floyd Mayweather beat the Irishman with a technical knockout in the 10th round.",
+      "article": "Floyd Mayweather beat the Irishman with a technical knockout in the 10th round.",
+      "pos": "The Most Brutal Photos From The Mayweather-McGregor Fight",
+      "neg": "Overview: Floyd Mayweather beat the Irishman with a technical knockout in the 10th round.",
+      "date": "2017-08-27",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: The ACLU documented the incident two weeks ago, and the man has now been arrested in connection with it.",
+      "article": "The ACLU documented the incident two weeks ago, and the man has now been arrested in connection with it.",
+      "pos": "Video Shows Man Shooting At Crowd During Charlottesville Rally, With No Police Response",
+      "neg": "Overview: The ACLU documented the incident two weeks ago, and the man has now been",
+      "date": "2017-08-27",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: \"He needs another moment today, though, to talk to the people of Houston and the first responders of Houston to say thank you.\"",
+      "article": "\"He needs another moment today, though, to talk to the people of Houston and the first responders of Houston to say thank you.\"",
+      "pos": "Bush's Press Secretary Criticizes Trump's Harvey Response For Lacking Empathy",
+      "neg": "Overview: \"He needs another moment today, though, to talk to the people of Houston and",
+      "date": "2017-08-30",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: \"Slavery is a trauma that black people to this day are still dealing with,\" the correspondent said.",
+      "article": "\"Slavery is a trauma that black people to this day are still dealing with,\" the correspondent said.",
+      "pos": "‘The Daily Show's' Roy Wood Jr. Shuts Down Debate Over Confederate Symbols",
+      "neg": "Overview: \"Slavery is a trauma that black people to this day are still dealing with,\"",
+      "date": "2017-08-31",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: The White House knows how to make Americans feel stupid for \"knowing what words mean,\" \"The Daily Show\" host says.",
+      "article": "The White House knows how to make Americans feel stupid for \"knowing what words mean,\" \"The Daily Show\" host says.",
+      "pos": "Trevor Noah Baffled By Trump's Claim That He Saw Harvey Devastation 'Firsthand'",
+      "neg": "Overview: The White House knows how to make Americans feel stupid for \"knowing what words",
+      "date": "2017-09-01",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: While at a Houston shelter, President Donald Trump took a moment to bring up his favorite subject: His hands.",
+      "article": "While at a Houston shelter, President Donald Trump took a moment to bring up his favorite subject: His hands.",
+      "pos": "'My Hands Are Too Big,' Says President With Smaller-Than-Average Hands",
+      "neg": "Overview: While at a Houston shelter, President Donald Trump took a moment to bring up",
+      "date": "2017-09-02",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: The nurse refused to let Detective Jeff Payne take blood from an unconscious patient without having a warrant.",
+      "article": "The nurse refused to let Detective Jeff Payne take blood from an unconscious patient without having a warrant.",
+      "pos": "Officer Who Arrested Utah Nurse In Viral Video Is Now Under Criminal Investigation",
+      "neg": "Overview: The nurse refused to let Detective Jeff Payne take blood from an unconscious patient",
+      "date": "2017-09-02",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: \"I half wonder whether men should be allowed in labs. Could be a distraction to hard working women.\"",
+      "article": "\"I half wonder whether men should be allowed in labs. Could be a distraction to hard working women.\"",
+      "pos": "This Twitter Thread Satirizing How Men Talk About Women Is Too Good",
+      "neg": "\"I half wonder whether men should be allowed in labs",
+      "date": "2017-09-03",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: \"I love us because we wake up to a country that hates us.\"",
+      "article": "\"I love us because we wake up to a country that hates us.\"",
+      "pos": "This Spoken Word Poem Is A Beautiful Love Letter To 'Undocumented People'",
+      "neg": "Overview: \"I love us because we wake up to a country that hates us.\"",
+      "date": "2017-09-03",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: David Dao was injured when he was forcibly removed to make room for airline employees.",
+      "article": "David Dao was injured when he was forcibly removed to make room for airline employees.",
+      "pos": "Feds Won't Punish United For Dragging Doctor Off Flight",
+      "neg": "Overview: David Dao was injured when he was forcibly removed to make room for airline",
+      "date": "2017-09-08",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: When the company offered victims of the hack a free service, many pointed out a problematic clause in its terms of use.",
+      "article": "When the company offered victims of the hack a free service, many pointed out a problematic clause in its terms of use.",
+      "pos": "Equifax Clarifies Policy After Outcry Over Consumers' Legal Rights Following Hack",
+      "neg": "Overview: When the company offered victims of the hack a free service, many pointed out",
+      "date": "2017-09-09",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: The actress is stranded in Orlando, and she's doing her part to keep others safe ahead of the storm.",
+      "article": "The actress is stranded in Orlando, and she's doing her part to keep others safe ahead of the storm.",
+      "pos": "Kristen Bell Heroically Saved Josh Gad's Parents From Hurricane Irma",
+      "neg": "Overview: The actress is stranded in Orlando, and she's doing her part to keep others",
+      "date": "2017-09-09",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: The performer's publicist called the opinion piece a \"f**ked up story.\"",
+      "article": "The performer's publicist called the opinion piece a \"f**ked up story.\"",
+      "pos": "Kid Rock Bans Newspaper From His Detroit Concert After Critical Column",
+      "neg": "Overview: The performer's publicist called the opinion piece a \"f**ked up story.\"",
+      "date": "2017-09-13",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: The British Museum apologized and said their initial tweet addressed single objects with multiple Asian names.",
+      "article": "The British Museum apologized and said their initial tweet addressed single objects with multiple Asian names.",
+      "pos": "Twitter Calls Out Museum Curator For Saying Asian Names Are 'Confusing'",
+      "neg": "Overview: The British Museum apologized and said their initial tweet addressed single objects with multiple",
+      "date": "2017-09-15",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: Violet Mosse-Brown, aka Aunt V, said her secrets to long life were hard work and faith.",
+      "article": "Violet Mosse-Brown, aka Aunt V, said her secrets to long life were hard work and faith.",
+      "pos": "Aunt V, The World's Oldest Person, Dies In Jamaica At 117",
+      "neg": "Overview: Violet Mosse-Brown, aka Aunt V, said her secrets to long life were hard work",
+      "date": "2017-09-16",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: The Trump administration denied a European official's claims suggesting a potential change in U.S. policy.",
+      "article": "The Trump administration denied a European official's claims suggesting a potential change in U.S. policy.",
+      "pos": "White House: U.S. Still Withdrawing From Paris Agreement, Despite Reports",
+      "neg": "The Trump administration denied a European official's claims suggesting a potential change in U.S",
+      "date": "2017-09-17",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: The college student received the mangoes \"cut, packaged and shipped with love.\"",
+      "article": "The college student received the mangoes \"cut, packaged and shipped with love.\"",
+      "pos": "Adorable Dad Ships Sliced Mangos To Daughter After She Forgot Them At Home",
+      "neg": "Overview: The college student received the mangoes \"cut, packaged and shipped with love.\"",
+      "date": "2017-09-17",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: The student had sat during the pledge for years without any problems -- until now.",
+      "article": "The student had sat during the pledge for years without any problems -- until now.",
+      "pos": "Teacher Accused Of Assaulting Student For Sitting During Pledge Of Allegiance",
+      "neg": "Overview: The student had sat during the pledge for years without any problems -- until",
+      "date": "2017-09-17",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: Sure, it's creepy, but so is summoning strangers to pick you up at home in their own cars.",
+      "article": "Sure, it's creepy, but so is summoning strangers to pick you up at home in their own cars.",
+      "pos": "Walmart Wants To Stick Groceries In Your Refrigerator While You're Away",
+      "neg": "Overview: Sure, it's creepy, but so is summoning strangers to pick you up at home",
+      "date": "2017-09-22",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: Police said \"a group of males\" were reportedly spraying a \"noxious substance.",
+      "article": "Police said \"a group of males\" were reportedly spraying a \"noxious substance.",
+      "pos": "6 Injured In Suspected Acid Attack Near Mall In East London",
+      "neg": "Overview: Police said \"a group of males\" were reportedly spraying a \"noxious substance.",
+      "date": "2017-09-23",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: The newest attack was just the latest in a back and forth feud between the president and the North Korean leader.",
+      "article": "The newest attack was just the latest in a back and forth feud between the president and the North Korean leader.",
+      "pos": "Trump Doubles Down On Criticism of Kim Jong Un During Alabama Rally",
+      "neg": "Overview: The newest attack was just the latest in a back and forth feud between",
+      "date": "2017-09-23",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: Many fans were pissed after seeing the minor league team's offensive tweet.",
+      "article": "Many fans were pissed after seeing the minor league team's offensive tweet.",
+      "pos": "This Baseball Team Learned There's A Wrong Way To Celebrate Japanese Culture",
+      "neg": "Overview: Many fans were pissed after seeing the minor league team's offensive tweet.",
+      "date": "2017-09-23",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: “Fake news. They won’t show this,” the president says as CNN airs a split screen to include the audience.",
+      "article": "“Fake news. They won’t show this,” the president says as CNN airs a split screen to include the audience.",
+      "pos": "Trump Says 'Fake News' Won't Show Crowd Size As CNN Shows Crowd Size",
+      "neg": "Overview: “Fake news. They won’t show this,” the president says as CNN airs a split",
+      "date": "2017-09-23",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: The blind music legend took a knee in wake of Trump's 'sons of bitches' comment.",
+      "article": "The blind music legend took a knee in wake of Trump's 'sons of bitches' comment.",
+      "pos": "Stevie Wonder Interrupts Concert To 'Take A Knee' For America",
+      "neg": "Overview: The blind music legend took a knee in wake of Trump's 'sons of bitches'",
+      "date": "2017-09-24",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: \"It’s hitting home for me even more because he’s using sports as the platform to try and divide us.\"",
+      "article": "\"It’s hitting home for me even more because he’s using sports as the platform to try and divide us.\"",
+      "pos": "LeBron James Explains Why Trump's Attack On The NFL Is Personal",
+      "neg": "Overview: \"It’s hitting home for me even more because he’s using sports as the platform",
+      "date": "2017-09-24",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: Many are wondering how one avid Twitter user will embrace the space.",
+      "article": "Many are wondering how one avid Twitter user will embrace the space.",
+      "pos": "Tweets Will Get Twice As Long And People Are Afraid",
+      "neg": "Overview: Many are wondering how one avid Twitter user will embrace the space.",
+      "date": "2017-09-26",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: He admitted this after Donald Trump claimed that Facebook was \"always anti-Trump.\"",
+      "article": "He admitted this after Donald Trump claimed that Facebook was \"always anti-Trump.\"",
+      "pos": "Mark Zuckerberg: ‘I Regret’ Rejecting Idea That Facebook Fake News Altered Election",
+      "neg": "Overview: He admitted this after Donald Trump claimed that Facebook was \"always anti-Trump.\"",
+      "date": "2017-09-28",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: The \"Lemonade\" star is fundraising in the most Beyoncé way ever.",
+      "article": "The \"Lemonade\" star is fundraising in the most Beyoncé way ever.",
+      "pos": "Beyoncé Drops Surprise Remix, Donates Proceeds To Hurricane Victims",
+      "neg": "Overview: The \"Lemonade\" star is fundraising in the most Beyoncé way ever.",
+      "date": "2017-09-29",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: Mayor Carmen Yulín Cruz blasts FEMA for focusing on paperwork rather than saving lives.",
+      "article": "Mayor Carmen Yulín Cruz blasts FEMA for focusing on paperwork rather than saving lives.",
+      "pos": "San Juan Mayor Slams Feds' Response To Puerto Rico: 'Get Your Ass Moving'",
+      "neg": "Overview: Mayor Carmen Yulín Cruz blasts FEMA for focusing on paperwork rather than saving lives.",
+      "date": "2017-09-29",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: Some say kneeling during the national anthem disrespects the military. One vet strongly disagrees.",
+      "article": "Some say kneeling during the national anthem disrespects the military. One vet strongly disagrees.",
+      "pos": "Air Force Veteran: 'I Feel Deeply Honored' When NFL Players Take A Knee",
+      "neg": "Some say kneeling during the national anthem disrespects the military",
+      "date": "2017-09-30",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: This isn't the first time the president dragged the news media during a national crisis.",
+      "article": "This isn't the first time the president dragged the news media during a national crisis.",
+      "pos": "Donald Trump Is Using Puerto Rico's Crisis To Push His War Against The Media",
+      "neg": "Overview: This isn't the first time the president dragged the news media during a national",
+      "date": "2017-09-30",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: The Seattle team isn't just using gestures to fight racial inequality. It's using money.",
+      "article": "The Seattle team isn't just using gestures to fight racial inequality. It's using money.",
+      "pos": "Seahawks Take On Trump's Attacks On NFL By Launching Charity For Equality",
+      "neg": "The Seattle team isn't just using gestures to fight racial inequality",
+      "date": "2017-09-30",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: Police found 12 firearms fitted with a \"bump stock\" device in the shooter's hotel room.",
+      "article": "Police found 12 firearms fitted with a \"bump stock\" device in the shooter's hotel room.",
+      "pos": "Stephen Paddock Had Deadly But Legal Gun Device That 'Simulates Automatic Fire'",
+      "neg": "Overview: Police found 12 firearms fitted with a \"bump stock\" device in the shooter's hotel",
+      "date": "2017-10-04",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: The league recently reminded teams about the rule on standing for the anthem.",
+      "article": "The league recently reminded teams about the rule on standing for the anthem.",
+      "pos": "New York Knicks Lock Arms During National Anthem After NBA Bans Kneeling",
+      "neg": "Overview: The league recently reminded teams about the rule on standing for the anthem.",
+      "date": "2017-10-04",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: Harvey Weinstein reportedly settled with the actress in 1997 over sexual harassment allegations.",
+      "article": "Harvey Weinstein reportedly settled with the actress in 1997 over sexual harassment allegations.",
+      "pos": "Rose McGowan Tweets About Complicity As Bombshell Weinstein Report Drops",
+      "neg": "Overview: Harvey Weinstein reportedly settled with the actress in 1997 over sexual harassment allegations.",
+      "date": "2017-10-05",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: The mayor wore the defiant shirt during an interview with Univision.",
+      "article": "The mayor wore the defiant shirt during an interview with Univision.",
+      "pos": "Yes, San Juan Mayor Carmen Yulín Cruz's 'Nasty' Shirt Was Aimed At Trump",
+      "neg": "Overview: The mayor wore the defiant shirt during an interview with Univision.",
+      "date": "2017-10-05",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: Can Tesla save the island's aging -- and now hurricane-wrecked -- power grid?",
+      "article": "Can Tesla save the island's aging -- and now hurricane-wrecked -- power grid?",
+      "pos": "Elon Musk Floats Solar Overhaul Of Puerto Rico Power Grid, Governor Says 'Let's Talk'",
+      "neg": "Overview: Can Tesla save the island's aging -- and now hurricane-wrecked -- power grid?",
+      "date": "2017-10-06",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: \"The administration’s strategy is crystal clear. It’s to create uncertainty every step of the way,\" said Hawaii Attorney General Doug Chin.",
+      "article": "\"The administration’s strategy is crystal clear. It’s to create uncertainty every step of the way,\" said Hawaii Attorney General Doug Chin.",
+      "pos": "Hawaii Readies For Third Fight Against Trump Travel Ban 3.0",
+      "neg": "\"The administration’s strategy is crystal clear",
+      "date": "2017-10-07",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: The actor said that generally he's tired of being cast as \"police from Hong Kong.\"",
+      "article": "The actor said that generally he's tired of being cast as \"police from Hong Kong.\"",
+      "pos": "Jackie Chan Says 'Rush Hour 4' In The Works, Though He Wants To Expand His Range",
+      "neg": "Overview: The actor said that generally he's tired of being cast as \"police from Hong",
+      "date": "2017-10-07",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: The resignations from the board, made up entirely of men, comes a day after an explosive New York Times article.",
+      "article": "The resignations from the board, made up entirely of men, comes a day after an explosive New York Times article.",
+      "pos": "One-Third Of Weinstein Company Board Resigns After Sexual Harassment Report",
+      "neg": "Overview: The resignations from the board, made up entirely of men, comes a day after",
+      "date": "2017-10-07",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: Before resigning as Weinstein's adviser, Bloom reportedly discussed getting photos of his accusers in \"very friendly poses with Harvey.\"",
+      "article": "Before resigning as Weinstein's adviser, Bloom reportedly discussed getting photos of his accusers in \"very friendly poses with Harvey.\"",
+      "pos": "Attorney Lisa Bloom Planned To Discredit Harvey Weinstein's Accusers: Report",
+      "neg": "Overview: Before resigning as Weinstein's adviser, Bloom reportedly discussed getting photos of his accusers in",
+      "date": "2017-10-08",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: The country star said he was \"struggling to understand what happened that night,\" before covering Tom Petty's \"I Won't Back Down.\"",
+      "article": "The country star said he was \"struggling to understand what happened that night,\" before covering Tom Petty's \"I Won't Back Down.\"",
+      "pos": "Jason Aldean Honors Las Vegas Victims In Surprise Appearance On 'SNL'",
+      "neg": "Overview: The country star said he was \"struggling to understand what happened that night,\" before",
+      "date": "2017-10-08",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: Mandalay Bay's parent company offered its own timeline of events, which differs from the one released by police.",
+      "article": "Mandalay Bay's parent company offered its own timeline of events, which differs from the one released by police.",
+      "pos": "MGM 'Confident' That Police Are Wrong About Las Vegas Shooting Timeline",
+      "neg": "Overview: Mandalay Bay's parent company offered its own timeline of events, which differs from the",
+      "date": "2017-10-11",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: The potential move to revoke his membership comes as the British Academy of Film and Television Arts cut ties with the producer over sexual abuse reports.",
+      "article": "The potential move to revoke his membership comes as the British Academy of Film and Television Arts cut ties with the producer over sexual abuse reports.",
+      "pos": "Hollywood's Academy To Hold Meeting Over Harvey Weinstein Allegations",
+      "neg": "Overview: The potential move to revoke his membership comes as the British Academy of Film",
+      "date": "2017-10-11",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: Officials released a new timeline one day after MGM said their revised timeline was incorrect.",
+      "article": "Officials released a new timeline one day after MGM said their revised timeline was incorrect.",
+      "pos": "Police Change Timeline Of Las Vegas Mass Shooting Again",
+      "neg": "Overview: Officials released a new timeline one day after MGM said their revised timeline was",
+      "date": "2017-10-14",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: Actress Carrie Stevens says the Harvey Weinstein scandal reminded her of when Stone grabbed her like \"a toy.\" Stone had defended Weinstein earlier in the week.",
+      "article": "Actress Carrie Stevens says the Harvey Weinstein scandal reminded her of when Stone grabbed her like \"a toy.\" Stone had defended Weinstein earlier in the week.",
+      "pos": "Former Playboy Model Accuses Oliver Stone Of Groping Her Breast",
+      "neg": "Overview: Actress Carrie Stevens says the Harvey Weinstein scandal reminded her of when Stone grabbed",
+      "date": "2017-10-14",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: The show burned him and addressed sexual abuse in Hollywood after failing to do so last week.",
+      "article": "The show burned him and addressed sexual abuse in Hollywood after failing to do so last week.",
+      "pos": "'SNL' Finally Took On Harvey Weinstein -- But Is It Too Late?",
+      "neg": "Overview: The show burned him and addressed sexual abuse in Hollywood after failing to do",
+      "date": "2017-10-15",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: Amy Pascal was the only female on the panel convened by The Hollywood Reporter.",
+      "article": "Amy Pascal was the only female on the panel convened by The Hollywood Reporter.",
+      "pos": "Film Producers' Discussion On Weinstein Scandal Had Only 1 Woman",
+      "neg": "Overview: Amy Pascal was the only female on the panel convened by The Hollywood Reporter.",
+      "date": "2017-10-15",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: The actress said Stone met with her to discuss a \"very sexual\" movie. Then, he sent her roses.",
+      "article": "The actress said Stone met with her to discuss a \"very sexual\" movie. Then, he sent her roses.",
+      "pos": "Patricia Arquette Calls Out Oliver Stone For 'Weird' Encounter",
+      "neg": "The actress said Stone met with her to discuss a \"very sexual\" movie",
+      "date": "2017-10-15",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: Nearly all the elementary school's students are black. It's currently named for Jefferson Davis.",
+      "article": "Nearly all the elementary school's students are black. It's currently named for Jefferson Davis.",
+      "pos": "Mississippi School To Swap Confederate Leader's Name For Barack Obama's",
+      "neg": "Nearly all the elementary school's students are black",
+      "date": "2017-10-19",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: \"Sometimes it gets people to do what they’re supposed to be doing.... That's the way it is.\"",
+      "article": "\"Sometimes it gets people to do what they’re supposed to be doing.... That's the way it is.\"",
+      "pos": "Donald Trump Says Public Spats With Lawmakers Can Help His Agenda",
+      "neg": "\"Sometimes it gets people to do what they’re supposed to be doing...",
+      "date": "2017-10-21",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: Some of the comedian's Twitter followers are calling Michelle McNamara a \"prophetess.\"",
+      "article": "Some of the comedian's Twitter followers are calling Michelle McNamara a \"prophetess.\"",
+      "pos": "Patton Oswalt Found A Note His Late Wife Wrote About Donald Trump In 2004",
+      "neg": "Overview: Some of the comedian's Twitter followers are calling Michelle McNamara a \"prophetess.\"",
+      "date": "2017-10-21",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: At least three families said they received express-shipped packages from the White House after Trump claimed he called \"virtually everybody.\"",
+      "article": "At least three families said they received express-shipped packages from the White House after Trump claimed he called \"virtually everybody.\"",
+      "pos": "Report: White House Rushed Condolences To Gold Star Families",
+      "neg": "Overview: At least three families said they received express-shipped packages from the White House after",
+      "date": "2017-10-22",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: The MSNBC host suggested Trump's travel ban may have caused the deadly ambush. Experts disagree.",
+      "article": "The MSNBC host suggested Trump's travel ban may have caused the deadly ambush. Experts disagree.",
+      "pos": "Rachel Maddow Defends Niger Theory After Experts Call It 'Conspiracymongering'",
+      "neg": "The MSNBC host suggested Trump's travel ban may have caused the deadly ambush",
+      "date": "2017-10-22",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "10111_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Alcohol is suspected in the death of the 20-year-old Phi Kappa Psi pledge.",
+      "article": "Alcohol is suspected in the death of the 20-year-old Phi Kappa Psi pledge.",
+      "pos": "Texas State University Halts Greek Life After Fraternity Pledge Dies",
+      "neg": "Overview: Alcohol is suspected in the death of the 20-year-old Phi Kappa Psi pledge.",
+      "date": "2017-11-15"
+    },
+    {
+      "id": "10111_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The infamous mass murderer is serving a life sentence in a California prison.",
+      "article": "The infamous mass murderer is serving a life sentence in a California prison.",
+      "pos": "Charles Manson Reportedly Hospitalized, In Deteriorating Condition",
+      "neg": "Overview: The infamous mass murderer is serving a life sentence in a California prison.",
+      "date": "2017-11-16"
+    },
+    {
+      "id": "10111_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: A number of high-profile white nationalists have lost their blue check marks.",
+      "article": "A number of high-profile white nationalists have lost their blue check marks.",
+      "pos": "Twitter Now Revoking Verified Profiles That Break Its New Rules",
+      "neg": "Overview: A number of high-profile white nationalists have lost their blue check marks.",
+      "date": "2017-11-16"
+    },
+    {
+      "id": "10111_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The “WTF” podcast host also calls out his own \"toxic male presence\" and the comedy business for enabling abuses.",
+      "article": "The “WTF” podcast host also calls out his own \"toxic male presence\" and the comedy business for enabling abuses.",
+      "pos": "'I'm Disappointed In My Friend,' Comedian Marc Maron Says Of Louis C.K.",
+      "neg": "Overview: The “WTF” podcast host also calls out his own \"toxic male presence\" and the",
+      "date": "2017-11-17"
+    },
+    {
+      "id": "10111_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The New York Democrat said the former president would've had to step down if the revelations occurred today.",
+      "article": "The New York Democrat said the former president would've had to step down if the revelations occurred today.",
+      "pos": "Sen. Kirsten Gillibrand Says Bill Clinton Should've Resigned Over Lewinsky Scandal",
+      "neg": "Overview: The New York Democrat said the former president would've had to step down if",
+      "date": "2017-11-17"
+    },
+    {
+      "id": "10111_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “Elephants show compassion, sympathy, social intelligence ... . All the things I have yet to see in this president,\" she said.",
+      "article": "“Elephants show compassion, sympathy, social intelligence ... . All the things I have yet to see in this president,\" she said.",
+      "pos": "Ellen DeGeneres Is Fighting Trump's Elephant Trophy Policy With Kindness",
+      "neg": "“Elephants show compassion, sympathy, social intelligence ..",
+      "date": "2017-11-17"
+    },
+    {
+      "id": "10111_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The \"Mad Men\" creator spoke out against writer Kater Gordon's accusations during a book signing.",
+      "article": "The \"Mad Men\" creator spoke out against writer Kater Gordon's accusations during a book signing.",
+      "pos": "Matthew Weiner Denies Sexual Harassment But Admits To Being 'Demanding' Boss",
+      "neg": "Overview: The \"Mad Men\" creator spoke out against writer Kater Gordon's accusations during a book",
+      "date": "2017-11-18"
+    },
+    {
+      "id": "10111_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: She apologized to fellow Olympian Aly Raisman, but not before defending her tweet.",
+      "article": "She apologized to fellow Olympian Aly Raisman, but not before defending her tweet.",
+      "pos": "Gabby Douglas Says Dressing Provocatively 'Entices' Wrong Crowd, Sparking Gymnast Feud",
+      "neg": "Overview: She apologized to fellow Olympian Aly Raisman, but not before defending her tweet.",
+      "date": "2017-11-18"
+    },
+    {
+      "id": "10111_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The famed TV personality denies the accusations from a wardrobe stylist who worked with him \"nearly a decade ago.\"",
+      "article": "The famed TV personality denies the accusations from a wardrobe stylist who worked with him \"nearly a decade ago.\"",
+      "pos": "E! Entertainment Investigating Ryan Seacrest For Alleged 'Inappropriate' Behavior",
+      "neg": "Overview: The famed TV personality denies the accusations from a wardrobe stylist who worked with",
+      "date": "2017-11-18"
+    },
+    {
+      "id": "10111",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: An “internal defect” led users’ account passwords to be stored in an internal log, the company said.",
+      "article": "An “internal defect” led users’ account passwords to be stored in an internal log, the company said.",
+      "pos": "Twitter Warns Users To Change All Their Passwords After Finding Bug",
+      "neg": "Overview: An “internal defect” led users’ account passwords to be stored in an internal log,",
+      "date": "dev_target"
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u10_1011276",
+  "lamp_id": "1011276",
+  "rank": 10,
+  "n_profile_raw": 263,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: \"There are a whole array of gay characters in this film...\"",
+      "article": "\"There are a whole array of gay characters in this film...\"",
+      "pos": "Here's What Happens When A Bro Gets Sent To A Gay Rehabilitation Camp",
+      "neg": "Overview: \"There are a whole array of gay characters in this film...\"",
+      "date": "2016-03-06",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: And a few of the other LGBT wellness stories you should know about this week.",
+      "article": "And a few of the other LGBT wellness stories you should know about this week.",
+      "pos": "5 Things To Know About Lesbian And Bisexual Women’s Health",
+      "neg": "Overview: And a few of the other LGBT wellness stories you should know about this",
+      "date": "2016-03-07",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: \"I’ve evolved so many different times in three years and the people following me have evolved with me.\"",
+      "article": "\"I’ve evolved so many different times in three years and the people following me have evolved with me.\"",
+      "pos": "Trans Viral Star Ts Madison Opens Up About Fame, Visibility And More",
+      "neg": "Overview: \"I’ve evolved so many different times in three years and the people following me",
+      "date": "2016-03-13",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: \"My goal is to be authentic to myself, my voice, and my experience.”",
+      "article": "\"My goal is to be authentic to myself, my voice, and my experience.”",
+      "pos": "'Drag Race' Favorite Latrice Royale Drops A Sultry New Music Video",
+      "neg": "Overview: \"My goal is to be authentic to myself, my voice, and my experience.”",
+      "date": "2016-03-15",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: One of our favorite web series is returning for a star-studded second season.",
+      "article": "One of our favorite web series is returning for a star-studded second season.",
+      "pos": "This Is What Happens To A Go-Go Boy When He Grows Up",
+      "neg": "Overview: One of our favorite web series is returning for a star-studded second season.",
+      "date": "2016-03-15",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: She says the film is a look at \"the world behind the woman.\"",
+      "article": "She says the film is a look at \"the world behind the woman.\"",
+      "pos": "The Mother Of NYC Nightlife Is Working On A Film About Her Life",
+      "neg": "Overview: She says the film is a look at \"the world behind the woman.\"",
+      "date": "2016-03-16",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: \"It doesn't really matter what you end up doing, the important thing is maintaining relationships with the people you love.\"",
+      "article": "\"It doesn't really matter what you end up doing, the important thing is maintaining relationships with the people you love.\"",
+      "pos": "One Of Our Favorite Queer Rappers Takes On 'FOMO' In New Video",
+      "neg": "Overview: \"It doesn't really matter what you end up doing, the important thing is maintaining",
+      "date": "2016-03-20",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: \"[Voguing] is a culture that birthed from a place of oppression, struggle and pain.\"",
+      "article": "\"[Voguing] is a culture that birthed from a place of oppression, struggle and pain.\"",
+      "pos": "'Vogue Opera' Is A Celebration Of Art And Ballroom Culture",
+      "neg": "Overview: \"[Voguing] is a culture that birthed from a place of oppression, struggle and pain.\"",
+      "date": "2016-03-20",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: \"We have so much more where that comes from. Take it!\"",
+      "article": "\"We have so much more where that comes from. Take it!\"",
+      "pos": "Here's Why RuPaul Is 'Fine' With Straight Culture Stealing From Gay Culture",
+      "neg": "\"We have so much more where that comes from",
+      "date": "2016-03-23",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: The small screen won't be the same after these super moms have their way with it.",
+      "article": "The small screen won't be the same after these super moms have their way with it.",
+      "pos": "These Incredible Lesbian Moms Want To Revolutionize How TV Shows Foster Parents",
+      "neg": "Overview: The small screen won't be the same after these super moms have their way",
+      "date": "2016-03-25",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: \"We take classic tales, that are part of a wider culture... and create new stories that don't just include us, but celebrate us at the center of something grand, noble and glorious.\"",
+      "article": "\"We take classic tales, that are part of a wider culture... and create new stories that don't just include us, but celebrate us at the center of something grand, noble and glorious.\"",
+      "pos": "This Incredible Ballet Company Is Creating A Space For Queer And Trans Dancers",
+      "neg": "\"We take classic tales, that are part of a wider culture..",
+      "date": "2016-03-27",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: “This week’s episode is definitely our most intimate (and sexy) yet.\"",
+      "article": "“This week’s episode is definitely our most intimate (and sexy) yet.\"",
+      "pos": "Things Get Steamy (And Sad) In This New Episode Of 'Tough Love'",
+      "neg": "Overview: “This week’s episode is definitely our most intimate (and sexy) yet.\"",
+      "date": "2016-03-29",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: \"The LGBT mainstream has much to learn from the Ballroom community and needs to see that it is possible to embrace and love each others differences.\"",
+      "article": "\"The LGBT mainstream has much to learn from the Ballroom community and needs to see that it is possible to embrace and love each others differences.\"",
+      "pos": "Amazing Documentary Showcases The Voguing Ballroom Scene Over The Last 30 Years",
+      "neg": "Overview: \"The LGBT mainstream has much to learn from the Ballroom community and needs to",
+      "date": "2016-04-05",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: “The filmmakers brilliantly showcase inspiring individuals who exhibit the true strength of the human spirit by overcoming challenges that threaten life and love.”",
+      "article": "“The filmmakers brilliantly showcase inspiring individuals who exhibit the true strength of the human spirit by overcoming challenges that threaten life and love.”",
+      "pos": "Incredible New Slate Of Documentaries To Elevate Everyday LGBT Heroes",
+      "neg": "Overview: “The filmmakers brilliantly showcase inspiring individuals who exhibit the true strength of the human",
+      "date": "2016-04-05",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: \"We felt like we were 'fetishized' within the gay community by just being ourselves.\"",
+      "article": "\"We felt like we were 'fetishized' within the gay community by just being ourselves.\"",
+      "pos": "A Personal Look At What Dating Is Like If You're A Gay Asian Man",
+      "neg": "Overview: \"We felt like we were 'fetishized' within the gay community by just being ourselves.\"",
+      "date": "2016-04-09",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: More than anything, \"Psychic\" is about the people that keep coming back.",
+      "article": "More than anything, \"Psychic\" is about the people that keep coming back.",
+      "pos": "Blossom Into Spring With This Transcendental Experiment In Queer Community",
+      "neg": "Overview: More than anything, \"Psychic\" is about the people that keep coming back.",
+      "date": "2016-04-15",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: \"I just wanted to tell my story in the hopes someone would relate and it would offer them some peace.\"",
+      "article": "\"I just wanted to tell my story in the hopes someone would relate and it would offer them some peace.\"",
+      "pos": "Amazing Hip-Hop Video Chronicles An Autobiographical Journey With Gender",
+      "neg": "Overview: \"I just wanted to tell my story in the hopes someone would relate and",
+      "date": "2016-04-17",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller's \"Ask A Queer Chick\" advice column. I",
+      "article": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller's \"Ask A Queer Chick\" advice column. I",
+      "pos": "Ask A Queer Chick: I’m A Girl Attracted To A Trans Boy. Does That Make Me Bi?",
+      "neg": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller's \"Ask A Queer Chick\" advice column",
+      "date": "2016-04-17",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: \"I feel like the mainstream 'sees' a small handful of public trans figures, but that doesn’t mean the various trans communities that exist in the world are being seen on a larger scale.\"",
+      "article": "\"I feel like the mainstream 'sees' a small handful of public trans figures, but that doesn’t mean the various trans communities that exist in the world are being seen on a larger scale.\"",
+      "pos": "Meet Amos Mac, Founder Of A Groundbreaking Magazine For Trans Men",
+      "neg": "Overview: \"I feel like the mainstream 'sees' a small handful of public trans figures, but",
+      "date": "2016-04-17",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: Are you ready to see your favorite RPDR queens in person?",
+      "article": "Are you ready to see your favorite RPDR queens in person?",
+      "pos": "'Drag Race' Battle Of The Seasons Tour Kicks Off In North America",
+      "neg": "Overview: Are you ready to see your favorite RPDR queens in person?",
+      "date": "2016-04-19",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: \"Imagine what apps and software would look like if they were made by women, queer women, women of color.\"",
+      "article": "\"Imagine what apps and software would look like if they were made by women, queer women, women of color.\"",
+      "pos": "This 'Edie Windsor' Scholarship Will Help Queer Women Learn To Code",
+      "neg": "Overview: \"Imagine what apps and software would look like if they were made by women,",
+      "date": "2016-04-19",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: \"Chuck has taught us all that having a homemade dessert at the end of the meal helps our clients living with illness feel a sense of normalcy...\"",
+      "article": "\"Chuck has taught us all that having a homemade dessert at the end of the meal helps our clients living with illness feel a sense of normalcy...\"",
+      "pos": "Here's How You Can Help People Living With Serious Illnesses Celebrate Their Birthday",
+      "neg": "Overview: \"Chuck has taught us all that having a homemade dessert at the end of",
+      "date": "2016-04-23",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: \"This is a film that portrays the different dilemmas that many relationships face,\"",
+      "article": "\"This is a film that portrays the different dilemmas that many relationships face,\"",
+      "pos": "Queer Film Explores Long-Term Relationships In The Age Of The Single",
+      "neg": "Overview: \"This is a film that portrays the different dilemmas that many relationships face,\"",
+      "date": "2016-04-24",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: \"I mean, in the South, which one is worse? Being outed at your job or being outed at church?\"",
+      "article": "\"I mean, in the South, which one is worse? Being outed at your job or being outed at church?\"",
+      "pos": "Think Marriage Has Made Life Easier For Southern Queers? Think Again",
+      "neg": "\"I mean, in the South, which one is worse",
+      "date": "2016-04-27",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: If you identify as queer, many of these films should be required viewing.",
+      "article": "If you identify as queer, many of these films should be required viewing.",
+      "pos": "This Film Festival Has 48 Classic Films Every Queer Person Should See",
+      "neg": "Overview: If you identify as queer, many of these films should be required viewing.",
+      "date": "2016-04-27",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: \"I think it’s important that we teach young queer people that this community is far bigger than what the mainstream might tell them and show them.\"",
+      "article": "\"I think it’s important that we teach young queer people that this community is far bigger than what the mainstream might tell them and show them.\"",
+      "pos": "Jeffery Self Breaks Into The Young Adult Literary World With 'Drag Teen'",
+      "neg": "Overview: \"I think it’s important that we teach young queer people that this community is",
+      "date": "2016-04-27",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: \"We must revisit our grief in order to begin to heal from it.\"",
+      "article": "\"We must revisit our grief in order to begin to heal from it.\"",
+      "pos": "This Emotional Dance Showcase Remembers The Generation We Lost To AIDS",
+      "neg": "Overview: \"We must revisit our grief in order to begin to heal from it.\"",
+      "date": "2016-05-01",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: \"No person will leave this show having experienced the same thing.\"",
+      "article": "\"No person will leave this show having experienced the same thing.\"",
+      "pos": "This Immersive Dance Performance Explores Surveillance, Policing And Authority",
+      "neg": "Overview: \"No person will leave this show having experienced the same thing.\"",
+      "date": "2016-05-03",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: \"I hope that the legacy of this film will be that it reminds people of how important it is to be your authentic self.\"",
+      "article": "\"I hope that the legacy of this film will be that it reminds people of how important it is to be your authentic self.\"",
+      "pos": "'Mapplethorpe' Documentary Directors Reflect On The Artist And Their Film",
+      "neg": "Overview: \"I hope that the legacy of this film will be that it reminds people",
+      "date": "2016-05-03",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: \"From the time I spent with the transgender women in India I realized that they see themselves as the opposite -- as warriors -- and that was and is amazing.\"",
+      "article": "\"From the time I spent with the transgender women in India I realized that they see themselves as the opposite -- as warriors -- and that was and is amazing.\"",
+      "pos": "This Incredible Film Is Illuminating The Stories Of India's Transgender Women",
+      "neg": "Overview: \"From the time I spent with the transgender women in India I realized that",
+      "date": "2016-05-06",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: \"As soon as we learn to understand, we can overcome the fear of the strange.\"",
+      "article": "\"As soon as we learn to understand, we can overcome the fear of the strange.\"",
+      "pos": "These Beautiful Photographs Explore The Wide Spectrum Of Gender Identity",
+      "neg": "Overview: \"As soon as we learn to understand, we can overcome the fear of the",
+      "date": "2016-05-07",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: \"I hope to inspire other young and old men and women to [be more] accepting and tolerant -- to listen and not judge. To forgive and to love.\"",
+      "article": "\"I hope to inspire other young and old men and women to [be more] accepting and tolerant -- to listen and not judge. To forgive and to love.\"",
+      "pos": "7 Trans Models Share Their Journeys To Becoming Comfortable In Their Own Skin",
+      "neg": "\"I hope to inspire other young and old men and women to [be more] accepting and tolerant -- to listen and not judge",
+      "date": "2016-05-07",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: Never heard of Eurovision? Don't worry -- until this month, many Americans were unfamiliar with the name, too. For the newly",
+      "article": "Never heard of Eurovision? Don't worry -- until this month, many Americans were unfamiliar with the name, too. For the newly",
+      "pos": "Here's How You Can Watch The Campy, Crazy Fun Of Eurovision This Weekend",
+      "neg": "Never heard of Eurovision? Don't worry -- until this month, many Americans were unfamiliar with the name, too",
+      "date": "2016-05-13",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column. So",
+      "article": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column. So",
+      "pos": "Ask A Queer Chick: I’m 26 And Terrified Of Coming Out. What Should I Do?",
+      "neg": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column",
+      "date": "2016-05-14",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: \"We believe the concept of breaking fashion down into 'women’s' and 'men’s' is outdated, limiting and unproductive.\"",
+      "article": "\"We believe the concept of breaking fashion down into 'women’s' and 'men’s' is outdated, limiting and unproductive.\"",
+      "pos": "These Sisters Are Creating A Future For Gender-Neutral Footwear",
+      "neg": "Overview: \"We believe the concept of breaking fashion down into 'women’s' and 'men’s' is outdated,",
+      "date": "2016-05-15",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: \"We should ensure peace, social justice and tolerance for all no matter who they are and who they choose to love.\"",
+      "article": "\"We should ensure peace, social justice and tolerance for all no matter who they are and who they choose to love.\"",
+      "pos": "This Powerful Film Explores The Dangers Of Being Queer In Uganda",
+      "neg": "Overview: \"We should ensure peace, social justice and tolerance for all no matter who they",
+      "date": "2016-05-16",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: \"By sharing the stories of international LGBTI people, [we] can be a part of this global shift towards acceptance.\"",
+      "article": "\"By sharing the stories of international LGBTI people, [we] can be a part of this global shift towards acceptance.\"",
+      "pos": "A Powerful New Campaign Is Elevating LGBT Stories On A Global Level",
+      "neg": "Overview: \"By sharing the stories of international LGBTI people, [we] can be a part of",
+      "date": "2016-05-17",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: \"To the transgender and gender diverse people in our audience and of North Carolina, we love you, we are you, we support you and we stand with you.\"",
+      "article": "\"To the transgender and gender diverse people in our audience and of North Carolina, we love you, we are you, we support you and we stand with you.\"",
+      "pos": "'RuPaul's Drag Race' Stars Make Powerful Statement In North Carolina",
+      "neg": "Overview: \"To the transgender and gender diverse people in our audience and of North Carolina,",
+      "date": "2016-05-19",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: \"I do all of this because I believe that being visible and doing this work means that I can be a model of possibility for somebody else.\"",
+      "article": "\"I do all of this because I believe that being visible and doing this work means that I can be a model of possibility for somebody else.\"",
+      "pos": "Tiq Milan Opens Up About Trans Male Visibility, His Advocacy Work And Liberation",
+      "neg": "Overview: \"I do all of this because I believe that being visible and doing this",
+      "date": "2016-05-22",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: Here are some of the biggest queer wellness stories of the week.",
+      "article": "Here are some of the biggest queer wellness stories of the week.",
+      "pos": "The Biggest Queer Wellness Stories Of The Week",
+      "neg": "Overview: Here are some of the biggest queer wellness stories of the week.",
+      "date": "2016-05-23",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: \"You may even be surprised to discover that you have been seeing and interacting with transgender men and women in ways you didn't even realize!\"",
+      "article": "\"You may even be surprised to discover that you have been seeing and interacting with transgender men and women in ways you didn't even realize!\"",
+      "pos": "Whoopi Goldberg Is Producing A Show About Trans Models",
+      "neg": "Overview: \"You may even be surprised to discover that you have been seeing and interacting",
+      "date": "2016-05-24",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: Featuring \"a manic depressive total bottom desperately trying to revive a fledgling career!!\"",
+      "article": "Featuring \"a manic depressive total bottom desperately trying to revive a fledgling career!!\"",
+      "pos": "This Drag Queen Wants To Give You A Tour Of NYC You'll Never Forget",
+      "neg": "Overview: Featuring \"a manic depressive total bottom desperately trying to revive a fledgling career!!\"",
+      "date": "2016-05-24",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: \"I often wonder how many of them have read the Bible, on their own, without someone standing over their shoulder telling them it says something else.\"",
+      "article": "\"I often wonder how many of them have read the Bible, on their own, without someone standing over their shoulder telling them it says something else.\"",
+      "pos": "What's Even Going On Regarding LGBT Rights Down South? We Ask A Viral Trans Hero",
+      "neg": "Overview: \"I often wonder how many of them have read the Bible, on their own,",
+      "date": "2016-05-29",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: \"We need to get off our computers and engage with the real issues.\"",
+      "article": "\"We need to get off our computers and engage with the real issues.\"",
+      "pos": "Hooray! The NYC Porn Festival Is Returning!",
+      "neg": "Overview: \"We need to get off our computers and engage with the real issues.\"",
+      "date": "2016-05-31",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: \"Let us celebrate how far we have come and reaffirm our steadfast belief in the equal dignity of all Americans.\"",
+      "article": "\"Let us celebrate how far we have come and reaffirm our steadfast belief in the equal dignity of all Americans.\"",
+      "pos": "Read President Obama's Presidential Proclamation For Pride 2016",
+      "neg": "Overview: \"Let us celebrate how far we have come and reaffirm our steadfast belief in",
+      "date": "2016-06-01",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: \"I’ve described myself and my act as the Robyn of comedy.\"",
+      "article": "\"I’ve described myself and my act as the Robyn of comedy.\"",
+      "pos": "Here's Your Chance To See This Gay Comedian Live Before He Blows Up",
+      "neg": "Overview: \"I’ve described myself and my act as the Robyn of comedy.\"",
+      "date": "2016-06-01",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: \"Female Sims can wear sharp men’s suits like Ellen [DeGeneres], and male Sims can wear heels like Prince.\"",
+      "article": "\"Female Sims can wear sharp men’s suits like Ellen [DeGeneres], and male Sims can wear heels like Prince.\"",
+      "pos": "'The Sims' Now Allows Players To Choose Any Gender Expression They Want",
+      "neg": "Overview: \"Female Sims can wear sharp men’s suits like Ellen [DeGeneres], and male Sims can",
+      "date": "2016-06-02",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: \"Raising children has nothing to do with sexual orientation or gender identity. Good parents come in all forms.\"",
+      "article": "\"Raising children has nothing to do with sexual orientation or gender identity. Good parents come in all forms.\"",
+      "pos": "These Gay Dads Prove You're Never Too Old To Start Your Own Beautiful Family",
+      "neg": "\"Raising children has nothing to do with sexual orientation or gender identity",
+      "date": "2016-06-03",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: \"To speak so freely and openly about his own HIV status was important for our community to really educate us and bring awareness to the issues.\"",
+      "article": "\"To speak so freely and openly about his own HIV status was important for our community to really educate us and bring awareness to the issues.\"",
+      "pos": "MTV Airs Its Proudest LGBT Moments",
+      "neg": "Overview: \"To speak so freely and openly about his own HIV status was important for",
+      "date": "2016-06-04",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: \"These YouTubers -- and their audiences -- have built a virtual community for celebrating who we are.\"",
+      "article": "\"These YouTubers -- and their audiences -- have built a virtual community for celebrating who we are.\"",
+      "pos": "YouTubers Come Together To Celebrate Their Queerness And Pride",
+      "neg": "Overview: \"These YouTubers -- and their audiences -- have built a virtual community for celebrating",
+      "date": "2016-06-05",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: \"We not only hope to inspire LGBTQ youth to take action, but we also aim to create opportunities for more minorities to be able to shape and produce media.\"",
+      "article": "\"We not only hope to inspire LGBTQ youth to take action, but we also aim to create opportunities for more minorities to be able to shape and produce media.\"",
+      "pos": "This Amazing Queer Web Series For Kids Is Back For A Second Season",
+      "neg": "Overview: \"We not only hope to inspire LGBTQ youth to take action, but we also",
+      "date": "2016-06-06",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: \"This is both an equality and science issue, that effects us all on so many levels. We have the ability to save lives and do what’s right.”",
+      "article": "\"This is both an equality and science issue, that effects us all on so many levels. We have the ability to save lives and do what’s right.”",
+      "pos": "50 Men On PrEP Give Blood To Protest FDA’s Policy On Blood Donation",
+      "neg": "\"This is both an equality and science issue, that effects us all on so many levels",
+      "date": "2016-06-06",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: We're all about showing our Pride while sitting in the AC.",
+      "article": "We're all about showing our Pride while sitting in the AC.",
+      "pos": "Netflix Is Helping You Celebrate Pride Without Even Getting Off Your Couch",
+      "neg": "Overview: We're all about showing our Pride while sitting in the AC.",
+      "date": "2016-06-11",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: It's World Blood Donor Day -- and men who have sex with men still can't donate blood.",
+      "article": "It's World Blood Donor Day -- and men who have sex with men still can't donate blood.",
+      "pos": "102 LGBT People Were Maimed Or Killed -- And I Still Can't Donate Blood",
+      "neg": "Overview: It's World Blood Donor Day -- and men who have sex with men still",
+      "date": "2016-06-14",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: \"I wanted to remind people how strong of a community we are.\"",
+      "article": "\"I wanted to remind people how strong of a community we are.\"",
+      "pos": "LGBT YouTubers Come Together To Show The World They're Not Afraid",
+      "neg": "Overview: \"I wanted to remind people how strong of a community we are.\"",
+      "date": "2016-06-16",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: \"As painful as it was to endure what I did in my life, it’s all worth it when you hear you’ve saved lives or helped people find direction in theirs.\"",
+      "article": "\"As painful as it was to endure what I did in my life, it’s all worth it when you hear you’ve saved lives or helped people find direction in theirs.\"",
+      "pos": "This Trans Supermodel Was Outed In The '80s, Lost Everything And Became A Pioneer",
+      "neg": "Overview: \"As painful as it was to endure what I did in my life, it’s",
+      "date": "2016-06-19",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: The Trailblazer Honors were a night of community, solidarity and celebration.",
+      "article": "The Trailblazer Honors were a night of community, solidarity and celebration.",
+      "pos": "Logo Celebrates Queer Pioneers, Legends And Trailblazers In NYC",
+      "neg": "Overview: The Trailblazer Honors were a night of community, solidarity and celebration.",
+      "date": "2016-06-24",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: \"This party is so much about strength, power, fighting for what you believe in, fighting for who you are.\"",
+      "article": "\"This party is so much about strength, power, fighting for what you believe in, fighting for who you are.\"",
+      "pos": "This Pride, Brooklyn's Queer Community Comes Together In Sacred Resilience",
+      "neg": "Overview: \"This party is so much about strength, power, fighting for what you believe in,",
+      "date": "2016-06-24",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: \"[Liberation] looks to me like people being protected in their jobs and in their communities.\"",
+      "article": "\"[Liberation] looks to me like people being protected in their jobs and in their communities.\"",
+      "pos": "The First Openly Gay Charlotte City Councilwoman Opens Up About HB2",
+      "neg": "Overview: \"[Liberation] looks to me like people being protected in their jobs and in their",
+      "date": "2016-06-25",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column. Hey",
+      "article": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column. Hey",
+      "pos": "Ask A Queer Chick: I Made A Mistake By Marrying A Man. What Should I Do?",
+      "neg": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column",
+      "date": "2016-06-26",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: \"Being trans, being gay, being lesbian, is not black or white, but that’s how the people in the Delta perceive it.\"",
+      "article": "\"Being trans, being gay, being lesbian, is not black or white, but that’s how the people in the Delta perceive it.\"",
+      "pos": "The Front Releases Second Episode In ‘New Deep South’ Queer Web Series",
+      "neg": "Overview: \"Being trans, being gay, being lesbian, is not black or white, but that’s how",
+      "date": "2016-06-28",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: The King of the Jungle -- like you've never seen him before!",
+      "article": "The King of the Jungle -- like you've never seen him before!",
+      "pos": "Get Ready! The Tarzan Gay XXX Parody Of Your Dreams Is Here",
+      "neg": "Overview: The King of the Jungle -- like you've never seen him before!",
+      "date": "2016-07-04",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: \"My hope is that we open some eyes while cracking some smiles.\"",
+      "article": "\"My hope is that we open some eyes while cracking some smiles.\"",
+      "pos": "Trans Activists Around America Speak Out About Bathroom Access",
+      "neg": "Overview: \"My hope is that we open some eyes while cracking some smiles.\"",
+      "date": "2016-07-05",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: \"So many people don't realize that there are many ways someone can abuse someone.\"",
+      "article": "\"So many people don't realize that there are many ways someone can abuse someone.\"",
+      "pos": "YouTubers Discuss Abusive Relationships In The Queer Female Community",
+      "neg": "Overview: \"So many people don't realize that there are many ways someone can abuse someone.\"",
+      "date": "2016-07-05",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: \"A space like Rhys's Place is desperately needed not just in Chicago, but all over.\"",
+      "article": "\"A space like Rhys's Place is desperately needed not just in Chicago, but all over.\"",
+      "pos": "Trans Folks Now Have A Safe Space To Recover From Gender Confirmation Surgery",
+      "neg": "Overview: \"A space like Rhys's Place is desperately needed not just in Chicago, but all",
+      "date": "2016-07-09",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: \"Romantic relationships are changing, and we’re suggesting that the whole system may need to change with them.\"",
+      "article": "\"Romantic relationships are changing, and we’re suggesting that the whole system may need to change with them.\"",
+      "pos": "Now That Queers Can Get Married, Should We? A New Web Series Explores",
+      "neg": "Overview: \"Romantic relationships are changing, and we’re suggesting that the whole system may need to",
+      "date": "2016-07-17",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: Logo also announced the premiere of a new original docuseries \"Fire Island.\"",
+      "article": "Logo also announced the premiere of a new original docuseries \"Fire Island.\"",
+      "pos": "'RuPaul's Drag Race' Will Be Back For A Ninth Season",
+      "neg": "Overview: Logo also announced the premiere of a new original docuseries \"Fire Island.\"",
+      "date": "2016-07-20",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: \"People have to get involved with this and not just one particular group -- it’s all of us or none of us.\"",
+      "article": "\"People have to get involved with this and not just one particular group -- it’s all of us or none of us.\"",
+      "pos": "Miss Major Is A Trans Elder And Stonewall Icon.. And She's Changing The World",
+      "neg": "Overview: \"People have to get involved with this and not just one particular group --",
+      "date": "2016-07-23",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column. I’m",
+      "article": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column. I’m",
+      "pos": "Ask A Queer Chick: I’m Muslim And Gay. How Do I Come Out To My Homophobic Family?",
+      "neg": "Every month HuffPost Queer Voices partners with Fusion to share Lindsay King-Miller’s “Ask A Queer Chick” advice column",
+      "date": "2016-07-24",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: \"I want other trans women to understand is that you can live a happy, healthy life with HIV.\"",
+      "article": "\"I want other trans women to understand is that you can live a happy, healthy life with HIV.\"",
+      "pos": "Transgender People Open Up About The Impact Of HIV On The Trans Community",
+      "neg": "Overview: \"I want other trans women to understand is that you can live a happy,",
+      "date": "2016-07-24",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: \"The strife bonded us together and, looking back, it was all good for us.\"",
+      "article": "\"The strife bonded us together and, looking back, it was all good for us.\"",
+      "pos": "These Two Dads Share The 'Meant To Be' Story Of Their Beautiful Family",
+      "neg": "Overview: \"The strife bonded us together and, looking back, it was all good for us.\"",
+      "date": "2016-07-29",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: \"We were so used to living as a discriminated against class that we just accepted that there were some restaurants we couldn’t eat at, some physicians who wouldn’t treat us, some places we weren’t safe going.\"",
+      "article": "\"We were so used to living as a discriminated against class that we just accepted that there were some restaurants we couldn’t eat at, some physicians who wouldn’t treat us, some places we weren’t safe going.\"",
+      "pos": "A Marriage Equality Plaintiff Opens Up About The Fight For LGBT Southern Rights",
+      "neg": "Overview: \"We were so used to living as a discriminated against class that we just",
+      "date": "2016-07-31",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: \"Butch girls don’t get enough love in the media and they really, really should.\"",
+      "article": "\"Butch girls don’t get enough love in the media and they really, really should.\"",
+      "pos": "Fiona Apple's Classic 'Criminal' Video Just Got A Lesbian Makeover",
+      "neg": "Overview: \"Butch girls don’t get enough love in the media and they really, really should.\"",
+      "date": "2016-07-31",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: A new, coming-of-age novel from writer RJ Hernández is exploring themes of millennial disillusionment, queerness and the",
+      "article": "A new, coming-of-age novel from writer RJ Hernández is exploring themes of millennial disillusionment, queerness and the",
+      "pos": "This Queer Coming-Of-Age Novel Examines Disillusionment And The Fashion World",
+      "neg": "Overview: A new, coming-of-age novel from writer RJ Hernández is exploring themes of millennial disillusionment,",
+      "date": "2016-08-03",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: \"I want people to listen to real people's stories and take away a sense of compassion for what real people go through.\"",
+      "article": "\"I want people to listen to real people's stories and take away a sense of compassion for what real people go through.\"",
+      "pos": "Trans People Open Up About What It's Like To Transition In The Workplace",
+      "neg": "Overview: \"I want people to listen to real people's stories and take away a sense",
+      "date": "2016-08-07",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: \"Walking down the street is so glorious -- I can actually think!\"",
+      "article": "\"Walking down the street is so glorious -- I can actually think!\"",
+      "pos": "Trans Men Open Up About Their Experiences With Male Privilege",
+      "neg": "Overview: \"Walking down the street is so glorious -- I can actually think!\"",
+      "date": "2016-08-19",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: \"This is not an LGBTQ story; this is a human story.\"",
+      "article": "\"This is not an LGBTQ story; this is a human story.\"",
+      "pos": "New Web Series Aims To Tell Stories Of Love, Addiction And Healing",
+      "neg": "\"This is not an LGBTQ story",
+      "date": "2016-08-22",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: “One person’s act of fear and maliciousness created such a powerful statement of love.\"",
+      "article": "“One person’s act of fear and maliciousness created such a powerful statement of love.\"",
+      "pos": "Entire Neighborhood Flies Rainbow Flags After Bigots Egg Their Gay Neighbors",
+      "neg": "Overview: “One person’s act of fear and maliciousness created such a powerful statement of love.\"",
+      "date": "2016-08-23",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: \"We will not let those lives taken from us ever be forgotten.\"",
+      "article": "\"We will not let those lives taken from us ever be forgotten.\"",
+      "pos": "Celebrities Come Together To Raise Funds For Pulse Tragedy",
+      "neg": "Overview: \"We will not let those lives taken from us ever be forgotten.\"",
+      "date": "2016-08-24",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: It's the first recorded occurrence for a same-sex couple in the country.",
+      "article": "It's the first recorded occurrence for a same-sex couple in the country.",
+      "pos": "Gay Couple Makes History In South Africa With Birth Of Triplets",
+      "neg": "Overview: It's the first recorded occurrence for a same-sex couple in the country.",
+      "date": "2016-08-24",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011276_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: At the Los Angeles Youth Network, it's all about the individual.",
+      "article": "At the Los Angeles Youth Network, it's all about the individual.",
+      "pos": "How This Organization Is Giving Homeless LGBT Youth New Hope",
+      "neg": "Overview: At the Los Angeles Youth Network, it's all about the individual.",
+      "date": "2016-08-26"
+    },
+    {
+      "id": "1011276_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Vickey and Kristen Hart share their tale of co-parenting, fostering and adoption.",
+      "article": "Vickey and Kristen Hart share their tale of co-parenting, fostering and adoption.",
+      "pos": "How Passion, Advocacy And Love Helped Create This Beautiful Family",
+      "neg": "Overview: Vickey and Kristen Hart share their tale of co-parenting, fostering and adoption.",
+      "date": "2016-09-09"
+    },
+    {
+      "id": "1011276_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"Children can be who they are and like what they like without having limits based on gender.",
+      "article": "\"Children can be who they are and like what they like without having limits based on gender.",
+      "pos": "This Boy's Dream Of Being A Princess Inspired An Innovative Kids' Book",
+      "neg": "Overview: \"Children can be who they are and like what they like without having limits",
+      "date": "2016-09-10"
+    },
+    {
+      "id": "1011276_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"I don’t know if it changed me, but it changed my life.\"",
+      "article": "\"I don’t know if it changed me, but it changed my life.\"",
+      "pos": "Last Words: Ginger Minj Reflects On ‘RuPaul’s All Stars Drag Race’",
+      "neg": "Overview: \"I don’t know if it changed me, but it changed my life.\"",
+      "date": "2016-09-12"
+    },
+    {
+      "id": "1011276_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"We all discover ourselves and part of that is discovering our gender self.\"",
+      "article": "\"We all discover ourselves and part of that is discovering our gender self.\"",
+      "pos": "'My Son Wears Heels': One Mom's Story of Raising A Gender Non-Conforming Child",
+      "neg": "Overview: \"We all discover ourselves and part of that is discovering our gender self.\"",
+      "date": "2016-09-13"
+    },
+    {
+      "id": "1011276_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"We aren’t just fighting religious ignorance down here, we are fighting ignorance thrown at us from other parts of the country.\"",
+      "article": "\"We aren’t just fighting religious ignorance down here, we are fighting ignorance thrown at us from other parts of the country.\"",
+      "pos": "This Gay Man Is Fighting For LGBT Rights In The South And Beyond",
+      "neg": "Overview: \"We aren’t just fighting religious ignorance down here, we are fighting ignorance thrown at",
+      "date": "2016-09-18"
+    },
+    {
+      "id": "1011276_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"I feel like my life is a book that has been written and now it’s being read.\"",
+      "article": "\"I feel like my life is a book that has been written and now it’s being read.\"",
+      "pos": "Last Words: Alyssa Edwards Reflects On ‘RuPaul’s All Stars Drag Race’",
+      "neg": "Overview: \"I feel like my life is a book that has been written and now",
+      "date": "2016-09-18"
+    },
+    {
+      "id": "1011276_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The couple also discusses Magic living with a positive HIV status.",
+      "article": "The couple also discusses Magic living with a positive HIV status.",
+      "pos": "Magic And Cookie Johnson Open Up About Their Son Coming Out As Gay",
+      "neg": "Overview: The couple also discusses Magic living with a positive HIV status.",
+      "date": "2016-09-22"
+    },
+    {
+      "id": "1011276_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"I want to develop an authentic conversation of who we are as Blatino gay men.\"",
+      "article": "\"I want to develop an authentic conversation of who we are as Blatino gay men.\"",
+      "pos": "Why Is Nightlife So Important To The Queer Black And Latino Communities?",
+      "neg": "Overview: \"I want to develop an authentic conversation of who we are as Blatino gay",
+      "date": "2016-09-25"
+    },
+    {
+      "id": "1011276",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: \"Why is the twist always that Kevin Spacey is the bad guy?\"",
+      "article": "\"Why is the twist always that Kevin Spacey is the bad guy?\"",
+      "pos": "Trevor Noah Slams Kevin Spacey For Choosing 'The Worst Time' To Come Out",
+      "neg": "Overview: \"Why is the twist always that Kevin Spacey is the bad guy?\"",
+      "date": "dev_target"
+    }
+  ]
+}

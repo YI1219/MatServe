@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u04_1011128",
+  "lamp_id": "1011128",
+  "rank": 4,
+  "n_profile_raw": 473,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: A fight broke out because the unnamed man couldn't stop passing gas.",
+      "article": "A fight broke out because the unnamed man couldn't stop passing gas.",
+      "pos": "Farting Passenger Forces Plane To Make Emergency Landing",
+      "neg": "Overview: A fight broke out because the unnamed man couldn't stop passing gas.",
+      "date": "2018-02-19",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: Even a conservative talk radio host objects: \"Come on, man. It doesn't make any sense.\"",
+      "article": "Even a conservative talk radio host objects: \"Come on, man. It doesn't make any sense.\"",
+      "pos": "Congressional Candidate Defends AR-15 Giveaway After School Shooting",
+      "neg": "Even a conservative talk radio host objects: \"Come on, man",
+      "date": "2018-02-20",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: Vicky Cornell believes the anxiety medication her husband took affected his judgment the night of his death.",
+      "article": "Vicky Cornell believes the anxiety medication her husband took affected his judgment the night of his death.",
+      "pos": "Chris Cornell's Widow Says Singer Would 'Never Have Ever Left This World'",
+      "neg": "Overview: Vicky Cornell believes the anxiety medication her husband took affected his judgment the night",
+      "date": "2018-02-21",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: The video they filmed angered a GOP politician in the state.",
+      "article": "The video they filmed angered a GOP politician in the state.",
+      "pos": "Exotic Dancers Show It's Easier To Get A Gun Than A Strippers' License In Tennessee",
+      "neg": "Overview: The video they filmed angered a GOP politician in the state.",
+      "date": "2018-02-21",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: \"It's apparent that 'wordvomit' and bad-mouthing is inexcusable,\" Jones said about his widely shared interviews.",
+      "article": "\"It's apparent that 'wordvomit' and bad-mouthing is inexcusable,\" Jones said about his widely shared interviews.",
+      "pos": "Quincy Jones Apologizes For Giving Best Interviews Of The Year",
+      "neg": "Overview: \"It's apparent that 'wordvomit' and bad-mouthing is inexcusable,\" Jones said about his widely shared",
+      "date": "2018-02-22",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: “Someone called and asked how we pronounced the village name and when I told him, he began yelling, ‘Wakanda forever!’\" a town employee says.",
+      "article": "“Someone called and asked how we pronounced the village name and when I told him, he began yelling, ‘Wakanda forever!’\" a town employee says.",
+      "pos": "'Black Panther' Fans Are Pranking Wauconda, Illinois, With Vibranium Requests",
+      "neg": "Overview: “Someone called and asked how we pronounced the village name and when I told",
+      "date": "2018-02-22",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: What's grosser? Not picking up trash or not taking responsiblity for it?",
+      "article": "What's grosser? Not picking up trash or not taking responsiblity for it?",
+      "pos": "New Fitness Trend 'Plogging' Keeps Both Humans And Mother Earth Healthy",
+      "neg": "Overview: What's grosser? Not picking up trash or not taking responsiblity for it?",
+      "date": "2018-02-23",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: Fabray, a versatile talent and television pioneer, played the mothers of Mary Tyler Moore, Bonnie Franklin and her own niece, Shelley Fabares.",
+      "article": "Fabray, a versatile talent and television pioneer, played the mothers of Mary Tyler Moore, Bonnie Franklin and her own niece, Shelley Fabares.",
+      "pos": "Perennial TV Mom Nanette Fabray Dead At 97",
+      "neg": "Overview: Fabray, a versatile talent and television pioneer, played the mothers of Mary Tyler Moore,",
+      "date": "2018-02-24",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: The TV and radio host has denied the accusations, and an E! News investigation ended in his favor.",
+      "article": "The TV and radio host has denied the accusations, and an E! News investigation ended in his favor.",
+      "pos": "Ryan Seacrest’s Former Stylist Says He Repeatedly Sexually Harassed And Assaulted Her",
+      "neg": "The TV and radio host has denied the accusations, and an E",
+      "date": "2018-02-26",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: When host Steve Harvey asked Kardashian, \"What is a body part that you’re constantly bumping into things with?” she reportedly said, \"My butt.\"",
+      "article": "When host Steve Harvey asked Kardashian, \"What is a body part that you’re constantly bumping into things with?” she reportedly said, \"My butt.\"",
+      "pos": "Kanye West, Kim Kardashian Film 'Family Feud' Episode",
+      "neg": "Overview: When host Steve Harvey asked Kardashian, \"What is a body part that you’re constantly",
+      "date": "2018-02-26",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: The E! personality has denied the allegations of his former stylist.",
+      "article": "The E! personality has denied the allegations of his former stylist.",
+      "pos": "Ryan Seacrest Will Work Red Carpet At Oscars Despite Sexual Misconduct Claims",
+      "neg": "Overview: The E! personality has denied the allegations of his former stylist.",
+      "date": "2018-02-27",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: The acclaimed essayist admits he's not convinced he \"can tell a great 'Captain America' story.\"",
+      "article": "The acclaimed essayist admits he's not convinced he \"can tell a great 'Captain America' story.\"",
+      "pos": "Ta-Nehisi Coates To Author Captain America Comic Books",
+      "neg": "Overview: The acclaimed essayist admits he's not convinced he \"can tell a great 'Captain America'",
+      "date": "2018-02-28",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: “The last thing I wanted to do was walk away from one of the great honors of my life,\" Kelly said about his position at the Department of Homeland Security.",
+      "article": "“The last thing I wanted to do was walk away from one of the great honors of my life,\" Kelly said about his position at the Department of Homeland Security.",
+      "pos": "John Kelly Jokes 'God Punished Me' By Making Him Trump's Chief Of Staff",
+      "neg": "Overview: “The last thing I wanted to do was walk away from one of the",
+      "date": "2018-03-01",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: \"It's a normal inclination to want to rally by your friends up until the point that they are convicted of something,\" Baldwin said.",
+      "article": "\"It's a normal inclination to want to rally by your friends up until the point that they are convicted of something,\" Baldwin said.",
+      "pos": "Alec Baldwin Says Defending Woody Allen Is 'A Normal Inclination'",
+      "neg": "Overview: \"It's a normal inclination to want to rally by your friends up until the",
+      "date": "2018-03-01",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: The suspect, wanted for murder in Russia, targeted a woman who looked like her and spoke Russian, authorities said.",
+      "article": "The suspect, wanted for murder in Russia, targeted a woman who looked like her and spoke Russian, authorities said.",
+      "pos": "Woman Accused Of Poisoning Friend With Cheesecake In Identity Theft Plot",
+      "neg": "Overview: The suspect, wanted for murder in Russia, targeted a woman who looked like her",
+      "date": "2018-03-01",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: Ross is being treated in a cardiac unit at a Florida hospital.",
+      "article": "Ross is being treated in a cardiac unit at a Florida hospital.",
+      "pos": "Rap Star Rick Ross Put On Life Support: Report",
+      "neg": "Overview: Ross is being treated in a cardiac unit at a Florida hospital.",
+      "date": "2018-03-02",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: “Semen is a very common way for us to donate,” one deer breeder said.",
+      "article": "“Semen is a very common way for us to donate,” one deer breeder said.",
+      "pos": "Deer Semen Donations Worth Big Bucks For Texas Democrat",
+      "neg": "Overview: “Semen is a very common way for us to donate,” one deer breeder said.",
+      "date": "2018-03-03",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: “But here’s the cool thing. The movie was so bad, they actually had to create a new category.\"",
+      "article": "“But here’s the cool thing. The movie was so bad, they actually had to create a new category.\"",
+      "pos": "The Rock Almost Seems Happy For 'Baywatch' Razzie Award",
+      "neg": "“But here’s the cool thing",
+      "date": "2018-03-05",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: The two Asian-American women wore periwinkle dresses to the Oscars -- but they do not look alike.",
+      "article": "The two Asian-American women wore periwinkle dresses to the Oscars -- but they do not look alike.",
+      "pos": "Getty Images Confuses Actress Kelly Marie Tran With Olympian Mirai Nagasu",
+      "neg": "Overview: The two Asian-American women wore periwinkle dresses to the Oscars -- but they do",
+      "date": "2018-03-05",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: \"If there’s no signature by [Trump], it’s not valid,\" Jay Goldberg said.",
+      "article": "\"If there’s no signature by [Trump], it’s not valid,\" Jay Goldberg said.",
+      "pos": "Former Trump Attorney Stuns 'Fox & Friends,' Says Stormy Daniels NDA Is Likely Invalid",
+      "neg": "Overview: \"If there’s no signature by [Trump], it’s not valid,\" Jay Goldberg said.",
+      "date": "2018-03-07",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: The handwriting and details in the note matched with the captain's log of a German ship.",
+      "article": "The handwriting and details in the note matched with the captain's log of a German ship.",
+      "pos": "Australian Woman Discovers Message In A Bottle Sent In 1886",
+      "neg": "Overview: The handwriting and details in the note matched with the captain's log of a",
+      "date": "2018-03-07",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: A woman allegedly hit the victim twice with a beer bottle and said, “I don’t want black people in this place or in front of me.”",
+      "article": "A woman allegedly hit the victim twice with a beer bottle and said, “I don’t want black people in this place or in front of me.”",
+      "pos": "White Attacker Allegedly Tells Black Man, 'I Can Kill You And Nothing Will Happen'",
+      "neg": "Overview: A woman allegedly hit the victim twice with a beer bottle and said, “I",
+      "date": "2018-03-07",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: Marine officials said language on the altered sign contradicts the organization's core values.",
+      "article": "Marine officials said language on the altered sign contradicts the organization's core values.",
+      "pos": "Movie Theater's 'Black Panther' Marquee Vandalized With Racist Slur",
+      "neg": "Overview: Marine officials said language on the altered sign contradicts the organization's core values.",
+      "date": "2018-03-08",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: “I got very upset, I was crying, I threw up two or three times.”",
+      "article": "“I got very upset, I was crying, I threw up two or three times.”",
+      "pos": "Woman Finds Bloody Tooth (Not Her Own) In Bag Of Cashews",
+      "neg": "Overview: “I got very upset, I was crying, I threw up two or three times.”",
+      "date": "2018-03-08",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: The porn star asks that if you call her a skank, at least spell it correctly.",
+      "article": "The porn star asks that if you call her a skank, at least spell it correctly.",
+      "pos": "Stormy Daniels Has Some Amazing Comebacks For Angry People On Twitter",
+      "neg": "Overview: The porn star asks that if you call her a skank, at least spell",
+      "date": "2018-03-09",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: She was at the same Lake Tahoe event where Trump allegedly chatted up Stormy.",
+      "article": "She was at the same Lake Tahoe event where Trump allegedly chatted up Stormy.",
+      "pos": "Trump Accuser Jessica Drake Named In Stormy Daniels' Nondisclosure Agreement",
+      "neg": "Overview: She was at the same Lake Tahoe event where Trump allegedly chatted up Stormy.",
+      "date": "2018-03-09",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: The senator from Florida previously said he supported raising the legal age to 21.",
+      "article": "The senator from Florida previously said he supported raising the legal age to 21.",
+      "pos": "Marco Rubio Still Wants 18-Year-Olds To Be Able To Buy Guns",
+      "neg": "Overview: The senator from Florida previously said he supported raising the legal age to 21.",
+      "date": "2018-03-10",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: If Trump accepts the deal, the actress would be free to publish any text messages, photos and videos she has of the president.",
+      "article": "If Trump accepts the deal, the actress would be free to publish any text messages, photos and videos she has of the president.",
+      "pos": "Stormy Daniels Wants To Return The $130,000 And End Her Silence",
+      "neg": "Overview: If Trump accepts the deal, the actress would be free to publish any text",
+      "date": "2018-03-12",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: \"We all want a good life where we are treated like everyone else and not discriminated against,” the winner says.",
+      "article": "\"We all want a good life where we are treated like everyone else and not discriminated against,” the winner says.",
+      "pos": "Vietnamese Singer Wins International Transgender Beauty Pageant",
+      "neg": "Overview: \"We all want a good life where we are treated like everyone else and",
+      "date": "2018-03-12",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: He came to praise the former secretary of state, but ...",
+      "article": "He came to praise the former secretary of state, but ...",
+      "pos": "1 Typo Makes Sean Spicer's Rex Tillerson Tweet Unintentionally Truthful",
+      "neg": "Overview: He came to praise the former secretary of state, but ...",
+      "date": "2018-03-13",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: People think Yogi looks like Zach Galifianakis or maybe Paul Rudd or closer to Jake Gyllenhaal.",
+      "article": "People think Yogi looks like Zach Galifianakis or maybe Paul Rudd or closer to Jake Gyllenhaal.",
+      "pos": "This Puppy With A Strangely Human Face Is Freaking Out The Internet",
+      "neg": "Overview: People think Yogi looks like Zach Galifianakis or maybe Paul Rudd or closer to",
+      "date": "2018-03-13",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: The cashier assumed the robber was actually white because his skin tone appeared irregular and blotchy.",
+      "article": "The cashier assumed the robber was actually white because his skin tone appeared irregular and blotchy.",
+      "pos": "Accused Casino Robber Tried To Disguise Himself With Blackface",
+      "neg": "Overview: The cashier assumed the robber was actually white because his skin tone appeared irregular",
+      "date": "2018-03-14",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: \"I don’t deny any of the content,\" he told a French outlet.",
+      "article": "\"I don’t deny any of the content,\" he told a French outlet.",
+      "pos": "Steve Bannon Doesn't Deny Anything He Said In 'Fire And Fury'",
+      "neg": "Overview: \"I don’t deny any of the content,\" he told a French outlet.",
+      "date": "2018-03-15",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: \"I thought he made a bad choice in attacking the flag,\" Simpson said.",
+      "article": "\"I thought he made a bad choice in attacking the flag,\" Simpson said.",
+      "pos": "O.J. Simpson Dismisses Colin Kaepernick: 'I Would Always Stand Up For The Flag'",
+      "neg": "Overview: \"I thought he made a bad choice in attacking the flag,\" Simpson said.",
+      "date": "2018-03-16",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: \"If Mr. Trump runs four more times, I would vote for him every time,\" the porn star's mother said.",
+      "article": "\"If Mr. Trump runs four more times, I would vote for him every time,\" the porn star's mother said.",
+      "pos": "Stormy Daniels' Mom Hopes Daughter's Lawsuit Doesn't Hurt Donald Trump",
+      "neg": "Overview: \"If Mr. Trump runs four more times, I would vote for him every time,\"",
+      "date": "2018-03-16",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: The footrest on the electrically-powered seat clamped down on the victim's head.",
+      "article": "The footrest on the electrically-powered seat clamped down on the victim's head.",
+      "pos": "Man Dies After Getting Head Stuck In Movie Theater Seat",
+      "neg": "Overview: The footrest on the electrically-powered seat clamped down on the victim's head.",
+      "date": "2018-03-21",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: \"Please tell us why and what you were doing hanging around all those locker rooms, Joe? Taking in the sights?\" the former sheriff tweeted.",
+      "article": "\"Please tell us why and what you were doing hanging around all those locker rooms, Joe? Taking in the sights?\" the former sheriff tweeted.",
+      "pos": "David Clarke Makes A Tacky, Homophobic Joke About Joe Biden",
+      "neg": "\"Please tell us why and what you were doing hanging around all those locker rooms, Joe",
+      "date": "2018-03-21",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: “That’s a ‘D’ or an ‘F’ if this were a spelling or grammar quiz,” King said.",
+      "article": "“That’s a ‘D’ or an ‘F’ if this were a spelling or grammar quiz,” King said.",
+      "pos": "CNN Host John King Schools Trump: Spelling Matters",
+      "neg": "Overview: “That’s a ‘D’ or an ‘F’ if this were a spelling or grammar quiz,”",
+      "date": "2018-03-21",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: Her advice: \"Eat the ice cream, have the French fry, don’t buy the street drug.\"",
+      "article": "Her advice: \"Eat the ice cream, have the French fry, don’t buy the street drug.\"",
+      "pos": "Twitter Users Just Say No To Kellyanne Conway's Drug Abuse Cure",
+      "neg": "Overview: Her advice: \"Eat the ice cream, have the French fry, don’t buy the street",
+      "date": "2018-03-22",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: \"I was really sad. It really hurt me, but I went back,\" she tells CNN's Anderson Cooper.",
+      "article": "\"I was really sad. It really hurt me, but I went back,\" she tells CNN's Anderson Cooper.",
+      "pos": "Ex-Playboy Model Who Claims Affair With Trump Says He Made Her Cry",
+      "neg": "Overview: \"I was really sad. It really hurt me, but I went back,\" she tells",
+      "date": "2018-03-22",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: The school plans to hold a memorial for Draylen Mason in the future.",
+      "article": "The school plans to hold a memorial for Draylen Mason in the future.",
+      "pos": "Teenage Musician Killed In Austin Bombings Admitted Into Prestigious Conservatory",
+      "neg": "Overview: The school plans to hold a memorial for Draylen Mason in the future.",
+      "date": "2018-03-26",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: The comedienne incorrectly believes ingesting a toxic solvent will give you “the best doo-doo” of your life.",
+      "article": "The comedienne incorrectly believes ingesting a toxic solvent will give you “the best doo-doo” of your life.",
+      "pos": "Tiffany Haddish Extols Virtues Of Drinking Poisonous Turpentine",
+      "neg": "Overview: The comedienne incorrectly believes ingesting a toxic solvent will give you “the best doo-doo”",
+      "date": "2018-03-26",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: “[W]e found absolutely no evidence ... that his allegations of having his hair cut at school exist.\"",
+      "article": "“[W]e found absolutely no evidence ... that his allegations of having his hair cut at school exist.\"",
+      "pos": "Mississippi School Finds No Evidence Principal Cut Student's Hair Without Permission (UPDATE)",
+      "neg": "“[W]e found absolutely no evidence ..",
+      "date": "2018-03-28",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: “If I Wanna Wear A Dress, Then I Will,\" he tweeted.",
+      "article": "“If I Wanna Wear A Dress, Then I Will,\" he tweeted.",
+      "pos": "Don't Tell Jaden Smith He Can't Wear A Dress",
+      "neg": "Overview: “If I Wanna Wear A Dress, Then I Will,\" he tweeted.",
+      "date": "2018-03-28",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: A disapproving witness reported \"lewd acts\" on the costumed creature, police said.",
+      "article": "A disapproving witness reported \"lewd acts\" on the costumed creature, police said.",
+      "pos": "Woman Arrested After Raunchy Come-On To Easter Bunny",
+      "neg": "Overview: A disapproving witness reported \"lewd acts\" on the costumed creature, police said.",
+      "date": "2018-03-28",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: In the 1990s, John Kricfalusi reportedly made a drawing of a dog ejaculating on one of the two women.",
+      "article": "In the 1990s, John Kricfalusi reportedly made a drawing of a dog ejaculating on one of the two women.",
+      "pos": "'Ren & Stimpy' Creator Accused Of Sexually Abusing Teen Girls",
+      "neg": "Overview: In the 1990s, John Kricfalusi reportedly made a drawing of a dog ejaculating on",
+      "date": "2018-03-29",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: He allegedly told his longtime girlfriend he wanted to hit her in the head with a baseball bat.",
+      "article": "He allegedly told his longtime girlfriend he wanted to hit her in the head with a baseball bat.",
+      "pos": "Rapper Fabolous Accused Of Assaulting Girlfriend Emily B",
+      "neg": "Overview: He allegedly told his longtime girlfriend he wanted to hit her in the head",
+      "date": "2018-03-30",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: “For me, it’s important to highlight that I’m not the only student of color who is achieving,” 17-year-old Micheal Brown said.",
+      "article": "“For me, it’s important to highlight that I’m not the only student of color who is achieving,” 17-year-old Micheal Brown said.",
+      "pos": "Houston Teen Awarded Full-Ride Scholarships To 20 Top Colleges",
+      "neg": "Overview: “For me, it’s important to highlight that I’m not the only student of color",
+      "date": "2018-04-02",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: Looks like some teens need to be told not to use condoms.",
+      "article": "Looks like some teens need to be told not to use condoms.",
+      "pos": "Hopefully We Don't Need To Tell You That Condom Snorting Is A Bad Idea",
+      "neg": "Overview: Looks like some teens need to be told not to use condoms.",
+      "date": "2018-04-02",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: It's a wild story that involves a suitcase full of pepperoni, large incontinent birds and a heartfelt apology.",
+      "article": "It's a wild story that involves a suitcase full of pepperoni, large incontinent birds and a heartfelt apology.",
+      "pos": "Man Seeks Mercy From Hotel That Banned Him After Seagulls Trashed His Room",
+      "neg": "Overview: It's a wild story that involves a suitcase full of pepperoni, large incontinent birds",
+      "date": "2018-04-03",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: The annual event raises awareness about safe sex and money for HIV charities.",
+      "article": "The annual event raises awareness about safe sex and money for HIV charities.",
+      "pos": "This Annual Penis Festival In Japan Is About More Than Just Giant Schlongs",
+      "neg": "Overview: The annual event raises awareness about safe sex and money for HIV charities.",
+      "date": "2018-04-03",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: But when the White House needed a guy for the rabbit suit, this military officer hopped to it.",
+      "article": "But when the White House needed a guy for the rabbit suit, this military officer hopped to it.",
+      "pos": "Man Who Dressed Up As White House Easter Bunny Usually Serves With Dignity",
+      "neg": "Overview: But when the White House needed a guy for the rabbit suit, this military",
+      "date": "2018-04-04",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: Though he later said \"all cheap beer is pretty much the same.\"",
+      "article": "Though he later said \"all cheap beer is pretty much the same.\"",
+      "pos": "Possibly Tipsy Man Loves Cheap Costco Beer So Much, He Made A Commercial For It",
+      "neg": "Overview: Though he later said \"all cheap beer is pretty much the same.\"",
+      "date": "2018-04-04",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: Karamel is believed to be the first squirrel to be given prosthetics.",
+      "article": "Karamel is believed to be the first squirrel to be given prosthetics.",
+      "pos": "Squirrel Who Lost Paws In Trap Gets Prosthetic Wheels",
+      "neg": "Overview: Karamel is believed to be the first squirrel to be given prosthetics.",
+      "date": "2018-04-04",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: \"Just because someone doesn't feel the way you do, doesn't mean they're psycho,\" the author said.",
+      "article": "\"Just because someone doesn't feel the way you do, doesn't mean they're psycho,\" the author said.",
+      "pos": "Author Of Viral 'Prom Dress/Wedding Dress' Reveals Why She Really Wrote It",
+      "neg": "Overview: \"Just because someone doesn't feel the way you do, doesn't mean they're psycho,\" the",
+      "date": "2018-04-06",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: “President Trump, I’m speaking to you directly,” Bassam Rifai said during an interview on Fox News.",
+      "article": "“President Trump, I’m speaking to you directly,” Bassam Rifai said during an interview on Fox News.",
+      "pos": "Fox News Guest Personally Asks Donald Trump To Bomb Syrian Air Force During Segment",
+      "neg": "Overview: “President Trump, I’m speaking to you directly,” Bassam Rifai said during an interview on",
+      "date": "2018-04-09",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: The comedian has joked about his wife's crush on the 22-year-old.",
+      "article": "The comedian has joked about his wife's crush on the 22-year-old.",
+      "pos": "Timothée Chalamet's Youth And Charm Make John Mulaney Very Insecure",
+      "neg": "Overview: The comedian has joked about his wife's crush on the 22-year-old.",
+      "date": "2018-04-09",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: The record holder's granddaughter says he credits his longevity to sweets.",
+      "article": "The record holder's granddaughter says he credits his longevity to sweets.",
+      "pos": "112-Year-Old Japanese Man Is World's Oldest Living Male",
+      "neg": "Overview: The record holder's granddaughter says he credits his longevity to sweets.",
+      "date": "2018-04-10",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: “I don’t think all social media is terrible,\" the artist insists.",
+      "article": "“I don’t think all social media is terrible,\" the artist insists.",
+      "pos": "Artist's Neon Signs Showcase The Worst Parts Of Each Social Media Platform",
+      "neg": "Overview: “I don’t think all social media is terrible,\" the artist insists.",
+      "date": "2018-04-10",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: But that's the female doll. Sergi Santos is a little worried about what will happen when they've built a male robot.",
+      "article": "But that's the female doll. Sergi Santos is a little worried about what will happen when they've built a male robot.",
+      "pos": "Robot Sex Doll Inventor Claims It Has Improved His Marriage",
+      "neg": "But that's the female doll",
+      "date": "2018-04-10",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: It was a fun idea, \"but not 24 hours a day,\" said a man who lives near the road.",
+      "article": "It was a fun idea, \"but not 24 hours a day,\" said a man who lives near the road.",
+      "pos": "'Singing' Road Is Driving Dutch Villagers Crazy",
+      "neg": "Overview: It was a fun idea, \"but not 24 hours a day,\" said a man",
+      "date": "2018-04-11",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: A Gallup poll from October shows that 64 percent of Americans favor making marijuana legal.",
+      "article": "A Gallup poll from October shows that 64 percent of Americans favor making marijuana legal.",
+      "pos": "Former House Speaker John Boehner Is Now Lobbying For Medical Marijuana",
+      "neg": "Overview: A Gallup poll from October shows that 64 percent of Americans favor making marijuana",
+      "date": "2018-04-11",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: They say cleanliness is next to godliness, but we're talking about Trump here.",
+      "article": "They say cleanliness is next to godliness, but we're talking about Trump here.",
+      "pos": "Mashup Video Proves Donald Trump Really Is A Clean Freak",
+      "neg": "Overview: They say cleanliness is next to godliness, but we're talking about Trump here.",
+      "date": "2018-04-12",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: Fabiana LeFleur warned the suit has little support in the bosom, so wardrobe malfunctions are \"inevitable.\"",
+      "article": "Fabiana LeFleur warned the suit has little support in the bosom, so wardrobe malfunctions are \"inevitable.\"",
+      "pos": "Louisiana Woman Creates Frog Bikini (And It's Ribbiting)",
+      "neg": "Overview: Fabiana LeFleur warned the suit has little support in the bosom, so wardrobe malfunctions",
+      "date": "2018-04-12",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: The message on those boxing shorts is truly below the belt.",
+      "article": "The message on those boxing shorts is truly below the belt.",
+      "pos": "Boxer Wearing 'America 1st' Shorts Gets Pounded By Mexican Opponent",
+      "neg": "Overview: The message on those boxing shorts is truly below the belt.",
+      "date": "2018-04-13",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: Video shows the actor sitting up in a stretcher talking on his phone.",
+      "article": "Video shows the actor sitting up in a stretcher talking on his phone.",
+      "pos": "Will Ferrell Taken To Hospital After Car Flips In Freeway Crash",
+      "neg": "Overview: Video shows the actor sitting up in a stretcher talking on his phone.",
+      "date": "2018-04-13",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: \"She just freaken admitted that Trump should not have won!\" one Twitter user said.",
+      "article": "\"She just freaken admitted that Trump should not have won!\" one Twitter user said.",
+      "pos": "Twitter Users Hilariously Slam Kellyanne Conway's Comey Comments",
+      "neg": "Overview: \"She just freaken admitted that Trump should not have won!\" one Twitter user said.",
+      "date": "2018-04-16",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: It was sort of awkward when the big news story on Monday was Smith's colleague.",
+      "article": "It was sort of awkward when the big news story on Monday was Smith's colleague.",
+      "pos": "Shep Smith Calls Sean Hannity 'The Elephant In The Room' For Reported Michael Cohen Ties",
+      "neg": "Overview: It was sort of awkward when the big news story on Monday was Smith's",
+      "date": "2018-04-16",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: Patrons of the plastic prostitutes have mostly been respectful. But there was this one guy.",
+      "article": "Patrons of the plastic prostitutes have mostly been respectful. But there was this one guy.",
+      "pos": "World's First Sex Doll Brothel Caters To Those Who Don't Want Human Touch",
+      "neg": "Patrons of the plastic prostitutes have mostly been respectful",
+      "date": "2018-04-18",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: The pilot who calmly landed a stricken airliner this week is one of many women who have owned the skies.",
+      "article": "The pilot who calmly landed a stricken airliner this week is one of many women who have owned the skies.",
+      "pos": "Southwest's Tammie Jo Shults Joins The Legacy of Badass Female Pilots",
+      "neg": "Overview: The pilot who calmly landed a stricken airliner this week is one of many",
+      "date": "2018-04-19",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: A person in the video swears to always hate black people, Latinos and Jews.",
+      "article": "A person in the video swears to always hate black people, Latinos and Jews.",
+      "pos": "Syracuse University Suspends Fraternity For Racist, Sexist Video",
+      "neg": "Overview: A person in the video swears to always hate black people, Latinos and Jews.",
+      "date": "2018-04-20",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: According to these films, smoking pot may make you dance the Charleston.",
+      "article": "According to these films, smoking pot may make you dance the Charleston.",
+      "pos": "These Old Marijuana Movie Posters May Scare You Into Smoking Pot",
+      "neg": "Overview: According to these films, smoking pot may make you dance the Charleston.",
+      "date": "2018-04-20",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: The actress is accused of recruiting women who were forced to engage in sex with a cult leader.",
+      "article": "The actress is accused of recruiting women who were forced to engage in sex with a cult leader.",
+      "pos": "'Smallville' Actress Allison Mack Is Charged With Sex Trafficking",
+      "neg": "Overview: The actress is accused of recruiting women who were forced to engage in sex",
+      "date": "2018-04-20",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: The father allegedly told his daughter, “What did you do? Were you playing with daddy’s gun? ... You aren’t supposed to play with daddy’s gun.”",
+      "article": "The father allegedly told his daughter, “What did you do? Were you playing with daddy’s gun? ... You aren’t supposed to play with daddy’s gun.”",
+      "pos": "Felony Charges For Father Of Toddler Who Shot Pregnant Mom",
+      "neg": "The father allegedly told his daughter, “What did you do? Were you playing with daddy’s gun? ..",
+      "date": "2018-04-21",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: The invitation read: “If I was black, I’d be picking cotton, but I’m white so I’m picking u 4 ... prom?”",
+      "article": "The invitation read: “If I was black, I’d be picking cotton, but I’m white so I’m picking u 4 ... prom?”",
+      "pos": "Florida Teen Apologizes For Racist Promposal Sign",
+      "neg": "The invitation read: “If I was black, I’d be picking cotton, but I’m white so I’m picking u 4 ..",
+      "date": "2018-04-23",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: \"I don't blame the shark, I don't blame the bear, and I don't blame the rattlesnake,\" the victim said.",
+      "article": "\"I don't blame the shark, I don't blame the bear, and I don't blame the rattlesnake,\" the victim said.",
+      "pos": "Man Who Survived Bear Attack Gets Bitten By A Shark",
+      "neg": "Overview: \"I don't blame the shark, I don't blame the bear, and I don't blame",
+      "date": "2018-04-23",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: The jazz musician also wrote classic kids songs like \"Three Is a Magic Number\" and \"Conjunction Junction.\"",
+      "article": "The jazz musician also wrote classic kids songs like \"Three Is a Magic Number\" and \"Conjunction Junction.\"",
+      "pos": "'Schoolhouse Rock' Composer Bob Dorough Dead At 94",
+      "neg": "Overview: The jazz musician also wrote classic kids songs like \"Three Is a Magic Number\"",
+      "date": "2018-04-24",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: Mack is not allowed any contact with members of the alleged Nxivm cult.",
+      "article": "Mack is not allowed any contact with members of the alleged Nxivm cult.",
+      "pos": "Actress Allison Mack Is Released To Her Parents On $5 Million Bail In Sex Trafficking Case",
+      "neg": "Overview: Mack is not allowed any contact with members of the alleged Nxivm cult.",
+      "date": "2018-04-24",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: Noah Crowley's parents and school decided he won't be attending any more school functions.",
+      "article": "Noah Crowley's parents and school decided he won't be attending any more school functions.",
+      "pos": "No Prom Or Graduation Ceremony For Teen Who Made Racist Promposal Sign",
+      "neg": "Overview: Noah Crowley's parents and school decided he won't be attending any more school functions.",
+      "date": "2018-04-24",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: ″My photo seems to have traveled far. I say it is because of the color of my hair,” she said.",
+      "article": "″My photo seems to have traveled far. I say it is because of the color of my hair,” she said.",
+      "pos": "Spanish Woman Looks More Like Trump Than The Donald Himself",
+      "neg": "″My photo seems to have traveled far",
+      "date": "2018-04-24",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011128_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “Being a New Yorker, I don’t have any interest in watching the eclipse,\" he previously said.",
+      "article": "“Being a New Yorker, I don’t have any interest in watching the eclipse,\" he previously said.",
+      "pos": "Steven Mnuchin Sure Seemed To Enjoy The Eclipse He Claimed Not To Care About",
+      "neg": "Overview: “Being a New Yorker, I don’t have any interest in watching the eclipse,\" he",
+      "date": "2018-04-25"
+    },
+    {
+      "id": "1011128_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"This person should be the last one to argue the merits of a #MuslimBan,\" one commenter wrote.",
+      "article": "\"This person should be the last one to argue the merits of a #MuslimBan,\" one commenter wrote.",
+      "pos": "Attorney Arguing For Trump Travel Ban Calls Islam 'A Great Country'",
+      "neg": "Overview: \"This person should be the last one to argue the merits of a #MuslimBan,\"",
+      "date": "2018-04-25"
+    },
+    {
+      "id": "1011128_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Former manager Klenord “Shaft” Raphael says he's responsible for her success.",
+      "article": "Former manager Klenord “Shaft” Raphael says he's responsible for her success.",
+      "pos": "Cardi B's Former Manager Sues Her For $10 Million",
+      "neg": "Overview: Former manager Klenord “Shaft” Raphael says he's responsible for her success.",
+      "date": "2018-04-26"
+    },
+    {
+      "id": "1011128_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The signs both read, “If I was black, I’d be picking cotton, but I’m white so I’m picking u 4 prom?”",
+      "article": "The signs both read, “If I was black, I’d be picking cotton, but I’m white so I’m picking u 4 prom?”",
+      "pos": "Florida Teen's Racist Promposal Sign Appears To Inspire Copycat In Missouri",
+      "neg": "Overview: The signs both read, “If I was black, I’d be picking cotton, but I’m",
+      "date": "2018-04-26"
+    },
+    {
+      "id": "1011128_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Their \"SNL\" boss, Lorne Michael, has the producing chores for the September show.",
+      "article": "Their \"SNL\" boss, Lorne Michael, has the producing chores for the September show.",
+      "pos": "Michael Che, Colin Jost To Host 2018 Emmy Awards",
+      "neg": "Overview: Their \"SNL\" boss, Lorne Michael, has the producing chores for the September show.",
+      "date": "2018-04-26"
+    },
+    {
+      "id": "1011128_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Rose McGowan, Terry Crews and other celebs all had something to say.",
+      "article": "Rose McGowan, Terry Crews and other celebs all had something to say.",
+      "pos": "Hollywood Celebrities React To Bill Cosby Guilty Verdict",
+      "neg": "Overview: Rose McGowan, Terry Crews and other celebs all had something to say.",
+      "date": "2018-04-26"
+    },
+    {
+      "id": "1011128_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: There's a donut stand about 150 meters into the run — it's next to the smoking section.",
+      "article": "There's a donut stand about 150 meters into the run — it's next to the smoking section.",
+      "pos": "Texas Town's '0.5K' Fun Run Is A Cakewalk Even For The Lazy",
+      "neg": "Overview: There's a donut stand about 150 meters into the run — it's next to",
+      "date": "2018-04-27"
+    },
+    {
+      "id": "1011128_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: A police officer has been placed on administrative leave as a result of the confrontation with Desmond Marrow.",
+      "article": "A police officer has been placed on administrative leave as a result of the confrontation with Desmond Marrow.",
+      "pos": "Ex-NFL Player Says He Was Violently Arrested After Cops Mistook His Phone For A Gun",
+      "neg": "Overview: A police officer has been placed on administrative leave as a result of the",
+      "date": "2018-04-27"
+    },
+    {
+      "id": "1011128_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: In a blow to basic Republican beliefs, he suggests increasing government spending.",
+      "article": "In a blow to basic Republican beliefs, he suggests increasing government spending.",
+      "pos": "Sen. Marco Rubio Admits There's No Proof Tax Cut Is Helping American Workers",
+      "neg": "Overview: In a blow to basic Republican beliefs, he suggests increasing government spending.",
+      "date": "2018-04-30"
+    },
+    {
+      "id": "1011128",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: “I shut off my Marvel machine. I haven’t been able to see any of the movies,\" Tatum told Variety.",
+      "article": "“I shut off my Marvel machine. I haven’t been able to see any of the movies,\" Tatum told Variety.",
+      "pos": "Channing Tatum Says He's Too 'Traumatized' To Watch Any Marvel Movies",
+      "neg": "“I shut off my Marvel machine",
+      "date": "dev_target"
+    }
+  ]
+}

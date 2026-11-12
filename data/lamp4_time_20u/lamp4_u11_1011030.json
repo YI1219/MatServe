@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u11_1011030",
+  "lamp_id": "1011030",
+  "rank": 11,
+  "n_profile_raw": 249,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: “The Trump administration is not above the law — and we will not let them put our kids at risk.\"",
+      "article": "“The Trump administration is not above the law — and we will not let them put our kids at risk.\"",
+      "pos": "Environmental Groups Take Trump EPA To Court To Force Ban Of Brain-Draining Pesticide",
+      "neg": "Overview: “The Trump administration is not above the law — and we will not let",
+      "date": "2017-04-06",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: A $9 million pilot project aims to protect key areas of the Great Barrier Reef from bleaching.",
+      "article": "A $9 million pilot project aims to protect key areas of the Great Barrier Reef from bleaching.",
+      "pos": "Australia Floats Plan To Keep Corals Cool In A Warming World",
+      "neg": "Overview: A $9 million pilot project aims to protect key areas of the Great Barrier",
+      "date": "2017-04-08",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: The GOP governor claims the publication doesn't fit the Department of Natural Resources' core mission.",
+      "article": "The GOP governor claims the publication doesn't fit the Department of Natural Resources' core mission.",
+      "pos": "Scott Walker Moves To Kill A Century-Old Nature Magazine, And Readers Are Furious",
+      "neg": "Overview: The GOP governor claims the publication doesn't fit the Department of Natural Resources' core",
+      "date": "2017-04-10",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: CEO Oscar Munoz says airline agents were \"left with no choice\" but to call security.",
+      "article": "CEO Oscar Munoz says airline agents were \"left with no choice\" but to call security.",
+      "pos": "United CEO Blames 'Belligerent' Customer For Flight Melee",
+      "neg": "Overview: CEO Oscar Munoz says airline agents were \"left with no choice\" but to call",
+      "date": "2017-04-11",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: “No one should ever be mistreated this way,\" CEO Oscar Munoz said.",
+      "article": "“No one should ever be mistreated this way,\" CEO Oscar Munoz said.",
+      "pos": "United CEO Apologizes For Flight Fiasco, Promises To 'Fix What's Broken'",
+      "neg": "Overview: “No one should ever be mistreated this way,\" CEO Oscar Munoz said.",
+      "date": "2017-04-11",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: “I got a question mark on the global warming thing,” Atlanta's Kwanza Hall said a day before laying out a sustainability plan.",
+      "article": "“I got a question mark on the global warming thing,” Atlanta's Kwanza Hall said a day before laying out a sustainability plan.",
+      "pos": "Mayoral Candidate Follows Up Climate Change Skepticism With Green Energy Pledge",
+      "neg": "Overview: “I got a question mark on the global warming thing,” Atlanta's Kwanza Hall said",
+      "date": "2017-04-12",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: The mining company paid a $3 million fine last year for violating environmental laws.",
+      "article": "The mining company paid a $3 million fine last year for violating environmental laws.",
+      "pos": "Scott Pruitt Heads To Coal Mine To Pitch New EPA Agenda",
+      "neg": "Overview: The mining company paid a $3 million fine last year for violating environmental laws.",
+      "date": "2017-04-14",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: Rep. Don Beyer calls on experts to correct the bad info pushed by the Republican majority.",
+      "article": "Rep. Don Beyer calls on experts to correct the bad info pushed by the Republican majority.",
+      "pos": "House Democrat Fact-Checks Science Committee’s Climate Nonsense",
+      "neg": "Overview: Rep. Don Beyer calls on experts to correct the bad info pushed by the",
+      "date": "2017-04-14",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: Nearly 4 in 10 Americans live in areas with dangerous levels of pollution, according to the ALA's \"State of the Air\" report.",
+      "article": "Nearly 4 in 10 Americans live in areas with dangerous levels of pollution, according to the ALA's \"State of the Air\" report.",
+      "pos": "Trump Shouldn't Mess With The Clean Air Act, American Lung Association Warns",
+      "neg": "Overview: Nearly 4 in 10 Americans live in areas with dangerous levels of pollution, according",
+      "date": "2017-04-19",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: \"Medical help is on the way\" for Utah's 3rd Congressional District, Democratic hopeful Kathryn Allen said.",
+      "article": "\"Medical help is on the way\" for Utah's 3rd Congressional District, Democratic hopeful Kathryn Allen said.",
+      "pos": "Utah Physician Says She'll Happily Do The Job Jason Chaffetz Won't",
+      "neg": "Overview: \"Medical help is on the way\" for Utah's 3rd Congressional District, Democratic hopeful Kathryn",
+      "date": "2017-04-20",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: The March for Science on Saturday drew droves of graduate students worried about funding for jobs drying up.",
+      "article": "The March for Science on Saturday drew droves of graduate students worried about funding for jobs drying up.",
+      "pos": "Aspiring Scientists, Fearful For The Future, March Against Donald Trump",
+      "neg": "Overview: The March for Science on Saturday drew droves of graduate students worried about funding",
+      "date": "2017-04-22",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: “We are suing because none of us and none of you have time to wait,” plaintiff Kelsey Juliana said.",
+      "article": "“We are suing because none of us and none of you have time to wait,” plaintiff Kelsey Juliana said.",
+      "pos": "Youth Suing Trump Bring Climate Fight To Washington",
+      "neg": "Overview: “We are suing because none of us and none of you have time to",
+      "date": "2017-04-27",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: The EU “wishes to make an urgent humanitarian appeal,\" the ambassador to the U.S. wrote to Arkansas Gov. Asa Hutchinson.",
+      "article": "The EU “wishes to make an urgent humanitarian appeal,\" the ambassador to the U.S. wrote to Arkansas Gov. Asa Hutchinson.",
+      "pos": "European Union Pleads For Arkansas To Stop Execution",
+      "neg": "The EU “wishes to make an urgent humanitarian appeal,\" the ambassador to the U.S",
+      "date": "2017-04-27",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: \"We want this date to be remembered not just as Trump’s 100th day in office but also as the day we filled the streets.\"",
+      "article": "\"We want this date to be remembered not just as Trump’s 100th day in office but also as the day we filled the streets.\"",
+      "pos": "Thousands Are Flocking To Washington This Weekend To Demand Climate Action",
+      "neg": "Overview: \"We want this date to be remembered not just as Trump’s 100th day in",
+      "date": "2017-04-28",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: \"Stephens is entitled to share his opinions, but not 'alternative facts.'\"",
+      "article": "\"Stephens is entitled to share his opinions, but not 'alternative facts.'\"",
+      "pos": "Climate Scientists Have A Scathing Response To Bret Stephens' First NYT Column",
+      "neg": "Overview: \"Stephens is entitled to share his opinions, but not 'alternative facts.'\"",
+      "date": "2017-05-02",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: Boston fans threw food at Adam Jones and called him the N-word at Monday's game.",
+      "article": "Boston fans threw food at Adam Jones and called him the N-word at Monday's game.",
+      "pos": "Orioles Player Scores A Standing Ovation At Fenway In Apology For Racial Slurs",
+      "neg": "Overview: Boston fans threw food at Adam Jones and called him the N-word at Monday's",
+      "date": "2017-05-03",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: As part of its review, the Interior Department will begin accepting public comment later this month.",
+      "article": "As part of its review, the Interior Department will begin accepting public comment later this month.",
+      "pos": "Here Are The 27 National Monuments Threatened By Trump's Order",
+      "neg": "Overview: As part of its review, the Interior Department will begin accepting public comment later",
+      "date": "2017-05-06",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: The Obama-era regulation is one the agency plans to “suspend, revise or rescind.\"",
+      "article": "The Obama-era regulation is one the agency plans to “suspend, revise or rescind.\"",
+      "pos": "Senate Can't Pass Methane Rollback So Interior Decides To Do It Anyway",
+      "neg": "Overview: The Obama-era regulation is one the agency plans to “suspend, revise or rescind.\"",
+      "date": "2017-05-10",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: The company is “very fortunate to have a principled, independent-minded conservative writer\" like Stephens, Arthur Sulzberger Jr. wrote.",
+      "article": "The company is “very fortunate to have a principled, independent-minded conservative writer\" like Stephens, Arthur Sulzberger Jr. wrote.",
+      "pos": "NYT Publisher Writes To Those Who Ditched Subscriptions Over Bret Stephens",
+      "neg": "The company is “very fortunate to have a principled, independent-minded conservative writer\" like Stephens, Arthur Sulzb",
+      "date": "2017-05-13",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: Apparently, the outcry over Trump's firing of the FBI director changes nothing.",
+      "article": "Apparently, the outcry over Trump's firing of the FBI director changes nothing.",
+      "pos": "Rod Rosenstein Still Sees No Need For A Special Prosecutor On Russia",
+      "neg": "Overview: Apparently, the outcry over Trump's firing of the FBI director changes nothing.",
+      "date": "2017-05-13",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: Yale spokesman says school \"does not disclose or comment\" on investments.",
+      "article": "Yale spokesman says school \"does not disclose or comment\" on investments.",
+      "pos": "Investigation Shows Yale Isn’t The Climate-Conscious Investor It Claims To Be",
+      "neg": "Overview: Yale spokesman says school \"does not disclose or comment\" on investments.",
+      "date": "2017-05-16",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: Even Republicans who previously didn't see the need for an independent probe responded positively.",
+      "article": "Even Republicans who previously didn't see the need for an independent probe responded positively.",
+      "pos": "Special Counsel Gets Praise From Both Sides Of The Aisle",
+      "neg": "Overview: Even Republicans who previously didn't see the need for an independent probe responded positively.",
+      "date": "2017-05-18",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: The Interior Department denied a report Friday that Zinke will recommend abolishing the national monument.",
+      "article": "The Interior Department denied a report Friday that Zinke will recommend abolishing the national monument.",
+      "pos": "Interior Secretary Claims He's Made No Decision On Bears Ears. His Comments Raise Some Doubts.",
+      "neg": "Overview: The Interior Department denied a report Friday that Zinke will recommend abolishing the national",
+      "date": "2017-05-20",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: A suspected suicide bomber killed at least 22 people and injured dozens more at an Ariana Grande concert on Monday.",
+      "article": "A suspected suicide bomber killed at least 22 people and injured dozens more at an Ariana Grande concert on Monday.",
+      "pos": "Donald Trump Says 'Evil Losers' Behind Manchester Attack",
+      "neg": "Overview: A suspected suicide bomber killed at least 22 people and injured dozens more at",
+      "date": "2017-05-23",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: The ability to freely elect democratic leaders is the foundation of America, a former CIA chief said.",
+      "article": "The ability to freely elect democratic leaders is the foundation of America, a former CIA chief said.",
+      "pos": "Why Everyone Should Care That Russia Interfered In The U.S. Election",
+      "neg": "Overview: The ability to freely elect democratic leaders is the foundation of America, a former",
+      "date": "2017-05-23",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: In April, Ryan Zinke listened to Charles Johnson and Palmer Luckey's ideas for using technology along the U.S.-Mexico border.",
+      "article": "In April, Ryan Zinke listened to Charles Johnson and Palmer Luckey's ideas for using technology along the U.S.-Mexico border.",
+      "pos": "Trump's Interior Secretary Took Time To Discuss The Border Wall With A Far-Right Troll",
+      "neg": "Overview: In April, Ryan Zinke listened to Charles Johnson and Palmer Luckey's ideas for using",
+      "date": "2017-05-23",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: The billionaire business magnate has said the U.S. should remain in the agreement.",
+      "article": "The billionaire business magnate has said the U.S. should remain in the agreement.",
+      "pos": "Elon Musk Is 'Cautiously Optimistic' After Talking To Trump About Paris Climate Pact",
+      "neg": "The billionaire business magnate has said the U.S",
+      "date": "2017-05-23",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: \"The amount of pain and anguish this has caused us is unbearable,\" the Riches write in an op-ed.",
+      "article": "\"The amount of pain and anguish this has caused us is unbearable,\" the Riches write in an op-ed.",
+      "pos": "Parents Of Slain DNC Staffer Call Conspiracy Theories 'Unspeakably Cruel'",
+      "neg": "Overview: \"The amount of pain and anguish this has caused us is unbearable,\" the Riches",
+      "date": "2017-05-24",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: The Hamerton Zoo Park called the fatal incident a \"freak accident.\"",
+      "article": "The Hamerton Zoo Park called the fatal incident a \"freak accident.\"",
+      "pos": "Tiger Attacks And Kills Keeper At U.K. Zoo",
+      "neg": "Overview: The Hamerton Zoo Park called the fatal incident a \"freak accident.\"",
+      "date": "2017-05-29",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: “Honestly, I haven’t asked him that,\" the White House press secretary said Tuesday.",
+      "article": "“Honestly, I haven’t asked him that,\" the White House press secretary said Tuesday.",
+      "pos": "Sean Spicer Can't Answer Whether Trump Believes In Man-Made Climate Change",
+      "neg": "Overview: “Honestly, I haven’t asked him that,\" the White House press secretary said Tuesday.",
+      "date": "2017-05-30",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: Along with his fists, the star Nationals outfielder threw his helmet, but it didn't come close to the Giants reliever.",
+      "article": "Along with his fists, the star Nationals outfielder threw his helmet, but it didn't come close to the Giants reliever.",
+      "pos": "Bryce Harper, Hunter Strickland Suspended After Bench-Clearing Memorial Day Brawl",
+      "neg": "Overview: Along with his fists, the star Nationals outfielder threw his helmet, but it didn't",
+      "date": "2017-05-30",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: Meanwhile, President Donald Trump reportedly plans to pull the U.S. out of the historic Paris climate pact.",
+      "article": "Meanwhile, President Donald Trump reportedly plans to pull the U.S. out of the historic Paris climate pact.",
+      "pos": "Exxon Shareholders Push Company To Be More Transparent About Climate Risks",
+      "neg": "Meanwhile, President Donald Trump reportedly plans to pull the U.S",
+      "date": "2017-05-31",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: Scott Pruitt claims he's going to fix the agency's struggling toxic cleanup program not with more money but with a change in attitude.",
+      "article": "Scott Pruitt claims he's going to fix the agency's struggling toxic cleanup program not with more money but with a change in attitude.",
+      "pos": "Trump's EPA Chief Aided Polluters For Years. Now Suddenly He Says The Mess Is A Priority",
+      "neg": "Overview: Scott Pruitt claims he's going to fix the agency's struggling toxic cleanup program not",
+      "date": "2017-06-01",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: Cities and states are ready to tackle the climate crisis without Trump.",
+      "article": "Cities and states are ready to tackle the climate crisis without Trump.",
+      "pos": "'The World Cannot Wait — And Neither Will We,' 61 Mayors Pledge",
+      "neg": "Overview: Cities and states are ready to tackle the climate crisis without Trump.",
+      "date": "2017-06-01",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: The senior correspondent says Scott Pruitt has his \"head in the sand\" on climate change.",
+      "article": "The senior correspondent says Scott Pruitt has his \"head in the sand\" on climate change.",
+      "pos": "CNN Reporter Jim Acosta Slams EPA Chief On Climate Change Denial",
+      "neg": "Overview: The senior correspondent says Scott Pruitt has his \"head in the sand\" on climate",
+      "date": "2017-06-02",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: Ryan Zinke's address to American Petroleum Institute  directors financially benefitted the president.",
+      "article": "Ryan Zinke's address to American Petroleum Institute  directors financially benefitted the president.",
+      "pos": "Trump's Interior Secretary Spoke To Oil Trade Group At Trump Hotel",
+      "neg": "Overview: Ryan Zinke's address to American Petroleum Institute directors financially benefitted the president.",
+      "date": "2017-06-05",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: Unlike with Obama, the former FBI director says he \"felt compelled to document\" his one-on-one talks with the president.",
+      "article": "Unlike with Obama, the former FBI director says he \"felt compelled to document\" his one-on-one talks with the president.",
+      "pos": "Comey Says He Documented Meetings With Trump Because 'He Might Lie'",
+      "neg": "Overview: Unlike with Obama, the former FBI director says he \"felt compelled to document\" his",
+      "date": "2017-06-07",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: Karen Handel faces Democrat Jon Ossoff in a June 20 runoff.",
+      "article": "Karen Handel faces Democrat Jon Ossoff in a June 20 runoff.",
+      "pos": "Georgia GOP Candidate For U.S. House: 'I Do Not Support A Livable Wage'",
+      "neg": "Overview: Karen Handel faces Democrat Jon Ossoff in a June 20 runoff.",
+      "date": "2017-06-07",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: \"I wish I'd been there that night,\" the former FBI director said of the planned date with his wife.",
+      "article": "\"I wish I'd been there that night,\" the former FBI director said of the planned date with his wife.",
+      "pos": "James Comey Would Rather Have Been At Dinner With His Wife Than Donald Trump",
+      "neg": "Overview: \"I wish I'd been there that night,\" the former FBI director said of the",
+      "date": "2017-06-08",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: Without action, climatic risks could “intersect, amplify and ripple across countries,” warns a new report.",
+      "article": "Without action, climatic risks could “intersect, amplify and ripple across countries,” warns a new report.",
+      "pos": "World Order Could Hinge On Solving The Climate Crisis, Security Experts Warn",
+      "neg": "Overview: Without action, climatic risks could “intersect, amplify and ripple across countries,” warns a new",
+      "date": "2017-06-09",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: Gianforte's sentence includes community service, anger management training and fines -- but no jail time.",
+      "article": "Gianforte's sentence includes community service, anger management training and fines -- but no jail time.",
+      "pos": "Montana Congressman-Elect Greg Gianforte Pleads Guilty To Assaulting Reporter",
+      "neg": "Overview: Gianforte's sentence includes community service, anger management training and fines -- but no jail",
+      "date": "2017-06-12",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: Scientists predict rising seas will soon swamp Virginia's Tangier Island. The president doesn't seem to believe it.",
+      "article": "Scientists predict rising seas will soon swamp Virginia's Tangier Island. The president doesn't seem to believe it.",
+      "pos": "Trump Tells Mayor Of Sinking U.S. Island Not To Worry About Climate Change",
+      "neg": "Scientists predict rising seas will soon swamp Virginia's Tangier Island",
+      "date": "2017-06-14",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: “I think if you’re going to be a wise, intellectually engaged person, being a skeptic about some of these issues is quite all right,\" he said.",
+      "article": "“I think if you’re going to be a wise, intellectually engaged person, being a skeptic about some of these issues is quite all right,\" he said.",
+      "pos": "Energy Chief Rick Perry Denies Carbon Dioxide Is Driving Climate Change",
+      "neg": "Overview: “I think if you’re going to be a wise, intellectually engaged person, being a",
+      "date": "2017-06-19",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: “I’m concerned about whether you are clear about the magnitude of warming that is occurring,\" the senator told Secretary Ryan Zinke.",
+      "article": "“I’m concerned about whether you are clear about the magnitude of warming that is occurring,\" the senator told Secretary Ryan Zinke.",
+      "pos": "Al Franken Butts Heads With Interior Secretary Over Climate Change",
+      "neg": "Overview: “I’m concerned about whether you are clear about the magnitude of warming that is",
+      "date": "2017-06-20",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: \"Skepticism that fails to account for evidence is no virtue,\" the American Meteorological Society wrote in a letter Wednesday.",
+      "article": "\"Skepticism that fails to account for evidence is no virtue,\" the American Meteorological Society wrote in a letter Wednesday.",
+      "pos": "Rick Perry Gets Schooled On Climate Change",
+      "neg": "Overview: \"Skepticism that fails to account for evidence is no virtue,\" the American Meteorological Society",
+      "date": "2017-06-21",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: But the Energy secretary calls for an \"intellectual conversation\" on global warming.",
+      "article": "But the Energy secretary calls for an \"intellectual conversation\" on global warming.",
+      "pos": "Rick Perry Joins List Of Officials Who Won't Say If Trump Believes In Climate Change",
+      "neg": "Overview: But the Energy secretary calls for an \"intellectual conversation\" on global warming.",
+      "date": "2017-06-27",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: The American Academy of Pediatrics says the agency \"has no basis\" to continue allowing brain-damaging chlorpyrifos on crops.",
+      "article": "The American Academy of Pediatrics says the agency \"has no basis\" to continue allowing brain-damaging chlorpyrifos on crops.",
+      "pos": "EPA Chief's Refusal To Ban Pesticide 'Puts All Children At Risk,' Pediatricians Warn",
+      "neg": "Overview: The American Academy of Pediatrics says the agency \"has no basis\" to continue allowing",
+      "date": "2017-06-28",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: \"We should not be taking a gamble with the grizzly’s future,” an attorney for Earthjustice said.",
+      "article": "\"We should not be taking a gamble with the grizzly’s future,” an attorney for Earthjustice said.",
+      "pos": "Trump Administration Threatened With Lawsuit For No Longer Protecting Yellowstone Grizzly",
+      "neg": "Overview: \"We should not be taking a gamble with the grizzly’s future,” an attorney for",
+      "date": "2017-06-30",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: \"I am sure they will get a Pulitzer for this one,\" the New Jersey governor said Monday.",
+      "article": "\"I am sure they will get a Pulitzer for this one,\" the New Jersey governor said Monday.",
+      "pos": "Chris Christie Bashes The Press Over Beach Outing Coverage",
+      "neg": "Overview: \"I am sure they will get a Pulitzer for this one,\" the New Jersey",
+      "date": "2017-07-03",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: The New Jersey governor gave the same message to beachgoers as Hurricane Irene approached in 2011.",
+      "article": "The New Jersey governor gave the same message to beachgoers as Hurricane Irene approached in 2011.",
+      "pos": "Banner Plane Urges Chris Christie To 'Get The Hell Off' N.J. Beach",
+      "neg": "Overview: The New Jersey governor gave the same message to beachgoers as Hurricane Irene approached",
+      "date": "2017-07-03",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: The New Jersey governor was photographed Sunday lounging on a beach that he closed to the public.",
+      "article": "The New Jersey governor was photographed Sunday lounging on a beach that he closed to the public.",
+      "pos": "Edward Snowden On Chris Christie Sunbathing Pic: 'The Politics Of An Era In One Frame'",
+      "neg": "Overview: The New Jersey governor was photographed Sunday lounging on a beach that he closed",
+      "date": "2017-07-03",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: \"This environment is the creation of the man in the White House,\" says Jared Yates Sexton.",
+      "article": "\"This environment is the creation of the man in the White House,\" says Jared Yates Sexton.",
+      "pos": "Journalist Who Exposed The Racist Creator Of Trump’s CNN Tweet Gets Death Threats",
+      "neg": "Overview: \"This environment is the creation of the man in the White House,\" says Jared",
+      "date": "2017-07-04",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: Experts say the chunk of ice will be larger than the island of Bali.",
+      "article": "Experts say the chunk of ice will be larger than the island of Bali.",
+      "pos": "'Bergxit': One Of The Largest Icebergs On Record Set To Break From Antarctic Shelf",
+      "neg": "Overview: Experts say the chunk of ice will be larger than the island of Bali.",
+      "date": "2017-07-05",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: Sen. Pat Toomey (R-Pa.) continues to take heat from his constituents for his support for the bill.",
+      "article": "Sen. Pat Toomey (R-Pa.) continues to take heat from his constituents for his support for the bill.",
+      "pos": "Several Arrested Protesting Health Care Bill Outside GOP Senator's Town Hall",
+      "neg": "Overview: Sen. Pat Toomey (R-Pa.) continues to take heat from his constituents for his support",
+      "date": "2017-07-06",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: It's the latest move in the Trump administration's push for \"energy dominance.\"",
+      "article": "It's the latest move in the Trump administration's push for \"energy dominance.\"",
+      "pos": "Interior Chief Signs Order To Boost Oil, Gas Development On Federal Lands",
+      "neg": "Overview: It's the latest move in the Trump administration's push for \"energy dominance.\"",
+      "date": "2017-07-06",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: The agency says it’s important to prepare for extreme heat. Meanwhile, administrator Scott Pruitt doesn’t believe carbon dioxide is driving climate change.",
+      "article": "The agency says it’s important to prepare for extreme heat. Meanwhile, administrator Scott Pruitt doesn’t believe carbon dioxide is driving climate change.",
+      "pos": "Trump's EPA Warns Us To Wear Sunscreen While It Does Nothing About Global Warming",
+      "neg": "The agency says it’s important to prepare for extreme heat",
+      "date": "2017-07-07",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: “These are athletes that refuse to define themselves by the worst thing that ever happened to them,\" the former 'Daily Show' host said.",
+      "article": "“These are athletes that refuse to define themselves by the worst thing that ever happened to them,\" the former 'Daily Show' host said.",
+      "pos": "Jon Stewart Co-Hosts SportsCenter To Support Wounded Veteran Athletes",
+      "neg": "Overview: “These are athletes that refuse to define themselves by the worst thing that ever",
+      "date": "2017-07-08",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: A journalist turned publicist, an Azerbaijani pop singer, a Kremlin-linked lawyer and a GOP presidential candidate's son. The connections of campaign 2016.",
+      "article": "A journalist turned publicist, an Azerbaijani pop singer, a Kremlin-linked lawyer and a GOP presidential candidate's son. The connections of campaign 2016.",
+      "pos": "The Story Behind The Trump Team-Russian Lawyer Meeting Is Like A Bad Movie Script",
+      "neg": "A journalist turned publicist, an Azerbaijani pop singer, a Kremlin-linked lawyer and a GOP presidential candidate's son",
+      "date": "2017-07-11",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: Interior Secretary Ryan Zinke will recommend no changes be made to Idaho’s Craters of the Moon and Washington’s Hanford Reach National Monuments.",
+      "article": "Interior Secretary Ryan Zinke will recommend no changes be made to Idaho’s Craters of the Moon and Washington’s Hanford Reach National Monuments.",
+      "pos": "Two National Monuments Survive Trump Administration Review",
+      "neg": "Overview: Interior Secretary Ryan Zinke will recommend no changes be made to Idaho’s Craters of",
+      "date": "2017-07-13",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: As President Donald Trump works to reverse coal's decline, the CEO of CSX Corp. said his company will stop new investments in transporting the energy source.",
+      "article": "As President Donald Trump works to reverse coal's decline, the CEO of CSX Corp. said his company will stop new investments in transporting the energy source.",
+      "pos": "Boss Of Coal-Hauling Railroad Says 'Fossil Fuels Are Dead'",
+      "neg": "As President Donald Trump works to reverse coal's decline, the CEO of CSX Corp",
+      "date": "2017-07-20",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: The Fox News host assailed those who backed out of honoring him as \"Never Trumpers.\"",
+      "article": "The Fox News host assailed those who backed out of honoring him as \"Never Trumpers.\"",
+      "pos": "Sean Hannity Goes Berserk After Losing Conservative Media Award",
+      "neg": "Overview: The Fox News host assailed those who backed out of honoring him as \"Never",
+      "date": "2017-07-21",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: The league's $30 million deal with the National Institutes of Health to study CTE is dissolving in acrimony.",
+      "article": "The league's $30 million deal with the National Institutes of Health to study CTE is dissolving in acrimony.",
+      "pos": "NFL Still Owes More Than Half Its Brain-Research Pledge",
+      "neg": "Overview: The league's $30 million deal with the National Institutes of Health to study CTE",
+      "date": "2017-07-29",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: Anthony Scaramucci out. Washington Post reveals Trump dictated his son’s account of meeting with Russian lawyer. \"A great day at the White House!”",
+      "article": "Anthony Scaramucci out. Washington Post reveals Trump dictated his son’s account of meeting with Russian lawyer. \"A great day at the White House!”",
+      "pos": "White House 'American Dream' Week Kicks Off With More Chaos",
+      "neg": "Anthony Scaramucci out",
+      "date": "2017-08-01",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: The month's low was still a sweltering 89 degrees. The highest: 127.",
+      "article": "The month's low was still a sweltering 89 degrees. The highest: 127.",
+      "pos": "Death Valley's Average Temperature In July Was 107.4 — A New Record",
+      "neg": "The month's low was still a sweltering 89 degrees",
+      "date": "2017-08-03",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: The changes “will no doubt fast-track the greater sage-grouse’s listing as an endangered species,\" one conservationist said.",
+      "article": "The changes “will no doubt fast-track the greater sage-grouse’s listing as an endangered species,\" one conservationist said.",
+      "pos": "Trump Team Announces Oil-Friendly Strategy For Protecting Sage Grouse",
+      "neg": "Overview: The changes “will no doubt fast-track the greater sage-grouse’s listing as an endangered species,\"",
+      "date": "2017-08-08",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: A Republican congressman from Florida has denounced the move as \"irresponsible.\"",
+      "article": "A Republican congressman from Florida has denounced the move as \"irresponsible.\"",
+      "pos": "Trump Scraps Obama-Era Rule To Protect Infrastructure From Climate-Change Flooding",
+      "neg": "Overview: A Republican congressman from Florida has denounced the move as \"irresponsible.\"",
+      "date": "2017-08-15",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: The move also stops the military from paying for gender reassignment surgeries.",
+      "article": "The move also stops the military from paying for gender reassignment surgeries.",
+      "pos": "Trump Signs Memo Banning New Transgender Service Members",
+      "neg": "Overview: The move also stops the military from paying for gender reassignment surgeries.",
+      "date": "2017-08-25",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: Asked about the role of climate change, Sen. Steve Daines said \"the climate has always been changing.\"",
+      "article": "Asked about the role of climate change, Sen. Steve Daines said \"the climate has always been changing.\"",
+      "pos": "Montana Lawmakers Say 'Environmental Extremists' To Blame For Wildfires",
+      "neg": "Asked about the role of climate change, Sen",
+      "date": "2017-08-25",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: Brock Long is probably one of the \"best prepared\" people in the country for this task, a former FEMA official says.",
+      "article": "Brock Long is probably one of the \"best prepared\" people in the country for this task, a former FEMA official says.",
+      "pos": "FEMA Chief Hailed As The Man For The Job In Texas. Trump Just Needs To Let Him Do It.",
+      "neg": "Overview: Brock Long is probably one of the \"best prepared\" people in the country for",
+      "date": "2017-08-30",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: Trump's former campaign chairman, a key figure in the Russia investigation, is being investigated for possible money laundering.",
+      "article": "Trump's former campaign chairman, a key figure in the Russia investigation, is being investigated for possible money laundering.",
+      "pos": "Report: Mueller Partners With New York Attorney General To Investigate Manafort",
+      "neg": "Overview: Trump's former campaign chairman, a key figure in the Russia investigation, is being investigated",
+      "date": "2017-08-31",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: Zander Venezia, 16, died Tuesday shortly after catching what he'd called \"the best wave of my life.\"",
+      "article": "Zander Venezia, 16, died Tuesday shortly after catching what he'd called \"the best wave of my life.\"",
+      "pos": "Teenage Pro Surfer Reportedly Killed Catching Hurricane Irma's Waves In Barbados",
+      "neg": "Overview: Zander Venezia, 16, died Tuesday shortly after catching what he'd called \"the best wave",
+      "date": "2017-09-07",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: With the National Flood Insurance Program — now almost $25 billion in debt — set to expire on Sept. 30, lawmakers look to buy more time.",
+      "article": "With the National Flood Insurance Program — now almost $25 billion in debt — set to expire on Sept. 30, lawmakers look to buy more time.",
+      "pos": "Congress Eyes Brief Extension For Flood Insurance Program",
+      "neg": "With the National Flood Insurance Program — now almost $25 billion in debt — set to expire on Sept",
+      "date": "2017-09-08",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: “We have addressed this with Jemele and she recognizes her actions were inappropriate,” ESPN said in a statement.",
+      "article": "“We have addressed this with Jemele and she recognizes her actions were inappropriate,” ESPN said in a statement.",
+      "pos": "ESPN's Jemele Hill: Trump Is A 'White Supremacist' And Unfit For Office",
+      "neg": "Overview: “We have addressed this with Jemele and she recognizes her actions were inappropriate,” ESPN",
+      "date": "2017-09-12",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: ″I think that’s one of the more outrageous comments that anyone could make,\" press secretary Sarah Huckabee Sanders said.",
+      "article": "″I think that’s one of the more outrageous comments that anyone could make,\" press secretary Sarah Huckabee Sanders said.",
+      "pos": "ESPN Host Committed 'Fireable Offense' With Trump 'White Supremacist' Tweet: White House Aide",
+      "neg": "Overview: ″I think that’s one of the more outrageous comments that anyone could make,\" press",
+      "date": "2017-09-13",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: Brace yourselves for years of bureaucratic quagmire, those who lost homes warn.",
+      "article": "Brace yourselves for years of bureaucratic quagmire, those who lost homes warn.",
+      "pos": "'The Storm Is The Easy Part': Superstorm Sandy Survivors Warn Harvey, Irma Victims Of What's Ahead",
+      "neg": "Overview: Brace yourselves for years of bureaucratic quagmire, those who lost homes warn.",
+      "date": "2017-09-14",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: “We’ve had bigger storms than this,” the president told reporters Thursday, walking backing earlier assessments of Harvey and Irma.",
+      "article": "“We’ve had bigger storms than this,” the president told reporters Thursday, walking backing earlier assessments of Harvey and Irma.",
+      "pos": "Trump Marveled At Historic Hurricanes — Until Someone Brought Up Climate Change",
+      "neg": "Overview: “We’ve had bigger storms than this,” the president told reporters Thursday, walking backing earlier",
+      "date": "2017-09-14",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: An order by Interior Secretary Ryan Zinke aims to increase fishing access on national monuments and other public lands.",
+      "article": "An order by Interior Secretary Ryan Zinke aims to increase fishing access on national monuments and other public lands.",
+      "pos": "Team Trump's Plan For America's National Monuments: Shrink Size And Expand Hunting",
+      "neg": "Overview: An order by Interior Secretary Ryan Zinke aims to increase fishing access on national",
+      "date": "2017-09-15",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: A U.K. media watchdog has ruled on the inaccuracy of a story published by the Daily Mail and promoted by the GOP congressman from Texas.",
+      "article": "A U.K. media watchdog has ruled on the inaccuracy of a story published by the Daily Mail and promoted by the GOP congressman from Texas.",
+      "pos": "That Climate 'Scandal' Rep. Lamar Smith Promoted Was, Indeed, Fake News",
+      "neg": "Overview: A U.K. media watchdog has ruled on the inaccuracy of a story published by",
+      "date": "2017-09-18",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: Days ago, Scott Pruitt called it \"insensitive\" to talk about climate change in the midst of a hurricane. A Category 5 storm in the Caribbean didn't stop him Tuesday.",
+      "article": "Days ago, Scott Pruitt called it \"insensitive\" to talk about climate change in the midst of a hurricane. A Category 5 storm in the Caribbean didn't stop him Tuesday.",
+      "pos": "EPA Chief Seems Happy To Answer Fox News' Softball Questions On Climate Change",
+      "neg": "Days ago, Scott Pruitt called it \"insensitive\" to talk about climate change in the midst of a hurricane",
+      "date": "2017-09-19",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: \"The cost of our inaction these past couple weeks has become even clearer,\" the actor and activist says at the Yale Climate Conference.",
+      "article": "\"The cost of our inaction these past couple weeks has become even clearer,\" the actor and activist says at the Yale Climate Conference.",
+      "pos": "DiCaprio Rips Trump's Climate Record, Says Hurricanes Should Be A Wake-Up Call",
+      "neg": "Overview: \"The cost of our inaction these past couple weeks has become even clearer,\" the",
+      "date": "2017-09-20",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011030_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Gary Cohn also suggested that money could be used for a substantial home renovation.",
+      "article": "Gary Cohn also suggested that money could be used for a substantial home renovation.",
+      "pos": "Millionaire Trump Adviser Says Americans Can 'Buy A New Car' With $1,000 Tax Cut",
+      "neg": "Overview: Gary Cohn also suggested that money could be used for a substantial home renovation.",
+      "date": "2017-09-28"
+    },
+    {
+      "id": "1011030_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “Our decisions will be guided by our flag and not kneel to anyone,” the Interior secretary forcefully told a protester Friday.",
+      "article": "“Our decisions will be guided by our flag and not kneel to anyone,” the Interior secretary forcefully told a protester Friday.",
+      "pos": "Ryan Zinke Snaps At Heckler During Speech On Energy Dominance",
+      "neg": "Overview: “Our decisions will be guided by our flag and not kneel to anyone,” the",
+      "date": "2017-09-29"
+    },
+    {
+      "id": "1011030_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"This is just another example of fiscal irresponsibility run amok in Congress right now,\" he said in 2009.",
+      "article": "\"This is just another example of fiscal irresponsibility run amok in Congress right now,\" he said in 2009.",
+      "pos": "Tom Price Once Blasted Lawmakers Over Use Of Military Aircraft Fleet",
+      "neg": "Overview: \"This is just another example of fiscal irresponsibility run amok in Congress right now,\"",
+      "date": "2017-09-30"
+    },
+    {
+      "id": "1011030_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"Americans have a right to arm themselves for protection,\" he wrote. \"Even the loons.”",
+      "article": "\"Americans have a right to arm themselves for protection,\" he wrote. \"Even the loons.”",
+      "pos": "Bill O'Reilly On Las Vegas Massacre: 'This Is The Price Of Freedom'",
+      "neg": "\"Americans have a right to arm themselves for protection,\" he wrote",
+      "date": "2017-10-02"
+    },
+    {
+      "id": "1011030_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Instead of \"pushing their own political beliefs,\" Americans should be offering up their prayers, the Louisiana congressman told Fox News.",
+      "article": "Instead of \"pushing their own political beliefs,\" Americans should be offering up their prayers, the Louisiana congressman told Fox News.",
+      "pos": "Steve Scalise On Las Vegas Shooting: It Has 'Fortified' My Support For Gun Rights",
+      "neg": "Overview: Instead of \"pushing their own political beliefs,\" Americans should be offering up their prayers,",
+      "date": "2017-10-04"
+    },
+    {
+      "id": "1011030_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The Trump administration said it voted against the measure due to “broader concerns\" about its condemning capital punishment in all circumstances.",
+      "article": "The Trump administration said it voted against the measure due to “broader concerns\" about its condemning capital punishment in all circumstances.",
+      "pos": "US Rejects UN Resolution Condemning Death Penalty For LGBTQ People, Other Groups",
+      "neg": "Overview: The Trump administration said it voted against the measure due to “broader concerns\" about",
+      "date": "2017-10-04"
+    },
+    {
+      "id": "1011030_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: In his resignation letter, Joel Clement calls on Trump's interior secretary to step down and for agency staff to \"speak truth to power.\"",
+      "article": "In his resignation letter, Joel Clement calls on Trump's interior secretary to step down and for agency staff to \"speak truth to power.\"",
+      "pos": "Interior Whistleblower Quits, Lambastes Ryan Zinke's 'Resume Of Failure'",
+      "neg": "Overview: In his resignation letter, Joel Clement calls on Trump's interior secretary to step down",
+      "date": "2017-10-04"
+    },
+    {
+      "id": "1011030_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Secretary Ryan Zinke is steering the agency badly off course, says Joel Clement, who resigned from Interior on Wednesday.",
+      "article": "Secretary Ryan Zinke is steering the agency badly off course, says Joel Clement, who resigned from Interior on Wednesday.",
+      "pos": "Whistleblower Speaks Out: Morale At Interior Department Is 'In The Toilet'",
+      "neg": "Overview: Secretary Ryan Zinke is steering the agency badly off course, says Joel Clement, who",
+      "date": "2017-10-05"
+    },
+    {
+      "id": "1011030_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The \"Hollywood Guns\" exhibit \"spotlights 125 firearms that have thrilled moviegoers for generations,\" the NRA website says.",
+      "article": "The \"Hollywood Guns\" exhibit \"spotlights 125 firearms that have thrilled moviegoers for generations,\" the NRA website says.",
+      "pos": "The NRA Museum Showcases Guns From The Same Hollywood It Says Is 'Glorifying' Violence",
+      "neg": "Overview: The \"Hollywood Guns\" exhibit \"spotlights 125 firearms that have thrilled moviegoers for generations,\" the",
+      "date": "2017-10-07"
+    },
+    {
+      "id": "1011030",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: The effort included helping draft a letter in which Louisiana Gov. John Bel Edwards (D) pushed back against the administration's pause on new oil and gas leasing.",
+      "article": "The effort included helping draft a letter in which Louisiana Gov. John Bel Edwards (D) pushed back against the administration's pause on new oil and gas leasing.",
+      "pos": "Emails Show Oil Lobby Mobilized Democratic Governors' Opposition To Biden Energy Order",
+      "neg": "The effort included helping draft a letter in which Louisiana Gov",
+      "date": "dev_target"
+    }
+  ]
+}

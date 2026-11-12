@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u01_1011056",
+  "lamp_id": "1011056",
+  "rank": 1,
+  "n_profile_raw": 781,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: NFL football and World War II share certain characteristics that make them, for me, guilty pleasures.The pleasures come from my lifelong love of good games of strategy and of heroic action.",
+      "article": "NFL football and World War II share certain characteristics that make them, for me, guilty pleasures.The pleasures come from my lifelong love of good games of strategy and of heroic action.",
+      "pos": "My Guilty Pleasures: NFL Football And World War II",
+      "neg": "Overview: NFL football and World War II share certain characteristics that make them, for me,",
+      "date": "2016-07-02",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: Former employees say the move will likely lower costs, as well as the quality of the publication's work.",
+      "article": "Former employees say the move will likely lower costs, as well as the quality of the publication's work.",
+      "pos": "IBT Seems To Be Outsourcing Eliminated U.S. Reporting Jobs To India",
+      "neg": "Overview: Former employees say the move will likely lower costs, as well as the quality",
+      "date": "2016-07-05",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: A 72-hour waiting period seems even more unreasonable when you're carrying alien spawn, no?",
+      "article": "A 72-hour waiting period seems even more unreasonable when you're carrying alien spawn, no?",
+      "pos": "Men Would Surely Beg For Abortion Rights If This Happened",
+      "neg": "Overview: A 72-hour waiting period seems even more unreasonable when you're carrying alien spawn, no?",
+      "date": "2016-07-07",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: Just two days ago, a sniper killed five officers in the city.",
+      "article": "Just two days ago, a sniper killed five officers in the city.",
+      "pos": "Dallas Police Search Headquarters Garage After Threat Against Department",
+      "neg": "Overview: Just two days ago, a sniper killed five officers in the city.",
+      "date": "2016-07-09",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: Despite deep divisions, people are starting to realize the terms aren't mutually exclusive.",
+      "article": "Despite deep divisions, people are starting to realize the terms aren't mutually exclusive.",
+      "pos": "Even In Dallas, You Can Be Pro-Cop And Believe Black Lives Matter",
+      "neg": "Overview: Despite deep divisions, people are starting to realize the terms aren't mutually exclusive.",
+      "date": "2016-07-09",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: You’re in for one hell of a ride, but don’t worry –- you got this.",
+      "article": "You’re in for one hell of a ride, but don’t worry –- you got this.",
+      "pos": "Dear Younger Me: Here Are 15 Things You Should Know",
+      "neg": "Overview: You’re in for one hell of a ride, but don’t worry –- you got",
+      "date": "2016-07-10",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: \"The game has revolutionized the way people get hit by cars.\"",
+      "article": "\"The game has revolutionized the way people get hit by cars.\"",
+      "pos": "Stephen Colbert Found Creatures In Pokémon Go That You Haven't",
+      "neg": "Overview: \"The game has revolutionized the way people get hit by cars.\"",
+      "date": "2016-07-12",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: Turkey's international airport is open, but many are stuck due to flight cancelations.",
+      "article": "Turkey's international airport is open, but many are stuck due to flight cancelations.",
+      "pos": "Tourists, Foreign Nationals Caught In The Middle Of Turkey's Coup",
+      "neg": "Overview: Turkey's international airport is open, but many are stuck due to flight cancelations.",
+      "date": "2016-07-16",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: Have you ever had these challenges when thanking an employer? Have you ever had challenges when you go to a job interview",
+      "article": "Have you ever had these challenges when thanking an employer? Have you ever had challenges when you go to a job interview",
+      "pos": "How To Write A Thank You That Gets You Hired",
+      "neg": "Have you ever had these challenges when thanking an employer",
+      "date": "2016-07-16",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: \"Can you look a little less sad when you say his name?\"",
+      "article": "\"Can you look a little less sad when you say his name?\"",
+      "pos": "Samantha Bee Teaches Republicans To Look Happy When Saying 'Donald Trump'",
+      "neg": "Overview: \"Can you look a little less sad when you say his name?\"",
+      "date": "2016-07-21",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: \"As a prosecutor, I must consider the dismal likelihood of conviction at this point.\"",
+      "article": "\"As a prosecutor, I must consider the dismal likelihood of conviction at this point.\"",
+      "pos": "Charges Dropped Against Remaining Officers In Freddie Gray Case",
+      "neg": "Overview: \"As a prosecutor, I must consider the dismal likelihood of conviction at this point.\"",
+      "date": "2016-07-27",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: Feeling such love and gratitude for one's country is one thing. Insisting on declaring our being superior to everyone else is quote another.",
+      "article": "Feeling such love and gratitude for one's country is one thing. Insisting on declaring our being superior to everyone else is quote another.",
+      "pos": "I Wish 'We're The Greatest!' Weren't Such Good Politics",
+      "neg": "Feeling such love and gratitude for one's country is one thing",
+      "date": "2016-07-30",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: Undercover FBI agents were talking to Nicholas Young for years before he was arrested.",
+      "article": "Undercover FBI agents were talking to Nicholas Young for years before he was arrested.",
+      "pos": "Cop Who Allegedly Plotted To Assist ISIS Had Ties To Convicted Terrorists",
+      "neg": "Overview: Undercover FBI agents were talking to Nicholas Young for years before he was arrested.",
+      "date": "2016-08-03",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: When she's in the pool, she's not racing other people -- she's battling herself.",
+      "article": "When she's in the pool, she's not racing other people -- she's battling herself.",
+      "pos": "Katie Ledecky Just Destroyed Her Own World Record In The Women's 400-Meter Freestyle",
+      "neg": "Overview: When she's in the pool, she's not racing other people -- she's battling herself.",
+      "date": "2016-08-08",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: Police said the lone gunman shot both men in the head.",
+      "article": "Police said the lone gunman shot both men in the head.",
+      "pos": "Imam And Friend Gunned Down After Prayer In New York City",
+      "neg": "Overview: Police said the lone gunman shot both men in the head.",
+      "date": "2016-08-13",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: A new six-country survey finds many consumers want tech companies to be responsible for helping them recycle.",
+      "article": "A new six-country survey finds many consumers want tech companies to be responsible for helping them recycle.",
+      "pos": "Who's Responsible For What Happens To Your Broken iPhone? Some Say Apple.",
+      "neg": "Overview: A new six-country survey finds many consumers want tech companies to be responsible for",
+      "date": "2016-08-16",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: \"We all have our own cross to bear, but when I bear mine, I engage my obliques.\"",
+      "article": "\"We all have our own cross to bear, but when I bear mine, I engage my obliques.\"",
+      "pos": "CrossFit With Jesus Will Give You The Body Of An Angel",
+      "neg": "Overview: \"We all have our own cross to bear, but when I bear mine, I",
+      "date": "2016-08-18",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: This article first appeared on QuietRev.com For a long time, I felt like I wasn’t going anywhere. I had big goals as a writer",
+      "article": "This article first appeared on QuietRev.com For a long time, I felt like I wasn’t going anywhere. I had big goals as a writer",
+      "pos": "A Powerful Way For Introverts To Grow Their Productivity",
+      "neg": "This article first appeared on QuietRev.com For a long time, I felt like I wasn’t going anywhere",
+      "date": "2016-08-18",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: It won't get us out of this mess, but you'll feel better.",
+      "article": "It won't get us out of this mess, but you'll feel better.",
+      "pos": "If You Suffer From The National Ailment Called Donald Trump, Try 'Yelling F**k'",
+      "neg": "Overview: It won't get us out of this mess, but you'll feel better.",
+      "date": "2016-08-22",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: The overwhelming view from economists is that it is too early to know how Britain will cope with years of Brexit uncertainty - but there is a growing belief the country can avoid a recession.",
+      "article": "The overwhelming view from economists is that it is too early to know how Britain will cope with years of Brexit uncertainty - but there is a growing belief the country can avoid a recession.",
+      "pos": "British Economy Escapes Brexit Blow, For Now",
+      "neg": "Overview: The overwhelming view from economists is that it is too early to know how",
+      "date": "2016-08-26",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: \"The NRA still controls too many politicians. There is no new meaningful common-sense gun legislation.\"",
+      "article": "\"The NRA still controls too many politicians. There is no new meaningful common-sense gun legislation.\"",
+      "pos": "A Year Later, Father Of Slain Reporter Calls Out 'Treasonous GOP' For Inaction On Gun Violence",
+      "neg": "\"The NRA still controls too many politicians",
+      "date": "2016-08-26",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: It is a parent’s worst nightmare to get that call that your child has been killed.  That’s what happened a year ago when",
+      "article": "It is a parent’s worst nightmare to get that call that your child has been killed.  That’s what happened a year ago when",
+      "pos": "A Year Later.  What's Changed?",
+      "neg": "It is a parent’s worst nightmare to get that call that your child has been killed",
+      "date": "2016-08-27",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: Some doctors are refusing to treat families if the parents won't vaccinate.",
+      "article": "Some doctors are refusing to treat families if the parents won't vaccinate.",
+      "pos": "Doctors Report Increase In Parents Who Refuse To Vaccinate Their Kids",
+      "neg": "Overview: Some doctors are refusing to treat families if the parents won't vaccinate.",
+      "date": "2016-08-29",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: Hopefully no one's inflated the price of ointment for you, Martin.",
+      "article": "Hopefully no one's inflated the price of ointment for you, Martin.",
+      "pos": "Martin Shkreli Will Need Ointment After This Sick Burn From Colbert",
+      "neg": "Overview: Hopefully no one's inflated the price of ointment for you, Martin.",
+      "date": "2016-08-29",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: You knew about his national anthem sitdown, but you never saw his socks.",
+      "article": "You knew about his national anthem sitdown, but you never saw his socks.",
+      "pos": "Colin Kaepernick Has Actually Been Protesting The Police For Weeks",
+      "neg": "Overview: You knew about his national anthem sitdown, but you never saw his socks.",
+      "date": "2016-09-01",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: The convicted sexual offender spent only three months in jail for \"good behavior.\"",
+      "article": "The convicted sexual offender spent only three months in jail for \"good behavior.\"",
+      "pos": "Brock Turner Released From Jail",
+      "neg": "Overview: The convicted sexual offender spent only three months in jail for \"good behavior.\"",
+      "date": "2016-09-02",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: The display of anger followed a vast march in Caracas on Thursday that opposition leaders say has emboldened President Maduro’s foes after 17 years of socialist rule.",
+      "article": "The display of anger followed a vast march in Caracas on Thursday that opposition leaders say has emboldened President Maduro’s foes after 17 years of socialist rule.",
+      "pos": "Venezuela's Maduro Jeered, Dozens Detained, Activists Say",
+      "neg": "Overview: The display of anger followed a vast march in Caracas on Thursday that opposition",
+      "date": "2016-09-03",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: That body of knowledge concerns one major theme: although human beings are endowed with a level of intelligence unmatched by any other life-form, we are also endowed with a whole variety of cognitive tendencies that make us misunderstand and misjudge the world.",
+      "article": "That body of knowledge concerns one major theme: although human beings are endowed with a level of intelligence unmatched by any other life-form, we are also endowed with a whole variety of cognitive tendencies that make us misunderstand and misjudge the world.",
+      "pos": "Flaws In How We Evaluate Leaders (From Kahneman's THINKING, FAST AND SLOW)",
+      "neg": "Overview: That body of knowledge concerns one major theme: although human beings are endowed with",
+      "date": "2016-09-04",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: When the cat is away mice will play. Or, in this case, trolls.",
+      "article": "When the cat is away mice will play. Or, in this case, trolls.",
+      "pos": "Free Speech Is Now A Brutal War On The Internet",
+      "neg": "When the cat is away mice will play",
+      "date": "2016-09-06",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: Don’t ask for more wine.  If you want more wine, then buy a bottle.",
+      "article": "Don’t ask for more wine.  If you want more wine, then buy a bottle.",
+      "pos": "7 Ways To Look Like A Pro In A Wine Tasting Room",
+      "neg": "Don’t ask for more wine",
+      "date": "2016-09-06",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: This is a tribute to all immigrant mothers, grandmothers, and future mothers – honoring your bravery and sacrifice. You don’t",
+      "article": "This is a tribute to all immigrant mothers, grandmothers, and future mothers – honoring your bravery and sacrifice. You don’t",
+      "pos": "Through Her Daughter's Eyes: An Immigrant Mother's Sacrifice",
+      "neg": "This is a tribute to all immigrant mothers, grandmothers, and future mothers – honoring your bravery and sacrifice",
+      "date": "2016-09-11",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: He's on the verge of imagining what it would be like to care about you.",
+      "article": "He's on the verge of imagining what it would be like to care about you.",
+      "pos": "Trump Brand 'Get Well' Cards Are Destined To Be A Huge Success",
+      "neg": "Overview: He's on the verge of imagining what it would be like to care about",
+      "date": "2016-09-12",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: So cool they probably didn't even make him wait in line.",
+      "article": "So cool they probably didn't even make him wait in line.",
+      "pos": "This Guy Gets The 'Cool Guy Haircut' Just In Time For His DMV Photo",
+      "neg": "Overview: So cool they probably didn't even make him wait in line.",
+      "date": "2016-09-13",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: The TV personality is essentially letting Trump curate his own episode.",
+      "article": "The TV personality is essentially letting Trump curate his own episode.",
+      "pos": "Trump's Dr. Oz Appearance Will Be A Complete Joke",
+      "neg": "Overview: The TV personality is essentially letting Trump curate his own episode.",
+      "date": "2016-09-13",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: Comedians like Judd Apatow, Dane Cook and Jen Kirkman weigh in.",
+      "article": "Comedians like Judd Apatow, Dane Cook and Jen Kirkman weigh in.",
+      "pos": "Join HuffPost Comedy For 'Cargo Shorts Awareness Half-Week' #YesCargo",
+      "neg": "Overview: Comedians like Judd Apatow, Dane Cook and Jen Kirkman weigh in.",
+      "date": "2016-09-16",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: “We haven’t seen this level of athlete activism in nearly half a century. This is a movement,” one expert said.",
+      "article": "“We haven’t seen this level of athlete activism in nearly half a century. This is a movement,” one expert said.",
+      "pos": "Entire High School Football Team Kneels During National Anthem",
+      "neg": "“We haven’t seen this level of athlete activism in nearly half a century",
+      "date": "2016-09-16",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: If you want the truth, you need to dig deep ... into your pockets.",
+      "article": "If you want the truth, you need to dig deep ... into your pockets.",
+      "pos": "One Venn Diagram To Explain Cargo Shorts To The Unpocketed Masses",
+      "neg": "If you want the truth, you need to dig deep ..",
+      "date": "2016-09-19",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: The corrections officers allegedly beat an inmate and ripped out his dreadlocks as a keepsake in 2013.",
+      "article": "The corrections officers allegedly beat an inmate and ripped out his dreadlocks as a keepsake in 2013.",
+      "pos": "3 Officers Arrested And Charged In Vicious Beating Of Inmate",
+      "neg": "Overview: The corrections officers allegedly beat an inmate and ripped out his dreadlocks as a",
+      "date": "2016-09-21",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: Carrying the memory of cargos in the cargo pockets of our hearts.",
+      "article": "Carrying the memory of cargos in the cargo pockets of our hearts.",
+      "pos": "Cargo Shorts Have A Troublesome History, But Their Legacy Lives On",
+      "neg": "Overview: Carrying the memory of cargos in the cargo pockets of our hearts.",
+      "date": "2016-09-23",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: The disturbing footage shows the moment the Charlotte, North Carolina, man falls to the ground.",
+      "article": "The disturbing footage shows the moment the Charlotte, North Carolina, man falls to the ground.",
+      "pos": "Charlotte Police Release Partial Shooting Video, Say Keith Scott 'Absolutely' Had Gun",
+      "neg": "Overview: The disturbing footage shows the moment the Charlotte, North Carolina, man falls to the",
+      "date": "2016-09-24",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: Researchers aren't exactly sure how they're going to use the information yet.",
+      "article": "Researchers aren't exactly sure how they're going to use the information yet.",
+      "pos": "Twitter Is A Window Into What People Think About Heart Disease",
+      "neg": "Overview: Researchers aren't exactly sure how they're going to use the information yet.",
+      "date": "2016-09-29",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: The boy was crumpled up in a ball, his body half burrowed into the crevice where the wall of the school building met the",
+      "article": "The boy was crumpled up in a ball, his body half burrowed into the crevice where the wall of the school building met the",
+      "pos": "Boys Will Be Boys: Can The Masculine Cycle Of Violent Hazing And Neo Tribal Behavior Be Broken?",
+      "neg": "Overview: The boy was crumpled up in a ball, his body half burrowed into the",
+      "date": "2016-10-04",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: There’s actually some science (but a lot of fiction) behind the Upside Down.",
+      "article": "There’s actually some science (but a lot of fiction) behind the Upside Down.",
+      "pos": "'Stranger Things' Got Something Right About The Energy Department And Parallel Universes",
+      "neg": "Overview: There’s actually some science (but a lot of fiction) behind the Upside Down.",
+      "date": "2016-10-05",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: The two companies will face off again next week at the Supreme Court.",
+      "article": "The two companies will face off again next week at the Supreme Court.",
+      "pos": "Appeals Court Restores $120 Million Award To Apple In Patent Fight With Samsung",
+      "neg": "Overview: The two companies will face off again next week at the Supreme Court.",
+      "date": "2016-10-07",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: While some doctors take major money from industry, most get less than $50 per year.",
+      "article": "While some doctors take major money from industry, most get less than $50 per year.",
+      "pos": "Most U.S. Dermatologists Receive Money From Drug Companies",
+      "neg": "Overview: While some doctors take major money from industry, most get less than $50 per",
+      "date": "2016-10-07",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: \"We're going to build an ark, and the animals are going to pay for it.\"",
+      "article": "\"We're going to build an ark, and the animals are going to pay for it.\"",
+      "pos": "#EvangelicalTrump Saved Twitter From Being Bored As Hell",
+      "neg": "Overview: \"We're going to build an ark, and the animals are going to pay for",
+      "date": "2016-10-19",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: Megyn Kelly's adding a chapter about Ailes in her upcoming book as Tom McCarthy plans a miniseries.",
+      "article": "Megyn Kelly's adding a chapter about Ailes in her upcoming book as Tom McCarthy plans a miniseries.",
+      "pos": "You Can Expect To Meet More Of Roger Ailes' Skeletons In Book, TV Series",
+      "neg": "Overview: Megyn Kelly's adding a chapter about Ailes in her upcoming book as Tom McCarthy",
+      "date": "2016-10-19",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: \"No puppet, no puppet\" is classic sexy talk the debates have rendered useless.",
+      "article": "\"No puppet, no puppet\" is classic sexy talk the debates have rendered useless.",
+      "pos": "This Election Has Ruined Bedroom Talk Forever",
+      "neg": "Overview: \"No puppet, no puppet\" is classic sexy talk the debates have rendered useless.",
+      "date": "2016-10-21",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: Hackers co-opted web cameras and home routers in a massive attack that disrupted access to Twitter, Spotify and Netflix.",
+      "article": "Hackers co-opted web cameras and home routers in a massive attack that disrupted access to Twitter, Spotify and Netflix.",
+      "pos": "Here’s Why Your Favorite Sites And Services Haven't Been Working",
+      "neg": "Overview: Hackers co-opted web cameras and home routers in a massive attack that disrupted access",
+      "date": "2016-10-21",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: A small study of boys' brain scans before and after football season found changes to their brains' white matter.",
+      "article": "A small study of boys' brain scans before and after football season found changes to their brains' white matter.",
+      "pos": "Young Football Players' Brains Change After One Season",
+      "neg": "Overview: A small study of boys' brain scans before and after football season found changes",
+      "date": "2016-10-25",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: At least eight people were injured after an American Airline flight blew a tire on the runway.",
+      "article": "At least eight people were injured after an American Airline flight blew a tire on the runway.",
+      "pos": "Plane Catches Fire At Chicago's O'Hare Airport",
+      "neg": "Overview: At least eight people were injured after an American Airline flight blew a tire",
+      "date": "2016-10-28",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: Supporters have been violent, admitted to voter fraud and racial profiling, just as Trump foresaw.",
+      "article": "Supporters have been violent, admitted to voter fraud and racial profiling, just as Trump foresaw.",
+      "pos": "Surprise, Surprise, Donald Trump's Supporters Are Trying To 'Rig' The Election",
+      "neg": "Overview: Supporters have been violent, admitted to voter fraud and racial profiling, just as Trump",
+      "date": "2016-10-29",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: This MoveOn.org Halloween ad is one of the best out there.",
+      "article": "This MoveOn.org Halloween ad is one of the best out there.",
+      "pos": "Bernie Sanders Is What Paul Ryan Sees When He Closes His Eyes At Night",
+      "neg": "Overview: This MoveOn.org Halloween ad is one of the best out there.",
+      "date": "2016-10-31",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: For decades, our collective confidence in the strength of our democracy has enabled us to shrug off our consistently dismal voter turnout, among the lowest in the developed world.",
+      "article": "For decades, our collective confidence in the strength of our democracy has enabled us to shrug off our consistently dismal voter turnout, among the lowest in the developed world.",
+      "pos": "The Most Important Reason For You To Vote This Election Has Nothing To Do With Clinton Or Trump",
+      "neg": "Overview: For decades, our collective confidence in the strength of our democracy has enabled us",
+      "date": "2016-11-05",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: You can never be too careful in an election like this one.",
+      "article": "You can never be too careful in an election like this one.",
+      "pos": "'Trump Alarm' App Will Remind You To Vote In The Most Irritating Way",
+      "neg": "Overview: You can never be too careful in an election like this one.",
+      "date": "2016-11-07",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: “There were contacts,” Interfax news agency cited Russian Deputy Foreign Minister Sergei Ryabkov as saying.",
+      "article": "“There were contacts,” Interfax news agency cited Russian Deputy Foreign Minister Sergei Ryabkov as saying.",
+      "pos": "Russia Says It Was In Touch With Trump Campaign During The Election",
+      "neg": "Overview: “There were contacts,” Interfax news agency cited Russian Deputy Foreign Minister Sergei Ryabkov as",
+      "date": "2016-11-10",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: If your app isn't stretching itself thin, it doesn't love you.",
+      "article": "If your app isn't stretching itself thin, it doesn't love you.",
+      "pos": "Omni Is A New App That Will Do Everything For You — Poorly!",
+      "neg": "Overview: If your app isn't stretching itself thin, it doesn't love you.",
+      "date": "2016-11-14",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: He has hinted at scaling back U.S. military commitments to NATO.",
+      "article": "He has hinted at scaling back U.S. military commitments to NATO.",
+      "pos": "Europe May Need Its Own Nuclear Deterrence Plan If Donald Trump Has His Way",
+      "neg": "He has hinted at scaling back U.S",
+      "date": "2016-11-16",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: It should be said that regardless of whoever is the main voice of the anti-Trump resistance should be greatly supported by a whole choir of other voices-- elected officials, public intellectuals and pundits, and the throngs of citizens who take to the streets at strategically chosen moments bearing strategically chosen messages.",
+      "article": "It should be said that regardless of whoever is the main voice of the anti-Trump resistance should be greatly supported by a whole choir of other voices-- elected officials, public intellectuals and pundits, and the throngs of citizens who take to the streets at strategically chosen moments bearing strategically chosen messages.",
+      "pos": "The Democrats' Best Good-Cop/Bad-Cop Duo: Obama and Warren",
+      "neg": "Overview: It should be said that regardless of whoever is the main voice of the",
+      "date": "2016-11-26",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: A friendly reminder from science that the flu vaccine isn't linked to autism.",
+      "article": "A friendly reminder from science that the flu vaccine isn't linked to autism.",
+      "pos": "PSA: Pregnant Women Should Still Get Flu Shots",
+      "neg": "Overview: A friendly reminder from science that the flu vaccine isn't linked to autism.",
+      "date": "2016-11-29",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: \"A lot of doors would open for you if you started loving Putin.\"",
+      "article": "\"A lot of doors would open for you if you started loving Putin.\"",
+      "pos": "Samantha Bee Confirms That Her Comedy Would Not Last Long In Putin's Russia",
+      "neg": "Overview: \"A lot of doors would open for you if you started loving Putin.\"",
+      "date": "2016-12-01",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: \"If white, move two spaces ahead, if black, stop resisting arrest.\"",
+      "article": "\"If white, move two spaces ahead, if black, stop resisting arrest.\"",
+      "pos": "In The 'Game Of Real Life,' Not Everyone Has The Same Chance Of Winning",
+      "neg": "Overview: \"If white, move two spaces ahead, if black, stop resisting arrest.\"",
+      "date": "2016-12-07",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: A lot of science fiction we all hope one day becomes reality.",
+      "article": "A lot of science fiction we all hope one day becomes reality.",
+      "pos": "Great Scott! Someone Mashed Up 'Back To The Future' And 'Westworld'",
+      "neg": "Overview: A lot of science fiction we all hope one day becomes reality.",
+      "date": "2016-12-08",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: \"We should be careful about the management of depression after a heart attack.\"",
+      "article": "\"We should be careful about the management of depression after a heart attack.\"",
+      "pos": "Heart Problems Tied To Increased Risk Of Suicide",
+      "neg": "Overview: \"We should be careful about the management of depression after a heart attack.\"",
+      "date": "2016-12-09",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: The prank wasn't a success, but the message has been sent.",
+      "article": "The prank wasn't a success, but the message has been sent.",
+      "pos": "A Democrat And A Republican Come Together To Get SantaCon Canceled",
+      "neg": "Overview: The prank wasn't a success, but the message has been sent.",
+      "date": "2016-12-12",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: You're 8,000 times more likely to be murdered if you win! Neat, huh?",
+      "article": "You're 8,000 times more likely to be murdered if you win! Neat, huh?",
+      "pos": "If The Lottery Was Honest, It'd Be Called 'A Tax On The Poor'",
+      "neg": "You're 8,000 times more likely to be murdered if you win",
+      "date": "2016-12-16",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: We're at the point where the bloodshed is all starting to blur together.",
+      "article": "We're at the point where the bloodshed is all starting to blur together.",
+      "pos": "Lest We Forget, America Suffered Its Deadliest Mass Shooting This Year",
+      "neg": "Overview: We're at the point where the bloodshed is all starting to blur together.",
+      "date": "2016-12-23",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: Officials have said pilot error or a technical fault were most likely to blame for the tragedy.",
+      "article": "Officials have said pilot error or a technical fault were most likely to blame for the tragedy.",
+      "pos": "Russia Mourns 92 Killed In Black Sea Jet Crash As Hunt For Black Box Continues",
+      "neg": "Overview: Officials have said pilot error or a technical fault were most likely to blame",
+      "date": "2016-12-26",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: The sudden passing of pop singer George Michael last night has taken the world by surprise. Those of us in the LGBTQ+ community",
+      "article": "The sudden passing of pop singer George Michael last night has taken the world by surprise. Those of us in the LGBTQ+ community",
+      "pos": "The Inaccessibility Of Public Sex As A Queer Cripple",
+      "neg": "The sudden passing of pop singer George Michael last night has taken the world by surprise",
+      "date": "2016-12-26",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: The ball's in your court, Gatorade. And that's a sports reference.",
+      "article": "The ball's in your court, Gatorade. And that's a sports reference.",
+      "pos": "This Comedian Makes A Solid Case For Why Gatorade Should Sponsor Him",
+      "neg": "The ball's in your court, Gatorade",
+      "date": "2016-12-28",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: Better understanding between doctors and patients could translate to better health services provided.",
+      "article": "Better understanding between doctors and patients could translate to better health services provided.",
+      "pos": "This Simple Strategy Could Help Doctors Ask Teens About Gender Identity",
+      "neg": "Overview: Better understanding between doctors and patients could translate to better health services provided.",
+      "date": "2016-12-29",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: “Hey Alexa, will anything I say to you be used against me in a court of law?” “I’m sorry, I cannot answer that question at",
+      "article": "“Hey Alexa, will anything I say to you be used against me in a court of law?” “I’m sorry, I cannot answer that question at",
+      "pos": "Amazon Echo May Be Sending Its Sound Waves Into The Court Room As Our First 'Smart Witness'",
+      "neg": "Overview: “Hey Alexa, will anything I say to you be used against me in a",
+      "date": "2016-12-29",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: As Israel chooses increased self-isolation in response to rightful condemnation from the UN Security Council and John Kerry",
+      "article": "As Israel chooses increased self-isolation in response to rightful condemnation from the UN Security Council and John Kerry",
+      "pos": "Israeli Settler Colonialism Is The Obstacle To Peace",
+      "neg": "Overview: As Israel chooses increased self-isolation in response to rightful condemnation from the UN Security",
+      "date": "2016-12-29",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: It's easy to win over the public when you make up facts.",
+      "article": "It's easy to win over the public when you make up facts.",
+      "pos": "Utah Lawmakers Are Targeting Porn, Again, Using Poor Science",
+      "neg": "Overview: It's easy to win over the public when you make up facts.",
+      "date": "2017-01-04",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: \"I was saying, ‘Could you please let me go see my dad? Please, he’s dying.’”",
+      "article": "\"I was saying, ‘Could you please let me go see my dad? Please, he’s dying.’”",
+      "pos": "Sisters Kicked Off Flight Say They Missed Their Father's Death",
+      "neg": "\"I was saying, ‘Could you please let me go see my dad",
+      "date": "2017-01-06",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: The veteran told the FBI his mind was being controlled by the government. He was never on a no-fly list.",
+      "article": "The veteran told the FBI his mind was being controlled by the government. He was never on a no-fly list.",
+      "pos": "Airport Shooting Suspect Checked Gun, Despite Mental Health Issues",
+      "neg": "The veteran told the FBI his mind was being controlled by the government",
+      "date": "2017-01-07",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: Jeff Sessions has also had to repeatedly defend racist comments he's made throughout his entire career.",
+      "article": "Jeff Sessions has also had to repeatedly defend racist comments he's made throughout his entire career.",
+      "pos": "Trump's Attorney General Pick Opposes Hate Crime Laws And Roe v. Wade",
+      "neg": "Overview: Jeff Sessions has also had to repeatedly defend racist comments he's made throughout his",
+      "date": "2017-01-10",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: Investigators are looking into whether the deputy was paid by a news outlet.",
+      "article": "Investigators are looking into whether the deputy was paid by a news outlet.",
+      "pos": "Deputy Suspended Over Leaked Airport Shooting Video",
+      "neg": "Overview: Investigators are looking into whether the deputy was paid by a news outlet.",
+      "date": "2017-01-12",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: Twitter has banned both of the keynote speakers from the site for harassment.",
+      "article": "Twitter has banned both of the keynote speakers from the site for harassment.",
+      "pos": "Protesters Shut Down UC-Davis Event Featuring Milo Yiannopoulos, 'Pharma Bro'",
+      "neg": "Overview: Twitter has banned both of the keynote speakers from the site for harassment.",
+      "date": "2017-01-14",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: The return of two $30 pairs of gloves will not impress Linda Bean or move the needle at L.L. Bean, but it makes a big difference to me.",
+      "article": "The return of two $30 pairs of gloves will not impress Linda Bean or move the needle at L.L. Bean, but it makes a big difference to me.",
+      "pos": "Why I Canceled My Order From L.L. Bean: The Toxic Tweets Of Donald Trump",
+      "neg": "The return of two $30 pairs of gloves will not impress Linda Bean or move the needle at L.L",
+      "date": "2017-01-14",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011056_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: It's aimed at Dakota Access protesters, and it doesn't bode well.",
+      "article": "It's aimed at Dakota Access protesters, and it doesn't bode well.",
+      "pos": "North Dakota Bill Would Protect Drivers Who 'Accidentally' Hit And Kill Protesters",
+      "neg": "Overview: It's aimed at Dakota Access protesters, and it doesn't bode well.",
+      "date": "2017-01-14"
+    },
+    {
+      "id": "1011056_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Trump’s interest is in extending the United States' imperial power . Russia’s primary interest is in weakening it.",
+      "article": "Trump’s interest is in extending the United States' imperial power . Russia’s primary interest is in weakening it.",
+      "pos": "Counting Down The Seconds Until Putin Betrays Trump",
+      "neg": "Trump’s interest is in extending the United States' imperial power",
+      "date": "2017-01-16"
+    },
+    {
+      "id": "1011056_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"I can't just have a graveyard of people's names in my phone!\"",
+      "article": "\"I can't just have a graveyard of people's names in my phone!\"",
+      "pos": "If Their Name Is Not In Your Phone Yet, You May Have Intimacy Issues",
+      "neg": "Overview: \"I can't just have a graveyard of people's names in my phone!\"",
+      "date": "2017-01-18"
+    },
+    {
+      "id": "1011056_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"We are gathered here and across the country and around the world today to say, Mr. Trump we refuse.\"",
+      "article": "\"We are gathered here and across the country and around the world today to say, Mr. Trump we refuse.\"",
+      "pos": "America Ferrera: 'The President Is Not America. We Are America.'",
+      "neg": "\"We are gathered here and across the country and around the world today to say, Mr",
+      "date": "2017-01-21"
+    },
+    {
+      "id": "1011056_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The feminist icon inspired demonstrators Saturday before the Women's March on Washington.",
+      "article": "The feminist icon inspired demonstrators Saturday before the Women's March on Washington.",
+      "pos": "Gloria Steinem Declares: 'No More Asking Daddy'",
+      "neg": "Overview: The feminist icon inspired demonstrators Saturday before the Women's March on Washington.",
+      "date": "2017-01-21"
+    },
+    {
+      "id": "1011056_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Avoiding these phrases will ensure your next encounter with a sexy, seated lover will end with happy moans and cripple cuddles instead of groans of discomfort.",
+      "article": "Avoiding these phrases will ensure your next encounter with a sexy, seated lover will end with happy moans and cripple cuddles instead of groans of discomfort.",
+      "pos": "4 Things You Should Never Say To The Queer Cripple During Or After Sex",
+      "neg": "Overview: Avoiding these phrases will ensure your next encounter with a sexy, seated lover will",
+      "date": "2017-01-24"
+    },
+    {
+      "id": "1011056_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: It's so easy, there's literally no reason not to do it.",
+      "article": "It's so easy, there's literally no reason not to do it.",
+      "pos": "'How To Wash A Goddamn Dish,' For The Entitled Piece of S**t In Your Life",
+      "neg": "Overview: It's so easy, there's literally no reason not to do it.",
+      "date": "2017-01-30"
+    },
+    {
+      "id": "1011056_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The more wintery it gets, the more delicious you are, groundhog!",
+      "article": "The more wintery it gets, the more delicious you are, groundhog!",
+      "pos": "Ugh, More Winter ... Here Are Some Delicious Groundhog Recipes!",
+      "neg": "Overview: The more wintery it gets, the more delicious you are, groundhog!",
+      "date": "2017-02-02"
+    },
+    {
+      "id": "1011056_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: But people close to the judge can't quite predict how he'll rule on big social issues.",
+      "article": "But people close to the judge can't quite predict how he'll rule on big social issues.",
+      "pos": "Trump's Supreme Court Nominee Showed Support For His Clerk's Gay Marriage",
+      "neg": "Overview: But people close to the judge can't quite predict how he'll rule on big",
+      "date": "2017-02-03"
+    },
+    {
+      "id": "1011056",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: Search crews are hunting through the ruins of the luxury hotel for survivors of an apparent gas explosion and officials have raised the number of known dead to 30.",
+      "article": "Search crews are hunting through the ruins of the luxury hotel for survivors of an apparent gas explosion and officials have raised the number of known dead to 30.",
+      "pos": "Havana Hotel Death Toll Rises To 30 As Dogs Search For Survivors",
+      "neg": "Overview: Search crews are hunting through the ruins of the luxury hotel for survivors of",
+      "date": "dev_target"
+    }
+  ]
+}

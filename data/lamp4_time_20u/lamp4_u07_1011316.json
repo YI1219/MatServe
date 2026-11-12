@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u07_1011316",
+  "lamp_id": "1011316",
+  "rank": 7,
+  "n_profile_raw": 352,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: The former labor secretary was backed by top Obama administration figures.",
+      "article": "The former labor secretary was backed by top Obama administration figures.",
+      "pos": "Tom Perez Elected Democratic National Committee Chair",
+      "neg": "Overview: The former labor secretary was backed by top Obama administration figures.",
+      "date": "2017-02-25",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: The measure would have reinstated a policy put in place by Barack Obama.",
+      "article": "The measure would have reinstated a policy put in place by Barack Obama.",
+      "pos": "DNC Members Vote Down Corporate Money Ban",
+      "neg": "Overview: The measure would have reinstated a policy put in place by Barack Obama.",
+      "date": "2017-02-25",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: The Senate Minority Leader is meeting with Perez, Rep. Keith Ellison and Sen. Bernie Sanders on Thursday.",
+      "article": "The Senate Minority Leader is meeting with Perez, Rep. Keith Ellison and Sen. Bernie Sanders on Thursday.",
+      "pos": "Chuck Schumer: Tom Perez Will Make The DNC Do More Than 'Yak'",
+      "neg": "The Senate Minority Leader is meeting with Perez, Rep",
+      "date": "2017-03-01",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: Hundreds showed up in the rain ahead of the president's speech to Congress.",
+      "article": "Hundreds showed up in the rain ahead of the president's speech to Congress.",
+      "pos": "Rosie O'Donnell Cuts Down Trump In Fiery Speech Outside White House",
+      "neg": "Overview: Hundreds showed up in the rain ahead of the president's speech to Congress.",
+      "date": "2017-03-01",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: Because the House speaker wasn't giving them any actual face time.",
+      "article": "Because the House speaker wasn't giving them any actual face time.",
+      "pos": "Watch Wisconsinites Protest Paul Ryan Through FaceTime",
+      "neg": "Overview: Because the House speaker wasn't giving them any actual face time.",
+      "date": "2017-03-03",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: If Obama got a warrant to eavesdrop, then Trump probably did something wrong, the South Carolina senator noted.",
+      "article": "If Obama got a warrant to eavesdrop, then Trump probably did something wrong, the South Carolina senator noted.",
+      "pos": "Lindsey Graham Nails The Problem With Trump's Wiretapping Claims",
+      "neg": "Overview: If Obama got a warrant to eavesdrop, then Trump probably did something wrong, the",
+      "date": "2017-03-04",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: Trump has \"information\" suggesting there is a \"very real potential\" of wiretapping, Sarah Sanders said.",
+      "article": "Trump has \"information\" suggesting there is a \"very real potential\" of wiretapping, Sarah Sanders said.",
+      "pos": "White House Spokeswoman Walks Back Trump Wiretapping Claims",
+      "neg": "Overview: Trump has \"information\" suggesting there is a \"very real potential\" of wiretapping, Sarah Sanders",
+      "date": "2017-03-05",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: James Clapper also said he knew of no evidence that the Trump campaign colluded with Russia.",
+      "article": "James Clapper also said he knew of no evidence that the Trump campaign colluded with Russia.",
+      "pos": "Former Intelligence Chief Denies Trump Campaign Was Wiretapped",
+      "neg": "Overview: James Clapper also said he knew of no evidence that the Trump campaign colluded",
+      "date": "2017-03-05",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: The new Democratic National Committee chair is keeping his promise to support the party’s activist base.",
+      "article": "The new Democratic National Committee chair is keeping his promise to support the party’s activist base.",
+      "pos": "Tom Perez Joins White House Protest Against Trump's New Travel Ban",
+      "neg": "Overview: The new Democratic National Committee chair is keeping his promise to support the party’s",
+      "date": "2017-03-07",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: Progressives have faced tougher challenges, the new deputy chair of the Democratic National Committee said.",
+      "article": "Progressives have faced tougher challenges, the new deputy chair of the Democratic National Committee said.",
+      "pos": "Keith Ellison Tells Disappointed Supporters To ‘Buck Up’",
+      "neg": "Overview: Progressives have faced tougher challenges, the new deputy chair of the Democratic National Committee",
+      "date": "2017-03-10",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: The court confirmed that \"Texas intentionally discriminated to disenfranchise Latino and African-American voters,\" the DNC chair said.",
+      "article": "The court confirmed that \"Texas intentionally discriminated to disenfranchise Latino and African-American voters,\" the DNC chair said.",
+      "pos": "Texas Republicans' Gerrymandering Scheme Just Took A Beating In Court",
+      "neg": "Overview: The court confirmed that \"Texas intentionally discriminated to disenfranchise Latino and African-American voters,\" the",
+      "date": "2017-03-11",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: An Irish senator whose anti-Trump speech went viral will be among the speakers.",
+      "article": "An Irish senator whose anti-Trump speech went viral will be among the speakers.",
+      "pos": "Irish And American Progressives Are Organizing A St. Patrick's Day Rally Against Trump In New York",
+      "neg": "Overview: An Irish senator whose anti-Trump speech went viral will be among the speakers.",
+      "date": "2017-03-11",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: Sen. Steve Daines (R-Mont.) joins a growing chorus of Republicans wary of the law.",
+      "article": "Sen. Steve Daines (R-Mont.) joins a growing chorus of Republicans wary of the law.",
+      "pos": "Another Republican Senator Criticizes Obamacare Replacement",
+      "neg": "Overview: Sen. Steve Daines (R-Mont.) joins a growing chorus of Republicans wary of the law.",
+      "date": "2017-03-14",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: Trump attacked Federal Reserve Board Chair Janet Yellen on the campaign trail.",
+      "article": "Trump attacked Federal Reserve Board Chair Janet Yellen on the campaign trail.",
+      "pos": "The Federal Reserve Gives Donald Trump His First Interest Rate Hike",
+      "neg": "Overview: Trump attacked Federal Reserve Board Chair Janet Yellen on the campaign trail.",
+      "date": "2017-03-15",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: The president went after the central bank when it was politically expedient.",
+      "article": "The president went after the central bank when it was politically expedient.",
+      "pos": "Donald Trump's Silence On The Fed Interest Rate Hike Speaks Volumes",
+      "neg": "Overview: The president went after the central bank when it was politically expedient.",
+      "date": "2017-03-15",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: The comments from Oklahoma's Tom Cole are the strongest Republican admonition of Trump's baseless allegations to date.",
+      "article": "The comments from Oklahoma's Tom Cole are the strongest Republican admonition of Trump's baseless allegations to date.",
+      "pos": "GOP Congressman: Trump Should Apologize To Obama Over Wiretapping Claims",
+      "neg": "Overview: The comments from Oklahoma's Tom Cole are the strongest Republican admonition of Trump's baseless",
+      "date": "2017-03-17",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: Cutting Medicaid and charging older people more aren't popular moves, according to a new AARP survey.",
+      "article": "Cutting Medicaid and charging older people more aren't popular moves, according to a new AARP survey.",
+      "pos": "Older Trump Voters Say They Oppose Key Elements Of GOP Obamacare Replacement",
+      "neg": "Overview: Cutting Medicaid and charging older people more aren't popular moves, according to a new",
+      "date": "2017-03-21",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: The Writers Guild of America, East, will represent the outlet in bargaining.",
+      "article": "The Writers Guild of America, East, will represent the outlet in bargaining.",
+      "pos": "Thrillist Staff Votes To Unionize",
+      "neg": "Overview: The Writers Guild of America, East, will represent the outlet in bargaining.",
+      "date": "2017-03-22",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: The protests are scheduled for Thursday, the seventh anniversary of the Affordable Care Act's passage.",
+      "article": "The protests are scheduled for Thursday, the seventh anniversary of the Affordable Care Act's passage.",
+      "pos": "Progressives Plan Day Of Obamacare Activism As House Prepares To Vote On Repeal",
+      "neg": "Overview: The protests are scheduled for Thursday, the seventh anniversary of the Affordable Care Act's",
+      "date": "2017-03-22",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: There were 24 activists -- one for every million people projected to lose their health insurance.",
+      "article": "There were 24 activists -- one for every million people projected to lose their health insurance.",
+      "pos": "Activists Arrested Protesting Obamacare Repeal Outside The White House",
+      "neg": "Overview: There were 24 activists -- one for every million people projected to lose their",
+      "date": "2017-03-23",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: Most of those arrested have serious disabilities and are scattered across the country.",
+      "article": "Most of those arrested have serious disabilities and are scattered across the country.",
+      "pos": "Capitol Cops Order Arrested Disability Rights Activists To Return To Washington To Pay Fines",
+      "neg": "Overview: Most of those arrested have serious disabilities and are scattered across the country.",
+      "date": "2017-03-24",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: The new chairman, Tom Perez, is starting to shake things up.",
+      "article": "The new chairman, Tom Perez, is starting to shake things up.",
+      "pos": "Democratic National Committee Asks Its Entire Staff To Resign",
+      "neg": "Overview: The new chairman, Tom Perez, is starting to shake things up.",
+      "date": "2017-03-28",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: Democrats hope to capture the House seat recently vacated by Secretary of Health and Human Services Tom Price.",
+      "article": "Democrats hope to capture the House seat recently vacated by Secretary of Health and Human Services Tom Price.",
+      "pos": "Early Voting Favors Democrat Jon Ossoff In Georgia's Special Election",
+      "neg": "Overview: Democrats hope to capture the House seat recently vacated by Secretary of Health and",
+      "date": "2017-03-28",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: But they know they’ll need more than anti-Trump sentiment to win.",
+      "article": "But they know they’ll need more than anti-Trump sentiment to win.",
+      "pos": "Donald Trump's Election Could Be A Windfall For Virginia Democrats",
+      "neg": "Overview: But they know they’ll need more than anti-Trump sentiment to win.",
+      "date": "2017-03-29",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: The House hardliners played a key role in tanking the GOP's Obamacare replacement bill.",
+      "article": "The House hardliners played a key role in tanking the GOP's Obamacare replacement bill.",
+      "pos": "Trump Threatens To 'Fight' Freedom Caucus In Midterms If They Don't Fall In Line",
+      "neg": "Overview: The House hardliners played a key role in tanking the GOP's Obamacare replacement bill.",
+      "date": "2017-03-30",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: And Paul Ryan, a formal rival of the president, seems fine with Trump bashing the Freedom Caucus.",
+      "article": "And Paul Ryan, a formal rival of the president, seems fine with Trump bashing the Freedom Caucus.",
+      "pos": "Donald Trump Settles On A Culprit In Health Care Fiasco",
+      "neg": "Overview: And Paul Ryan, a formal rival of the president, seems fine with Trump bashing",
+      "date": "2017-03-31",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: A special election in Georgia's 6th district is testing the liberal backlash against Donald Trump.",
+      "article": "A special election in Georgia's 6th district is testing the liberal backlash against Donald Trump.",
+      "pos": "The First Week Of Early Voting Bodes Well For Democrat Jon Ossoff",
+      "neg": "Overview: A special election in Georgia's 6th district is testing the liberal backlash against Donald",
+      "date": "2017-04-01",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: Lead Locally is recruiting candidates for local government who will take a hard line against fossil fuels.",
+      "article": "Lead Locally is recruiting candidates for local government who will take a hard line against fossil fuels.",
+      "pos": "New Environmental Group Is Taking Bernie Sanders’ Revolution To Your City Council",
+      "neg": "Overview: Lead Locally is recruiting candidates for local government who will take a hard line",
+      "date": "2017-04-04",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: One way or another, Connecticut Rep. John Larson's bill is a political winner.",
+      "article": "One way or another, Connecticut Rep. John Larson's bill is a political winner.",
+      "pos": "House Democrats Are Inviting Trump To Expand Social Security",
+      "neg": "One way or another, Connecticut Rep",
+      "date": "2017-04-05",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: Early voting suggests Democrats are riding an anti-Trump wave in a place where they least expect it.",
+      "article": "Early voting suggests Democrats are riding an anti-Trump wave in a place where they least expect it.",
+      "pos": "Special Election In Deep-Red Kansas Is Scaring Republicans",
+      "neg": "Overview: Early voting suggests Democrats are riding an anti-Trump wave in a place where they",
+      "date": "2017-04-06",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: Many of them agree with the idea of retaliation. The party's base is more skeptical.",
+      "article": "Many of them agree with the idea of retaliation. The party's base is more skeptical.",
+      "pos": "Democrats Are Walking A Careful Line In Criticism Of Trump’s Syria Strike",
+      "neg": "Many of them agree with the idea of retaliation",
+      "date": "2017-04-08",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: Even if China is no longer manipulating its currency, reforms are still needed, they say.",
+      "article": "Even if China is no longer manipulating its currency, reforms are still needed, they say.",
+      "pos": "Critics Fear Donald Trump Is Backing Off China Trade Crackdown",
+      "neg": "Overview: Even if China is no longer manipulating its currency, reforms are still needed, they",
+      "date": "2017-04-14",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: Democrat Jon Ossoff has mounted a competitive challenge for the open House seat.",
+      "article": "Democrat Jon Ossoff has mounted a competitive challenge for the open House seat.",
+      "pos": "Republicans Catch Up In Georgia Special Election Early Voting",
+      "neg": "Overview: Democrat Jon Ossoff has mounted a competitive challenge for the open House seat.",
+      "date": "2017-04-16",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: The party held on to a legislative seat in Alabama as well.",
+      "article": "The party held on to a legislative seat in Alabama as well.",
+      "pos": "Democrat Defeats Republican In Virginia Court Clerk Race",
+      "neg": "Overview: The party held on to a legislative seat in Alabama as well.",
+      "date": "2017-04-19",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: The senator's \"unity tour\" with DNC Chair Tom Perez hasn't exactly gone smoothly.",
+      "article": "The senator's \"unity tour\" with DNC Chair Tom Perez hasn't exactly gone smoothly.",
+      "pos": "Finally, Bernie Sanders Says He Hopes Jon Ossoff Wins",
+      "neg": "Overview: The senator's \"unity tour\" with DNC Chair Tom Perez hasn't exactly gone smoothly.",
+      "date": "2017-04-21",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: On the DNC \"unity tour,\" there were some conciliatory moments after a controversial week.",
+      "article": "On the DNC \"unity tour,\" there were some conciliatory moments after a controversial week.",
+      "pos": "How Bernie Sanders Learned To Stop Worrying And Love The Democratic Party",
+      "neg": "Overview: On the DNC \"unity tour,\" there were some conciliatory moments after a controversial week.",
+      "date": "2017-04-21",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: They worry the newspaper's coverage will embolden politicians who want to slash aid.",
+      "article": "They worry the newspaper's coverage will embolden politicians who want to slash aid.",
+      "pos": "Disability Rights Advocates Accuse Washington Post Of Perpetuating 'Myths' About Benefits",
+      "neg": "Overview: They worry the newspaper's coverage will embolden politicians who want to slash aid.",
+      "date": "2017-04-22",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: Rep. Warren Davidson also compared health insurance to a cell phone.",
+      "article": "Rep. Warren Davidson also compared health insurance to a cell phone.",
+      "pos": "GOP Rep Tells Mom Her Son On Medicaid Should Just Get A Better Job If He Wants Health Care",
+      "neg": "Overview: Rep. Warren Davidson also compared health insurance to a cell phone.",
+      "date": "2017-04-22",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: Gubernatorial candidates Tom Perriello and Ralph Northam both staked out strong positions on abortion rights.",
+      "article": "Gubernatorial candidates Tom Perriello and Ralph Northam both staked out strong positions on abortion rights.",
+      "pos": "Virginia Democratic Candidate Backs Off Abortion Fight In Debate",
+      "neg": "Overview: Gubernatorial candidates Tom Perriello and Ralph Northam both staked out strong positions on abortion",
+      "date": "2017-04-30",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: The special election is another test of the backlash against Donald Trump.",
+      "article": "The special election is another test of the backlash against Donald Trump.",
+      "pos": "Archie Parnell Wins Democratic Primary In Race To Flip South Carolina District",
+      "neg": "Overview: The special election is another test of the backlash against Donald Trump.",
+      "date": "2017-05-03",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: The extremist group encourages militants to take advantage of unregulated gun sales.",
+      "article": "The extremist group encourages militants to take advantage of unregulated gun sales.",
+      "pos": "ISIS To Recruits: Buying Guns In The U.S. Is 'Very Simple'",
+      "neg": "Overview: The extremist group encourages militants to take advantage of unregulated gun sales.",
+      "date": "2017-05-05",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: Some Republicans opposed and some Democrats favored Robert Lighthizer for the post.",
+      "article": "Some Republicans opposed and some Democrats favored Robert Lighthizer for the post.",
+      "pos": "Donald Trump’s Pick For Trade Representative Creates Unusual Alliances",
+      "neg": "Overview: Some Republicans opposed and some Democrats favored Robert Lighthizer for the post.",
+      "date": "2017-05-11",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: The Montana Democrat is locked in a close special election race for an open House seat.",
+      "article": "The Montana Democrat is locked in a close special election race for an open House seat.",
+      "pos": "Bernie Sanders To Rally For Rob Quist Days Before Montana Election",
+      "neg": "Overview: The Montana Democrat is locked in a close special election race for an open",
+      "date": "2017-05-12",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: Steve Barnes lost by 2 points in a district that went heavily for Donald Trump.",
+      "article": "Steve Barnes lost by 2 points in a district that went heavily for Donald Trump.",
+      "pos": "Oklahoma Democrat Keeps It Surprisingly Close In Special Legislative Election",
+      "neg": "Overview: Steve Barnes lost by 2 points in a district that went heavily for Donald",
+      "date": "2017-05-12",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: Valerie Jarrett is a close confidante of former President Barack Obama.",
+      "article": "Valerie Jarrett is a close confidante of former President Barack Obama.",
+      "pos": "Top Obama Aide Endorses Tom Perriello In Virginia Governor's Race",
+      "neg": "Overview: Valerie Jarrett is a close confidante of former President Barack Obama.",
+      "date": "2017-05-13",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: The president must give a 90-day notice before opening talks on the mammoth trade deal.",
+      "article": "The president must give a 90-day notice before opening talks on the mammoth trade deal.",
+      "pos": "Trump Administration Notifies Congress About NAFTA Renegotiation",
+      "neg": "Overview: The president must give a 90-day notice before opening talks on the mammoth trade",
+      "date": "2017-05-18",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: \"He certainly has the vision and, we believe, the strength and the decisiveness.\"",
+      "article": "\"He certainly has the vision and, we believe, the strength and the decisiveness.\"",
+      "pos": "Saudi King Confident Trump Can Solve Israeli-Palestinian Conflict, Foreign Minister Says",
+      "neg": "Overview: \"He certainly has the vision and, we believe, the strength and the decisiveness.\"",
+      "date": "2017-05-20",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: “Who’s not to say he could be president someday? I think he’s going to emerge out of this and be whatever he wants to be.”",
+      "article": "“Who’s not to say he could be president someday? I think he’s going to emerge out of this and be whatever he wants to be.”",
+      "pos": "James Comey's Hometown Friends And Family Defend His Character",
+      "neg": "“Who’s not to say he could be president someday",
+      "date": "2017-05-20",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: \"This is a budget for the billionaire class, for Wall Street, for corporate CEOs and for the wealthiest people in this country.\"",
+      "article": "\"This is a budget for the billionaire class, for Wall Street, for corporate CEOs and for the wealthiest people in this country.\"",
+      "pos": "Bernie Sanders Says Trump Budget Exposes President As Fake Populist",
+      "neg": "Overview: \"This is a budget for the billionaire class, for Wall Street, for corporate CEOs",
+      "date": "2017-05-23",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: Democrats had hoped Montanans would send a signal of discontent with President Trump",
+      "article": "Democrats had hoped Montanans would send a signal of discontent with President Trump",
+      "pos": "Montana Republican Wins Special U.S. House Race Despite Assault Charge",
+      "neg": "Overview: Democrats had hoped Montanans would send a signal of discontent with President Trump",
+      "date": "2017-05-26",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: Despite a Democratic majority in the state senate, Republicans control the upper chamber.",
+      "article": "Despite a Democratic majority in the state senate, Republicans control the upper chamber.",
+      "pos": "New York’s Renegade Democrats Face Growing Calls To Rejoin Party Fold",
+      "neg": "Overview: Despite a Democratic majority in the state senate, Republicans control the upper chamber.",
+      "date": "2017-05-27",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: Rep. Adrian Smith (R-Neb.) was asked about proposed food stamp cuts.",
+      "article": "Rep. Adrian Smith (R-Neb.) was asked about proposed food stamp cuts.",
+      "pos": "GOP Congressman Declines To Say Whether Every American Is Entitled To Eat",
+      "neg": "Overview: Rep. Adrian Smith (R-Neb.) was asked about proposed food stamp cuts.",
+      "date": "2017-05-27",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: The Bernie Sanders supporter has strong ties in the progressive community.",
+      "article": "The Bernie Sanders supporter has strong ties in the progressive community.",
+      "pos": "Former NAACP President Ben Jealous Announces Run For Maryland Governor",
+      "neg": "Overview: The Bernie Sanders supporter has strong ties in the progressive community.",
+      "date": "2017-05-31",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: The 10-point deficit is faint hope, though, in the deep-red House district.",
+      "article": "The 10-point deficit is faint hope, though, in the deep-red House district.",
+      "pos": "South Carolina Democrat's Poll Shows Progress Against GOP Rival",
+      "neg": "Overview: The 10-point deficit is faint hope, though, in the deep-red House district.",
+      "date": "2017-05-31",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: Archie Parnell has an uphill battle in a district that went heavily for Donald Trump.",
+      "article": "Archie Parnell has an uphill battle in a district that went heavily for Donald Trump.",
+      "pos": "South Carolina Democrat Slams GOP Opponent's Support For Social Security Cuts",
+      "neg": "Overview: Archie Parnell has an uphill battle in a district that went heavily for Donald",
+      "date": "2017-06-03",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: Former Goldman Sachs executive Phil Murphy leads the state's Democratic gubernatorial primary ahead of Tuesday's election.",
+      "article": "Former Goldman Sachs executive Phil Murphy leads the state's Democratic gubernatorial primary ahead of Tuesday's election.",
+      "pos": "New Jersey Democrat Faces Criticism For Goldman Sachs Investment In Abusive Company",
+      "neg": "Overview: Former Goldman Sachs executive Phil Murphy leads the state's Democratic gubernatorial primary ahead of",
+      "date": "2017-06-04",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: The party's modest aid for Archie Parnell pales in comparison to its efforts in Georgia.",
+      "article": "The party's modest aid for Archie Parnell pales in comparison to its efforts in Georgia.",
+      "pos": "Democrats Give Funding Boost To South Carolina House Contender",
+      "neg": "Overview: The party's modest aid for Archie Parnell pales in comparison to its efforts in",
+      "date": "2017-06-06",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: He agrees that more help from his national party would have been welcomed.",
+      "article": "He agrees that more help from his national party would have been welcomed.",
+      "pos": "Montana Democrat Rob Quist May Make Another House Run",
+      "neg": "Overview: He agrees that more help from his national party would have been welcomed.",
+      "date": "2017-06-11",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: Tom Perriello is hoping to upset Lt. Gov. Ralph Northam in the race for governor.",
+      "article": "Tom Perriello is hoping to upset Lt. Gov. Ralph Northam in the race for governor.",
+      "pos": "This Virginia Democratic Primary Is A Crucial Test For The Party’s Progressive Wing",
+      "neg": "Tom Perriello is hoping to upset Lt",
+      "date": "2017-06-13",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: Rep. Chris Collins added that safety would improve if more people carried guns.",
+      "article": "Rep. Chris Collins added that safety would improve if more people carried guns.",
+      "pos": "GOP Congressman 'Regrets' Blaming Democrats' Rhetoric For Virginia Shooting",
+      "neg": "Overview: Rep. Chris Collins added that safety would improve if more people carried guns.",
+      "date": "2017-06-15",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: Ralph Norman is seeking to fill a House seat vacated by White House budget director Mick Mulvaney.",
+      "article": "Ralph Norman is seeking to fill a House seat vacated by White House budget director Mick Mulvaney.",
+      "pos": "South Carolina GOP Contender Calls For More Members Of Congress To Be Armed",
+      "neg": "Overview: Ralph Norman is seeking to fill a House seat vacated by White House budget",
+      "date": "2017-06-15",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: “It’s morning again -- for auto manufacturing in America,” a new ad says.",
+      "article": "“It’s morning again -- for auto manufacturing in America,” a new ad says.",
+      "pos": "Foreign Carmakers Invoke Reagan To Sway Trump On Trade",
+      "neg": "Overview: “It’s morning again -- for auto manufacturing in America,” a new ad says.",
+      "date": "2017-06-16",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: The special election was overshadowed by a similar race in Georgia.",
+      "article": "The special election was overshadowed by a similar race in Georgia.",
+      "pos": "Republicans Hold On To Mick Mulvaney's Old House Seat In South Carolina",
+      "neg": "Overview: The special election was overshadowed by a similar race in Georgia.",
+      "date": "2017-06-21",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: Six months in, the president has yet to take care of some of the basics.",
+      "article": "Six months in, the president has yet to take care of some of the basics.",
+      "pos": "4 Things Trump Could Be Doing Instead Of Tweeting",
+      "neg": "Overview: Six months in, the president has yet to take care of some of the",
+      "date": "2017-06-29",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: Lawmakers encouraged the crowd to stay vigilant in their fight against the bill.",
+      "article": "Lawmakers encouraged the crowd to stay vigilant in their fight against the bill.",
+      "pos": "Democrats Rally Troops To Protest GOP Health Care Bill In 'Human Chain' Around The Capitol",
+      "neg": "Overview: Lawmakers encouraged the crowd to stay vigilant in their fight against the bill.",
+      "date": "2017-06-29",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: The outspoken football player explored the contradictions of the Fourth of July for black Americans.",
+      "article": "The outspoken football player explored the contradictions of the Fourth of July for black Americans.",
+      "pos": "Colin Kaepernick Celebrates His Quest For True 'Independence' On Trip To Ghana",
+      "neg": "Overview: The outspoken football player explored the contradictions of the Fourth of July for black",
+      "date": "2017-07-04",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: “Win The Future” is drawing criticism as a tone-deaf attempt to reshape the Democratic Party.",
+      "article": "“Win The Future” is drawing criticism as a tone-deaf attempt to reshape the Democratic Party.",
+      "pos": "Progressives Skewer Silicon Valley Billionaires’ Newest Political Pet Project",
+      "neg": "Overview: “Win The Future” is drawing criticism as a tone-deaf attempt to reshape the Democratic",
+      "date": "2017-07-04",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: \"Everybody knows Russia meddled in our elections,\" the U.N. ambassador said.",
+      "article": "\"Everybody knows Russia meddled in our elections,\" the U.N. ambassador said.",
+      "pos": "Nikki Haley Contradicts Trump Line On Russian Election Interference",
+      "neg": "\"Everybody knows Russia meddled in our elections,\" the U.N",
+      "date": "2017-07-08",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: A year and a half before the general election, a primary is raising tough questions for progressive activists.",
+      "article": "A year and a half before the general election, a primary is raising tough questions for progressive activists.",
+      "pos": "A Tale Of Two Staceys: Georgia Governor’s Race Highlights Democratic Party Divisions",
+      "neg": "Overview: A year and a half before the general election, a primary is raising tough",
+      "date": "2017-07-08",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: A surprise in the fine print of the new Senate bill.",
+      "article": "A surprise in the fine print of the new Senate bill.",
+      "pos": "Republicans Don't Even Think The Insurance Plans They're Allowing Should Count As Insurance",
+      "neg": "Overview: A surprise in the fine print of the new Senate bill.",
+      "date": "2017-07-15",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: Randall Woodfin is hoping to unseat the Alabama city’s two-term mayor.",
+      "article": "Randall Woodfin is hoping to unseat the Alabama city’s two-term mayor.",
+      "pos": "Progressive Challenger Wants Birmingham To Be 'Frontline Resistance To Trump Policies'",
+      "neg": "Overview: Randall Woodfin is hoping to unseat the Alabama city’s two-term mayor.",
+      "date": "2017-07-29",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: \"I will speak with Gen. Kelly and the president about that.\"",
+      "article": "\"I will speak with Gen. Kelly and the president about that.\"",
+      "pos": "Kellyanne Conway Won't Say Whether She Will Report To John Kelly",
+      "neg": "\"I will speak with Gen",
+      "date": "2017-07-30",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: The move by the Health and Human Services secretary would hobble the Obamacare exchanges.",
+      "article": "The move by the Health and Human Services secretary would hobble the Obamacare exchanges.",
+      "pos": "Tom Price Open To Waiving Obamacare's Individual Mandate",
+      "neg": "Overview: The move by the Health and Human Services secretary would hobble the Obamacare exchanges.",
+      "date": "2017-07-30",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: Left-leaning groups want the issue to be a litmus test for Democrats.",
+      "article": "Left-leaning groups want the issue to be a litmus test for Democrats.",
+      "pos": "As Democratic Leaders Seek Bipartisan Obamacare Fix, Progressives Elevate Single Payer",
+      "neg": "Overview: Left-leaning groups want the issue to be a litmus test for Democrats.",
+      "date": "2017-08-01",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: It's an attempt to steal the high ground from the trade hawk in chief.",
+      "article": "It's an attempt to steal the high ground from the trade hawk in chief.",
+      "pos": "Democrats Add Trade Reforms To Their New Economic Agenda",
+      "neg": "Overview: It's an attempt to steal the high ground from the trade hawk in chief.",
+      "date": "2017-08-02",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: Lt. Gov. Ralph Northam, a physician, has a narrow lead in a new poll.",
+      "article": "Lt. Gov. Ralph Northam, a physician, has a narrow lead in a new poll.",
+      "pos": "Virginia Democrat Emphasizes Health Care In His First General Election Ad In Governor's Race",
+      "neg": "Overview: Lt. Gov. Ralph Northam, a physician, has a narrow lead in a new poll.",
+      "date": "2017-08-10",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: A populist primary opponent put pressure on Ed Gillespie to shift further right.",
+      "article": "A populist primary opponent put pressure on Ed Gillespie to shift further right.",
+      "pos": "Virginia Republican Channels Donald Trump In New Campaign Tone",
+      "neg": "Overview: A populist primary opponent put pressure on Ed Gillespie to shift further right.",
+      "date": "2017-09-01",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: Dozens are walking from Charlottesville, Virginia, to D.C. to fight for racial justice.",
+      "article": "Dozens are walking from Charlottesville, Virginia, to D.C. to fight for racial justice.",
+      "pos": "Activists Face Rain And Security Threats As 10-Day March Against White Supremacy Continues",
+      "neg": "Dozens are walking from Charlottesville, Virginia, to D.C",
+      "date": "2017-09-02",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: The president praised the Coast Guard for “going into winds that the media would not go into...unless it’s a really good story.”",
+      "article": "The president praised the Coast Guard for “going into winds that the media would not go into...unless it’s a really good story.”",
+      "pos": "Despite Trump's Dig, The Media Did Go 'Into The Winds' Of Hurricane Harvey",
+      "neg": "Overview: The president praised the Coast Guard for “going into winds that the media would",
+      "date": "2017-09-02",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: North Dakota Sen. Heidi Heitkamp joined the president at an event in her home state.",
+      "article": "North Dakota Sen. Heidi Heitkamp joined the president at an event in her home state.",
+      "pos": "Donald Trump Woos Democratic Senator With Another Tax Speech Light On Details",
+      "neg": "Overview: North Dakota Sen. Heidi Heitkamp joined the president at an event in her home",
+      "date": "2017-09-06",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011316_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"Trump is doing exactly what he said he would do,\" said one conservative leader.",
+      "article": "\"Trump is doing exactly what he said he would do,\" said one conservative leader.",
+      "pos": "Conservatives Blame Ryan And McConnell For Enabling Trump’s Deal With Democrats",
+      "neg": "Overview: \"Trump is doing exactly what he said he would do,\" said one conservative leader.",
+      "date": "2017-09-07"
+    },
+    {
+      "id": "1011316_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The growing Boycott, Divestment and Sanctions movement is still taboo for Democrats.",
+      "article": "The growing Boycott, Divestment and Sanctions movement is still taboo for Democrats.",
+      "pos": "Candidate For Illinois Governor Divests Himself Of Running Mate Over Israel Criticism",
+      "neg": "Overview: The growing Boycott, Divestment and Sanctions movement is still taboo for Democrats.",
+      "date": "2017-09-08"
+    },
+    {
+      "id": "1011316_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The New Jersey governor's response to the lewd Access Hollywood tape leak precluded him from a cabinet position, the former chief strategist said.",
+      "article": "The New Jersey governor's response to the lewd Access Hollywood tape leak precluded him from a cabinet position, the former chief strategist said.",
+      "pos": "Steve Bannon: Chris Christie's Lack Of Loyalty Cost Him Cabinet Consideration",
+      "neg": "Overview: The New Jersey governor's response to the lewd Access Hollywood tape leak precluded him",
+      "date": "2017-09-08"
+    },
+    {
+      "id": "1011316_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: HuffPost interviewed the Vermont senator about his new single-payer health care legislation.",
+      "article": "HuffPost interviewed the Vermont senator about his new single-payer health care legislation.",
+      "pos": "Bernie Sanders: GOP’s Obamacare Repeal Scheme Made Single Payer A 'Rational Alternative'",
+      "neg": "Overview: HuffPost interviewed the Vermont senator about his new single-payer health care legislation.",
+      "date": "2017-09-14"
+    },
+    {
+      "id": "1011316_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Democrat Ralph Northam is trying to brand Republican Ed Gillespie a \"Washington, D.C., corporate lobbyist.\"",
+      "article": "Democrat Ralph Northam is trying to brand Republican Ed Gillespie a \"Washington, D.C., corporate lobbyist.\"",
+      "pos": "Virginia Democrat Slams Republican Opponent For Assisting Job-Killing Companies",
+      "neg": "Overview: Democrat Ralph Northam is trying to brand Republican Ed Gillespie a \"Washington, D.C., corporate",
+      "date": "2017-09-19"
+    },
+    {
+      "id": "1011316_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The Graham-Cassidy bill is causing problems for Virginia gubernatorial candidate Ed Gillespie.",
+      "article": "The Graham-Cassidy bill is causing problems for Virginia gubernatorial candidate Ed Gillespie.",
+      "pos": "Virginia Republican Flip-Flops Almost Immediately On Opposing GOP Health Care Bill",
+      "neg": "Overview: The Graham-Cassidy bill is causing problems for Virginia gubernatorial candidate Ed Gillespie.",
+      "date": "2017-09-20"
+    },
+    {
+      "id": "1011316_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Their opponents, the Tennessee Titans, also did not appear for the anthem, but for a different reason.",
+      "article": "Their opponents, the Tennessee Titans, also did not appear for the anthem, but for a different reason.",
+      "pos": "Seattle Seahawks Absent At National Anthem To Protest 'Injustice' Against People Of Color",
+      "neg": "Overview: Their opponents, the Tennessee Titans, also did not appear for the anthem, but for",
+      "date": "2017-09-24"
+    },
+    {
+      "id": "1011316_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: One player broke with the team and stood on the sidelines.",
+      "article": "One player broke with the team and stood on the sidelines.",
+      "pos": "Pittsburgh Steelers Stay Off Field During Anthem, Crowd Boos Them When They Return",
+      "neg": "Overview: One player broke with the team and stood on the sidelines.",
+      "date": "2017-09-24"
+    },
+    {
+      "id": "1011316_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"He accuses Muslims of trying to push Sharia law and yet he’s the one trying to impose religion on other people.\"",
+      "article": "\"He accuses Muslims of trying to push Sharia law and yet he’s the one trying to impose religion on other people.\"",
+      "pos": "Rep. Keith Ellison Has A Lesson On The Constitution For Roy Moore",
+      "neg": "Overview: \"He accuses Muslims of trying to push Sharia law and yet he’s the one",
+      "date": "2017-09-27"
+    },
+    {
+      "id": "1011316",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: Carey’s win shows that former President Donald Trump still has an influential role in Republican primaries.",
+      "article": "Carey’s win shows that former President Donald Trump still has an influential role in Republican primaries.",
+      "pos": "Mike Carey, Trump-Backed Ohio Republican, Wins Crowded GOP Primary",
+      "neg": "Overview: Carey’s win shows that former President Donald Trump still has an influential role in",
+      "date": "dev_target"
+    }
+  ]
+}

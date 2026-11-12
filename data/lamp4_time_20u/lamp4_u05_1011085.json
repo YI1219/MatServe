@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u05_1011085",
+  "lamp_id": "1011085",
+  "rank": 5,
+  "n_profile_raw": 397,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: \"It’s not entertaining to me and it’s not funny. It’s very serious and it’s a crisis.”",
+      "article": "\"It’s not entertaining to me and it’s not funny. It’s very serious and it’s a crisis.”",
+      "pos": "Protesters At The White House Warn Trump He Won’t Get Away With Firing James Comey",
+      "neg": "\"It’s not entertaining to me and it’s not funny",
+      "date": "2017-05-10",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: The new commission's chairman has pushed one of the most restrictive voting laws in the country.",
+      "article": "The new commission's chairman has pushed one of the most restrictive voting laws in the country.",
+      "pos": "Trump Announces Commission To Investigate His Baseless Widespread Voter Fraud Claim",
+      "neg": "Overview: The new commission's chairman has pushed one of the most restrictive voting laws in",
+      "date": "2017-05-11",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: \"Why don't you want our kids to have good food at school?\"",
+      "article": "\"Why don't you want our kids to have good food at school?\"",
+      "pos": "Michelle Obama Asks Why Trump Administration Is OK With Kids Eating 'Crap' In Schools",
+      "neg": "Overview: \"Why don't you want our kids to have good food at school?\"",
+      "date": "2017-05-12",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: Matthew Dunlap says it's important to have a seat at the table, even though he doesn't believe the president's claims.",
+      "article": "Matthew Dunlap says it's important to have a seat at the table, even though he doesn't believe the president's claims.",
+      "pos": "Why A Democrat Is Participating In Trump's Voter Fraud Investigation",
+      "neg": "Overview: Matthew Dunlap says it's important to have a seat at the table, even though",
+      "date": "2017-05-12",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: He also urged graduates not to become critics and spoke a little bit about football.",
+      "article": "He also urged graduates not to become critics and spoke a little bit about football.",
+      "pos": "Donald Trump Uses His First Commencement Speech As President To Brag About Crowd Size",
+      "neg": "Overview: He also urged graduates not to become critics and spoke a little bit about",
+      "date": "2017-05-13",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: “Discussion of Trump’s presidency ending before his four-year term is up is no longer an oppositional fantasy.\"",
+      "article": "“Discussion of Trump’s presidency ending before his four-year term is up is no longer an oppositional fantasy.\"",
+      "pos": "Donald Trump's Week Of Chaos Met With Talk Of His Removal",
+      "neg": "Overview: “Discussion of Trump’s presidency ending before his four-year term is up is no longer",
+      "date": "2017-05-17",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: Over 5,000 voters will be able to vote in a runoff election after a federal judge forced the state to extend its voter registration deadline.",
+      "article": "Over 5,000 voters will be able to vote in a runoff election after a federal judge forced the state to extend its voter registration deadline.",
+      "pos": "Georgia Would Have Blocked Thousands Of People From Exercising Right To Vote",
+      "neg": "Overview: Over 5,000 voters will be able to vote in a runoff election after a",
+      "date": "2017-05-23",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: Note to states that want to dilute the votes of minorities: SCOTUS is watching.",
+      "article": "Note to states that want to dilute the votes of minorities: SCOTUS is watching.",
+      "pos": "Supreme Court Puts States On Notice About Using Race In Redistricting",
+      "neg": "Overview: Note to states that want to dilute the votes of minorities: SCOTUS is watching.",
+      "date": "2017-05-24",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: They say the president just wants to make it more difficult for people to vote.",
+      "article": "They say the president just wants to make it more difficult for people to vote.",
+      "pos": "Democrats Launch New Effort To Fight Back Against Trump's Bogus Claims Of Voter Fraud",
+      "neg": "Overview: They say the president just wants to make it more difficult for people to",
+      "date": "2017-05-25",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: An FBI official helping the AG fill it out told him he didn't need to make the disclosure, a Justice Department spokeswoman says.",
+      "article": "An FBI official helping the AG fill it out told him he didn't need to make the disclosure, a Justice Department spokeswoman says.",
+      "pos": "Jeff Sessions Reportedly Failed To List Russian Ambassador Meetings On Security Form",
+      "neg": "Overview: An FBI official helping the AG fill it out told him he didn't need",
+      "date": "2017-05-25",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: Ohio officials are illegally targeting people for not voting, plaintiffs say.",
+      "article": "Ohio officials are illegally targeting people for not voting, plaintiffs say.",
+      "pos": "Supreme Court To Weigh In On Tactic For Kicking People Off Voter Rolls",
+      "neg": "Overview: Ohio officials are illegally targeting people for not voting, plaintiffs say.",
+      "date": "2017-05-30",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: Critics say legitimate voters may not have the necessary proof of a \"domicile\" in the state.",
+      "article": "Critics say legitimate voters may not have the necessary proof of a \"domicile\" in the state.",
+      "pos": "New Hampshire On The Verge Of Imposing Tougher Voter Registration Rules",
+      "neg": "Overview: Critics say legitimate voters may not have the necessary proof of a \"domicile\" in",
+      "date": "2017-06-02",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: A federal judge ruled earlier this year that the state's current law was passed with the intent to discriminate.",
+      "article": "A federal judge ruled earlier this year that the state's current law was passed with the intent to discriminate.",
+      "pos": "Texas Softens Voter ID Law After Threat Of Federal Oversight For Discrimination",
+      "neg": "Overview: A federal judge ruled earlier this year that the state's current law was passed",
+      "date": "2017-06-02",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: “And he believes pollutants are part of that equation,\" she says.",
+      "article": "“And he believes pollutants are part of that equation,\" she says.",
+      "pos": "U.N. Ambassador Nikki Haley Says Donald Trump Thinks The Climate Is Changing",
+      "neg": "Overview: “And he believes pollutants are part of that equation,\" she says.",
+      "date": "2017-06-03",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: Trump has claimed the former FBI director told him three times he wasn't being investigated.",
+      "article": "Trump has claimed the former FBI director told him three times he wasn't being investigated.",
+      "pos": "James Comey To Testify He Told Trump He Wasn't Under Investigation (UDPATE)",
+      "neg": "Overview: Trump has claimed the former FBI director told him three times he wasn't being",
+      "date": "2017-06-07",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: Comey, the FBI director who was fired last month, was once close with Christopher Wray, the man nominated to replace him.",
+      "article": "Comey, the FBI director who was fired last month, was once close with Christopher Wray, the man nominated to replace him.",
+      "pos": "Trump's Pick To Lead FBI Is Low-Key, But 'Cut From The Same Cloth' As James Comey",
+      "neg": "Overview: Comey, the FBI director who was fired last month, was once close with Christopher",
+      "date": "2017-06-07",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: \"It is beyond unacceptable that the state of Missouri has launched a photo ID requirement while not sufficiently preparing, educating voters, or funding it.\"",
+      "article": "\"It is beyond unacceptable that the state of Missouri has launched a photo ID requirement while not sufficiently preparing, educating voters, or funding it.\"",
+      "pos": "Civil Rights Groups Sue To Block Missouri Voter ID Law",
+      "neg": "Overview: \"It is beyond unacceptable that the state of Missouri has launched a photo ID",
+      "date": "2017-06-09",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: “We also have to be real careful from the standpoint that we have a president that’s not from the political class.”",
+      "article": "“We also have to be real careful from the standpoint that we have a president that’s not from the political class.”",
+      "pos": "GOP Congressman Suggests Trump Probe Should Consider He's New To Politics",
+      "neg": "Overview: “We also have to be real careful from the standpoint that we have a",
+      "date": "2017-06-15",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: A new report says people waited  in line to vote for up to three hours at one polling place.",
+      "article": "A new report says people waited  in line to vote for up to three hours at one polling place.",
+      "pos": "Here's Yet More Evidence That The 2016 Election In Texas Was A Mess",
+      "neg": "Overview: A new report says people waited in line to vote for up to three",
+      "date": "2017-06-17",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: Reporters sitting in rooms with blacked-out windows. Legislators voting on a bill they haven't seen. Welcome to 2017.",
+      "article": "Reporters sitting in rooms with blacked-out windows. Legislators voting on a bill they haven't seen. Welcome to 2017.",
+      "pos": "From The White House To Capitol Hill, Republicans Embrace Secrecy",
+      "neg": "Reporters sitting in rooms with blacked-out windows",
+      "date": "2017-06-20",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: “I’m not going to spend state resources\" on that effort, Alabama's secretary of state says.",
+      "article": "“I’m not going to spend state resources\" on that effort, Alabama's secretary of state says.",
+      "pos": "Alabama Won't Help Disenfranchised Citizens Understand If They Can Now Vote",
+      "neg": "Overview: “I’m not going to spend state resources\" on that effort, Alabama's secretary of state",
+      "date": "2017-06-21",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: “I’m just a very small old country boy from Arkansas in this bigger commission with Vice President Pence, and I’m just going to do the best I can, to be honest.”",
+      "article": "“I’m just a very small old country boy from Arkansas in this bigger commission with Vice President Pence, and I’m just going to do the best I can, to be honest.”",
+      "pos": "Some Of Trump's New Election Investigators Don't Seem To Have Much Election Experience",
+      "neg": "Overview: “I’m just a very small old country boy from Arkansas in this bigger commission",
+      "date": "2017-06-22",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: Obama's homeland security secretary had just testified on the issue the day before.",
+      "article": "Obama's homeland security secretary had just testified on the issue the day before.",
+      "pos": "Trump Isn't Sure If Russian Hacking Happened, But Is Still Blaming Obama",
+      "neg": "Overview: Obama's homeland security secretary had just testified on the issue the day before.",
+      "date": "2017-06-22",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: “While there is always room to debate the most effective approach to criminal justice, that debate should be based on facts, not fear.”",
+      "article": "“While there is always room to debate the most effective approach to criminal justice, that debate should be based on facts, not fear.”",
+      "pos": "Sally Yates Rips Jeff Sessions' Defense For Harsher Criminal Sentences",
+      "neg": "Overview: “While there is always room to debate the most effective approach to criminal justice,",
+      "date": "2017-06-24",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: Commissioners say they have no idea what the commission will look at or when it will meet.",
+      "article": "Commissioners say they have no idea what the commission will look at or when it will meet.",
+      "pos": "White House Says Its Election Commission Will Examine Hacking. That's News To The Commissioners.",
+      "neg": "Overview: Commissioners say they have no idea what the commission will look at or when",
+      "date": "2017-06-24",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: But Donald Trump \"is in no position\" to whine about it.",
+      "article": "But Donald Trump \"is in no position\" to whine about it.",
+      "pos": "Democrat Says Obama Made 'Serious Mistake' On Russian Hacking",
+      "neg": "Overview: But Donald Trump \"is in no position\" to whine about it.",
+      "date": "2017-06-25",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: The comments come after a bruising loss in a closely watched congressional special election.",
+      "article": "The comments come after a bruising loss in a closely watched congressional special election.",
+      "pos": "Chuck Schumer Admits Democrats Need To Do More To Show Americans What They Stand For",
+      "neg": "Overview: The comments come after a bruising loss in a closely watched congressional special election.",
+      "date": "2017-06-25",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: “We don’t have the courage in Washington, the honesty, to talk about this issue with real facts.\"",
+      "article": "“We don’t have the courage in Washington, the honesty, to talk about this issue with real facts.\"",
+      "pos": "GOP Sen. Ron Johnson Says 'No Way' Health Care Vote Should Occur This Week",
+      "neg": "Overview: “We don’t have the courage in Washington, the honesty, to talk about this issue",
+      "date": "2017-06-25",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: There's also a gap in attitudes toward voter access along racial lines.",
+      "article": "There's also a gap in attitudes toward voter access along racial lines.",
+      "pos": "Only About A Third Of Republicans Believe Voting Should Be As Easy As Possible",
+      "neg": "Overview: There's also a gap in attitudes toward voter access along racial lines.",
+      "date": "2017-06-28",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: We're talking addresses, birth dates and parts of Social Security numbers.",
+      "article": "We're talking addresses, birth dates and parts of Social Security numbers.",
+      "pos": "Trump's Voter Fraud Probe Requests Voters' Personal Information",
+      "neg": "Overview: We're talking addresses, birth dates and parts of Social Security numbers.",
+      "date": "2017-06-29",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: Not even Kris Kobach, head of a presidential voter fraud commission, can vouch for Trump's baseless claim.",
+      "article": "Not even Kris Kobach, head of a presidential voter fraud commission, can vouch for Trump's baseless claim.",
+      "pos": "Trump's Voter Fraud Expert Says 'We May Never Know' If Millions Really Voted Illegally",
+      "neg": "Overview: Not even Kris Kobach, head of a presidential voter fraud commission, can vouch for",
+      "date": "2017-06-30",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: State officials are refusing to disclose data the commission wants, sometimes pointing to their own laws.",
+      "article": "State officials are refusing to disclose data the commission wants, sometimes pointing to their own laws.",
+      "pos": "Trump's Election Investigation Is Already Facing Trouble",
+      "neg": "Overview: State officials are refusing to disclose data the commission wants, sometimes pointing to their",
+      "date": "2017-06-30",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: “The state is responsible for correcting the confusion that has wrongly disenfranchised voters for decades.\"",
+      "article": "“The state is responsible for correcting the confusion that has wrongly disenfranchised voters for decades.\"",
+      "pos": "Suit Seeks To Force Alabama To Inform People About Restored Voting Rights",
+      "neg": "Overview: “The state is responsible for correcting the confusion that has wrongly disenfranchised voters for",
+      "date": "2017-07-01",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: Rhode Island could be the ninth state to enact the measure, which advocates say expands the right to vote.",
+      "article": "Rhode Island could be the ninth state to enact the measure, which advocates say expands the right to vote.",
+      "pos": "Yet Another State Is On The Brink Of Enacting Automatic Voter Registration",
+      "neg": "Overview: Rhode Island could be the ninth state to enact the measure, which advocates say",
+      "date": "2017-07-01",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: The White House insisted it was a neutral effort. Trump cast doubt on that.",
+      "article": "The White House insisted it was a neutral effort. Trump cast doubt on that.",
+      "pos": "Trump Just Undermined The Work Of His Own 'Election Integrity' Probe",
+      "neg": "The White House insisted it was a neutral effort",
+      "date": "2017-07-01",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: Kris Kobach faces a fine and ACLU questioning over a brief he filed arguing why he shouldn't have to turn over documents from a Trump meeting.",
+      "article": "Kris Kobach faces a fine and ACLU questioning over a brief he filed arguing why he shouldn't have to turn over documents from a Trump meeting.",
+      "pos": "Voter Fraud Panelist Asks Court To Drop Sanctions Against Him, Blames Sloppy Editing",
+      "neg": "Overview: Kris Kobach faces a fine and ACLU questioning over a brief he filed arguing",
+      "date": "2017-07-01",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: “I said, you want to be careful how you go at this because election officials are very sensitive guardians of this information.\"",
+      "article": "“I said, you want to be careful how you go at this because election officials are very sensitive guardians of this information.\"",
+      "pos": "Trump Voter Fraud Commission Was Cautioned About Seeking Sensitive Voter Information",
+      "neg": "Overview: “I said, you want to be careful how you go at this because election",
+      "date": "2017-07-05",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: A lawyer for the plaintiffs accused the department of siding with \"racists.\"",
+      "article": "A lawyer for the plaintiffs accused the department of siding with \"racists.\"",
+      "pos": "Trump DOJ Says A Few Tweaks Are Enough To Fix Texas' Discriminatory Voting Law",
+      "neg": "Overview: A lawyer for the plaintiffs accused the department of siding with \"racists.\"",
+      "date": "2017-07-06",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: \"They keep changing their story about what they’re collecting, what they’re releasing and how they’re storing it.”",
+      "article": "\"They keep changing their story about what they’re collecting, what they’re releasing and how they’re storing it.”",
+      "pos": "Trump's Voter Fraud Probe Contradicts Itself On What Information Will Be Released",
+      "neg": "Overview: \"They keep changing their story about what they’re collecting, what they’re releasing and how",
+      "date": "2017-07-07",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: She was reportedly concerned her first ballot would be changed to a vote for Hillary Clinton.",
+      "article": "She was reportedly concerned her first ballot would be changed to a vote for Hillary Clinton.",
+      "pos": "Iowa Woman Pleads Guilty To Voting Twice For Donald Trump",
+      "neg": "Overview: She was reportedly concerned her first ballot would be changed to a vote for",
+      "date": "2017-07-08",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: \"I never expected to see more withdrawals in a day than new registrations,\" one election official said.",
+      "article": "\"I never expected to see more withdrawals in a day than new registrations,\" one election official said.",
+      "pos": "Colorado Voters Are Canceling Their Registrations After Trump Request For Voter Data",
+      "neg": "Overview: \"I never expected to see more withdrawals in a day than new registrations,\" one",
+      "date": "2017-07-08",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: States are rebelling, a commissioner resigned and the panel is facing legal scrutiny.",
+      "article": "States are rebelling, a commissioner resigned and the panel is facing legal scrutiny.",
+      "pos": "Trump's Voter Fraud Investigation Is A Mess, But It's Still Frightening",
+      "neg": "Overview: States are rebelling, a commissioner resigned and the panel is facing legal scrutiny.",
+      "date": "2017-07-09",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: An official wants states to wait until a judge making a ruling in a lawsuit against the committee.",
+      "article": "An official wants states to wait until a judge making a ruling in a lawsuit against the committee.",
+      "pos": "Trump Voter Fraud Probe Asks Election Officials To 'Hold' On Submitting Voter Information",
+      "neg": "Overview: An official wants states to wait until a judge making a ruling in a",
+      "date": "2017-07-10",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: They say state law bars officials from releasing even limited public information.",
+      "article": "They say state law bars officials from releasing even limited public information.",
+      "pos": "Constituents Take On Trump's Messy Voter Fraud Probe Since Their States Won't",
+      "neg": "Overview: They say state law bars officials from releasing even limited public information.",
+      "date": "2017-07-12",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: One Democratic senator says he should resign from his White House post, another suggests he should lose his security clearance.",
+      "article": "One Democratic senator says he should resign from his White House post, another suggests he should lose his security clearance.",
+      "pos": "Meeting With Russian Lawyer Just Latest Alarming Revelation About Jared Kushner",
+      "neg": "Overview: One Democratic senator says he should resign from his White House post, another suggests",
+      "date": "2017-07-12",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: \"People start to take these conspiracy theories and turn them into reality,” a Democratic spokesman said.",
+      "article": "\"People start to take these conspiracy theories and turn them into reality,” a Democratic spokesman said.",
+      "pos": "New Hampshire Tightens Voting Requirements Following Trump's Baseless Voter Fraud Claims",
+      "neg": "Overview: \"People start to take these conspiracy theories and turn them into reality,” a Democratic",
+      "date": "2017-07-13",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: The same commission that published the information has promised to protect sensitive voter information.",
+      "article": "The same commission that published the information has promised to protect sensitive voter information.",
+      "pos": "White House Publishes Contact Information Of People Who Wrote To It Concerned About Privacy",
+      "neg": "Overview: The same commission that published the information has promised to protect sensitive voter information.",
+      "date": "2017-07-14",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: Kris Kobach sought to make it acceptable to impose a proof-of-citizenship requirement, according to newly public emails.",
+      "article": "Kris Kobach sought to make it acceptable to impose a proof-of-citizenship requirement, according to newly public emails.",
+      "pos": "Head Of Trump Voter Fraud Probe Wanted To Change Law To Make Registering More Difficult",
+      "neg": "Overview: Kris Kobach sought to make it acceptable to impose a proof-of-citizenship requirement, according to",
+      "date": "2017-07-15",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: “Mr. Kobach has repeatedly claimed, falsely, that widespread voter fraud exists.\"",
+      "article": "“Mr. Kobach has repeatedly claimed, falsely, that widespread voter fraud exists.\"",
+      "pos": "Democrats Demand Kris Kobach Resign From Trump Voter Fraud Probe",
+      "neg": "Overview: “Mr. Kobach has repeatedly claimed, falsely, that widespread voter fraud exists.\"",
+      "date": "2017-07-18",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: He said the backlash was due in part to \"poor\" and \"lazy\" reporting.",
+      "article": "He said the backlash was due in part to \"poor\" and \"lazy\" reporting.",
+      "pos": "Kris Kobach Has No Regrets About His Controversial Request For Voter Data",
+      "neg": "Overview: He said the backlash was due in part to \"poor\" and \"lazy\" reporting.",
+      "date": "2017-07-19",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: In just six months, his White House briefings became must-see TV.",
+      "article": "In just six months, his White House briefings became must-see TV.",
+      "pos": "Watch Some Of Sean Spicer's Most Memorable Moments As Press Secretary",
+      "neg": "Overview: In just six months, his White House briefings became must-see TV.",
+      "date": "2017-07-21",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: Anthony Scaramucci also rebuked the president's treatment of women, including Megyn Kelly.",
+      "article": "Anthony Scaramucci also rebuked the president's treatment of women, including Megyn Kelly.",
+      "pos": "Trump's New Communications Director Once Called Him A 'Hack Politician' And Bully",
+      "neg": "Overview: Anthony Scaramucci also rebuked the president's treatment of women, including Megyn Kelly.",
+      "date": "2017-07-21",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: The upcoming case could dramatically reshape how electoral districts are drawn.",
+      "article": "The upcoming case could dramatically reshape how electoral districts are drawn.",
+      "pos": "Ruth Bader Ginsburg: Gerrymandering Case May Be Most Important Decision SCOTUS Faces",
+      "neg": "Overview: The upcoming case could dramatically reshape how electoral districts are drawn.",
+      "date": "2017-07-22",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: \"To be perfectly honest, I was pissed,\" one affected voter said.",
+      "article": "\"To be perfectly honest, I was pissed,\" one affected voter said.",
+      "pos": "ACLU Threatens Action Against Georgia Over Voter Confirmation Notices",
+      "neg": "Overview: \"To be perfectly honest, I was pissed,\" one affected voter said.",
+      "date": "2017-07-26",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: The panel had asked states to hold off on submitting data amid a lawsuit.",
+      "article": "The panel had asked states to hold off on submitting data amid a lawsuit.",
+      "pos": "Trump Voter Fraud Probe Sends New Request For Voter Information",
+      "neg": "Overview: The panel had asked states to hold off on submitting data amid a lawsuit.",
+      "date": "2017-07-27",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: The party was never able to unify behind an idea for a new plan.",
+      "article": "The party was never able to unify behind an idea for a new plan.",
+      "pos": "Republicans Have Failed To Repeal Obamacare. How Did We Get Here?",
+      "neg": "Overview: The party was never able to unify behind an idea for a new plan.",
+      "date": "2017-07-28",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: Kris Kobach said making the documents public would undermine his work on the panel.",
+      "article": "Kris Kobach said making the documents public would undermine his work on the panel.",
+      "pos": "Leader Of Voter Fraud Probe Really Doesn't Want To Release Trump Meeting Documents",
+      "neg": "Overview: Kris Kobach said making the documents public would undermine his work on the panel.",
+      "date": "2017-07-29",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: Voting advocates say a recent change in state law is likely to cause confusion.",
+      "article": "Voting advocates say a recent change in state law is likely to cause confusion.",
+      "pos": "Federal Judge Says Alabama Doesn't Have To Tell Felons They May Now Be Able To Vote",
+      "neg": "Overview: Voting advocates say a recent change in state law is likely to cause confusion.",
+      "date": "2017-07-29",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: McCain has the same kind of brain cancer that Biden's son Beau died of in 2015.",
+      "article": "McCain has the same kind of brain cancer that Biden's son Beau died of in 2015.",
+      "pos": "Joe Biden Reportedly Called John McCain Ahead Of Crucial Obamacare Repeal Vote",
+      "neg": "Overview: McCain has the same kind of brain cancer that Biden's son Beau died of",
+      "date": "2017-07-29",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: GOP lawmakers have one month to redraw legislative boundaries that weaken the impact of black voters.",
+      "article": "GOP lawmakers have one month to redraw legislative boundaries that weaken the impact of black voters.",
+      "pos": "Federal Court Tells North Carolina To Hurry Fixing Gerrymandered Districts",
+      "neg": "Overview: GOP lawmakers have one month to redraw legislative boundaries that weaken the impact of",
+      "date": "2017-08-01",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: \"It shouldn’t be this difficult to get the commission to operate in the sunlight.”",
+      "article": "\"It shouldn’t be this difficult to get the commission to operate in the sunlight.”",
+      "pos": "White House Apparently No Longer Posting Public Comments On Trump's Voter Fraud Probe",
+      "neg": "Overview: \"It shouldn’t be this difficult to get the commission to operate in the sunlight.”",
+      "date": "2017-08-02",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: The president's commission dropped its effort to get data that included partial Social Security numbers.",
+      "article": "The president's commission dropped its effort to get data that included partial Social Security numbers.",
+      "pos": "New York Grants Revised Request For Information From Trump Voter Fraud Probe",
+      "neg": "Overview: The president's commission dropped its effort to get data that included partial Social Security",
+      "date": "2017-08-03",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: \"We will not allow rogue anonymous sources with security clearances to sell out our country,\" the attorney general said Friday.",
+      "article": "\"We will not allow rogue anonymous sources with security clearances to sell out our country,\" the attorney general said Friday.",
+      "pos": "Jeff Sessions Floats Media Subpoenas As Part Of Crackdown On Leaks",
+      "neg": "Overview: \"We will not allow rogue anonymous sources with security clearances to sell out our",
+      "date": "2017-08-04",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: The Obama DOJ supported a challenge to one of the ways Ohio purged voters from its rolls. The Trump DOJ now says the process is fine.",
+      "article": "The Obama DOJ supported a challenge to one of the ways Ohio purged voters from its rolls. The Trump DOJ now says the process is fine.",
+      "pos": "DOJ Reverses Position In Big Voting Case Before Supreme Court",
+      "neg": "The Obama DOJ supported a challenge to one of the ways Ohio purged voters from its rolls",
+      "date": "2017-08-08",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: The timing of two letters sent from the department and the commission raised eyebrows.",
+      "article": "The timing of two letters sent from the department and the commission raised eyebrows.",
+      "pos": "Civil Rights Group Wants To Know If DOJ And Trump Voter Fraud Probe Are Working Together",
+      "neg": "Overview: The timing of two letters sent from the department and the commission raised eyebrows.",
+      "date": "2017-08-10",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: “This victory means thousands of Black registered voters will be able to go to their polling place and cast a ballot in this year’s important mayoral election.\"",
+      "article": "“This victory means thousands of Black registered voters will be able to go to their polling place and cast a ballot in this year’s important mayoral election.\"",
+      "pos": "Georgia Election Officials Reverse Decision To Close Polling Places In Black Neighborhoods",
+      "neg": "Overview: “This victory means thousands of Black registered voters will be able to go to",
+      "date": "2017-08-15",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: “Americans deserve to know that white nationalists, white supremacists, and neo-Nazis are not in a position to influence U.S. policy.”",
+      "article": "“Americans deserve to know that white nationalists, white supremacists, and neo-Nazis are not in a position to influence U.S. policy.”",
+      "pos": "Lawmakers Demand Donald Trump Fire Top Aides, Saying They Encourage White Supremacists",
+      "neg": "“Americans deserve to know that white nationalists, white supremacists, and neo-Nazis are not in a position to influence",
+      "date": "2017-08-15",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: Denver's director of elections expresses concern about people being \"afraid to participate\" in \"a fundamental right of all Americans.\"",
+      "article": "Denver's director of elections expresses concern about people being \"afraid to participate\" in \"a fundamental right of all Americans.\"",
+      "pos": "As Trump's Panel Seeks Personal Data, These Longtime Voters Cancel Their Registrations",
+      "neg": "Overview: Denver's director of elections expresses concern about people being \"afraid to participate\" in \"a",
+      "date": "2017-08-16",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: They said America must stand up to \"hatred in all forms.\"",
+      "article": "They said America must stand up to \"hatred in all forms.\"",
+      "pos": "Both Bush Presidents Say America Must 'Always Reject Racial Bigotry'",
+      "neg": "Overview: They said America must stand up to \"hatred in all forms.\"",
+      "date": "2017-08-16",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: Part of their goal is to give people recording equipment to “document illegal voting.”",
+      "article": "Part of their goal is to give people recording equipment to “document illegal voting.”",
+      "pos": "Trump Campaign Alumni Start Group Focused On Voter Registration And Fraud",
+      "neg": "Overview: Part of their goal is to give people recording equipment to “document illegal voting.”",
+      "date": "2017-08-17",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: \"Whether we like it or not, this is what our history is,\" said the Trump-backing Republican.",
+      "article": "\"Whether we like it or not, this is what our history is,\" said the Trump-backing Republican.",
+      "pos": "Maine Gov. Paul LePage Says Taking Down Confederate Statues Is Like Removing 9/11 Memorial",
+      "neg": "Overview: \"Whether we like it or not, this is what our history is,\" said the",
+      "date": "2017-08-17",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: The reversal in an Ohio case could suppress low-income and minority votes, the commission says.",
+      "article": "The reversal in an Ohio case could suppress low-income and minority votes, the commission says.",
+      "pos": "Civil Rights Panel Warns That New DOJ Stance Opens Door To Voter Disenfranchisement",
+      "neg": "Overview: The reversal in an Ohio case could suppress low-income and minority votes, the commission",
+      "date": "2017-08-18",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: Vermont tried it and saw a big increase in registered voters -- and it's not even an election year.",
+      "article": "Vermont tried it and saw a big increase in registered voters -- and it's not even an election year.",
+      "pos": "New Evidence This Simple Reform Would Get A Lot More People Registered To Vote",
+      "neg": "Overview: Vermont tried it and saw a big increase in registered voters -- and it's",
+      "date": "2017-08-18",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: He was a conservative force in the West Wing credited with helping to shape Trump's populist appeal.",
+      "article": "He was a conservative force in the West Wing credited with helping to shape Trump's populist appeal.",
+      "pos": "Top Trump Adviser Steve Bannon Out From White House",
+      "neg": "Overview: He was a conservative force in the West Wing credited with helping to shape",
+      "date": "2017-08-18",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: Bannon has said he may be able to fight better for Trump at Breitbart than in the White House.",
+      "article": "Bannon has said he may be able to fight better for Trump at Breitbart than in the White House.",
+      "pos": "Trump Praises Steve Bannon's Return to Breitbart",
+      "neg": "Overview: Bannon has said he may be able to fight better for Trump at Breitbart",
+      "date": "2017-08-19",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: “By historical standards, these are extraordinarily large figures, revealing an enormous Republican edge.\"",
+      "article": "“By historical standards, these are extraordinarily large figures, revealing an enormous Republican edge.\"",
+      "pos": "North Carolina Republicans Would Give Themselves A Huge Advantage With New Electoral Maps",
+      "neg": "Overview: “By historical standards, these are extraordinarily large figures, revealing an enormous Republican edge.\"",
+      "date": "2017-08-22",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: Trump's voter fraud commission has said little about staffing and methodology.",
+      "article": "Trump's voter fraud commission has said little about staffing and methodology.",
+      "pos": "Watchdog Groups Sue For Documents On Trump Voter Fraud Probe",
+      "neg": "Overview: Trump's voter fraud commission has said little about staffing and methodology.",
+      "date": "2017-08-22",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: The law was passed after President Donald Trump claimed thousands were bused into the state to voter illegally.",
+      "article": "The law was passed after President Donald Trump claimed thousands were bused into the state to voter illegally.",
+      "pos": "New Hampshire Democrats Challenge New Law Tightening Voting Residency Requirements",
+      "neg": "Overview: The law was passed after President Donald Trump claimed thousands were bused into the",
+      "date": "2017-08-23",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: The state argued the new law fixed intentional discrimination that a judge found in a previous statute.",
+      "article": "The state argued the new law fixed intentional discrimination that a judge found in a previous statute.",
+      "pos": "Federal Judge Blocks New Texas Voter ID Law",
+      "neg": "Overview: The state argued the new law fixed intentional discrimination that a judge found in",
+      "date": "2017-08-23",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: \"I’m not joking about it or being a smartass; this is a man who is not well.\"",
+      "article": "\"I’m not joking about it or being a smartass; this is a man who is not well.\"",
+      "pos": "CNN Panel Openly Questions Whether Trump Is Fit For Office After Wild Arizona Rally",
+      "neg": "\"I’m not joking about it or being a smartass",
+      "date": "2017-08-23",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011085_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: A federal judge could require the state to clear any election changes with the federal government.",
+      "article": "A federal judge could require the state to clear any election changes with the federal government.",
+      "pos": "Texas' Discrimination Against Minority Voters May Finally Come Back To Haunt It",
+      "neg": "Overview: A federal judge could require the state to clear any election changes with the",
+      "date": "2017-08-24"
+    },
+    {
+      "id": "1011085_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: A new law in Indiana gives officials power to cancel registrations without giving voters a chance to contest their removal.",
+      "article": "A new law in Indiana gives officials power to cancel registrations without giving voters a chance to contest their removal.",
+      "pos": "Civil Rights Groups Sue To Block Indiana From Using Unreliable Process To Purge Voter Rolls",
+      "neg": "Overview: A new law in Indiana gives officials power to cancel registrations without giving voters",
+      "date": "2017-08-25"
+    },
+    {
+      "id": "1011085_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: McCain said the pardon undermined the president's \"claim for the respect of rule of law.\"",
+      "article": "McCain said the pardon undermined the president's \"claim for the respect of rule of law.\"",
+      "pos": "John McCain Rips Donald Trump For Pardoning Joe Arpaio",
+      "neg": "Overview: McCain said the pardon undermined the president's \"claim for the respect of rule of",
+      "date": "2017-08-26"
+    },
+    {
+      "id": "1011085_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “Historically, when this kind of thing has happened, it’s encouraged other people to take up the same tactics.\"",
+      "article": "“Historically, when this kind of thing has happened, it’s encouraged other people to take up the same tactics.\"",
+      "pos": "Concentration Camps Expert Says Trump Just Endorsed The Idea Of Them In U.S.",
+      "neg": "Overview: “Historically, when this kind of thing has happened, it’s encouraged other people to take",
+      "date": "2017-08-26"
+    },
+    {
+      "id": "1011085_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “The pardon was a slap to those who worked through the judicial system to make Arpaio accountable.\"",
+      "article": "“The pardon was a slap to those who worked through the judicial system to make Arpaio accountable.\"",
+      "pos": "Arizona Newspaper Editorial Says Joe Arpaio Pardon Shows Institutional Racism Is Trump's Goal",
+      "neg": "Overview: “The pardon was a slap to those who worked through the judicial system to",
+      "date": "2017-08-26"
+    },
+    {
+      "id": "1011085_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: His signature marks a major victory for voting rights advocates and for efforts to increase voter registration.",
+      "article": "His signature marks a major victory for voting rights advocates and for efforts to increase voter registration.",
+      "pos": "GOP Illinois Governor Signs Major Voting Reform Into Law",
+      "neg": "Overview: His signature marks a major victory for voting rights advocates and for efforts to",
+      "date": "2017-08-28"
+    },
+    {
+      "id": "1011085_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “This was surprising. Because I expect him to be partisan, but I also, in the past, have expected him to be smart,\" Kobach says.",
+      "article": "“This was surprising. Because I expect him to be partisan, but I also, in the past, have expected him to be smart,\" Kobach says.",
+      "pos": "Kris Kobach Blasts Chuck Schumer's Push To End Trump's Voter Fraud Panel",
+      "neg": "“This was surprising",
+      "date": "2017-08-29"
+    },
+    {
+      "id": "1011085_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: A Justice Department lawyer also apologized to a federal judge for the commission's failure to disclose documents ahead of a meeting.",
+      "article": "A Justice Department lawyer also apologized to a federal judge for the commission's failure to disclose documents ahead of a meeting.",
+      "pos": "Even DOJ Lawyers Admit Trump's Voter Fraud Panel Got Off To A Rocky Start",
+      "neg": "Overview: A Justice Department lawyer also apologized to a federal judge for the commission's failure",
+      "date": "2017-08-30"
+    },
+    {
+      "id": "1011085_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “We’re opening these offices as a direct response to efforts by politicians to make voting harder and their re-election campaigns easier.\"",
+      "article": "“We’re opening these offices as a direct response to efforts by politicians to make voting harder and their re-election campaigns easier.\"",
+      "pos": "Voting Rights Group Will Target More Politicians Who Block Ballot Access",
+      "neg": "Overview: “We’re opening these offices as a direct response to efforts by politicians to make",
+      "date": "2017-08-31"
+    },
+    {
+      "id": "1011085",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: The state faces several allegations of voter suppression during the midterm elections.",
+      "article": "The state faces several allegations of voter suppression during the midterm elections.",
+      "pos": "Democrats Want Documents In Probe Of Georgia Voter Suppression",
+      "neg": "Overview: The state faces several allegations of voter suppression during the midterm elections.",
+      "date": "dev_target"
+    }
+  ]
+}

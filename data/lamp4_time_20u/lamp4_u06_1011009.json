@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u06_1011009",
+  "lamp_id": "1011009",
+  "rank": 6,
+  "n_profile_raw": 383,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: Some of the plots to kill the Palestinian Liberation Organization leader sound like action-movie scenes.",
+      "article": "Some of the plots to kill the Palestinian Liberation Organization leader sound like action-movie scenes.",
+      "pos": "Israel Tried Really Hard To Assassinate Yasser Arafat, Considered Downing Passenger Plane",
+      "neg": "Overview: Some of the plots to kill the Palestinian Liberation Organization leader sound like action-movie",
+      "date": "2018-01-24",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: After graduating college, the only other job Taylor Weyeneth had was working on Trump's presidential campaign.",
+      "article": "After graduating college, the only other job Taylor Weyeneth had was working on Trump's presidential campaign.",
+      "pos": "Trump's 24-Year-Old Deputy Drug Czar To Resign After Questions Over Work History",
+      "neg": "Overview: After graduating college, the only other job Taylor Weyeneth had was working on Trump's",
+      "date": "2018-01-25",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: “But I am very busy during the day, very long hours. I am busy.\"",
+      "article": "“But I am very busy during the day, very long hours. I am busy.\"",
+      "pos": "Trump Finally Says It: He Tweets From Bed",
+      "neg": "“But I am very busy during the day, very long hours",
+      "date": "2018-01-29",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: “Past experience has taught us that complacency and concessions only invite aggression.\"",
+      "article": "“Past experience has taught us that complacency and concessions only invite aggression.\"",
+      "pos": "Trump Calls North Korea 'Cruel Dictatorship,' Slams Kim As 'Depraved' In Speech",
+      "neg": "Overview: “Past experience has taught us that complacency and concessions only invite aggression.\"",
+      "date": "2018-01-31",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: The ambassador's job has been vacant for more than a year.",
+      "article": "The ambassador's job has been vacant for more than a year.",
+      "pos": "Report: Trump Scrapped South Korea Envoy Pick Over Split On Bombing North",
+      "neg": "Overview: The ambassador's job has been vacant for more than a year.",
+      "date": "2018-01-31",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: The incident is believed to be an accident, according to local media reports.",
+      "article": "The incident is believed to be an accident, according to local media reports.",
+      "pos": "Smoking Driver Hits Crowd In Shanghai After Accidentally Igniting Van",
+      "neg": "Overview: The incident is believed to be an accident, according to local media reports.",
+      "date": "2018-02-02",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: He will travel to Pyeongchang as a guest of Vice President Mike Pence.",
+      "article": "He will travel to Pyeongchang as a guest of Vice President Mike Pence.",
+      "pos": "Father Of Otto Warmbier Will Attend Winter Olympics In South Korea: Report",
+      "neg": "Overview: He will travel to Pyeongchang as a guest of Vice President Mike Pence.",
+      "date": "2018-02-05",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: Some of the president's attorneys are afraid he'd make a misstep.",
+      "article": "Some of the president's attorneys are afraid he'd make a misstep.",
+      "pos": "Some On Trump's Legal Team Want Him To Refuse An Interview With Mueller: Report",
+      "neg": "Overview: Some of the president's attorneys are afraid he'd make a misstep.",
+      "date": "2018-02-06",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: The regime also sent hundreds of its citizens to Pyeongchang this week.",
+      "article": "The regime also sent hundreds of its citizens to Pyeongchang this week.",
+      "pos": "North Korea Holds Massive Military Parade Ahead Of 2018 Winter Olympics",
+      "neg": "Overview: The regime also sent hundreds of its citizens to Pyeongchang this week.",
+      "date": "2018-02-08",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: The agency often cites unspecified security reasons for the premium bookings.",
+      "article": "The agency often cites unspecified security reasons for the premium bookings.",
+      "pos": "EPA Administrator Scott Pruitt's First Class Habit Costing Taxpayers Thousands",
+      "neg": "Overview: The agency often cites unspecified security reasons for the premium bookings.",
+      "date": "2018-02-12",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: Sen. Marco Rubio and Gov. Rick Scott have long fought against gun control legislation.",
+      "article": "Sen. Marco Rubio and Gov. Rick Scott have long fought against gun control legislation.",
+      "pos": "Florida Republicans' Offers Of Prayers Invite Accusations Of Hypocrisy",
+      "neg": "Overview: Sen. Marco Rubio and Gov. Rick Scott have long fought against gun control legislation.",
+      "date": "2018-02-15",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: “You’re 28 years old, skating the best you ever have in your life. How do you explain that to people?”",
+      "article": "“You’re 28 years old, skating the best you ever have in your life. How do you explain that to people?”",
+      "pos": "'I Can't Explain Witchcraft': Adam Rippon Has A Perfect Response After Killer Routine",
+      "neg": "“You’re 28 years old, skating the best you ever have in your life",
+      "date": "2018-02-16",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: A member of the public once told the administrator he was \"f**king up the environment.\"",
+      "article": "A member of the public once told the administrator he was \"f**king up the environment.\"",
+      "pos": "EPA Says Scott Pruitt Flies First Class Because Angry People Yell At Him Too Much",
+      "neg": "Overview: A member of the public once told the administrator he was \"f**king up the",
+      "date": "2018-02-16",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: He's willing to testify against Paul Manafort, his onetime associate, according to The Los Angeles Times.",
+      "article": "He's willing to testify against Paul Manafort, his onetime associate, according to The Los Angeles Times.",
+      "pos": "Former Trump Aide Rick Gates Will Plead Guilty To Mueller Probe Charges: Report",
+      "neg": "Overview: He's willing to testify against Paul Manafort, his onetime associate, according to The Los",
+      "date": "2018-02-19",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: \"The idea of someone so flagrantly telling untruths to ascend to the highest legal position in the U.S. remains shocking, in addition to its being illegal.\"",
+      "article": "\"The idea of someone so flagrantly telling untruths to ascend to the highest legal position in the U.S. remains shocking, in addition to its being illegal.\"",
+      "pos": "New York Magazine Makes A Case For Impeaching Clarence Thomas",
+      "neg": "\"The idea of someone so flagrantly telling untruths to ascend to the highest legal position in the U.S",
+      "date": "2018-02-19",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: Romney says Utah “has a lot to teach the politicians in Washington.”",
+      "article": "Romney says Utah “has a lot to teach the politicians in Washington.”",
+      "pos": "Trump Endorses Mitt Romney After Saying He 'Choked Like A Dog' In 2012",
+      "neg": "Overview: Romney says Utah “has a lot to teach the politicians in Washington.”",
+      "date": "2018-02-20",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: Tessa Virtue and Scott Moir now have more Olympic medals than any other figure skaters, ever.",
+      "article": "Tessa Virtue and Scott Moir now have more Olympic medals than any other figure skaters, ever.",
+      "pos": "Canadian Ice Dancers Make History, Winning Gold In Pyeongchang",
+      "neg": "Overview: Tessa Virtue and Scott Moir now have more Olympic medals than any other figure",
+      "date": "2018-02-20",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: The vice president's office accused the country of trying to “whitewash their murderous regime with nice photo ops.”",
+      "article": "The vice president's office accused the country of trying to “whitewash their murderous regime with nice photo ops.”",
+      "pos": "Pence Planned Secret Talks With North Korea, But Meeting Was Called Off",
+      "neg": "Overview: The vice president's office accused the country of trying to “whitewash their murderous regime",
+      "date": "2018-02-21",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: It's unclear why the president's son-in-law needs access to highly classified material.",
+      "article": "It's unclear why the president's son-in-law needs access to highly classified material.",
+      "pos": "Kushner Doesn't Want To Give Up His Security Clearance As John Kelly Cracks Down: Report",
+      "neg": "Overview: It's unclear why the president's son-in-law needs access to highly classified material.",
+      "date": "2018-02-21",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: \"Our kids have started a revolution,\" one teacher says at emotional town hall.",
+      "article": "\"Our kids have started a revolution,\" one teacher says at emotional town hall.",
+      "pos": "Florida Shooting Survivors Face Down The NRA And Politicians, Vow To Keep Fighting",
+      "neg": "Overview: \"Our kids have started a revolution,\" one teacher says at emotional town hall.",
+      "date": "2018-02-22",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: “It is too easy to get. It is a weapon of war. The fact that you can stand here and can’t say that, I’m sorry.”",
+      "article": "“It is too easy to get. It is a weapon of war. The fact that you can stand here and can’t say that, I’m sorry.”",
+      "pos": "'Pathetically Weak': Father Of Student Slain In Florida Excoriates Marco Rubio",
+      "neg": "“It is too easy to get",
+      "date": "2018-02-22",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: The governor had earlier been accused of trying to blackmail a woman with nude photos.",
+      "article": "The governor had earlier been accused of trying to blackmail a woman with nude photos.",
+      "pos": "Missouri Gov. Eric Greitens Indicted On Invasion Of Privacy Charge",
+      "neg": "Overview: The governor had earlier been accused of trying to blackmail a woman with nude",
+      "date": "2018-02-22",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: Some think Laura Moser is too liberal for what's expected to be a contentious Houston race.",
+      "article": "Some think Laura Moser is too liberal for what's expected to be a contentious Houston race.",
+      "pos": "Congressional Democrats Go Scorched Earth Against A Progressive Candidate",
+      "neg": "Overview: Some think Laura Moser is too liberal for what's expected to be a contentious",
+      "date": "2018-02-23",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: “I think that having a teacher who is armed ... is not a bad idea, but it is an idea that needs to be discussed.\"",
+      "article": "“I think that having a teacher who is armed ... is not a bad idea, but it is an idea that needs to be discussed.\"",
+      "pos": "Ivanka Trump Doesn't Know If Teachers Should Be Armed",
+      "neg": "“I think that having a teacher who is armed ..",
+      "date": "2018-02-26",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: “John Dunkin isn’t just a pilot,” a White House source told Axios.",
+      "article": "“John Dunkin isn’t just a pilot,” a White House source told Axios.",
+      "pos": "Donald Trump's Personal Pilot Reportedly On Shortlist To Run FAA",
+      "neg": "Overview: “John Dunkin isn’t just a pilot,” a White House source told Axios.",
+      "date": "2018-02-26",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: Joseph Yun helped secure the release of American student Otto Warmbier last year.",
+      "article": "Joseph Yun helped secure the release of American student Otto Warmbier last year.",
+      "pos": "State Department's Top Diplomat On North Korea Is Retiring",
+      "neg": "Overview: Joseph Yun helped secure the release of American student Otto Warmbier last year.",
+      "date": "2018-02-27",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: \"Corporations cannot attack conservatives and expect us not to fight back.\"",
+      "article": "\"Corporations cannot attack conservatives and expect us not to fight back.\"",
+      "pos": "Georgia's Lieutenant Governor Tells Delta To Give NRA Back Its Discounts, Or Else",
+      "neg": "Overview: \"Corporations cannot attack conservatives and expect us not to fight back.\"",
+      "date": "2018-02-27",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: The purchase comes amid proposals to slash HUD programs for the poor and elderly.",
+      "article": "The purchase comes amid proposals to slash HUD programs for the poor and elderly.",
+      "pos": "After Saying He'd 'Monitor Every Penny,' Ben Carson's Office Spent $31,000 On Dining Set",
+      "neg": "Overview: The purchase comes amid proposals to slash HUD programs for the poor and elderly.",
+      "date": "2018-02-28",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: The story dropped the same day we learned Jared Kushner had lost his top-secret security clearance.",
+      "article": "The story dropped the same day we learned Jared Kushner had lost his top-secret security clearance.",
+      "pos": "Officials Worried 'Naive' Kushner Could Be Manipulated By Foreigners: Report",
+      "neg": "Overview: The story dropped the same day we learned Jared Kushner had lost his top-secret",
+      "date": "2018-02-28",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: Trump's relationships with Jeff Sessions, Hope Hicks and Jared Kushner have all come under fire.",
+      "article": "Trump's relationships with Jeff Sessions, Hope Hicks and Jared Kushner have all come under fire.",
+      "pos": "White House Hit With Several Shocking Reports In Less Than A Day",
+      "neg": "Overview: Trump's relationships with Jeff Sessions, Hope Hicks and Jared Kushner have all come under",
+      "date": "2018-03-01",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: “POTUS & VPOTUS support the Second Amendment,\" the NRA's Chris Cox tweets.",
+      "article": "“POTUS & VPOTUS support the Second Amendment,\" the NRA's Chris Cox tweets.",
+      "pos": "NRA's Top Lobbyist Implies Trump Is Back On Its Side",
+      "neg": "Overview: “POTUS & VPOTUS support the Second Amendment,\" the NRA's Chris Cox tweets.",
+      "date": "2018-03-02",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: \"It is the job of companies that manufacture and sell guns and ammunition to work towards common sense solutions,\" REI said.",
+      "article": "\"It is the job of companies that manufacture and sell guns and ammunition to work towards common sense solutions,\" REI said.",
+      "pos": "REI Suspends Contract With Outdoor Company Over Gun Sales",
+      "neg": "Overview: \"It is the job of companies that manufacture and sell guns and ammunition to",
+      "date": "2018-03-02",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: Secretary of State Rex Tillerson has cast doubt on his own agency's ability to combat foreign governments.",
+      "article": "Secretary of State Rex Tillerson has cast doubt on his own agency's ability to combat foreign governments.",
+      "pos": "State Department Has Spent None Of The $120 Million Allocated To Fight Russian Interference",
+      "neg": "Overview: Secretary of State Rex Tillerson has cast doubt on his own agency's ability to",
+      "date": "2018-03-05",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: “President Trump did not have a call with the North Koreans,\" a source told Yonhap News Agency.",
+      "article": "“President Trump did not have a call with the North Koreans,\" a source told Yonhap News Agency.",
+      "pos": "Trump Referenced The Wrong Korea At Media Dinner: Report",
+      "neg": "Overview: “President Trump did not have a call with the North Koreans,\" a source told",
+      "date": "2018-03-06",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: The U.S. government will allow hunters to import elephant trophies on a case-by-case basis, breaking the president’s pledge.",
+      "article": "The U.S. government will allow hunters to import elephant trophies on a case-by-case basis, breaking the president’s pledge.",
+      "pos": "Trump Administration Reverses Promise To Ban Elephant Hunt Trophies",
+      "neg": "Overview: The U.S. government will allow hunters to import elephant trophies on a case-by-case basis,",
+      "date": "2018-03-06",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: \"In this country, we do not restrict a person’s ability to speak based on whether or not we agree with what they have to say.\"",
+      "article": "\"In this country, we do not restrict a person’s ability to speak based on whether or not we agree with what they have to say.\"",
+      "pos": "Mississippi Town Approves Pride Parade After Fierce Backlash",
+      "neg": "Overview: \"In this country, we do not restrict a person’s ability to speak based on",
+      "date": "2018-03-07",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: Robert Mueller has zeroed in on the clandestine affair in recent weeks.",
+      "article": "Robert Mueller has zeroed in on the clandestine affair in recent weeks.",
+      "pos": "Here's What You Should Know About That Secret Seychelles Meeting",
+      "neg": "Overview: Robert Mueller has zeroed in on the clandestine affair in recent weeks.",
+      "date": "2018-03-08",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: \"The right leadership must be in place to create an atmosphere in which employees can perform their very best work.”",
+      "article": "\"The right leadership must be in place to create an atmosphere in which employees can perform their very best work.”",
+      "pos": "Head Of U.S. Forest Service Steps Down Amid Sexual Misconduct Investigation",
+      "neg": "Overview: \"The right leadership must be in place to create an atmosphere in which employees",
+      "date": "2018-03-08",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: “My head is literally spinning... I don’t know what to make of it.”",
+      "article": "“My head is literally spinning... I don’t know what to make of it.”",
+      "pos": "North Korea Experts Stunned Yet Cautiously Optimistic About Trump-Kim Meeting",
+      "neg": "“My head is literally spinning..",
+      "date": "2018-03-09",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: Kim reportedly has expressed his \"eagerness to meet\" with Trump as soon as possible.",
+      "article": "Kim reportedly has expressed his \"eagerness to meet\" with Trump as soon as possible.",
+      "pos": "Donald Trump Will Meet With Kim Jong Un By May, South Korea Says",
+      "neg": "Overview: Kim reportedly has expressed his \"eagerness to meet\" with Trump as soon as possible.",
+      "date": "2018-03-09",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: He also refrained from criticizing Russia for meddling in U.S. elections and attacking a former spy with nerve gas.",
+      "article": "He also refrained from criticizing Russia for meddling in U.S. elections and attacking a former spy with nerve gas.",
+      "pos": "Trump Ignored Explicit, All-Caps Instructions to 'NOT CONGRATULATE' Putin: Report",
+      "neg": "He also refrained from criticizing Russia for meddling in U.S",
+      "date": "2018-03-21",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: John Bolton, a former U.S. ambassador to the United Nations, will replace the general.",
+      "article": "John Bolton, a former U.S. ambassador to the United Nations, will replace the general.",
+      "pos": "National Security Adviser H.R. McMaster To Leave White House",
+      "neg": "John Bolton, a former U.S",
+      "date": "2018-03-22",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: The shake-up also comes just two weeks after Trump accepted an invitation to meet with Kim Jong Un.",
+      "article": "The shake-up also comes just two weeks after Trump accepted an invitation to meet with Kim Jong Un.",
+      "pos": "N. Korea Experts Tear Into Bolton: ‘He’s Never Met A Country He Hasn’t Wanted To Destroy'",
+      "neg": "Overview: The shake-up also comes just two weeks after Trump accepted an invitation to meet",
+      "date": "2018-03-23",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: “Its dirty little secret was that there was no one American involved in it,\" a former employee told The Washington Post.",
+      "article": "“Its dirty little secret was that there was no one American involved in it,\" a former employee told The Washington Post.",
+      "pos": "Cambridge Analytica Sent Foreigners To Work On U.S. Elections, Former Employees Say",
+      "neg": "Overview: “Its dirty little secret was that there was no one American involved in it,\"",
+      "date": "2018-03-26",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: It is Kim's first trip abroad since he assumed power in 2011.",
+      "article": "It is Kim's first trip abroad since he assumed power in 2011.",
+      "pos": "Kim Jong Un Met With Xi Jinping, China Confirms",
+      "neg": "Overview: It is Kim's first trip abroad since he assumed power in 2011.",
+      "date": "2018-03-27",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: Ryan's spokeswoman denied the claim, saying \"the speaker is not resigning.\"",
+      "article": "Ryan's spokeswoman denied the claim, saying \"the speaker is not resigning.\"",
+      "pos": "Lawmaker Says Rumor Swirling That Ryan Will Resign; Speaker's Aide Says Otherwise",
+      "neg": "Overview: Ryan's spokeswoman denied the claim, saying \"the speaker is not resigning.\"",
+      "date": "2018-03-27",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: The nine lawmakers asked for \"a written and public commitment\" that DOJ officials wouldn't interfere with Mueller's probe.",
+      "article": "The nine lawmakers asked for \"a written and public commitment\" that DOJ officials wouldn't interfere with Mueller's probe.",
+      "pos": "Democratic Senators Urge Justice Department Leadership To Protect Robert Mueller",
+      "neg": "Overview: The nine lawmakers asked for \"a written and public commitment\" that DOJ officials wouldn't",
+      "date": "2018-03-28",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: “A fair and accurate count of all people in America is one of the federal government’s most solemn constitutional obligations.\"",
+      "article": "“A fair and accurate count of all people in America is one of the federal government’s most solemn constitutional obligations.\"",
+      "pos": "At Least A Dozen States Plan To Sue Over New Census Citizenship Question",
+      "neg": "Overview: “A fair and accurate count of all people in America is one of the",
+      "date": "2018-03-28",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: President Macron says the attackers killed \"innocent and vulnerable woman because she was Jewish, and in doing so profaned our sacred values and our history.\"",
+      "article": "President Macron says the attackers killed \"innocent and vulnerable woman because she was Jewish, and in doing so profaned our sacred values and our history.\"",
+      "pos": "Thousands March In France Over The Murder Of An 85-Year-Old Holocaust Survivor",
+      "neg": "Overview: President Macron says the attackers killed \"innocent and vulnerable woman because she was Jewish,",
+      "date": "2018-03-29",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: “If you want to have an arms race, we can do that,\" Trump told the Russian leader, according to NBC News.",
+      "article": "“If you want to have an arms race, we can do that,\" Trump told the Russian leader, according to NBC News.",
+      "pos": "Irked Trump Reportedly Warned Putin: We'd Win The Arms Race",
+      "neg": "Overview: “If you want to have an arms race, we can do that,\" Trump told",
+      "date": "2018-03-30",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: “We connect people. Period. That’s why all the work we do in growth is justified,\" an executive wrote in 2016.",
+      "article": "“We connect people. Period. That’s why all the work we do in growth is justified,\" an executive wrote in 2016.",
+      "pos": "Explosive Facebook Memo Defended Company's Strategy, Even If It Got People Killed",
+      "neg": "“We connect people",
+      "date": "2018-03-30",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: The Tiangong-1 mostly burnt up as it re-entered the Earth's atmosphere, but some pieces likely crashed into the Pacific ocean.",
+      "article": "The Tiangong-1 mostly burnt up as it re-entered the Earth's atmosphere, but some pieces likely crashed into the Pacific ocean.",
+      "pos": "Chinese Space Station, Adrift For Years, Plummets To Earth",
+      "neg": "Overview: The Tiangong-1 mostly burnt up as it re-entered the Earth's atmosphere, but some pieces",
+      "date": "2018-04-02",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: The long-abandoned skyscraper has stirred to life in recent days with a high-tech light panel.",
+      "article": "The long-abandoned skyscraper has stirred to life in recent days with a high-tech light panel.",
+      "pos": "North Korea's Evil-Looking Hotel Has A Brighter Feature",
+      "neg": "Overview: The long-abandoned skyscraper has stirred to life in recent days with a high-tech light",
+      "date": "2018-04-03",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: Pruitt's spokeswoman denied any link between the approval and the apartment rental.",
+      "article": "Pruitt's spokeswoman denied any link between the approval and the apartment rental.",
+      "pos": "EPA Reportedly Approved Pipeline Project Linked To Lobbyist Renting Room To Pruitt",
+      "neg": "Overview: Pruitt's spokeswoman denied any link between the approval and the apartment rental.",
+      "date": "2018-04-03",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: The special counsel has also told the president's lawyers that Trump is not a criminal target at this point.",
+      "article": "The special counsel has also told the president's lawyers that Trump is not a criminal target at this point.",
+      "pos": "Mueller Reportedly Is Making A List Of All The Stuff Trump Has Done In Office",
+      "neg": "Overview: The special counsel has also told the president's lawyers that Trump is not a",
+      "date": "2018-04-04",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: “Evaluating those questions would have required factual information that was not before us.\"",
+      "article": "“Evaluating those questions would have required factual information that was not before us.\"",
+      "pos": "EPA Ethics Official Walks Back Defense Of Scott Pruitt's Condo Rental",
+      "neg": "Overview: “Evaluating those questions would have required factual information that was not before us.\"",
+      "date": "2018-04-05",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: “The risk of Facebook content sparking open violence is arguably nowhere higher right now than in Myanmar.\"",
+      "article": "“The risk of Facebook content sparking open violence is arguably nowhere higher right now than in Myanmar.\"",
+      "pos": "Myanmar Groups Say Facebook Has 'Inherent Flaws,' Helped Spread Hate Speech",
+      "neg": "Overview: “The risk of Facebook content sparking open violence is arguably nowhere higher right now",
+      "date": "2018-04-06",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: The report adds to a growing mountain of ethical issues dogging Pruitt’s tenure.",
+      "article": "The report adds to a growing mountain of ethical issues dogging Pruitt’s tenure.",
+      "pos": "Scott Pruitt Reportedly Lied About Knowledge Of Staff Raises",
+      "neg": "Overview: The report adds to a growing mountain of ethical issues dogging Pruitt’s tenure.",
+      "date": "2018-04-06",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: “Well, I think it’s a disgrace what’s going on,\" he said. \"We’ll see what happens.\"",
+      "article": "“Well, I think it’s a disgrace what’s going on,\" he said. \"We’ll see what happens.\"",
+      "pos": "Trump Floats Possibility Of Firing Robert Mueller, Criticizes Jeff Sessions",
+      "neg": "“Well, I think it’s a disgrace what’s going on,\" he said",
+      "date": "2018-04-09",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: \"Left-wing activists use these terms as bludgeons to intimidate those who disagree with them.\"",
+      "article": "\"Left-wing activists use these terms as bludgeons to intimidate those who disagree with them.\"",
+      "pos": "Ingraham Returns To Airwaves With No Apology, And Few Advertisers",
+      "neg": "Overview: \"Left-wing activists use these terms as bludgeons to intimidate those who disagree with them.\"",
+      "date": "2018-04-10",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: Trump ordered military strikes on Syria in response to the attack.",
+      "article": "Trump ordered military strikes on Syria in response to the attack.",
+      "pos": "What You Need To Know About The Suspected Syrian Chemical Attack",
+      "neg": "Overview: Trump ordered military strikes on Syria in response to the attack.",
+      "date": "2018-04-11",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: Blue Apron and SlimFast announced that their ads will no longer appear on the program after Monday's episode.",
+      "article": "Blue Apron and SlimFast announced that their ads will no longer appear on the program after Monday's episode.",
+      "pos": "Laura Ingraham's Sponsors Still Bolting Over Comments About Parkland Survivor",
+      "neg": "Overview: Blue Apron and SlimFast announced that their ads will no longer appear on the",
+      "date": "2018-04-11",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: \"It is unacceptable that Virunga’s rangers continue to pay the highest price in defense of our common heritage.\"",
+      "article": "\"It is unacceptable that Virunga’s rangers continue to pay the highest price in defense of our common heritage.\"",
+      "pos": "6 Virunga Park Workers Killed Protecting Endangered Gorillas",
+      "neg": "Overview: \"It is unacceptable that Virunga’s rangers continue to pay the highest price in defense",
+      "date": "2018-04-12",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: Democratic senators wonder if the embattled EPA chief is using the email scheme to duck open-records laws.",
+      "article": "Democratic senators wonder if the embattled EPA chief is using the email scheme to duck open-records laws.",
+      "pos": "Scott Pruitt Uses Multiple 'Secret' Email Accounts, Senators Say",
+      "neg": "Overview: Democratic senators wonder if the embattled EPA chief is using the email scheme to",
+      "date": "2018-04-13",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: The FBI raided Michael Cohen's offices earlier this week, seizing his computers and phones.",
+      "article": "The FBI raided Michael Cohen's offices earlier this week, seizing his computers and phones.",
+      "pos": "Trump's Lawyer May Have Stored 'Gold Mine' Of Recorded Conversations: Report",
+      "neg": "Overview: The FBI raided Michael Cohen's offices earlier this week, seizing his computers and phones.",
+      "date": "2018-04-13",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: \"I don't think he's medically unfit to be president. I think he's morally unfit to be president.\"",
+      "article": "\"I don't think he's medically unfit to be president. I think he's morally unfit to be president.\"",
+      "pos": "In Searing Interview, James Comey Unleashes Against 'Morally Unfit' Trump",
+      "neg": "\"I don't think he's medically unfit to be president",
+      "date": "2018-04-16",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: The federal judge may appoint a \"special master\" to help decide what remains confidential.",
+      "article": "The federal judge may appoint a \"special master\" to help decide what remains confidential.",
+      "pos": "Judge Rejects Trump Request To Sift Through Cohen Documents First, May Use Mediator",
+      "neg": "Overview: The federal judge may appoint a \"special master\" to help decide what remains confidential.",
+      "date": "2018-04-16",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: For more than 60 years, an official peace treaty has remained elusive. Until now.",
+      "article": "For more than 60 years, an official peace treaty has remained elusive. Until now.",
+      "pos": "South Korea Working To Formally End The Korean War. Yes, That Korean War.",
+      "neg": "For more than 60 years, an official peace treaty has remained elusive",
+      "date": "2018-04-19",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: The president wanted to stop leaks pouring from the White House.",
+      "article": "The president wanted to stop leaks pouring from the White House.",
+      "pos": "Comey Memo: Trump Floated Idea Of Jailing Journalists To Make Them 'Talk'",
+      "neg": "Overview: The president wanted to stop leaks pouring from the White House.",
+      "date": "2018-04-20",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: \"He said he was grateful for the conversation, said more nice things about me and how he looks forward to working with me,\" Comey wrote of meeting with Trump.",
+      "article": "\"He said he was grateful for the conversation, said more nice things about me and how he looks forward to working with me,\" Comey wrote of meeting with Trump.",
+      "pos": "Here Are The Redacted Copies Of The Comey Memos",
+      "neg": "Overview: \"He said he was grateful for the conversation, said more nice things about me",
+      "date": "2018-04-20",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: “This is potentially a gold mine of intelligence,\" James Clapper said.",
+      "article": "“This is potentially a gold mine of intelligence,\" James Clapper said.",
+      "pos": "Trump Reportedly Uses Private Cell Phone More Often Amid Kelly's Waning Influence",
+      "neg": "Overview: “This is potentially a gold mine of intelligence,\" James Clapper said.",
+      "date": "2018-04-24",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: \"We understand this sort of thing happens,\" Australia's foreign minister said.",
+      "article": "\"We understand this sort of thing happens,\" Australia's foreign minister said.",
+      "pos": "White House Reportedly To Send Pick For Australia Ambassador To South Korea Instead",
+      "neg": "Overview: \"We understand this sort of thing happens,\" Australia's foreign minister said.",
+      "date": "2018-04-25",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: Even the furniture and carpet for the North Korean leader's historic visit this week have been carefully chosen.",
+      "article": "Even the furniture and carpet for the North Korean leader's historic visit this week have been carefully chosen.",
+      "pos": "South Korea Has Planned Kim Jong Un's Visit To A Crazy Level Of Detail",
+      "neg": "Overview: Even the furniture and carpet for the North Korean leader's historic visit this week",
+      "date": "2018-04-26",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: \"What I hope they'll do is ask themselves, Republicans: 'So what will I tell my grandchildren?'\"",
+      "article": "\"What I hope they'll do is ask themselves, Republicans: 'So what will I tell my grandchildren?'\"",
+      "pos": "James Comey Is 'Embarrassed And Ashamed' Of The Republican Party",
+      "neg": "Overview: \"What I hope they'll do is ask themselves, Republicans: 'So what will I tell",
+      "date": "2018-04-26",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: \"The two leaders declare before our people of 80 million and the entire world there will be no more war on the Korean peninsula and a new age of peace has begun,\" the declaration said.",
+      "article": "\"The two leaders declare before our people of 80 million and the entire world there will be no more war on the Korean peninsula and a new age of peace has begun,\" the declaration said.",
+      "pos": "Korean Leaders Call For 'Complete Denuclearization' Of The Peninsula, End Of Korean War",
+      "neg": "Overview: \"The two leaders declare before our people of 80 million and the entire world",
+      "date": "2018-04-27",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: The news comes just days after Jackson withdrew his name from consideration to lead the VA.",
+      "article": "The news comes just days after Jackson withdrew his name from consideration to lead the VA.",
+      "pos": "Ronny Jackson Not Returning As Trump's Personal Doctor, Reports Say",
+      "neg": "Overview: The news comes just days after Jackson withdrew his name from consideration to lead",
+      "date": "2018-04-30",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: He is the most senior member of the church to be accused of such crimes.",
+      "article": "He is the most senior member of the church to be accused of such crimes.",
+      "pos": "Cardinal George Pell, Vatican Treasurer, Will Stand Trial For Sexual Abuse",
+      "neg": "Overview: He is the most senior member of the church to be accused of such",
+      "date": "2018-05-01",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: The New York Times obtained a list of possible questions for the president.",
+      "article": "The New York Times obtained a list of possible questions for the president.",
+      "pos": "What Robert Mueller Reportedly Wants To Ask Donald Trump",
+      "neg": "Overview: The New York Times obtained a list of possible questions for the president.",
+      "date": "2018-05-01",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: “This isn’t some game,” the president's lead attorney said he replied.",
+      "article": "“This isn’t some game,” the president's lead attorney said he replied.",
+      "pos": "Mueller Threatened To Subpoena Trump If Lawyers Refused Sit-Down Interview",
+      "neg": "Overview: “This isn’t some game,” the president's lead attorney said he replied.",
+      "date": "2018-05-02",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: “It’s not campaign money; no campaign finance violation,” the former New York City mayor said.",
+      "article": "“It’s not campaign money; no campaign finance violation,” the former New York City mayor said.",
+      "pos": "Giuliani Says Trump Repaid Lawyer For $130,000 Payment To Stormy Daniels",
+      "neg": "“It’s not campaign money",
+      "date": "2018-05-03",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011009_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “As soon as we receive them, it is our intention to share them with the public,\" Rep. Adam Schiff (D-Calif.) said.",
+      "article": "“As soon as we receive them, it is our intention to share them with the public,\" Rep. Adam Schiff (D-Calif.) said.",
+      "pos": "House Dems Reportedly Plan To Release Thousands Of Russia-Linked Facebook Ads",
+      "neg": "“As soon as we receive them, it is our intention to share them with the public,\" Rep",
+      "date": "2018-05-07"
+    },
+    {
+      "id": "1011009_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Thousands of newly released EPA documents show the agency went to great lengths to shield the embattled administrator from encounters with the public.",
+      "article": "Thousands of newly released EPA documents show the agency went to great lengths to shield the embattled administrator from encounters with the public.",
+      "pos": "Passengers 'Lashing Out' At Scott Pruitt Justify First-Class Travel, New EPA Memo Says",
+      "neg": "Overview: Thousands of newly released EPA documents show the agency went to great lengths to",
+      "date": "2018-05-08"
+    },
+    {
+      "id": "1011009_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: In one instance, the politician reportedly threatened a partner, “if you ever left me, I’d kill you.”",
+      "article": "In one instance, the politician reportedly threatened a partner, “if you ever left me, I’d kill you.”",
+      "pos": "NY Attorney General Eric Schneiderman Resigns Amid Abuse Allegations",
+      "neg": "Overview: In one instance, the politician reportedly threatened a partner, “if you ever left me,",
+      "date": "2018-05-08"
+    },
+    {
+      "id": "1011009_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"We thank God, and all our families and friends who prayed for us and for our return.\"",
+      "article": "\"We thank God, and all our families and friends who prayed for us and for our return.\"",
+      "pos": "3 Americans Held By North Korea Return To The United States",
+      "neg": "Overview: \"We thank God, and all our families and friends who prayed for us and",
+      "date": "2018-05-10"
+    },
+    {
+      "id": "1011009_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The president is expected to reveal details of the meeting with the North Korean leader in three days.",
+      "article": "The president is expected to reveal details of the meeting with the North Korean leader in three days.",
+      "pos": "Trump And Kim Jong Un Likely To Meet Next Month In Singapore",
+      "neg": "Overview: The president is expected to reveal details of the meeting with the North Korean",
+      "date": "2018-05-10"
+    },
+    {
+      "id": "1011009_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The telecommunications giant's $85 billion merger is currently pending approval from the Justice Department.",
+      "article": "The telecommunications giant's $85 billion merger is currently pending approval from the Justice Department.",
+      "pos": "Michael Cohen Reportedly Paid $600,000 To Advise AT&T On Time Warner Merger",
+      "neg": "Overview: The telecommunications giant's $85 billion merger is currently pending approval from the Justice Department.",
+      "date": "2018-05-11"
+    },
+    {
+      "id": "1011009_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “California government has rotted,” said Tim Draper, the man behind the Cal 3 proposal to split the state.",
+      "article": "“California government has rotted,” said Tim Draper, the man behind the Cal 3 proposal to split the state.",
+      "pos": "Should California Really Be 3 States? Voters Will Decide In November.",
+      "neg": "Overview: “California government has rotted,” said Tim Draper, the man behind the Cal 3 proposal",
+      "date": "2018-06-13"
+    },
+    {
+      "id": "1011009_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The goal? Travel from downtown Chicago to O'Hare Airport in 12 minutes flat.",
+      "article": "The goal? Travel from downtown Chicago to O'Hare Airport in 12 minutes flat.",
+      "pos": "Elon Musk’s Boring Company To Build High-Speed Transit Network In Chicago",
+      "neg": "Overview: The goal? Travel from downtown Chicago to O'Hare Airport in 12 minutes flat.",
+      "date": "2018-06-14"
+    },
+    {
+      "id": "1011009_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: \"It is the only responsible decision that we can make under the current circumstances,\" the park's warden said.",
+      "article": "\"It is the only responsible decision that we can make under the current circumstances,\" the park's warden said.",
+      "pos": "Virunga National Park, Home To Imperiled Gorillas, Closes For The Year Due To Violence",
+      "neg": "Overview: \"It is the only responsible decision that we can make under the current circumstances,\"",
+      "date": "2018-06-15"
+    },
+    {
+      "id": "1011009",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: “Our personnel will regularly return to continue their diplomatic work in Ukraine and provide emergency consular services,\" Secretary of State Antony Blinken said.",
+      "article": "“Our personnel will regularly return to continue their diplomatic work in Ukraine and provide emergency consular services,\" Secretary of State Antony Blinken said.",
+      "pos": "U.S. Relocates Ukraine Embassy Staff To Poland Amid Russian Threat",
+      "neg": "Overview: “Our personnel will regularly return to continue their diplomatic work in Ukraine and provide",
+      "date": "dev_target"
+    }
+  ]
+}

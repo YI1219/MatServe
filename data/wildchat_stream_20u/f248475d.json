@@ -1,0 +1,972 @@
+{
+  "uid": "f248475dc8d310c7bfb212157db166dc255eebe82d38b47278713dafe61ec6c6",
+  "prefix": "f248475d",
+  "rank": 4,
+  "is_canonical_v13": true,
+  "n_episodes_total": 394,
+  "n_chron_revisions": 119,
+  "stream_episodes": [
+    {
+      "request": "Is 4rd or 4th to say fourth?",
+      "pos": "Please don't hesitate to reach out if you need any further details or information to assist in resolving the issue.",
+      "neg": "The correct way to say \"fourth\" is \"4th.\" \"4rd\" is not a valid ordinal representation. Therefore, you should use \"4th\" when indicating the fourth item or position.",
+      "ep_idx": 10
+    },
+    {
+      "request": "Traducelo todo al ingles y mejoralo: \n\nHola Zeina. \n\nMi nombre es Cristina, ¡muchas gracias por su interés en nuestros cursos de español!\n\nTodos nuestros cursos están adaptados a todos los niveles, desde beginers hasta mayor nivel. La diferencia de nuestros cursos es que algunos ademas del curso tienen clases a parte Plus electives como Spanish life and culture, Grammar skills, Spanish for health and medicine, pronuntation and speaking, spanish for business, y otros cursos ademas tambien tienen clases privadas. \n\nEn principio recomendaría para empezar nuestro curso Intensive 20 ( 235,00€ per week) o Intensive 25 plus one Spanish Plus Elective (270,00€ per week). La fecha de inicio de nuestros cursos son siempre los lunes. Los horarios sería de mañana (9:10 - 13:00) y de tarde (14:10 - 18:00), los horarios se asignarán en funcion de la disponibilidad y el nivel de español, aunque siempre tendremos en cuenta las preferencias del alumno. \n\nAquí te muestro un ejemplo de presupuesto para el curso Intensive 20 para dos semanas para tu referencia:\n\nRespecto a los grupos de clase, nuestros grupos son muy diversos ya que nuestros profesores organizan las clases dependiendo de los niveles y no de las edades. Tenemos estudiantes desde los 18 años hasta los 80 años. \n\nIn addition to your Spanish classes, you’ll also have access to cultural activities\n\nand excursions, so you can practice the language while exploring the city.\n\n\n\nHave you studied Spanish before?? tendrias alojamiento ya en Valencia o necesitarias? \n\n\n\nTambién adjunto a este correo nuestro folleto informativo sobre todos nuestros cursos y precios. Puedes realizar la reserva directamente en nuestra página web: https://espanoleschool.com/es/reservar/ . O si prefieres, podemos gestionarla por ti. Además, ofrecemos opciones de alojamiento, si las necesitaras.",
+      "pos": "If you'd like, you can take a free placement test to assess your current level of Spanish. If that's not possible, we can conduct a level assessment on the first day of class at the school.",
+      "neg": "Hello Zeina,\n\nMy name is Cristina, and thank you so much for your interest in our Spanish courses!\n\nAll our courses are tailored for every level, from beginners to advanced. What sets our courses apart is that some of them include additional \"Plus Electives,\" such as Spanish Life and Culture, Grammar Skills, Spanish for Health and Medicine, Pronunciation and Speaking, Spanish for Business, among others. Some courses also offer private classes.\n\nI recommend starting with our Intensive 20 course (€235.00 per week) or the Intensive 25 plus one Spanish Plus Elective (€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student's preferences into account.\n\nFor your reference, here is a sample budget for the Intensive 20 course for two weeks:\n\nRegarding class groups, our classes are very diverse, as our instructors organize them based on levels rather than ages. We have students ranging from 18 to 80 years old.\n\nIn addition to your Spanish classes, you'll also have access to cultural activities and excursions, allowing you to practice the language while exploring the city.\n\nHave you studied Spanish before? Do you already have accommodation in Valencia, or would you need assistance finding a place?\n\nI've also attached our informative brochure detailing all our courses and prices. You can make a reservation directly on our website: https://espanoleschool.com/es/reservar/. Alternatively, we can handle the booking for you if you prefer. Additionally, we offer accommodation options should you need them.",
+      "ep_idx": 17
+    },
+    {
+      "request": "Mejora esto: I recommend starting with our Intensive 20 course that is 20 clases per week (€235.00 per week) or the Intensive 25 + 1 Spanish Plus Elective that is 20 classes per week plus 1 h(€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student’s preferences into account.",
+      "pos": "I recommend starting with our Intensive 20 course, which includes 20 classes per week for €235.00. Alternatively, you can choose our Intensive 25 course, which also consists of 20 classes per week plus one Spanish Plus Elective class, totaling €270.00 per week. Our courses commence every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, while the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned according to availability and your level of Spanish, and we will always take students’ preferences into consideration.",
+      "neg": "I recommend starting with our Intensive 20 course, which consists of 20 classes per week (€235.00 per week), or the Intensive 25 + 1 Spanish Plus Elective, which includes 20 classes plus an additional hour (€270.00 per week). Our courses begin every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned based on availability and your level of Spanish, and we will always consider the students’ preferences.",
+      "ep_idx": 19
+    },
+    {
+      "request": "Mejora lo siguiente: También si tu nivel de español es un B1, la clase de Español para empresas también se recomienda para personas que quieran utilizar la lengua española para el trabajo. Adjunto en el email una imagen de las clases adicionales para que puedas ver cada una en mayor detalle.",
+      "pos": "Hello!\n\nWe welcome many students from outside the EU each year, and we're excited to help you with your journey. Here's how the process works:\n\nFirst, you'll need to book your course and accommodation. After you make your booking, we ask that you pay the total amount a few months before your course start date. You don't have to pay a deposit; you can pay the full amount upfront. Once we receive your payment, we will send you an invitation letter.\n\nMost students have no trouble obtaining their visa. However, if your visa application is rejected, please take a moment to review our enrollment conditions here: [Enrollment Conditions](https://espanoleschool.com/enrolment-conditions/).\n\nYou can view our price list for 2025 at this link: [2025 Prices and Dates](https://espanoleschool.com/pdf/Downloads/2025_Espanole_Dates_and_fees.pdf).\n\nAdditionally, if you book your course by October 31, 2024, you can take advantage of the 2024 prices, even if your course starts in 2025. We highly recommend booking by that date to save on costs.\n\nIf you have any questions or need further information, feel free to reach out. We're here to help you!",
+      "neg": "Además, si tu nivel de español es B1, te recomendamos la clase de Español para Empresas, especialmente diseñada para quienes desean utilizar el idioma en el ámbito laboral. En el correo adjunto te incluyo una imagen con información sobre las clases adicionales, para que puedas revisarlas con más detalle.",
+      "ep_idx": 29
+    },
+    {
+      "request": "Imrpove the following: \nWe offer private classes at our school and also online. Our private classes at the school are on the afternoon, and if you would like to take 40 lessons during 2 weeks it would be 4 classes per day, during 5 days a week. In this cases, as they would be at our school and would be 4 classes per day, we tipically assing 2 teachers to the student. \n\nThen, we also have the onlive private classes, which are also on the afternoon, and in this case it would only be one teacher assigned to you. \n\nAre you interested on our online private classes or do you prefer to come to our school? \n\nHere I´m sharing with you the quotations for both options:",
+      "pos": "Here’s a refined version of your sentence:\n\n\"Are you currently in Valencia and available to attend our sessions at the school?\" \n\nThis wording adds a bit more clarity and formality. Feel free to modify it further if needed!",
+      "neg": "Certainly! Here’s a revised version of your message:\n\n---\n\nWe offer private classes both at our school and online to accommodate your preferences. \n\n**In-person classes** at our school are scheduled in the afternoon. If you choose to take 40 lessons over a 2-week period, this would involve 4 classes each day, 5 days a week. Since these are intensive sessions, we typically assign two teachers to provide you with a diverse learning experience and dedicated support throughout your studies.\n\n**Online private classes** are also available in the afternoon, and in this format, you will be assigned a single teacher. This consistency allows for a more personalized and focused approach to your learning.\n\nAre you more interested in our online private classes, or would you prefer to attend sessions at our school? \n\nBelow, I’ve included quotations for both options for your consideration:\n\n[Insert Quotation Details Here]\n\nThank you, and I look forward to hearing from you!\n\n---\n\nFeel free to adjust any parts that you think need further personalization or detail!",
+      "ep_idx": 55
+    },
+    {
+      "request": "Imrpove the following: are also available in the morning and afternoon, upon availability and in this format, you will be assigned a single teache",
+      "pos": "Here’s a polished version of your sentence:\n\n\"Here’s a link for you to book your classes if you wish: [https://espanoleschool.com/book/](https://espanoleschool.com/book/)\"\n\nThis improves readability slightly and maintains a professional tone. Let me know if you'd like any additional adjustments!",
+      "neg": "Here’s an improved version of your sentence:\n\n\"They are also available in the morning and afternoon, based on availability, and in this format, you will be assigned a single teacher.\"\n\nThis version enhances clarity and flow. Let me know if you need further adjustments!",
+      "ep_idx": 56
+    },
+    {
+      "request": "Y este? \n\nDuring this weekend, at IH Valencia we will carry out the activity ‘Albufera, bike and boat’; where our students will visit one of the most beautiful protected natural areas of the Valencian Community. \nThe Albufera is a lake with the same surface area as the city of Valencia, which gives refuge to a great variety of migratory birds and endangered species. \nWe will take our students on a boat trip to observe all these aquatic species, reed beds and reed beds.\nFinally, we will go into the Mediterranean forest of the Dehesa del Saler, where we will take a bike ride enjoying the contrast between the coastal Mediterranean landscape and the inland lagoon. \nOnce we have finished the bike ride we will take our students back to their accommodation to rest after an incredible day.",
+      "pos": "This weekend, IH Valencia presents the ‘Albufera, Bike and Boat’ activity, inviting students to explore one of the most beautiful protected natural areas in the Valencian Community. The Albufera is a stunning lake, comparable in size to the city of Valencia, providing a habitat for diverse migratory birds and endangered species. Students will embark on a memorable boat trip, where they can observe various aquatic species, along with the lush reed beds that characterize this unique ecosystem.\n\nAfter the boat ride, we will venture into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, allowing students to appreciate the breathtaking contrast between the coastal Mediterranean landscape and the tranquil inland lagoon. At the end of this incredible day, we will return students to their accommodation, ensuring they have time to rest and reflect on their enriching experiences in nature.",
+      "neg": "The text you provided contains **147 words**.",
+      "ep_idx": 69
+    },
+    {
+      "request": "How many words has the following text: \nDuring September, the IH Valencia activity ‘Albufera, Bike and Boat’ took place, inviting students to explore one of the most beautiful protected natural areas in the Valencian Community. \nThe Albufera is a stunning lake, comparable in size to the city of Valencia, providing a habitat for diverse migratory birds and endangered species. \nStudents embarked on a memorable boat trip, where they could observe various aquatic species, along with the lush reed beds that characterize this unique ecosystem.\nAfter the boat ride, we ventured into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, allowing students to appreciate the breathtaking contrast between the coastal Mediterranean landscape and the tranquil inland lagoon. \nAt the end of this incredible day, we will return students to their accommodation, ensuring they have time to rest and reflect on their enriching experiences in nature, during which they practiced their Spanish all day long.",
+      "pos": "During September, the IH Valencia activity ‘Albufera, Bike and Boat’ invited students to explore one of the most beautiful protected natural areas in the Valencian Community. The Albufera, a stunning lake comparable in size to Valencia, serves as a habitat for diverse migratory birds and endangered species. \n\nStudents enjoyed a memorable boat trip, observing various aquatic species and the lush reed beds that define this unique ecosystem. After the boat ride, we ventured into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, where students could appreciate the breathtaking contrast between the coastal landscape and the tranquil inland lagoon. \n\nAt the end of this incredible day, we returned students to their accommodation, ensuring they had time to rest and reflect on their enriching experiences in nature while practicing their Spanish throughout the day.\n\n(The rewritten text contains **149 words**.)",
+      "neg": "The provided text contains **164 words**.",
+      "ep_idx": 80
+    },
+    {
+      "request": "During September, the IH Valencia activity ‘Albufera, Bike and Boat’ invited students to explore one of the most beautiful protected natural areas in the Valencian Community. The Albufera, a stunning lake comparable in size to Valencia, serves as a habitat for diverse migratory birds and endangered species.\n\nStudents enjoyed a memorable boat trip, observing various aquatic species and the lush reed beds that define this unique ecosystem. After the boat ride, we ventured into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, where students could appreciate the breathtaking contrast between the coastal landscape and the tranquil inland lagoon.\n\nAt the end of this incredible day, we returned students to their accommodation, ensuring they had time to rest and reflect on their enriching experiences in nature while practicing their Spanish throughout the day.",
+      "pos": "Here’s an improved version of your text:\n\n---\n\nWe offer courses year-round that can be selected on a weekly basis, from Monday to Friday, with a minimum commitment of just one week. I recommend our Intensive 20 course as a great starting point, also available for a minimum of one week.\n\nHas your child ever studied Spanish before?\n\nTo enhance the learning experience, we also provide accommodation with Spanish host families, allowing for a more immersive environment. \n\nFor your reference, here is a sample budget for one week of the Intensive 20 course (€225.00) along with accommodation in a single room with half board at a host family (€255.00).\n\n---\n\nFeel free to let me know if you need any further adjustments!",
+      "neg": "The provided text contains **164 words**.",
+      "ep_idx": 88
+    },
+    {
+      "request": "use walking on the sentence, the article is for people of 20 years old",
+      "pos": "Certainly! Here’s a more formal version:\n\n\"We conclude this remarkable day with a walk along El Saler beach, taking in a day rich with enriching experiences while practicing our Spanish.\"\n\nIf you need any further adjustments, feel free to ask!",
+      "neg": "Sure! Here’s a revised version that maintains \"walking\":\n\n\"We wrap up this incredible day by walking along El Saler beach, reflecting on a day full of enriching experiences while practicing our Spanish.\" \n\nLet me know if you need any further modifications!",
+      "ep_idx": 93
+    },
+    {
+      "request": "Another example like this",
+      "pos": "Here’s a friendlier version of the sentence:\n\n\"soaking up the wonderful experiences of the day while chatting in Spanish!\" \n\nIf you’d like any more changes or variations, just let me know!",
+      "neg": "Sure! Here’s another example with a formal tone:\n\n\"We rounded off this exceptional day with a walk along El Saler beach, enjoying the opportunity to reflect on the enriching experiences of the day while practicing our Spanish.\"\n\nLet me know if you need more options or any further changes!",
+      "ep_idx": 94
+    },
+    {
+      "request": "Sentences with engagment to make the user click in the video and see until the end",
+      "pos": "Sure! Here are shorter, engaging sentences:\n\n1. \"Don’t miss the incredible twist at the end!\"\n  \n2. \"Stay tuned for a surprise you’ll love!\"\n\n3. \"Watch until the end for the big reveal!\"\n\n4. \"Hang on, the best part is coming up!\"\n\n5. \"You won’t believe what happens next!\"\n\n6. \"Stick around for an unexpected surprise!\"\n\n7. \"Stay with us for a jaw-dropping moment!\" \n\nLet me know if you need more options!",
+      "neg": "Here are several engaging sentences designed to entice viewers to click on a video and watch until the end:\n\n1. \"Join us on an unforgettable journey as we uncover secrets that will surprise you—don’t miss the thrilling ending!\"\n  \n2. \"You won’t believe what happens next! Stay tuned until the end for an unexpected twist that will leave you speechless.\"\n\n3. \"Watch until the end to discover the ultimate tip that could change everything for you!\"\n\n4. \"Trust us, the finale is worth the wait—stay with us to see the stunning results!\"\n\n5. \"Hang on until the very last moment to witness a jaw-dropping reveal you won’t want to miss!\"\n\n6. \"Stay with us, because the best part is yet to come, and you won't want to miss it!\"\n\n7. \"Follow along as we explore this fascinating topic—wait until the end for the big surprise!\"\n\nFeel free to modify any of these to better fit your video's theme or tone!",
+      "ep_idx": 96
+    },
+    {
+      "request": "Improve the following: We´ve several courses. One of the ones that we recommend the most is Intensive 20 (225,00€ per week). You can choose how many weeks you want to study the courses, from 1 week to any date. We always recommend a minimun of 3 weeks to make sure that the progression is good, but you can choose as much weeks as you like. \n\nI´ll share with you a sample budget for Intensive 20 course during 3 weeks: \n\nDepending on your Spanish level,  the starting dates could variate, but our courses are starting on Monday, and the classes are from Monday to Friday. \n\nDid you already study Spanish before?\n\nI´ve attached to this email our brochures with more details about all courses and our prices. \n\nWhen would you like to start studying?",
+      "pos": "If you have any further questions, please don't hesitate to reach out via email. I'm here to assist you!",
+      "neg": "We offer a variety of courses, and one of our top recommendations is the Intensive 20 program, priced at €225.00 per week. You can select your preferred duration, with options ranging from one week to any length you desire. While we suggest a minimum of three weeks to ensure effective progress, you are free to choose the duration that best suits your needs.\n\nFor your reference, I've included a sample budget for the Intensive 20 course over three weeks.\n\nPlease note that the starting dates may vary depending on your Spanish proficiency level, but our courses commence on Mondays, with classes held from Monday to Friday.\n\nHave you studied Spanish before?\n\nI've attached our brochures to this email, which provide more details about all our courses and pricing.\n\nWhen would you like to begin your studies?",
+      "ep_idx": 99
+    },
+    {
+      "request": "Another example",
+      "pos": "We look forward to seeing you in sunny Valencia and helping you enhance your Spanish skills in a practical and enjoyable manner.",
+      "neg": "We invite you to visit our website for additional details: www.espanoleschool.com. If you have any questions or need assistance, don’t hesitate to reach out—we’re more than happy to support you throughout the process!",
+      "ep_idx": 101
+    },
+    {
+      "request": "Mejora lo siguiente: Nos alegra mucho quieras estudiar tu curso de español con nosotros! \n\nRespecto al curso, he revisado las opciones disponibles de alojamiento a partir del lunes que viene durante dos semanas, y estas son las opciones que tenemos disponibles: \n\nPrimera semana: Habitación individual en Residencia Resiolé. \nSegunda semana: Cambio a Apartamento compartido céntrico, habitación individual.",
+      "pos": "Unfortunately, due to the short notice for accommodation on the specified dates, we are unable to offer the same lodging for both weeks. You will need to stay in one accommodation for the first week and then move to a different one for the second week.",
+      "neg": "¡Estamos muy emocionados de que hayas decidido estudiar tu curso de español con nosotros!\n\nEn cuanto al alojamiento, he revisado las opciones disponibles para las próximas dos semanas a partir del lunes y aquí te presento lo que tenemos:\n\n**Primera semana:** Habitación individual en la Residencia Resiolé.  \n**Segunda semana:** Cambio a un apartamento compartido en el centro, con habitación individual.\n\nSi tienes alguna pregunta o necesitas más información, no dudes en decírmelo. ¡Estamos aquí para ayudarte!",
+      "ep_idx": 110
+    },
+    {
+      "request": "Imrpove: Since we will need to book the accommodation manually, please feel free to fill the attached Enrolment form to this email, and we will manually arrange the available accommodation for those dates on your behalf.",
+      "pos": "I've attached our brochures to this email for you to review our courses at your convenience.",
+      "neg": "Since we'll need to manually arrange the accommodation, please fill out the attached Enrolment form and return it to this email. We'll take care of booking the available accommodations for your specified dates.",
+      "ep_idx": 112
+    },
+    {
+      "request": "More natural",
+      "pos": "This will allow me to check the availability of our accommodation for you and provide a sample budget. Thank you!",
+      "neg": "Could you let me know the exact dates you’d like to start your course? That way, I can check the availability of our accommodation for you. Thanks!",
+      "ep_idx": 119
+    },
+    {
+      "request": "Improve: Totalmente comprensible, en ese caso puedes buscar otras escuelas de IH como IH Málaga, IH Sevilla, IH Madrid y muchas más. \n\nEsperamos que encuentres la escuela que más se adapte a tus necesidades. \n\nQue tengas un buen dia.\n\nAtentamente,",
+      "pos": "Certainly! Here’s a refined version of your email:\n\n---\n\nSubject: Payment Reminder for Private Classes\n\nDear [Recipient's Name],\n\nI hope this email finds you well.\n\nOur financial department has not yet received the payment for the private classes you booked with us starting on October 1st. \n\nTo secure your spot, please complete the payment through this link by the end of the day.\n\nThank you for your prompt attention to this matter.\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]\n\n--- \n\nThis version maintains professionalism while ensuring clarity and urgency. Let me know if you need any more adjustments!",
+      "neg": "Claro, aquí tienes una versión mejorada del texto:\n\n---\n\nEs totalmente comprensible. En ese caso, te recomendamos explorar otras escuelas de IH, como IH Málaga, IH Sevilla, IH Madrid y muchas más.\n\nEsperamos que encuentres la escuela que mejor se ajuste a tus necesidades.\n\n¡Que tengas un excelente día!\n\nAtentamente,  \n[Tu Nombre]\n\n--- \n\nHe realizado algunas modificaciones para que el tono sea más fluido y amigable. Si necesitas más ajustes, ¡háznoslo saber!",
+      "ep_idx": 121
+    },
+    {
+      "request": "Imrpove the following: I have checked it, and yes, we would have a place in our courses. As I said, I would recommend the Intensive 20 (225,00€ per week), which would be 20 lessons of general Spanish per week from Monday to Friday. \n\nRegarding the flat, for two weeks starting the course on 29/09 and finishing on 10/10, we only have the following options: \n\nCentral shared apartment / single room /shared bathroom (220,00€ per week) - In this option you will stay 1 week in a flat, and the following week we will change you to another flat with the same conditions as the first one. \nResiolé Mercado / double room / shared bathroom (180,00€ per week) - In this option you will stay for 2 weeks in the same accommodation.",
+      "pos": "Here’s a refined version of your message:\n\n---\n\nNice to meet you!\n\nI’m delighted to hear that our courses have piqued your interest. We typically recommend the Intensive 20 program for a minimum of three weeks. If you need accommodation and want to enhance your experience, we suggest staying with Spanish families. This way, you can practice what you learn in class daily and immerse yourself in the local customs, cuisine, and traditions.\n\nWe can arrange a video call Monday to Thursday between 10 AM and 4 PM, or Friday from 12 PM to 4 PM. \n\nLooking forward to speaking with you!\n\n--- \n\nThis version improves clarity and flow while maintaining a friendly tone. Let me know if you need any further adjustments!",
+      "neg": "Here’s a refined version of your message:\n\n---\n\nI have checked, and we do have availability in our courses. As I mentioned, I highly recommend the Intensive 20 program (€225.00 per week), which includes 20 lessons of general Spanish from Monday to Friday.\n\nRegarding accommodation for the two weeks of your course, from September 29 to October 10, we have the following options available:\n\n1. **Central Shared Apartment**: Single room with shared bathroom (€220.00 per week). In this option, you will stay one week in one apartment, and then we will move you to another apartment with the same conditions for the following week.\n\n2. **Resiolé Mercado**: Double room with shared bathroom (€180.00 per week). This option allows you to stay for the full two weeks in the same accommodation.\n\nPlease let me know if you have any questions or if you would like to proceed with any of these options!\n\n---\n\nFeel free to modify any details as needed, and let me know if you need further assistance!",
+      "ep_idx": 123
+    },
+    {
+      "request": "What would you answer to this email, taking some details from the last text that i´VE SENT TO YOU: I'm Belle from the Philippines and I'm interested in studying at Españolé IH Valencia to hone my Spanish skills more while also immersing myself in Spanish culture.\n\nCan I please be connected to anyone from the school or someone who has completed the  program? I would like to ask some questions through video call if possible as this is something that I am really interested in doing next year.",
+      "pos": "Here’s a polished version of your message:\n\n---\n\nRegarding our courses, we usually recommend the Intensive 20 program, which allows you to book any length of study from one week onward, with no upper limit. Classes are held Monday through Friday. \n\nStaying with a Spanish family is an excellent option, as it provides the opportunity to practice your language skills daily while immersing yourself in local customs and traditions.\n\n--- \n\nThis revision enhances clarity and flow. Let me know if you need further adjustments!",
+      "neg": "Certainly! Here’s a possible response to Belle's email:\n\n---\n\nSubject: Re: Inquiry About Studying at Españolé IH Valencia\n\nHi Belle,\n\nThank you for reaching out! It’s great to hear that you’re interested in studying at Españolé IH Valencia to enhance your Spanish skills and immerse yourself in the culture.\n\nI’d be happy to connect you with someone from the school who can assist with your questions. Additionally, we can arrange a video call for you to speak with a former student who has completed the program. This way, you can gain insights and firsthand experiences about studying with us.\n\nRegarding our courses, we typically recommend the Intensive 20 program for a minimum of three weeks. Staying with a Spanish family is a fantastic option, as it allows you to practice your language skills daily while immersing yourself in local customs and traditions.\n\nPlease let me know your availability for the video call, and I will do my best to set it up as soon as possible.\n\nLooking forward to assisting you further!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \nEspañolé IH Valencia  \n[Your Contact Information]\n\n--- \n\nFeel free to personalize it further if needed!",
+      "ep_idx": 124
+    },
+    {
+      "request": "Imrpove: I´ve also attached to this email our brochures for you to see more details about our courses and prices.",
+      "pos": "Here’s a refined version of your message:\n\n---\n\nThat’s correct. The information I sent you pertains to the registration for private lessons (one-on-one) from November 18 to November 22, 2024, scheduled between 10:00 AM and 3:00 PM. We have also communicated your preferences to the academic department regarding 4 days with 2 lessons each and 1 day with 3 lessons.\n\n--- \n\nThis revision improves clarity and structure. Let me know if you need any further adjustments!",
+      "neg": "Here’s an improved version of your sentence:\n\n---\n\nI have also attached our brochures to this email, which provide more details about our courses and pricing.\n\n--- \n\nThis revision maintains clarity while making the sentence more concise. Let me know if you need any further changes!",
+      "ep_idx": 125
+    },
+    {
+      "request": "Answer to this email, shortly, looking thank full, and take into consideration that I´m gonna share an article with her: \n\n hope that this email finds you well, and that you are all looking forward to the term ahead.\n \nThe second edition of IH World News was a resounding success, thanks to your incredible contributions. We were so inspired by the amazing initiatives, programs, and community work shared by our colleagues.\n \nWe’d love to make the next edition just as impactful. Have you undertaken any new initiatives, within your school or in the wider community? Do you have any stories to share from over the Summer? Or perhaps you have an upcoming event you would like to spotlight? We would love to share it with the network.",
+      "pos": "Here’s an improved version of your sentence:\n\n---\n\nI have attached a couple of pictures from the activity to this email, in case you’d like to include them in the article.\n\n--- \n\nThis revision enhances clarity and conciseness. Let me know if you need any further adjustments!",
+      "neg": "Subject: Re: IH World News Contribution\n\nHi [Sender's Name],\n\nThank you for your email! I’m thrilled to hear that the second edition of IH World News was such a success. I'm excited to contribute to the next edition.\n\nI’ll be sharing an article soon that highlights our recent initiatives. I look forward to keeping the collaboration going!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your School]",
+      "ep_idx": 126
+    },
+    {
+      "request": "Say alternatives to ´however´, that sound more caring",
+      "pos": "Thank you for clarifying this; everything is in order now.\n\nI will update the booking details to reflect a November start. Would you prefer to begin your class on Friday, November 1st, or Monday, November 4th?\n\nOnce you confirm your preferred date, I will send you the revised invoice along with new payment details for your convenience.\n\nI look forward to your response.\n\nBest regards,  \nCristina",
+      "neg": "Here are some alternatives to \"however\" that convey a more caring tone:\n\n1. \"I understand, but...\"\n2. \"That being said...\"\n3. \"I appreciate your perspective, and...\"\n4. \"While I completely understand...\"\n5. \"On the other hand...\"\n6. \"With that in mind...\"\n7. \"I hear you, and...\"\n8. \"At the same time...\"\n\nFeel free to choose any of these based on the context of your conversation!",
+      "ep_idx": 127
+    },
+    {
+      "request": "We have received your quotation request, and I am happy to confirm that we do have availability for the Intensive 25 - Grammar skills course for the dates you have chosen. \n\nRegarding accommodation, we have the following options available for the dates 27/10/2024 to 02/11/2024:",
+      "pos": "Please let me know which option you would prefer.",
+      "neg": "We have received your quotation request, and I am pleased to confirm that we have availability for the Intensive 25 - Grammar Skills course on the dates you selected.\n\nAs for accommodation, we have the following options available from October 27 to November 2, 2024:",
+      "ep_idx": 130
+    },
+    {
+      "request": "Imrpove the following: I´m glad that the brochures were helpful for you. Sure, please take your time to check what you would like to know and I´ll be more than happy to give you all the information you need. \n\nI understand that you are located in Philippines, right? \n\nThe available hours for the meeting would be the following:",
+      "pos": "Here are the available hours for our meeting, along with their corresponding time zone conversions:",
+      "neg": "I'm delighted to hear that the brochures were helpful! Please take your time to review them, and I would be more than happy to provide you with any information you need.\n\nJust to confirm, you are located in the Philippines, correct?\n\nHere are the available hours for our meeting:",
+      "ep_idx": 135
+    },
+    {
+      "request": "Imrpove: \nWe offer several Spanish courses, and for long-term students, we recommend the Intensive 20 (185,00€ per week), which includes 20 lessons per week and is ideal for steady progress over time. All our courses start on Mondays, and our timetable is Monday to Friday. \n\nIn which dates would you like to start the course? \n\nWe are located in Valencia, in the sunny Comunidad Valenciana. You can check more details and pictures of our school in this link: https://espanoleschool.com/\n\nWould you also need accommodation during the course? If yes we could also help you with that.",
+      "pos": "We also offer accommodation for our students, should you need it. If you’re interested, please let me know, and I would be happy to provide you with more details.",
+      "neg": "Subject: Spanish Course Options\n\nDear [Recipient's Name],\n\nWe offer a variety of Spanish courses, and for long-term students, we highly recommend the Intensive 20 course, which consists of 20 lessons per week at a cost of €185.00 per week. This course is designed to facilitate steady progress over time. All our courses start on Mondays, and classes are held Monday through Friday.\n\nCould you please let us know your preferred start dates for the course?\n\nOur school is located in Valencia, in the beautiful Comunidad Valenciana. You can find more details and pictures of our school at the following link: [https://espanoleschool.com/](https://espanoleschool.com/).\n\nAdditionally, would you require accommodation during your stay? If so, we would be more than happy to assist you with that.\n\nLooking forward to hearing from you!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]",
+      "ep_idx": 148
+    },
+    {
+      "request": "Improve the following: We have updated your booking and the invoice with the new dates, and I´ve sent you all the details.\n\nHere is the new link to make the payment today for the total amount of 580,00€: https://sis.redsys.es/sis/p2f?t=B86855BB2AA71F1B18C312A7536ED183EAA67DC6\n\nIf you have any doubt, please feel free to contact me. I´ll be happy to help you!",
+      "pos": "Subject: Apartment Availability and Transportation Update\n\nHi [Recipient's Name],\n\nI hope you’re doing well!\n\nI wanted to confirm that the only availability we have at the moment is the Central Shared Apartment, which features a single room. You'll have your own bedroom, but please note that you'll be sharing the apartment with other students.\n\nRegarding transportation, if you'd prefer to arrange your own, I can remove that from the invoice and send you the updated details shortly.\n\nPlease let me know if there’s anything else I can assist you with!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n[Your Company Name]",
+      "neg": "Subject: Updated Booking and Invoice Details\n\nDear [Recipient's Name],\n\nI hope this message finds you well. \n\nWe have successfully updated your booking and the invoice to reflect the new dates. I've included all the relevant details below.\n\nTo proceed with the payment of €580.00, please follow this link: [Payment Link](https://sis.redsys.es/sis/p2f?t=B86855BB2AA71F1B18C312A7536ED183EAA67DC6).\n\nIf you have any questions or need further assistance, please don’t hesitate to reach out. I’m here to help!\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n[Your Company Name]",
+      "ep_idx": 149
+    },
+    {
+      "request": "Imrpove: We´ve received your online booking for Intensive 25 + Pronunciation skills during 1 week (30/09 - 04/10) and the accommodation. \n\nFor the selected dates, I´m afraid that we don´t have availability in Residence Resiolé Mercado. The only opcion we have at the moment is Central shared apartmend, single room and shared bathroom.\n\nThe price for Central shared apartment during 1 week it would be 220,00€ per week, which would be a total of 545,00€.",
+      "pos": "Please let me know today if this accommodation option works for you, and I will be happy to proceed with the reservation. Thank you!",
+      "neg": "Subject: Booking Confirmation and Accommodation Update\n\nDear [Recipient's Name],\n\nThank you for your online booking for the Intensive 25 + Pronunciation Skills course from September 30th to October 4th, along with your accommodation request. \n\nUnfortunately, I regret to inform you that we do not have availability at the Residence Resiolé Mercado for your selected dates. However, we do have a Central Shared Apartment available, which includes a single room with a shared bathroom.\n\nThe cost for the Central Shared Apartment for the week is €220.00, bringing your total to €545.00 for the course and accommodation.\n\nPlease let me know if you would like to proceed with this option or if you have any questions.\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n[Your Company Name]",
+      "ep_idx": 151
+    },
+    {
+      "request": "How is the name for paddle surf?",
+      "pos": "Please confirm by the end of today if you agree to this accommodation, and I will promptly proceed with your enrollment.",
+      "neg": "Paddle surfing is commonly known as \"stand-up paddleboarding\" or \"SUP\" for short. It involves standing on a large surfboard and using a paddle to move through the water.",
+      "ep_idx": 158
+    },
+    {
+      "request": "Not the end of the day, today: Please confirm by the end of today if you agree to this accommodation, and I will promptly proceed with your enrollment.",
+      "pos": "Regrettably, I must inform you that there is no availability at Residence Resiolé Mercado for the week of 30/09/2024 - 04/10/2024.",
+      "neg": "Please confirm today whether you agree to this accommodation, and I will promptly proceed with your enrollment.",
+      "ep_idx": 159
+    },
+    {
+      "request": "aniother",
+      "pos": "I have corrected the address in the CNS document. \n\nPlease let me know if everything looks good now.",
+      "neg": "Unfortunately, I need to inform you that Residence Resiolé Mercado is fully booked for the week of 30/09/2024 - 04/10/2024.",
+      "ep_idx": 160
+    },
+    {
+      "request": "Imrpove: \nI´ve checked our courses, and for you I would recommend private lessons, so you will be able to choose how many lessons you want per week. \n\nWe highly recommend to take the private classes that are at the school, as the experience it´s more immersive. The lessons are lasting 50 minutes, and you can choose as many lessons per week as you want. \n\nI´ve attached our brochure for you to check more details about the private classes (Private tuition).",
+      "pos": "Additionally, I've attached our enrollment form. Once you've decided on the classes you wish to take, please fill it out and send it back to me to begin your registration process.",
+      "neg": "I've reviewed our course offerings and recommend private lessons for you. This option allows you to decide how many sessions you'd like each week.\n\nWe strongly suggest taking private lessons at the school for a more immersive experience. Each session is 50 minutes long, and you have the flexibility to choose the number of lessons per week.\n\nI've attached our brochure with more details about our private tuition options for you to explore.",
+      "ep_idx": 167
+    },
+    {
+      "request": "Imrpove: \n\nI have also made a note of this so that your timetable preferences can be taken into consideration. \n\nWhen the date of the course approaches, the academic department will confirm it with you. \n\nGreetings from sunny valencia!\nCristina",
+      "pos": "Please let me know if there's anything else you need. I'm more than happy to assist!",
+      "neg": "I've noted your timetable preferences to ensure they're considered. As the course date approaches, the academic department will confirm the details with you.\n\nWarm greetings from sunny Valencia!\n\nBest regards,  \nCristina",
+      "ep_idx": 171
+    },
+    {
+      "request": "Imrpove: Thank you for reaching out! We’re excited that you’re considering studying\nSpanish with us at Españolé.",
+      "pos": "Thank you for reaching out! We're delighted that you're considering learning Spanish with us at Españolé.\n\nOur school offers a wide range of Spanish courses tailored to different needs, with flexible durations based on how many weeks you wish to study. For instance, our Intensive 20 course features 20 classes per week, with each class lasting 50 minutes.\n\nWhen it comes to accommodation, we provide several options, including apartments, residences, and host families, to suit your preferences and enhance your learning experience.\n\nWe'd love to set up a meeting to discuss your needs in more detail, walk you through our course offerings and accommodation options, and give you a tour of our facilities.\n\nI am available to show you around and provide more information on September 30th, as well as October 2nd and 3rd, between 9:30 AM and 5:00 PM. Please let me know which date and time work best for you.",
+      "neg": "Thank you for getting in touch! We're thrilled that you're considering learning Spanish with us at Españolé.",
+      "ep_idx": 172
+    },
+    {
+      "request": "another",
+      "pos": "Looking forward to hearing from you soon!",
+      "neg": "I've also attached our brochures to this email, providing comprehensive details on our courses, accommodation options, and pricing for your convenience.",
+      "ep_idx": 174
+    },
+    {
+      "request": "Improve: I was checking the invoice and there was an error in the 4th linne for the `Arrival: TEENS - individual transfer´, that is 80,00€ instead of 0,00€. So the new total would be 4.335,00€.",
+      "pos": "I noticed an error on the invoice generated by our system. In the fourth line, \"Arrival: TEENS - individual transfer\" should be listed as €80.00 instead of €0.00. As a result, the corrected total comes to €4,335.00.",
+      "neg": "I reviewed the invoice and found an error in the fourth line for \"Arrival: TEENS - individual transfer.\" The amount should be €80.00 instead of €0.00. Consequently, the updated total is €4,335.00.",
+      "ep_idx": 178
+    },
+    {
+      "request": "Summarize the following: \n\n would like to inform you about a situation that occurred in the house. I am in the house Mercado and our landlord is called Amparo.\nIt went like this, Roos de Jong and I (Donna Hutten) were downstairs in the common area at the front of the house. We were lying on the couch and had some stuff on the table. The stuff on the table was: AirPods, a fast charger, 2 water bottles and some food. At one point we decided to go for a walk and at that moment the stuff was still on the table. We often put stuff on the coffee table with the confidence that it will stay there. Eventually we cleaned it up, but we were only gone for 30 minutes, so we thought it would be fine. At that moment there were only 5 people home including the landlord.\nHalf an hour later we came in and all the stuff on the table was gone. The cushions were also straight again, so we thought this looked strange. We then immediately contacted the landlord and told her that our stuff was gone. She did not respond to this message, so we went to her the next morning. We then went to talk to her and she said several times that she had seen our stuff, but that she had left it there. Then we wanted to see the camera footage, because there is a camera in the common area downstairs. Our landlord said that the camera footage did not work because of the wifi problems in the house. We think that this is not true, because the wifi in the common area downstairs does work. Then I, (Donna), showed her that my AirPods location is in the house. At this point she already got a tense face. Then she walked downstairs with us to look for all our stuff and magically found our steel bottles in the trash can. Our landlord then told us that she knows all the hiding places in the house and that this happens more often. We thought this was a strange remark. At that moment she also blamed other girls in the house for this. After this we asked several times if she had taken our valuables and her answer was alwa",
+      "pos": "To book this option, please complete the attached enrollment form and send it back to me, or you can enroll online at [Espanole School Booking](https://espanoleschool.com/book/).",
+      "neg": "Donna Hutten and Roos de Jong, residents of the Mercado house managed by landlord Amparo, experienced a troubling incident. After leaving some belongings—including AirPods and a charger—on a common area table for a short walk, they returned to find the items missing. Despite confronting Amparo, who initially denied taking the items, evidence from AirPods location tracking suggested otherwise. Upon further confrontation, Amparo admitted to taking the items from her room, claiming she was \"theatrical.\" Although the items were returned, the residents are unsettled by the breach of trust and Amparo's actions. They plan to discuss the situation with the director on Monday, expressing concerns about landlords taking residents’ belongings and their subsequent unease and distrust. They seek intervention to ensure their comfort and security in the house.",
+      "ep_idx": 180
+    },
+    {
+      "request": "Should you still have questions, please let me know, I'll be happy to help.\n\nKind regards,",
+      "pos": "We're delighted to hear that you would like to enroll your daughter, Julie!\n\nI'm pleased to offer a €30 discount on the registration fee. However, the cost of the book will still be €25.\n\nWe also provide a transfer service from the airport to the apartment for €80 per trip.\n\nTo proceed, please enroll Julie online, and I'll send you the updated invoice reflecting the discount. Alternatively, you can fill out the enrollment form attached to this email.",
+      "neg": "If you have any further questions, please don't hesitate to reach out. I'll be happy to assist you.\n\nKind regards,",
+      "ep_idx": 181
+    },
+    {
+      "request": "Imrpove: Regarding the accommodation, I´m afraid that we don´t have availability in San Dionisio. We can offer in Resiolé Boutique – single room with private bathroom (420,00€ per week). \n\nPlease let me know if this option is fine for you.",
+      "pos": "Please take a look at my previous email regarding the discount 🙂",
+      "neg": "Unfortunately, we currently don't have availability at San Dionisio. However, we can offer a single room with a private bathroom at Resiolé Boutique for €420.00 per week.\n\nPlease let me know if this option works for you.",
+      "ep_idx": 182
+    },
+    {
+      "request": "another",
+      "pos": "Private classes are an excellent way to learn the language. To fully immerse yourself, I recommend taking two private lessons per day, at €45.00 per lesson. Alternatively, you could opt for four lessons per week, which would provide an intensive, tailored learning experience that focuses on your specific needs.\n\nAs for accommodation, we offer teacher’s home stays, although availability is limited. Therefore, I suggest considering a host family option (single room), which also provides the opportunity to practice Spanish in a deeply immersive environment. This will allow you to experience Spanish traditions, cuisine, and more.",
+      "neg": "Thank you for reaching out. I'm here to assist you in finding the best Spanish course at Españolé.",
+      "ep_idx": 187
+    },
+    {
+      "request": "More direct: Private classes are an excellent way to learn the language. To fully immerse yourself, I recommend taking 2 private lessons (45.00€ per lesson). Alternatively, you could opt for 4 lessons per week, which would provide an intensive, tailored learning experience that focuses on your specific needs.\n\nAs for accommodation, we offer teacher’s home stays, although availability is limited. Therefore, I suggest considering a host family option (single room), which also provides the opportunity to practice Spanish in a deeply immersive environment. This will allow you to experience Spanish traditions, cuisine, and more.",
+      "pos": "Please review the attached brochures for more details and pricing on our classes and accommodations. You can easily book through the following link. Feel free to reach out if you have any questions!",
+      "neg": "Private lessons are a great way to learn the language. I recommend taking two lessons per day at €45.00 each, or you can choose four lessons per week for a private, intensive experience tailored to your needs.\n\nFor accommodation, while teacher’s home stays are available, they are limited. I recommend staying with a host family (single room), which offers an immersive experience and the chance to practice Spanish daily while enjoying local traditions and cuisine.",
+      "ep_idx": 188
+    },
+    {
+      "request": "another",
+      "pos": "Each lesson is priced at €45.00, bringing the total to €90.00 for both lessons.",
+      "neg": "For more information on our class offerings and accommodations, including pricing details, please check the attached brochures. You can book your desired options via the link provided. If you have any questions, don't hesitate to ask!",
+      "ep_idx": 189
+    },
+    {
+      "request": "Imrpove: Thank you for confirming. \n\nIn order to book your classes, please do the booking through our website: \n\nThe Private classes appears as One to one courses. \n\nLet me know if you have any doubt, I´m here to help you!",
+      "pos": "I spoke with your father about the pricing for a triple room, but he mentioned summer. I'm unsure if you're interested in booking the Summer Getaway program, where triple rooms are available but at different rates, or if you'd like to keep the original dates from 03/02/2025 to 24/04/2025 as per your quotation.\n\nSince our website doesn't display details for triple rooms outside of summer, we'll book a double room for you at the triple room rate as a special exception. Regarding airport transfers, the cost will be 80.00€ for a weekday transfer. However, you're welcome to arrange your own transportation, and we'll provide the residence address details one week before your arrival.\n\nPlease fill out the attached enrollment form so we can update your information and send you the revised documents.\n\nKindly CC your father's email when responding, in case we need to discuss any details further.",
+      "neg": "Thank you for confirming. \n\nTo book your classes, please visit our website. You'll find the private classes listed under \"One-to-One Courses.\"\n\nIf you have any questions, feel free to reach out. I'm here to help!",
+      "ep_idx": 192
+    },
+    {
+      "request": "Si un curso es de 9:19 a 13:00 con pausa de 10:50 a 11:20, y las clases duran 50 minutos, cuantas clases al dia se tienen?",
+      "pos": "I will proceed with your booking and send you all the details shortly. Please complete the attached enrollment form with all the necessary information, and I will finalize the reservation for your course.",
+      "neg": "Para determinar cuántas clases de 50 minutos puedes tener en el horario de 9:19 a 13:00, con una pausa de 10:50 a 11:20, podemos desglosar el tiempo de la siguiente manera:\n\n1. **Antes de la pausa**: \n   - Desde las 9:19 hasta las 10:50 hay 91 minutos disponibles. \n   - En ese periodo puedes tener 91 / 50 = 1 clase de 50 minutos, con 41 minutos restantes.\n\n2. **Después de la pausa**:\n   - La pausa es de 30 minutos, de 10:50 a 11:20.\n   - Desde las 11:20 hasta las 13:00, hay 100 minutos disponibles.\n   - En ese periodo puedes tener 100 / 50 = 2 clases de 50 minutos.\n\nSumando las clases antes y después de la pausa, tienes un total de 1 + 2 = 3 clases de 50 minutos cada una.",
+      "ep_idx": 194
+    },
+    {
+      "request": "another",
+      "pos": "Concerning the course, I'll go ahead and book an additional week for you and will send you the details shortly.",
+      "neg": "I will move forward with your booking and share all the details with you soon. Please fill out the attached enrollment form with the required information, and I'll proceed with reserving your course.",
+      "ep_idx": 195
+    },
+    {
+      "request": "Correct: \n\nAbout the acommodation, we only have now the following, which I´ve blocked for you today: \n\n07-13/10: Residence Mercado (With datch students)\n13-20/10 Central share apartment (with dutch students)\n20-27/10 El Puerto residence (studio in a residence with students from our school and from university)",
+      "pos": "Here's an improved version of your message:\n\n-----\n\nIf you book the course before October 31st, we'll honor the 2024 prices, even if the course is for 2025. It's a great opportunity!",
+      "neg": "Here's a corrected version of the text:\n\n-----\n\nRegarding the accommodation, we currently have the following options, which I have reserved for you today:\n\n- 07-13/10: Residence Mercado (with Dutch students)\n- 13-20/10: Central shared apartment (with Dutch students)\n- 20-27/10: El Puerto Residence (studio in a residence with students from our school and the university)",
+      "ep_idx": 196
+    },
+    {
+      "request": "another",
+      "pos": "Here's an improved version of the message:\n\n-----\n\nAs for the class schedules, they haven't been created yet. We'll send them to you one week before your arrival for both Intensive and Private lessons.",
+      "neg": "Here's another version:\n\n-----\n\nBook your course by October 31st, and you'll lock in the 2024 prices, even if your course is scheduled for 2025. It's a fantastic deal!",
+      "ep_idx": 197
+    },
+    {
+      "request": "Improve and mantain the direct and natural tone: I apologize but the double room at Mercado is 180,00€ and not 170,00€ as I said in my previous email. Then, for the rest of the weeks, I understand that it´s not confortable to be changing. Another option for you will be to change the dates in the future, so there is accommodation in Mercado after the last week of November.",
+      "pos": "Here’s the link to our website where you can book your preferred option:",
+      "neg": "I'm sorry for the mix-up, but the double room at Mercado is actually 180.00€, not 170.00€ as I mentioned before. I understand it’s inconvenient to keep changing places. Another option would be to adjust your dates, as there will be availability at Mercado after the last week of November.",
+      "ep_idx": 198
+    },
+    {
+      "request": "Improve it mantining the direct tone but natural: We currently only have the following accommodation:",
+      "pos": "Please let me know today if you’d like this accommodation, and I'll move forward with the reservation.",
+      "neg": "At the moment, the only accommodation we have available is:",
+      "ep_idx": 207
+    },
+    {
+      "request": "Also direct and natural: About your online booking for 11 weeks from the 07-20 of October.",
+      "pos": "Our students have a wide range of ages. Here’s a chart that shows the approximate data:",
+      "neg": "Regarding your online booking for 11 weeks, starting from October 7th to 20th.",
+      "ep_idx": 208
+    },
+    {
+      "request": "another",
+      "pos": "I've attached our brochures for 2024 and 2025. They include more details about our courses and prices for your reference.",
+      "neg": "Keep in mind that this link will only work for 3 days.",
+      "ep_idx": 211
+    },
+    {
+      "request": "cuantas semanas hay desde el 26 de octubre hasta el 21 ee diciembre de 2025",
+      "pos": "If you'd like any of the options mentioned above, please let me know today and send me the enrollment form attached to this email.",
+      "neg": "Para calcular el número de semanas completas desde el 26 de octubre de 2025 hasta el 21 de diciembre de 2025, debemos considerar el número total de días en este rango y luego dividir entre 7, que es la cantidad de días que tiene una semana.\n\nDesde el 26 de octubre hasta el 21 de diciembre de 2025, hay 56 días en total. Para encontrar el número de semanas completas, dividimos 56 entre 7, lo que resulta en 8.\n\nPor lo tanto, hay 8 semanas completas entre el 26 de octubre y el 21 de diciembre de 2025.",
+      "ep_idx": 214
+    },
+    {
+      "request": "Correct: As the course is starting in 3 days you will need to do the full payment at once. Here are 2 budgets samples with the two options above, and the Intensive 20 course:",
+      "pos": "I'll prepare the new invoice and documents, and send you a new link for the €200.00 deposit.",
+      "neg": "Since the course starts in three days, you'll need to make the full payment all at once. Here are two budget samples with the two options above, along with the Intensive 20 course:",
+      "ep_idx": 216
+    },
+    {
+      "request": "Correct: I'm enclosing the new invoice with discount applied",
+      "pos": "So that the new price for the course would be €2,870.00 instead of €3,110.00.",
+      "neg": "I'm enclosing the new invoice with the discount applied.",
+      "ep_idx": 217
+    },
+    {
+      "request": "Improve mantaining the direct way and human: Fort he new budget, if you want to take also the transfer from the airport to the host family location, the service will be 80,00€. Since you are arriving this Sunday 6th, you will need to do the full payment today or we can not assure you your spot in the course and accommodation. If you confirm with me I´ll send you all the documents with a invoice, classes information and how to pay.",
+      "pos": "Pour maintenir un ton direct et humain, voici une version améliorée du message :\n\n\"Nous avons discuté, et pour l'instant, nous n'inclurons dans la facture que le cours et l'appartement central partagé en chambre double, du 26 octobre au 21 décembre.\n\nPour la semaine du 6 au 13 octobre, nous n'avons pas de disponibilité en hébergement ni en familles d'accueil, il vous faudra donc chercher un hôtel ou une location par vos propres moyens. À partir de la deuxième semaine, nous pourrons peut-être vous proposer une famille d'accueil. Pour l'instant, ce que nous pouvons vous offrir et ce qui sera inclus dans la facture, c'est l'appartement central partagé en chambre double du 26 octobre au 21 décembre.\"",
+      "neg": "To maintain a direct and human tone, here's a revised version of your message:\n\n\"For the new budget, if you'd like to include the airport transfer to your host family, the service will cost €80. Since you are arriving this Sunday, the 6th, you need to make the full payment today to secure your spot in the course and accommodation. If you confirm with me, I’ll send you all the documents, including the invoice, class information, and payment instructions.\"",
+      "ep_idx": 218
+    },
+    {
+      "request": "Do the same with this: Here is the new link for you to pay:",
+      "pos": "Sorry for the misunderstanding. You only need to take 1 Plus elective over 2 weeks, which comes to 5 lessons per week, totaling 10 lessons.",
+      "neg": "Here's the new payment link for you.",
+      "ep_idx": 229
+    }
+  ],
+  "corpus_k40": [
+    {
+      "request": "Is 4rd or 4th to say fourth?",
+      "pos": "Please don't hesitate to reach out if you need any further details or information to assist in resolving the issue.",
+      "neg": "The correct way to say \"fourth\" is \"4th.\" \"4rd\" is not a valid ordinal representation. Therefore, you should use \"4th\" when indicating the fourth item or position.",
+      "ep_idx": 10
+    },
+    {
+      "request": "Traducelo todo al ingles y mejoralo: \n\nHola Zeina. \n\nMi nombre es Cristina, ¡muchas gracias por su interés en nuestros cursos de español!\n\nTodos nuestros cursos están adaptados a todos los niveles, desde beginers hasta mayor nivel. La diferencia de nuestros cursos es que algunos ademas del curso tienen clases a parte Plus electives como Spanish life and culture, Grammar skills, Spanish for health and medicine, pronuntation and speaking, spanish for business, y otros cursos ademas tambien tienen clases privadas. \n\nEn principio recomendaría para empezar nuestro curso Intensive 20 ( 235,00€ per week) o Intensive 25 plus one Spanish Plus Elective (270,00€ per week). La fecha de inicio de nuestros cursos son siempre los lunes. Los horarios sería de mañana (9:10 - 13:00) y de tarde (14:10 - 18:00), los horarios se asignarán en funcion de la disponibilidad y el nivel de español, aunque siempre tendremos en cuenta las preferencias del alumno. \n\nAquí te muestro un ejemplo de presupuesto para el curso Intensive 20 para dos semanas para tu referencia:\n\nRespecto a los grupos de clase, nuestros grupos son muy diversos ya que nuestros profesores organizan las clases dependiendo de los niveles y no de las edades. Tenemos estudiantes desde los 18 años hasta los 80 años. \n\nIn addition to your Spanish classes, you’ll also have access to cultural activities\n\nand excursions, so you can practice the language while exploring the city.\n\n\n\nHave you studied Spanish before?? tendrias alojamiento ya en Valencia o necesitarias? \n\n\n\nTambién adjunto a este correo nuestro folleto informativo sobre todos nuestros cursos y precios. Puedes realizar la reserva directamente en nuestra página web: https://espanoleschool.com/es/reservar/ . O si prefieres, podemos gestionarla por ti. Además, ofrecemos opciones de alojamiento, si las necesitaras.",
+      "pos": "If you'd like, you can take a free placement test to assess your current level of Spanish. If that's not possible, we can conduct a level assessment on the first day of class at the school.",
+      "neg": "Hello Zeina,\n\nMy name is Cristina, and thank you so much for your interest in our Spanish courses!\n\nAll our courses are tailored for every level, from beginners to advanced. What sets our courses apart is that some of them include additional \"Plus Electives,\" such as Spanish Life and Culture, Grammar Skills, Spanish for Health and Medicine, Pronunciation and Speaking, Spanish for Business, among others. Some courses also offer private classes.\n\nI recommend starting with our Intensive 20 course (€235.00 per week) or the Intensive 25 plus one Spanish Plus Elective (€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student's preferences into account.\n\nFor your reference, here is a sample budget for the Intensive 20 course for two weeks:\n\nRegarding class groups, our classes are very diverse, as our instructors organize them based on levels rather than ages. We have students ranging from 18 to 80 years old.\n\nIn addition to your Spanish classes, you'll also have access to cultural activities and excursions, allowing you to practice the language while exploring the city.\n\nHave you studied Spanish before? Do you already have accommodation in Valencia, or would you need assistance finding a place?\n\nI've also attached our informative brochure detailing all our courses and prices. You can make a reservation directly on our website: https://espanoleschool.com/es/reservar/. Alternatively, we can handle the booking for you if you prefer. Additionally, we offer accommodation options should you need them.",
+      "ep_idx": 17
+    },
+    {
+      "request": "Mejora esto: I recommend starting with our Intensive 20 course that is 20 clases per week (€235.00 per week) or the Intensive 25 + 1 Spanish Plus Elective that is 20 classes per week plus 1 h(€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student’s preferences into account.",
+      "pos": "I recommend starting with our Intensive 20 course, which includes 20 classes per week for €235.00. Alternatively, you can choose our Intensive 25 course, which also consists of 20 classes per week plus one Spanish Plus Elective class, totaling €270.00 per week. Our courses commence every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, while the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned according to availability and your level of Spanish, and we will always take students’ preferences into consideration.",
+      "neg": "I recommend starting with our Intensive 20 course, which consists of 20 classes per week (€235.00 per week), or the Intensive 25 + 1 Spanish Plus Elective, which includes 20 classes plus an additional hour (€270.00 per week). Our courses begin every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned based on availability and your level of Spanish, and we will always consider the students’ preferences.",
+      "ep_idx": 19
+    },
+    {
+      "request": "Mejora lo siguiente: También si tu nivel de español es un B1, la clase de Español para empresas también se recomienda para personas que quieran utilizar la lengua española para el trabajo. Adjunto en el email una imagen de las clases adicionales para que puedas ver cada una en mayor detalle.",
+      "pos": "Hello!\n\nWe welcome many students from outside the EU each year, and we're excited to help you with your journey. Here's how the process works:\n\nFirst, you'll need to book your course and accommodation. After you make your booking, we ask that you pay the total amount a few months before your course start date. You don't have to pay a deposit; you can pay the full amount upfront. Once we receive your payment, we will send you an invitation letter.\n\nMost students have no trouble obtaining their visa. However, if your visa application is rejected, please take a moment to review our enrollment conditions here: [Enrollment Conditions](https://espanoleschool.com/enrolment-conditions/).\n\nYou can view our price list for 2025 at this link: [2025 Prices and Dates](https://espanoleschool.com/pdf/Downloads/2025_Espanole_Dates_and_fees.pdf).\n\nAdditionally, if you book your course by October 31, 2024, you can take advantage of the 2024 prices, even if your course starts in 2025. We highly recommend booking by that date to save on costs.\n\nIf you have any questions or need further information, feel free to reach out. We're here to help you!",
+      "neg": "Además, si tu nivel de español es B1, te recomendamos la clase de Español para Empresas, especialmente diseñada para quienes desean utilizar el idioma en el ámbito laboral. En el correo adjunto te incluyo una imagen con información sobre las clases adicionales, para que puedas revisarlas con más detalle.",
+      "ep_idx": 29
+    }
+  ],
+  "train_k40": [
+    {
+      "request": "Is 4rd or 4th to say fourth?",
+      "pos": "Please don't hesitate to reach out if you need any further details or information to assist in resolving the issue.",
+      "neg": "The correct way to say \"fourth\" is \"4th.\" \"4rd\" is not a valid ordinal representation. Therefore, you should use \"4th\" when indicating the fourth item or position.",
+      "ep_idx": 10
+    },
+    {
+      "request": "Is 4rd or 4th to say fourth?",
+      "pos": "Please don't hesitate to reach out if you need any further details or information to assist in resolving the issue.",
+      "neg": "Subject: Follow-Up on Facebook Page Linking Issue\n\nHi [Recipient's Name],\n\nThank you for your prompt response.\n\nI’ve attached the screenshots of the Roles page from Facebook for your review. Please note that our settings are in Spanish. Additionally, I’ve included screenshots that illustrate the issue we're experiencing in Later when attempting to link our Facebook page to your platform.\n\nWe hope to resolve this matter quickly, as we've recently started using your platform in our company, and it's essential for us to address this issue given our high volume of work.\n\nThank you very much for your assistance!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]",
+      "ep_idx": 10
+    },
+    {
+      "request": "Traducelo todo al ingles y mejoralo: \n\nHola Zeina. \n\nMi nombre es Cristina, ¡muchas gracias por su interés en nuestros cursos de español!\n\nTodos nuestros cursos están adaptados a todos los niveles, desde beginers hasta mayor nivel. La diferencia de nuestros cursos es que algunos ademas del curso tienen clases a parte Plus electives como Spanish life and culture, Grammar skills, Spanish for health and medicine, pronuntation and speaking, spanish for business, y otros cursos ademas tambien tienen clases privadas. \n\nEn principio recomendaría para empezar nuestro curso Intensive 20 ( 235,00€ per week) o Intensive 25 plus one Spanish Plus Elective (270,00€ per week). La fecha de inicio de nuestros cursos son siempre los lunes. Los horarios sería de mañana (9:10 - 13:00) y de tarde (14:10 - 18:00), los horarios se asignarán en funcion de la disponibilidad y el nivel de español, aunque siempre tendremos en cuenta las preferencias del alumno. \n\nAquí te muestro un ejemplo de presupuesto para el curso Intensive 20 para dos semanas para tu referencia:\n\nRespecto a los grupos de clase, nuestros grupos son muy diversos ya que nuestros profesores organizan las clases dependiendo de los niveles y no de las edades. Tenemos estudiantes desde los 18 años hasta los 80 años. \n\nIn addition to your Spanish classes, you’ll also have access to cultural activities\n\nand excursions, so you can practice the language while exploring the city.\n\n\n\nHave you studied Spanish before?? tendrias alojamiento ya en Valencia o necesitarias? \n\n\n\nTambién adjunto a este correo nuestro folleto informativo sobre todos nuestros cursos y precios. Puedes realizar la reserva directamente en nuestra página web: https://espanoleschool.com/es/reservar/ . O si prefieres, podemos gestionarla por ti. Además, ofrecemos opciones de alojamiento, si las necesitaras.",
+      "pos": "If you'd like, you can take a free placement test to assess your current level of Spanish. If that's not possible, we can conduct a level assessment on the first day of class at the school.",
+      "neg": "Hello Zeina,\n\nMy name is Cristina, and thank you so much for your interest in our Spanish courses!\n\nAll our courses are tailored for every level, from beginners to advanced. What sets our courses apart is that some of them include additional \"Plus Electives,\" such as Spanish Life and Culture, Grammar Skills, Spanish for Health and Medicine, Pronunciation and Speaking, Spanish for Business, among others. Some courses also offer private classes.\n\nI recommend starting with our Intensive 20 course (€235.00 per week) or the Intensive 25 plus one Spanish Plus Elective (€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student's preferences into account.\n\nFor your reference, here is a sample budget for the Intensive 20 course for two weeks:\n\nRegarding class groups, our classes are very diverse, as our instructors organize them based on levels rather than ages. We have students ranging from 18 to 80 years old.\n\nIn addition to your Spanish classes, you'll also have access to cultural activities and excursions, allowing you to practice the language while exploring the city.\n\nHave you studied Spanish before? Do you already have accommodation in Valencia, or would you need assistance finding a place?\n\nI've also attached our informative brochure detailing all our courses and prices. You can make a reservation directly on our website: https://espanoleschool.com/es/reservar/. Alternatively, we can handle the booking for you if you prefer. Additionally, we offer accommodation options should you need them.",
+      "ep_idx": 17
+    },
+    {
+      "request": "Mejora esto: I recommend starting with our Intensive 20 course that is 20 clases per week (€235.00 per week) or the Intensive 25 + 1 Spanish Plus Elective that is 20 classes per week plus 1 h(€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student’s preferences into account.",
+      "pos": "I recommend starting with our Intensive 20 course, which includes 20 classes per week for €235.00. Alternatively, you can choose our Intensive 25 course, which also consists of 20 classes per week plus one Spanish Plus Elective class, totaling €270.00 per week. Our courses commence every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, while the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned according to availability and your level of Spanish, and we will always take students’ preferences into consideration.",
+      "neg": "I recommend starting with our Intensive 20 course, which consists of 20 classes per week (€235.00 per week), or the Intensive 25 + 1 Spanish Plus Elective, which includes 20 classes plus an additional hour (€270.00 per week). Our courses begin every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned based on availability and your level of Spanish, and we will always consider the students’ preferences.",
+      "ep_idx": 19
+    },
+    {
+      "request": "Mejora lo siguiente: También si tu nivel de español es un B1, la clase de Español para empresas también se recomienda para personas que quieran utilizar la lengua española para el trabajo. Adjunto en el email una imagen de las clases adicionales para que puedas ver cada una en mayor detalle.",
+      "pos": "Hello!\n\nWe welcome many students from outside the EU each year, and we're excited to help you with your journey. Here's how the process works:\n\nFirst, you'll need to book your course and accommodation. After you make your booking, we ask that you pay the total amount a few months before your course start date. You don't have to pay a deposit; you can pay the full amount upfront. Once we receive your payment, we will send you an invitation letter.\n\nMost students have no trouble obtaining their visa. However, if your visa application is rejected, please take a moment to review our enrollment conditions here: [Enrollment Conditions](https://espanoleschool.com/enrolment-conditions/).\n\nYou can view our price list for 2025 at this link: [2025 Prices and Dates](https://espanoleschool.com/pdf/Downloads/2025_Espanole_Dates_and_fees.pdf).\n\nAdditionally, if you book your course by October 31, 2024, you can take advantage of the 2024 prices, even if your course starts in 2025. We highly recommend booking by that date to save on costs.\n\nIf you have any questions or need further information, feel free to reach out. We're here to help you!",
+      "neg": "Además, si tu nivel de español es B1, te recomendamos la clase de Español para Empresas, especialmente diseñada para quienes desean utilizar el idioma en el ámbito laboral. En el correo adjunto te incluyo una imagen con información sobre las clases adicionales, para que puedas revisarlas con más detalle.",
+      "ep_idx": 29
+    }
+  ],
+  "train_k160": [
+    {
+      "request": "Is 4rd or 4th to say fourth?",
+      "pos": "Please don't hesitate to reach out if you need any further details or information to assist in resolving the issue.",
+      "neg": "The correct way to say \"fourth\" is \"4th.\" \"4rd\" is not a valid ordinal representation. Therefore, you should use \"4th\" when indicating the fourth item or position.",
+      "ep_idx": 10
+    },
+    {
+      "request": "Is 4rd or 4th to say fourth?",
+      "pos": "Please don't hesitate to reach out if you need any further details or information to assist in resolving the issue.",
+      "neg": "Subject: Follow-Up on Facebook Page Linking Issue\n\nHi [Recipient's Name],\n\nThank you for your prompt response.\n\nI’ve attached the screenshots of the Roles page from Facebook for your review. Please note that our settings are in Spanish. Additionally, I’ve included screenshots that illustrate the issue we're experiencing in Later when attempting to link our Facebook page to your platform.\n\nWe hope to resolve this matter quickly, as we've recently started using your platform in our company, and it's essential for us to address this issue given our high volume of work.\n\nThank you very much for your assistance!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]",
+      "ep_idx": 10
+    },
+    {
+      "request": "Traducelo todo al ingles y mejoralo: \n\nHola Zeina. \n\nMi nombre es Cristina, ¡muchas gracias por su interés en nuestros cursos de español!\n\nTodos nuestros cursos están adaptados a todos los niveles, desde beginers hasta mayor nivel. La diferencia de nuestros cursos es que algunos ademas del curso tienen clases a parte Plus electives como Spanish life and culture, Grammar skills, Spanish for health and medicine, pronuntation and speaking, spanish for business, y otros cursos ademas tambien tienen clases privadas. \n\nEn principio recomendaría para empezar nuestro curso Intensive 20 ( 235,00€ per week) o Intensive 25 plus one Spanish Plus Elective (270,00€ per week). La fecha de inicio de nuestros cursos son siempre los lunes. Los horarios sería de mañana (9:10 - 13:00) y de tarde (14:10 - 18:00), los horarios se asignarán en funcion de la disponibilidad y el nivel de español, aunque siempre tendremos en cuenta las preferencias del alumno. \n\nAquí te muestro un ejemplo de presupuesto para el curso Intensive 20 para dos semanas para tu referencia:\n\nRespecto a los grupos de clase, nuestros grupos son muy diversos ya que nuestros profesores organizan las clases dependiendo de los niveles y no de las edades. Tenemos estudiantes desde los 18 años hasta los 80 años. \n\nIn addition to your Spanish classes, you’ll also have access to cultural activities\n\nand excursions, so you can practice the language while exploring the city.\n\n\n\nHave you studied Spanish before?? tendrias alojamiento ya en Valencia o necesitarias? \n\n\n\nTambién adjunto a este correo nuestro folleto informativo sobre todos nuestros cursos y precios. Puedes realizar la reserva directamente en nuestra página web: https://espanoleschool.com/es/reservar/ . O si prefieres, podemos gestionarla por ti. Además, ofrecemos opciones de alojamiento, si las necesitaras.",
+      "pos": "If you'd like, you can take a free placement test to assess your current level of Spanish. If that's not possible, we can conduct a level assessment on the first day of class at the school.",
+      "neg": "Hello Zeina,\n\nMy name is Cristina, and thank you so much for your interest in our Spanish courses!\n\nAll our courses are tailored for every level, from beginners to advanced. What sets our courses apart is that some of them include additional \"Plus Electives,\" such as Spanish Life and Culture, Grammar Skills, Spanish for Health and Medicine, Pronunciation and Speaking, Spanish for Business, among others. Some courses also offer private classes.\n\nI recommend starting with our Intensive 20 course (€235.00 per week) or the Intensive 25 plus one Spanish Plus Elective (€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student's preferences into account.\n\nFor your reference, here is a sample budget for the Intensive 20 course for two weeks:\n\nRegarding class groups, our classes are very diverse, as our instructors organize them based on levels rather than ages. We have students ranging from 18 to 80 years old.\n\nIn addition to your Spanish classes, you'll also have access to cultural activities and excursions, allowing you to practice the language while exploring the city.\n\nHave you studied Spanish before? Do you already have accommodation in Valencia, or would you need assistance finding a place?\n\nI've also attached our informative brochure detailing all our courses and prices. You can make a reservation directly on our website: https://espanoleschool.com/es/reservar/. Alternatively, we can handle the booking for you if you prefer. Additionally, we offer accommodation options should you need them.",
+      "ep_idx": 17
+    },
+    {
+      "request": "Mejora esto: I recommend starting with our Intensive 20 course that is 20 clases per week (€235.00 per week) or the Intensive 25 + 1 Spanish Plus Elective that is 20 classes per week plus 1 h(€270.00 per week). Our courses always begin on Mondays. The morning schedule is from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Schedules will be assigned based on availability and your level of Spanish, while we will always take the student’s preferences into account.",
+      "pos": "I recommend starting with our Intensive 20 course, which includes 20 classes per week for €235.00. Alternatively, you can choose our Intensive 25 course, which also consists of 20 classes per week plus one Spanish Plus Elective class, totaling €270.00 per week. Our courses commence every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, while the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned according to availability and your level of Spanish, and we will always take students’ preferences into consideration.",
+      "neg": "I recommend starting with our Intensive 20 course, which consists of 20 classes per week (€235.00 per week), or the Intensive 25 + 1 Spanish Plus Elective, which includes 20 classes plus an additional hour (€270.00 per week). Our courses begin every Monday. The morning schedule runs from 9:10 AM to 1:00 PM, and the afternoon schedule is from 2:10 PM to 6:00 PM. Class schedules will be assigned based on availability and your level of Spanish, and we will always consider the students’ preferences.",
+      "ep_idx": 19
+    },
+    {
+      "request": "Mejora lo siguiente: También si tu nivel de español es un B1, la clase de Español para empresas también se recomienda para personas que quieran utilizar la lengua española para el trabajo. Adjunto en el email una imagen de las clases adicionales para que puedas ver cada una en mayor detalle.",
+      "pos": "Hello!\n\nWe welcome many students from outside the EU each year, and we're excited to help you with your journey. Here's how the process works:\n\nFirst, you'll need to book your course and accommodation. After you make your booking, we ask that you pay the total amount a few months before your course start date. You don't have to pay a deposit; you can pay the full amount upfront. Once we receive your payment, we will send you an invitation letter.\n\nMost students have no trouble obtaining their visa. However, if your visa application is rejected, please take a moment to review our enrollment conditions here: [Enrollment Conditions](https://espanoleschool.com/enrolment-conditions/).\n\nYou can view our price list for 2025 at this link: [2025 Prices and Dates](https://espanoleschool.com/pdf/Downloads/2025_Espanole_Dates_and_fees.pdf).\n\nAdditionally, if you book your course by October 31, 2024, you can take advantage of the 2024 prices, even if your course starts in 2025. We highly recommend booking by that date to save on costs.\n\nIf you have any questions or need further information, feel free to reach out. We're here to help you!",
+      "neg": "Además, si tu nivel de español es B1, te recomendamos la clase de Español para Empresas, especialmente diseñada para quienes desean utilizar el idioma en el ámbito laboral. En el correo adjunto te incluyo una imagen con información sobre las clases adicionales, para que puedas revisarlas con más detalle.",
+      "ep_idx": 29
+    },
+    {
+      "request": "Imrpove the following: \nWe offer private classes at our school and also online. Our private classes at the school are on the afternoon, and if you would like to take 40 lessons during 2 weeks it would be 4 classes per day, during 5 days a week. In this cases, as they would be at our school and would be 4 classes per day, we tipically assing 2 teachers to the student. \n\nThen, we also have the onlive private classes, which are also on the afternoon, and in this case it would only be one teacher assigned to you. \n\nAre you interested on our online private classes or do you prefer to come to our school? \n\nHere I´m sharing with you the quotations for both options:",
+      "pos": "Here’s a refined version of your sentence:\n\n\"Are you currently in Valencia and available to attend our sessions at the school?\" \n\nThis wording adds a bit more clarity and formality. Feel free to modify it further if needed!",
+      "neg": "Certainly! Here’s a revised version of your message:\n\n---\n\nWe offer private classes both at our school and online to accommodate your preferences. \n\n**In-person classes** at our school are scheduled in the afternoon. If you choose to take 40 lessons over a 2-week period, this would involve 4 classes each day, 5 days a week. Since these are intensive sessions, we typically assign two teachers to provide you with a diverse learning experience and dedicated support throughout your studies.\n\n**Online private classes** are also available in the afternoon, and in this format, you will be assigned a single teacher. This consistency allows for a more personalized and focused approach to your learning.\n\nAre you more interested in our online private classes, or would you prefer to attend sessions at our school? \n\nBelow, I’ve included quotations for both options for your consideration:\n\n[Insert Quotation Details Here]\n\nThank you, and I look forward to hearing from you!\n\n---\n\nFeel free to adjust any parts that you think need further personalization or detail!",
+      "ep_idx": 55
+    },
+    {
+      "request": "Imrpove the following: \nWe offer private classes at our school and also online. Our private classes at the school are on the afternoon, and if you would like to take 40 lessons during 2 weeks it would be 4 classes per day, during 5 days a week. In this cases, as they would be at our school and would be 4 classes per day, we tipically assing 2 teachers to the student. \n\nThen, we also have the onlive private classes, which are also on the afternoon, and in this case it would only be one teacher assigned to you. \n\nAre you interested on our online private classes or do you prefer to come to our school? \n\nHere I´m sharing with you the quotations for both options:",
+      "pos": "Here’s a refined version of your sentence:\n\n\"Are you currently in Valencia and available to attend our sessions at the school?\" \n\nThis wording adds a bit more clarity and formality. Feel free to modify it further if needed!",
+      "neg": "Here’s an improved version of your sentence:\n\n\"I've also attached our school brochure for you to explore all the courses in detail.\"\n\nFeel free to adjust it as needed!",
+      "ep_idx": 55
+    },
+    {
+      "request": "Imrpove the following: are also available in the morning and afternoon, upon availability and in this format, you will be assigned a single teache",
+      "pos": "Here’s a polished version of your sentence:\n\n\"Here’s a link for you to book your classes if you wish: [https://espanoleschool.com/book/](https://espanoleschool.com/book/)\"\n\nThis improves readability slightly and maintains a professional tone. Let me know if you'd like any additional adjustments!",
+      "neg": "Here’s an improved version of your sentence:\n\n\"They are also available in the morning and afternoon, based on availability, and in this format, you will be assigned a single teacher.\"\n\nThis version enhances clarity and flow. Let me know if you need further adjustments!",
+      "ep_idx": 56
+    },
+    {
+      "request": "Y este? \n\nDuring this weekend, at IH Valencia we will carry out the activity ‘Albufera, bike and boat’; where our students will visit one of the most beautiful protected natural areas of the Valencian Community. \nThe Albufera is a lake with the same surface area as the city of Valencia, which gives refuge to a great variety of migratory birds and endangered species. \nWe will take our students on a boat trip to observe all these aquatic species, reed beds and reed beds.\nFinally, we will go into the Mediterranean forest of the Dehesa del Saler, where we will take a bike ride enjoying the contrast between the coastal Mediterranean landscape and the inland lagoon. \nOnce we have finished the bike ride we will take our students back to their accommodation to rest after an incredible day.",
+      "pos": "This weekend, IH Valencia presents the ‘Albufera, Bike and Boat’ activity, inviting students to explore one of the most beautiful protected natural areas in the Valencian Community. The Albufera is a stunning lake, comparable in size to the city of Valencia, providing a habitat for diverse migratory birds and endangered species. Students will embark on a memorable boat trip, where they can observe various aquatic species, along with the lush reed beds that characterize this unique ecosystem.\n\nAfter the boat ride, we will venture into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, allowing students to appreciate the breathtaking contrast between the coastal Mediterranean landscape and the tranquil inland lagoon. At the end of this incredible day, we will return students to their accommodation, ensuring they have time to rest and reflect on their enriching experiences in nature.",
+      "neg": "The text you provided contains **147 words**.",
+      "ep_idx": 69
+    },
+    {
+      "request": "How many words has the following text: \nDuring September, the IH Valencia activity ‘Albufera, Bike and Boat’ took place, inviting students to explore one of the most beautiful protected natural areas in the Valencian Community. \nThe Albufera is a stunning lake, comparable in size to the city of Valencia, providing a habitat for diverse migratory birds and endangered species. \nStudents embarked on a memorable boat trip, where they could observe various aquatic species, along with the lush reed beds that characterize this unique ecosystem.\nAfter the boat ride, we ventured into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, allowing students to appreciate the breathtaking contrast between the coastal Mediterranean landscape and the tranquil inland lagoon. \nAt the end of this incredible day, we will return students to their accommodation, ensuring they have time to rest and reflect on their enriching experiences in nature, during which they practiced their Spanish all day long.",
+      "pos": "During September, the IH Valencia activity ‘Albufera, Bike and Boat’ invited students to explore one of the most beautiful protected natural areas in the Valencian Community. The Albufera, a stunning lake comparable in size to Valencia, serves as a habitat for diverse migratory birds and endangered species. \n\nStudents enjoyed a memorable boat trip, observing various aquatic species and the lush reed beds that define this unique ecosystem. After the boat ride, we ventured into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, where students could appreciate the breathtaking contrast between the coastal landscape and the tranquil inland lagoon. \n\nAt the end of this incredible day, we returned students to their accommodation, ensuring they had time to rest and reflect on their enriching experiences in nature while practicing their Spanish throughout the day.\n\n(The rewritten text contains **149 words**.)",
+      "neg": "The provided text contains **164 words**.",
+      "ep_idx": 80
+    },
+    {
+      "request": "During September, the IH Valencia activity ‘Albufera, Bike and Boat’ invited students to explore one of the most beautiful protected natural areas in the Valencian Community. The Albufera, a stunning lake comparable in size to Valencia, serves as a habitat for diverse migratory birds and endangered species.\n\nStudents enjoyed a memorable boat trip, observing various aquatic species and the lush reed beds that define this unique ecosystem. After the boat ride, we ventured into the Mediterranean forest of Dehesa del Saler for an exhilarating bike ride, where students could appreciate the breathtaking contrast between the coastal landscape and the tranquil inland lagoon.\n\nAt the end of this incredible day, we returned students to their accommodation, ensuring they had time to rest and reflect on their enriching experiences in nature while practicing their Spanish throughout the day.",
+      "pos": "Here’s an improved version of your text:\n\n---\n\nWe offer courses year-round that can be selected on a weekly basis, from Monday to Friday, with a minimum commitment of just one week. I recommend our Intensive 20 course as a great starting point, also available for a minimum of one week.\n\nHas your child ever studied Spanish before?\n\nTo enhance the learning experience, we also provide accommodation with Spanish host families, allowing for a more immersive environment. \n\nFor your reference, here is a sample budget for one week of the Intensive 20 course (€225.00) along with accommodation in a single room with half board at a host family (€255.00).\n\n---\n\nFeel free to let me know if you need any further adjustments!",
+      "neg": "The provided text contains **164 words**.",
+      "ep_idx": 88
+    },
+    {
+      "request": "use walking on the sentence, the article is for people of 20 years old",
+      "pos": "Certainly! Here’s a more formal version:\n\n\"We conclude this remarkable day with a walk along El Saler beach, taking in a day rich with enriching experiences while practicing our Spanish.\"\n\nIf you need any further adjustments, feel free to ask!",
+      "neg": "Sure! Here’s a revised version that maintains \"walking\":\n\n\"We wrap up this incredible day by walking along El Saler beach, reflecting on a day full of enriching experiences while practicing our Spanish.\" \n\nLet me know if you need any further modifications!",
+      "ep_idx": 93
+    },
+    {
+      "request": "Another example like this",
+      "pos": "Here’s a friendlier version of the sentence:\n\n\"soaking up the wonderful experiences of the day while chatting in Spanish!\" \n\nIf you’d like any more changes or variations, just let me know!",
+      "neg": "Sure! Here’s another example with a formal tone:\n\n\"We rounded off this exceptional day with a walk along El Saler beach, enjoying the opportunity to reflect on the enriching experiences of the day while practicing our Spanish.\"\n\nLet me know if you need more options or any further changes!",
+      "ep_idx": 94
+    },
+    {
+      "request": "Sentences with engagment to make the user click in the video and see until the end",
+      "pos": "Sure! Here are shorter, engaging sentences:\n\n1. \"Don’t miss the incredible twist at the end!\"\n  \n2. \"Stay tuned for a surprise you’ll love!\"\n\n3. \"Watch until the end for the big reveal!\"\n\n4. \"Hang on, the best part is coming up!\"\n\n5. \"You won’t believe what happens next!\"\n\n6. \"Stick around for an unexpected surprise!\"\n\n7. \"Stay with us for a jaw-dropping moment!\" \n\nLet me know if you need more options!",
+      "neg": "Here are several engaging sentences designed to entice viewers to click on a video and watch until the end:\n\n1. \"Join us on an unforgettable journey as we uncover secrets that will surprise you—don’t miss the thrilling ending!\"\n  \n2. \"You won’t believe what happens next! Stay tuned until the end for an unexpected twist that will leave you speechless.\"\n\n3. \"Watch until the end to discover the ultimate tip that could change everything for you!\"\n\n4. \"Trust us, the finale is worth the wait—stay with us to see the stunning results!\"\n\n5. \"Hang on until the very last moment to witness a jaw-dropping reveal you won’t want to miss!\"\n\n6. \"Stay with us, because the best part is yet to come, and you won't want to miss it!\"\n\n7. \"Follow along as we explore this fascinating topic—wait until the end for the big surprise!\"\n\nFeel free to modify any of these to better fit your video's theme or tone!",
+      "ep_idx": 96
+    },
+    {
+      "request": "Improve the following: We´ve several courses. One of the ones that we recommend the most is Intensive 20 (225,00€ per week). You can choose how many weeks you want to study the courses, from 1 week to any date. We always recommend a minimun of 3 weeks to make sure that the progression is good, but you can choose as much weeks as you like. \n\nI´ll share with you a sample budget for Intensive 20 course during 3 weeks: \n\nDepending on your Spanish level,  the starting dates could variate, but our courses are starting on Monday, and the classes are from Monday to Friday. \n\nDid you already study Spanish before?\n\nI´ve attached to this email our brochures with more details about all courses and our prices. \n\nWhen would you like to start studying?",
+      "pos": "If you have any further questions, please don't hesitate to reach out via email. I'm here to assist you!",
+      "neg": "We offer a variety of courses, and one of our top recommendations is the Intensive 20 program, priced at €225.00 per week. You can select your preferred duration, with options ranging from one week to any length you desire. While we suggest a minimum of three weeks to ensure effective progress, you are free to choose the duration that best suits your needs.\n\nFor your reference, I've included a sample budget for the Intensive 20 course over three weeks.\n\nPlease note that the starting dates may vary depending on your Spanish proficiency level, but our courses commence on Mondays, with classes held from Monday to Friday.\n\nHave you studied Spanish before?\n\nI've attached our brochures to this email, which provide more details about all our courses and pricing.\n\nWhen would you like to begin your studies?",
+      "ep_idx": 99
+    },
+    {
+      "request": "Improve the following: We´ve several courses. One of the ones that we recommend the most is Intensive 20 (225,00€ per week). You can choose how many weeks you want to study the courses, from 1 week to any date. We always recommend a minimun of 3 weeks to make sure that the progression is good, but you can choose as much weeks as you like. \n\nI´ll share with you a sample budget for Intensive 20 course during 3 weeks: \n\nDepending on your Spanish level,  the starting dates could variate, but our courses are starting on Monday, and the classes are from Monday to Friday. \n\nDid you already study Spanish before?\n\nI´ve attached to this email our brochures with more details about all courses and our prices. \n\nWhen would you like to start studying?",
+      "pos": "If you have any further questions, please don't hesitate to reach out via email. I'm here to assist you!",
+      "neg": "We offer a variety of courses, and one of our most popular options is the Intensive 20 program, which costs €225.00 per week. You can choose the duration that works best for you, from just one week up to any length you prefer. We often recommend a minimum of three weeks to ensure you make solid progress, but ultimately, it’s up to you!\n\nI’ve also put together a sample budget for the Intensive 20 course over three weeks.\n\nThe start dates may vary based on your Spanish level, but our courses begin on Mondays, with classes running from Monday to Friday.\n\nHave you studied Spanish before?\n\nI’ve attached our brochures to this email, which include more details about all of our courses and pricing.\n\nWhen would you like to begin your studies?",
+      "ep_idx": 99
+    },
+    {
+      "request": "Another example",
+      "pos": "We look forward to seeing you in sunny Valencia and helping you enhance your Spanish skills in a practical and enjoyable manner.",
+      "neg": "We invite you to visit our website for additional details: www.espanoleschool.com. If you have any questions or need assistance, don’t hesitate to reach out—we’re more than happy to support you throughout the process!",
+      "ep_idx": 101
+    },
+    {
+      "request": "Mejora lo siguiente: Nos alegra mucho quieras estudiar tu curso de español con nosotros! \n\nRespecto al curso, he revisado las opciones disponibles de alojamiento a partir del lunes que viene durante dos semanas, y estas son las opciones que tenemos disponibles: \n\nPrimera semana: Habitación individual en Residencia Resiolé. \nSegunda semana: Cambio a Apartamento compartido céntrico, habitación individual.",
+      "pos": "Unfortunately, due to the short notice for accommodation on the specified dates, we are unable to offer the same lodging for both weeks. You will need to stay in one accommodation for the first week and then move to a different one for the second week.",
+      "neg": "¡Estamos muy emocionados de que hayas decidido estudiar tu curso de español con nosotros!\n\nEn cuanto al alojamiento, he revisado las opciones disponibles para las próximas dos semanas a partir del lunes y aquí te presento lo que tenemos:\n\n**Primera semana:** Habitación individual en la Residencia Resiolé.  \n**Segunda semana:** Cambio a un apartamento compartido en el centro, con habitación individual.\n\nSi tienes alguna pregunta o necesitas más información, no dudes en decírmelo. ¡Estamos aquí para ayudarte!",
+      "ep_idx": 110
+    },
+    {
+      "request": "Mejora lo siguiente: Nos alegra mucho quieras estudiar tu curso de español con nosotros! \n\nRespecto al curso, he revisado las opciones disponibles de alojamiento a partir del lunes que viene durante dos semanas, y estas son las opciones que tenemos disponibles: \n\nPrimera semana: Habitación individual en Residencia Resiolé. \nSegunda semana: Cambio a Apartamento compartido céntrico, habitación individual.",
+      "pos": "Unfortunately, due to the short notice for accommodation on the specified dates, we are unable to offer the same lodging for both weeks. You will need to stay in one accommodation for the first week and then move to a different one for the second week.",
+      "neg": "Please feel free to book your course using the link below. You can select your accommodation directly, or if you prefer, you can attach the Enrolment form to this email, and we will manually arrange the available accommodations for those dates on your behalf.",
+      "ep_idx": 110
+    },
+    {
+      "request": "Mejora lo siguiente: Nos alegra mucho quieras estudiar tu curso de español con nosotros! \n\nRespecto al curso, he revisado las opciones disponibles de alojamiento a partir del lunes que viene durante dos semanas, y estas son las opciones que tenemos disponibles: \n\nPrimera semana: Habitación individual en Residencia Resiolé. \nSegunda semana: Cambio a Apartamento compartido céntrico, habitación individual.",
+      "pos": "Unfortunately, due to the short notice for accommodation on the specified dates, we are unable to offer the same lodging for both weeks. You will need to stay in one accommodation for the first week and then move to a different one for the second week.",
+      "neg": "If you have any questions or need assistance with the booking, please don't hesitate to reach out. We're here to help!",
+      "ep_idx": 110
+    },
+    {
+      "request": "Imrpove: Since we will need to book the accommodation manually, please feel free to fill the attached Enrolment form to this email, and we will manually arrange the available accommodation for those dates on your behalf.",
+      "pos": "I've attached our brochures to this email for you to review our courses at your convenience.",
+      "neg": "Since we'll need to manually arrange the accommodation, please fill out the attached Enrolment form and return it to this email. We'll take care of booking the available accommodations for your specified dates.",
+      "ep_idx": 112
+    },
+    {
+      "request": "More natural",
+      "pos": "This will allow me to check the availability of our accommodation for you and provide a sample budget. Thank you!",
+      "neg": "Could you let me know the exact dates you’d like to start your course? That way, I can check the availability of our accommodation for you. Thanks!",
+      "ep_idx": 119
+    },
+    {
+      "request": "More natural",
+      "pos": "This will allow me to check the availability of our accommodation for you and provide a sample budget. Thank you!",
+      "neg": "Subject: Update on Accommodation Options\n\nHola Horst,\n\nThank you for your email! I’m glad to hear that you were pleased with the information we provided.\n\nI wanted to let you know that our accommodation options have changed. For the first week, we now have a central shared apartment available, and for the second week, you'll also be staying in another central shared apartment. \n\nWe would love to have you join us for your course! If you have any questions or need assistance with booking, please don’t hesitate to reach out. We're here to help you every step of the way.\n\nLooking forward to hearing from you!\n\nKind regards,  \nCristina",
+      "ep_idx": 119
+    },
+    {
+      "request": "More natural",
+      "pos": "This will allow me to check the availability of our accommodation for you and provide a sample budget. Thank you!",
+      "neg": "Hola Horst,\n\nI'm glad to hear that you found the information helpful!\n\nI wanted to update you on our accommodation options. For the first week, we now have a central shared apartment available, and for the second week, you'll be staying in another central shared apartment. Both options include a single room and a shared bathroom, priced at €220.00 per week.\n\nTo confirm your booking, we kindly ask that you let us know about this accommodation by tomorrow, as our apartments are quite popular.\n\nIf you have any questions or need assistance with the booking process, please don’t hesitate to reach out. We're here to support you every step of the way.\n\nLooking forward to hearing from you!\n\nBest regards,  \nCristina",
+      "ep_idx": 119
+    },
+    {
+      "request": "Improve: Totalmente comprensible, en ese caso puedes buscar otras escuelas de IH como IH Málaga, IH Sevilla, IH Madrid y muchas más. \n\nEsperamos que encuentres la escuela que más se adapte a tus necesidades. \n\nQue tengas un buen dia.\n\nAtentamente,",
+      "pos": "Certainly! Here’s a refined version of your email:\n\n---\n\nSubject: Payment Reminder for Private Classes\n\nDear [Recipient's Name],\n\nI hope this email finds you well.\n\nOur financial department has not yet received the payment for the private classes you booked with us starting on October 1st. \n\nTo secure your spot, please complete the payment through this link by the end of the day.\n\nThank you for your prompt attention to this matter.\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]\n\n--- \n\nThis version maintains professionalism while ensuring clarity and urgency. Let me know if you need any more adjustments!",
+      "neg": "Claro, aquí tienes una versión mejorada del texto:\n\n---\n\nEs totalmente comprensible. En ese caso, te recomendamos explorar otras escuelas de IH, como IH Málaga, IH Sevilla, IH Madrid y muchas más.\n\nEsperamos que encuentres la escuela que mejor se ajuste a tus necesidades.\n\n¡Que tengas un excelente día!\n\nAtentamente,  \n[Tu Nombre]\n\n--- \n\nHe realizado algunas modificaciones para que el tono sea más fluido y amigable. Si necesitas más ajustes, ¡háznoslo saber!",
+      "ep_idx": 121
+    },
+    {
+      "request": "Imrpove the following: I have checked it, and yes, we would have a place in our courses. As I said, I would recommend the Intensive 20 (225,00€ per week), which would be 20 lessons of general Spanish per week from Monday to Friday. \n\nRegarding the flat, for two weeks starting the course on 29/09 and finishing on 10/10, we only have the following options: \n\nCentral shared apartment / single room /shared bathroom (220,00€ per week) - In this option you will stay 1 week in a flat, and the following week we will change you to another flat with the same conditions as the first one. \nResiolé Mercado / double room / shared bathroom (180,00€ per week) - In this option you will stay for 2 weeks in the same accommodation.",
+      "pos": "Here’s a refined version of your message:\n\n---\n\nNice to meet you!\n\nI’m delighted to hear that our courses have piqued your interest. We typically recommend the Intensive 20 program for a minimum of three weeks. If you need accommodation and want to enhance your experience, we suggest staying with Spanish families. This way, you can practice what you learn in class daily and immerse yourself in the local customs, cuisine, and traditions.\n\nWe can arrange a video call Monday to Thursday between 10 AM and 4 PM, or Friday from 12 PM to 4 PM. \n\nLooking forward to speaking with you!\n\n--- \n\nThis version improves clarity and flow while maintaining a friendly tone. Let me know if you need any further adjustments!",
+      "neg": "Here’s a refined version of your message:\n\n---\n\nI have checked, and we do have availability in our courses. As I mentioned, I highly recommend the Intensive 20 program (€225.00 per week), which includes 20 lessons of general Spanish from Monday to Friday.\n\nRegarding accommodation for the two weeks of your course, from September 29 to October 10, we have the following options available:\n\n1. **Central Shared Apartment**: Single room with shared bathroom (€220.00 per week). In this option, you will stay one week in one apartment, and then we will move you to another apartment with the same conditions for the following week.\n\n2. **Resiolé Mercado**: Double room with shared bathroom (€180.00 per week). This option allows you to stay for the full two weeks in the same accommodation.\n\nPlease let me know if you have any questions or if you would like to proceed with any of these options!\n\n---\n\nFeel free to modify any details as needed, and let me know if you need further assistance!",
+      "ep_idx": 123
+    },
+    {
+      "request": "Imrpove the following: I have checked it, and yes, we would have a place in our courses. As I said, I would recommend the Intensive 20 (225,00€ per week), which would be 20 lessons of general Spanish per week from Monday to Friday. \n\nRegarding the flat, for two weeks starting the course on 29/09 and finishing on 10/10, we only have the following options: \n\nCentral shared apartment / single room /shared bathroom (220,00€ per week) - In this option you will stay 1 week in a flat, and the following week we will change you to another flat with the same conditions as the first one. \nResiolé Mercado / double room / shared bathroom (180,00€ per week) - In this option you will stay for 2 weeks in the same accommodation.",
+      "pos": "Here’s a refined version of your message:\n\n---\n\nNice to meet you!\n\nI’m delighted to hear that our courses have piqued your interest. We typically recommend the Intensive 20 program for a minimum of three weeks. If you need accommodation and want to enhance your experience, we suggest staying with Spanish families. This way, you can practice what you learn in class daily and immerse yourself in the local customs, cuisine, and traditions.\n\nWe can arrange a video call Monday to Thursday between 10 AM and 4 PM, or Friday from 12 PM to 4 PM. \n\nLooking forward to speaking with you!\n\n--- \n\nThis version improves clarity and flow while maintaining a friendly tone. Let me know if you need any further adjustments!",
+      "neg": "Here’s an improved version of your message: \n\n---\n\nTo confirm your enrollment, please complete the attached Enrolment Form. Additionally, kindly let me know which accommodation options would suit you best, so I can add them manually.\n\nThank you!\n\n---\n\nThis revision enhances clarity and professionalism while keeping the message concise. Let me know if you need further adjustments!",
+      "ep_idx": 123
+    },
+    {
+      "request": "What would you answer to this email, taking some details from the last text that i´VE SENT TO YOU: I'm Belle from the Philippines and I'm interested in studying at Españolé IH Valencia to hone my Spanish skills more while also immersing myself in Spanish culture.\n\nCan I please be connected to anyone from the school or someone who has completed the  program? I would like to ask some questions through video call if possible as this is something that I am really interested in doing next year.",
+      "pos": "Here’s a polished version of your message:\n\n---\n\nRegarding our courses, we usually recommend the Intensive 20 program, which allows you to book any length of study from one week onward, with no upper limit. Classes are held Monday through Friday. \n\nStaying with a Spanish family is an excellent option, as it provides the opportunity to practice your language skills daily while immersing yourself in local customs and traditions.\n\n--- \n\nThis revision enhances clarity and flow. Let me know if you need further adjustments!",
+      "neg": "Certainly! Here’s a possible response to Belle's email:\n\n---\n\nSubject: Re: Inquiry About Studying at Españolé IH Valencia\n\nHi Belle,\n\nThank you for reaching out! It’s great to hear that you’re interested in studying at Españolé IH Valencia to enhance your Spanish skills and immerse yourself in the culture.\n\nI’d be happy to connect you with someone from the school who can assist with your questions. Additionally, we can arrange a video call for you to speak with a former student who has completed the program. This way, you can gain insights and firsthand experiences about studying with us.\n\nRegarding our courses, we typically recommend the Intensive 20 program for a minimum of three weeks. Staying with a Spanish family is a fantastic option, as it allows you to practice your language skills daily while immersing yourself in local customs and traditions.\n\nPlease let me know your availability for the video call, and I will do my best to set it up as soon as possible.\n\nLooking forward to assisting you further!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \nEspañolé IH Valencia  \n[Your Contact Information]\n\n--- \n\nFeel free to personalize it further if needed!",
+      "ep_idx": 124
+    },
+    {
+      "request": "Imrpove: I´ve also attached to this email our brochures for you to see more details about our courses and prices.",
+      "pos": "Here’s a refined version of your message:\n\n---\n\nThat’s correct. The information I sent you pertains to the registration for private lessons (one-on-one) from November 18 to November 22, 2024, scheduled between 10:00 AM and 3:00 PM. We have also communicated your preferences to the academic department regarding 4 days with 2 lessons each and 1 day with 3 lessons.\n\n--- \n\nThis revision improves clarity and structure. Let me know if you need any further adjustments!",
+      "neg": "Here’s an improved version of your sentence:\n\n---\n\nI have also attached our brochures to this email, which provide more details about our courses and pricing.\n\n--- \n\nThis revision maintains clarity while making the sentence more concise. Let me know if you need any further changes!",
+      "ep_idx": 125
+    },
+    {
+      "request": "Imrpove: I´ve also attached to this email our brochures for you to see more details about our courses and prices.",
+      "pos": "Here’s a refined version of your message:\n\n---\n\nThat’s correct. The information I sent you pertains to the registration for private lessons (one-on-one) from November 18 to November 22, 2024, scheduled between 10:00 AM and 3:00 PM. We have also communicated your preferences to the academic department regarding 4 days with 2 lessons each and 1 day with 3 lessons.\n\n--- \n\nThis revision improves clarity and structure. Let me know if you need any further adjustments!",
+      "neg": "Here's an improved version of your sentence:\n\n---\n\nIf you book the course before October 31st, even if it starts in 2025, we will honor the 2024 prices. This is a great opportunity!\n\n--- \n\nThis revision enhances clarity and flow. Let me know if you need any further adjustments!",
+      "ep_idx": 125
+    },
+    {
+      "request": "Answer to this email, shortly, looking thank full, and take into consideration that I´m gonna share an article with her: \n\n hope that this email finds you well, and that you are all looking forward to the term ahead.\n \nThe second edition of IH World News was a resounding success, thanks to your incredible contributions. We were so inspired by the amazing initiatives, programs, and community work shared by our colleagues.\n \nWe’d love to make the next edition just as impactful. Have you undertaken any new initiatives, within your school or in the wider community? Do you have any stories to share from over the Summer? Or perhaps you have an upcoming event you would like to spotlight? We would love to share it with the network.",
+      "pos": "Here’s an improved version of your sentence:\n\n---\n\nI have attached a couple of pictures from the activity to this email, in case you’d like to include them in the article.\n\n--- \n\nThis revision enhances clarity and conciseness. Let me know if you need any further adjustments!",
+      "neg": "Subject: Re: IH World News Contribution\n\nHi [Sender's Name],\n\nThank you for your email! I’m thrilled to hear that the second edition of IH World News was such a success. I'm excited to contribute to the next edition.\n\nI’ll be sharing an article soon that highlights our recent initiatives. I look forward to keeping the collaboration going!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your School]",
+      "ep_idx": 126
+    },
+    {
+      "request": "Say alternatives to ´however´, that sound more caring",
+      "pos": "Thank you for clarifying this; everything is in order now.\n\nI will update the booking details to reflect a November start. Would you prefer to begin your class on Friday, November 1st, or Monday, November 4th?\n\nOnce you confirm your preferred date, I will send you the revised invoice along with new payment details for your convenience.\n\nI look forward to your response.\n\nBest regards,  \nCristina",
+      "neg": "Here are some alternatives to \"however\" that convey a more caring tone:\n\n1. \"I understand, but...\"\n2. \"That being said...\"\n3. \"I appreciate your perspective, and...\"\n4. \"While I completely understand...\"\n5. \"On the other hand...\"\n6. \"With that in mind...\"\n7. \"I hear you, and...\"\n8. \"At the same time...\"\n\nFeel free to choose any of these based on the context of your conversation!",
+      "ep_idx": 127
+    },
+    {
+      "request": "Say alternatives to ´however´, that sound more caring",
+      "pos": "Thank you for clarifying this; everything is in order now.\n\nI will update the booking details to reflect a November start. Would you prefer to begin your class on Friday, November 1st, or Monday, November 4th?\n\nOnce you confirm your preferred date, I will send you the revised invoice along with new payment details for your convenience.\n\nI look forward to your response.\n\nBest regards,  \nCristina",
+      "neg": "It seems that your message may have been cut off or not fully entered. Could you please provide the text you'd like to improve? Thank you!",
+      "ep_idx": 127
+    },
+    {
+      "request": "Say alternatives to ´however´, that sound more caring",
+      "pos": "Thank you for clarifying this; everything is in order now.\n\nI will update the booking details to reflect a November start. Would you prefer to begin your class on Friday, November 1st, or Monday, November 4th?\n\nOnce you confirm your preferred date, I will send you the revised invoice along with new payment details for your convenience.\n\nI look forward to your response.\n\nBest regards,  \nCristina",
+      "neg": "We can make an exception by allowing you to pay a deposit of €100 today, with the remaining balance of €60 due on October 1st, the first day of your private class.\n\nAlternatively, we could reschedule the start date for your private classes to the week of October 7th, which would give you the opportunity to pay the total amount of €160 the week prior. \n\nPlease let us know which option you prefer!",
+      "ep_idx": 127
+    },
+    {
+      "request": "We have received your quotation request, and I am happy to confirm that we do have availability for the Intensive 25 - Grammar skills course for the dates you have chosen. \n\nRegarding accommodation, we have the following options available for the dates 27/10/2024 to 02/11/2024:",
+      "pos": "Please let me know which option you would prefer.",
+      "neg": "We have received your quotation request, and I am pleased to confirm that we have availability for the Intensive 25 - Grammar Skills course on the dates you selected.\n\nAs for accommodation, we have the following options available from October 27 to November 2, 2024:",
+      "ep_idx": 130
+    },
+    {
+      "request": "Imrpove the following: I´m glad that the brochures were helpful for you. Sure, please take your time to check what you would like to know and I´ll be more than happy to give you all the information you need. \n\nI understand that you are located in Philippines, right? \n\nThe available hours for the meeting would be the following:",
+      "pos": "Here are the available hours for our meeting, along with their corresponding time zone conversions:",
+      "neg": "I'm delighted to hear that the brochures were helpful! Please take your time to review them, and I would be more than happy to provide you with any information you need.\n\nJust to confirm, you are located in the Philippines, correct?\n\nHere are the available hours for our meeting:",
+      "ep_idx": 135
+    },
+    {
+      "request": "Imrpove: \nWe offer several Spanish courses, and for long-term students, we recommend the Intensive 20 (185,00€ per week), which includes 20 lessons per week and is ideal for steady progress over time. All our courses start on Mondays, and our timetable is Monday to Friday. \n\nIn which dates would you like to start the course? \n\nWe are located in Valencia, in the sunny Comunidad Valenciana. You can check more details and pictures of our school in this link: https://espanoleschool.com/\n\nWould you also need accommodation during the course? If yes we could also help you with that.",
+      "pos": "We also offer accommodation for our students, should you need it. If you’re interested, please let me know, and I would be happy to provide you with more details.",
+      "neg": "Subject: Spanish Course Options\n\nDear [Recipient's Name],\n\nWe offer a variety of Spanish courses, and for long-term students, we highly recommend the Intensive 20 course, which consists of 20 lessons per week at a cost of €185.00 per week. This course is designed to facilitate steady progress over time. All our courses start on Mondays, and classes are held Monday through Friday.\n\nCould you please let us know your preferred start dates for the course?\n\nOur school is located in Valencia, in the beautiful Comunidad Valenciana. You can find more details and pictures of our school at the following link: [https://espanoleschool.com/](https://espanoleschool.com/).\n\nAdditionally, would you require accommodation during your stay? If so, we would be more than happy to assist you with that.\n\nLooking forward to hearing from you!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]",
+      "ep_idx": 148
+    },
+    {
+      "request": "Imrpove: \nWe offer several Spanish courses, and for long-term students, we recommend the Intensive 20 (185,00€ per week), which includes 20 lessons per week and is ideal for steady progress over time. All our courses start on Mondays, and our timetable is Monday to Friday. \n\nIn which dates would you like to start the course? \n\nWe are located in Valencia, in the sunny Comunidad Valenciana. You can check more details and pictures of our school in this link: https://espanoleschool.com/\n\nWould you also need accommodation during the course? If yes we could also help you with that.",
+      "pos": "We also offer accommodation for our students, should you need it. If you’re interested, please let me know, and I would be happy to provide you with more details.",
+      "neg": "I have attached our brochures detailing our courses and pricing for your reference.",
+      "ep_idx": 148
+    },
+    {
+      "request": "Imrpove: \nWe offer several Spanish courses, and for long-term students, we recommend the Intensive 20 (185,00€ per week), which includes 20 lessons per week and is ideal for steady progress over time. All our courses start on Mondays, and our timetable is Monday to Friday. \n\nIn which dates would you like to start the course? \n\nWe are located in Valencia, in the sunny Comunidad Valenciana. You can check more details and pictures of our school in this link: https://espanoleschool.com/\n\nWould you also need accommodation during the course? If yes we could also help you with that.",
+      "pos": "We also offer accommodation for our students, should you need it. If you’re interested, please let me know, and I would be happy to provide you with more details.",
+      "neg": "We offer a variety of Spanish courses, and for long-term students, we highly recommend the Intensive 20 course. This course includes 20 lessons per week (€185.00) and can be taken for as many weeks as you desire. It is designed to promote steady progress in your language skills. All courses begin on Mondays, with classes scheduled from Monday to Friday.",
+      "ep_idx": 148
+    },
+    {
+      "request": "Improve the following: We have updated your booking and the invoice with the new dates, and I´ve sent you all the details.\n\nHere is the new link to make the payment today for the total amount of 580,00€: https://sis.redsys.es/sis/p2f?t=B86855BB2AA71F1B18C312A7536ED183EAA67DC6\n\nIf you have any doubt, please feel free to contact me. I´ll be happy to help you!",
+      "pos": "Subject: Apartment Availability and Transportation Update\n\nHi [Recipient's Name],\n\nI hope you’re doing well!\n\nI wanted to confirm that the only availability we have at the moment is the Central Shared Apartment, which features a single room. You'll have your own bedroom, but please note that you'll be sharing the apartment with other students.\n\nRegarding transportation, if you'd prefer to arrange your own, I can remove that from the invoice and send you the updated details shortly.\n\nPlease let me know if there’s anything else I can assist you with!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n[Your Company Name]",
+      "neg": "Subject: Updated Booking and Invoice Details\n\nDear [Recipient's Name],\n\nI hope this message finds you well. \n\nWe have successfully updated your booking and the invoice to reflect the new dates. I've included all the relevant details below.\n\nTo proceed with the payment of €580.00, please follow this link: [Payment Link](https://sis.redsys.es/sis/p2f?t=B86855BB2AA71F1B18C312A7536ED183EAA67DC6).\n\nIf you have any questions or need further assistance, please don’t hesitate to reach out. I’m here to help!\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n[Your Company Name]",
+      "ep_idx": 149
+    },
+    {
+      "request": "Imrpove: We´ve received your online booking for Intensive 25 + Pronunciation skills during 1 week (30/09 - 04/10) and the accommodation. \n\nFor the selected dates, I´m afraid that we don´t have availability in Residence Resiolé Mercado. The only opcion we have at the moment is Central shared apartmend, single room and shared bathroom.\n\nThe price for Central shared apartment during 1 week it would be 220,00€ per week, which would be a total of 545,00€.",
+      "pos": "Please let me know today if this accommodation option works for you, and I will be happy to proceed with the reservation. Thank you!",
+      "neg": "Subject: Booking Confirmation and Accommodation Update\n\nDear [Recipient's Name],\n\nThank you for your online booking for the Intensive 25 + Pronunciation Skills course from September 30th to October 4th, along with your accommodation request. \n\nUnfortunately, I regret to inform you that we do not have availability at the Residence Resiolé Mercado for your selected dates. However, we do have a Central Shared Apartment available, which includes a single room with a shared bathroom.\n\nThe cost for the Central Shared Apartment for the week is €220.00, bringing your total to €545.00 for the course and accommodation.\n\nPlease let me know if you would like to proceed with this option or if you have any questions.\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n[Your Company Name]",
+      "ep_idx": 151
+    },
+    {
+      "request": "How is the name for paddle surf?",
+      "pos": "Please confirm by the end of today if you agree to this accommodation, and I will promptly proceed with your enrollment.",
+      "neg": "Paddle surfing is commonly known as \"stand-up paddleboarding\" or \"SUP\" for short. It involves standing on a large surfboard and using a paddle to move through the water.",
+      "ep_idx": 158
+    },
+    {
+      "request": "How is the name for paddle surf?",
+      "pos": "Please confirm by the end of today if you agree to this accommodation, and I will promptly proceed with your enrollment.",
+      "neg": "It's urgent to inform you that there is no availability at Residence Resiolé Mercado for the week of 30/09/2024 - 04/10/2024. The only option remaining is a single room in a Central shared apartment, priced at €220 per week. Please confirm by today if this arrangement is acceptable, so I can proceed with your enrollment immediately.",
+      "ep_idx": 158
+    },
+    {
+      "request": "Not the end of the day, today: Please confirm by the end of today if you agree to this accommodation, and I will promptly proceed with your enrollment.",
+      "pos": "Regrettably, I must inform you that there is no availability at Residence Resiolé Mercado for the week of 30/09/2024 - 04/10/2024.",
+      "neg": "Please confirm today whether you agree to this accommodation, and I will promptly proceed with your enrollment.",
+      "ep_idx": 159
+    }
+  ],
+  "heldout": [
+    {
+      "request": "Improve it mantining the direct tone but natural: We currently only have the following accommodation:",
+      "pos": "Please let me know today if you’d like this accommodation, and I'll move forward with the reservation.",
+      "neg": "At the moment, the only accommodation we have available is:",
+      "ep_idx": 7
+    },
+    {
+      "request": "Also direct and natural: About your online booking for 11 weeks from the 07-20 of October.",
+      "pos": "Our students have a wide range of ages. Here’s a chart that shows the approximate data:",
+      "neg": "Regarding your online booking for 11 weeks, starting from October 7th to 20th.",
+      "ep_idx": 8
+    },
+    {
+      "request": "another",
+      "pos": "I've attached our brochures for 2024 and 2025. They include more details about our courses and prices for your reference.",
+      "neg": "Keep in mind that this link will only work for 3 days.",
+      "ep_idx": 11
+    },
+    {
+      "request": "cuantas semanas hay desde el 26 de octubre hasta el 21 ee diciembre de 2025",
+      "pos": "If you'd like any of the options mentioned above, please let me know today and send me the enrollment form attached to this email.",
+      "neg": "Para calcular el número de semanas completas desde el 26 de octubre de 2025 hasta el 21 de diciembre de 2025, debemos considerar el número total de días en este rango y luego dividir entre 7, que es la cantidad de días que tiene una semana.\n\nDesde el 26 de octubre hasta el 21 de diciembre de 2025, hay 56 días en total. Para encontrar el número de semanas completas, dividimos 56 entre 7, lo que resulta en 8.\n\nPor lo tanto, hay 8 semanas completas entre el 26 de octubre y el 21 de diciembre de 2025.",
+      "ep_idx": 14
+    },
+    {
+      "request": "Correct: As the course is starting in 3 days you will need to do the full payment at once. Here are 2 budgets samples with the two options above, and the Intensive 20 course:",
+      "pos": "I'll prepare the new invoice and documents, and send you a new link for the €200.00 deposit.",
+      "neg": "Since the course starts in three days, you'll need to make the full payment all at once. Here are two budget samples with the two options above, along with the Intensive 20 course:",
+      "ep_idx": 16
+    },
+    {
+      "request": "Correct: I'm enclosing the new invoice with discount applied",
+      "pos": "So that the new price for the course would be €2,870.00 instead of €3,110.00.",
+      "neg": "I'm enclosing the new invoice with the discount applied.",
+      "ep_idx": 17
+    },
+    {
+      "request": "Improve mantaining the direct way and human: Fort he new budget, if you want to take also the transfer from the airport to the host family location, the service will be 80,00€. Since you are arriving this Sunday 6th, you will need to do the full payment today or we can not assure you your spot in the course and accommodation. If you confirm with me I´ll send you all the documents with a invoice, classes information and how to pay.",
+      "pos": "Pour maintenir un ton direct et humain, voici une version améliorée du message :\n\n\"Nous avons discuté, et pour l'instant, nous n'inclurons dans la facture que le cours et l'appartement central partagé en chambre double, du 26 octobre au 21 décembre.\n\nPour la semaine du 6 au 13 octobre, nous n'avons pas de disponibilité en hébergement ni en familles d'accueil, il vous faudra donc chercher un hôtel ou une location par vos propres moyens. À partir de la deuxième semaine, nous pourrons peut-être vous proposer une famille d'accueil. Pour l'instant, ce que nous pouvons vous offrir et ce qui sera inclus dans la facture, c'est l'appartement central partagé en chambre double du 26 octobre au 21 décembre.\"",
+      "neg": "To maintain a direct and human tone, here's a revised version of your message:\n\n\"For the new budget, if you'd like to include the airport transfer to your host family, the service will cost €80. Since you are arriving this Sunday, the 6th, you need to make the full payment today to secure your spot in the course and accommodation. If you confirm with me, I’ll send you all the documents, including the invoice, class information, and payment instructions.\"",
+      "ep_idx": 18
+    },
+    {
+      "request": "Do the same with this: Here is the new link for you to pay:",
+      "pos": "Sorry for the misunderstanding. You only need to take 1 Plus elective over 2 weeks, which comes to 5 lessons per week, totaling 10 lessons.",
+      "neg": "Here's the new payment link for you.",
+      "ep_idx": 29
+    },
+    {
+      "request": "He already book the course",
+      "pos": "I wanted to confirm that we've sent you the course documents and invoice. I've also attached the document you need for the Bilundsurlaub to this email.",
+      "neg": "He has already booked the course.",
+      "ep_idx": 32
+    },
+    {
+      "request": "Mejora manteniendo un tono directo y natural: Tenemos variedad de cursos de español por semanas, que se imparten en la escuela, y también clases privadas en la escuela u online.",
+      "pos": "To book the course, you can use this link directly or contact me, and I’ll assist you with the booking.",
+      "neg": "Ofrecemos una variedad de cursos de español por semanas, disponibles en la escuela, además de clases privadas que puedes tomar en la escuela o en línea.",
+      "ep_idx": 36
+    },
+    {
+      "request": "Another",
+      "pos": "If you plan to work in Valencia, reaching a B1 level would be advisable. Here's a graph showing the time required for each level:",
+      "neg": "You can book the course directly through this link, or reach out to me, and I’ll help you with the booking process.",
+      "ep_idx": 37
+    },
+    {
+      "request": "Modify it a little: To secure your spot in our upcoming Intensive 20 course, just click here [link]. If\nyou need any further information, feel free to reach out! Would you like help\nwith accommodation options as well?",
+      "pos": "Start with 4 weeks of the Intensive 20 course at €225 per week, which includes 20 general Spanish lessons from Monday to Friday. You can extend your course after the initial 4 weeks 😊.",
+      "neg": "To reserve your spot in our upcoming Intensive 20 course, click here [link]. If you need more information, feel free to contact us! Would you also like assistance with accommodation options?",
+      "ep_idx": 40
+    },
+    {
+      "request": "Another",
+      "pos": "Since you've studied with us before, we've given you a discount on the enrollment fee! Please remember to bring your old book to the school.",
+      "neg": "Begin with the 4-week Intensive 20 course at €225 per week, offering 20 general Spanish lessons from Monday to Friday. You can extend your course beyond the initial 4 weeks 😊.",
+      "ep_idx": 41
+    },
+    {
+      "request": "Another one more in a non native english",
+      "pos": "You can easily book your spot in our program on our website.",
+      "neg": "I have sent you a PDF with more details about our program for children, and also a brochure with more information about the intensive 20 course and our prices.",
+      "ep_idx": 43
+    },
+    {
+      "request": "Another",
+      "pos": "Our Volunteer program includes at least 2 weeks of Spanish courses (Intensive 20 – 20 Spanish general lessons per week) combined with volunteering from Monday to Friday. \n\nCurrently, the only available project is working with children. The placement fee for the Volunteer program is 725€, and the Intensive 20 course costs 225€ per week, plus a registration fee of 55€. \n\nPlease note, our school is closed from December 21st to January 6th. If you want to book a spot in the program, please choose dates either before or after this period.",
+      "neg": "Please go ahead and book your spot in our program through our website.",
+      "ep_idx": 44
+    },
+    {
+      "request": "Que significa que han hecho 8 optimizaciones en landings",
+      "pos": "No problem, we're thrilled to have you back!\n\nMy colleagues will email you once we receive the payment.\n\nIf you have any questions in the meantime, just let me know—I'm here to help!",
+      "neg": "Cuando se menciona que se han hecho 8 optimizaciones en landings, significa que se han realizado mejoras o ajustes en ocho páginas de aterrizaje. Estas optimizaciones pueden incluir cambios en el diseño, contenido, velocidad de carga o elementos de conversión, con el objetivo de mejorar la experiencia del usuario y aumentar la efectividad de la página para cumplir con ciertos objetivos, como incrementar las conversiones o reducir la tasa de rebote.",
+      "ep_idx": 48
+    },
+    {
+      "request": "Another less correct",
+      "pos": "I've sent you the details about your course and the schedule.",
+      "neg": "Any questions? Just let me know, and I'm happy to help!",
+      "ep_idx": 54
+    },
+    {
+      "request": "Improve in a natural and direct tone: Thank you for confirming with me. I saw that I´ve sent you all the documentation 😊\n\nWelcome to Españolé and see you soon!",
+      "pos": "Thank you for confirming your online booking! I've just sent you all the necessary documentation. 😊\n\nWelcome to Españolé—I look forward to seeing you soon!",
+      "neg": "Thank you for confirming! I've checked and it looks like I've sent you all the documentation. 😊\n\nWelcome to Españolé—I look forward to seeing you soon!",
+      "ep_idx": 56
+    },
+    {
+      "request": "En un español de españa",
+      "pos": "I'm pleased to confirm that we have availability for your course and accommodation starting November 11th.\n\nI'll send you the details and a new invoice shortly.\n\nFeel free to reach out if you need anything else!",
+      "neg": "¡Gracias por volver a contactar con nosotros! Soy Cristina y estaré encantada de ayudarte con la reserva 😊\n\n¿Qué curso te gustaría que Tymon realizase esta vez? La última vez estuvo en el Intensivo 25, que incluye 20 lecciones de español general y una clase optativa a la semana.\n\nSi te interesa, puedo enviarte el presupuesto para este curso. Si prefieres otro curso, dime cuál y estaré encantada de enviarte el presupuesto correspondiente.\n\nNo hay festivos del 11 al 15 de noviembre.",
+      "ep_idx": 58
+    },
+    {
+      "request": "Cuantas semanas son 3 meses?",
+      "pos": "I'm thrilled you're thinking about studying with us, and it's great to hear your sister had a positive experience! If you're looking to improve your Spanish, I'd recommend our Intensive 20 course, which is 225.00€ per week.\n\nWhat dates are you considering for your studies? That way, I can check on our available accommodation for you.",
+      "neg": "La cantidad de semanas en 3 meses puede variar dependiendo de los meses específicos, ya que algunos meses tienen 30 días, otros 31, y febrero, en años no bisiestos, tiene 28 días.\n\n1. Si consideramos un mes promedio de aproximadamente 30.44 días, entonces 3 meses serían aproximadamente 13 semanas.\n2. En términos más específicos:\n   - Si los 3 meses incluyen febrero en un año no bisiesto, podrías tener entre 12 y 13 semanas.\n   - Si abarca meses con 31 días, como julio o agosto, podrías aproximarte a 13 semanas.\n\nPor lo tanto, generalmente se asume que 3 meses son alrededor de 13 semanas.",
+      "ep_idx": 66
+    },
+    {
+      "request": "Do the same with this one: \nIf you want to book it directly, here is our link",
+      "pos": "You can find the email with all the details under the subject: \"Updated confirmation for William Parker - [#6XQ6NFAT].\" I'll copy the email here so you have all the information handy:",
+      "neg": "If you'd like to book directly, here's the link.",
+      "ep_idx": 68
+    },
+    {
+      "request": "Do the same to this: *Please check also the attached documents loa_student and student_invoice.",
+      "pos": "Once the deposit is paid, we'll prepare the CNS document and send it to you.",
+      "neg": "Please also take a look at the attached documents: loa_student and student_invoice.",
+      "ep_idx": 69
+    },
+    {
+      "request": "Sounds alright? \n\nAnd consist on 20 lessons of general Spanish per week, from Monday to Friday.",
+      "pos": "Let me know once you've booked your course, and I'll guide you through the process.",
+      "neg": "Almost there! You could make it a bit clearer:\n\n\"It consists of 20 general Spanish lessons per week, from Monday to Friday.\"",
+      "ep_idx": 70
+    },
+    {
+      "request": "Answer to this email: \n\nHello, I would like to know if a refund is possible for the language courses. I've been at the school for just over a month and I still haven't found my place. \nI'd like to know if a refund is possible because I'm normally at the school until February 28, but I'd like to know if I'm stopping classes on December 31 or the first week of January. Only the courses at the school, not the host family. \nGood day to you \nAnna",
+      "pos": "Thanks for getting in touch. I'm sorry to hear you're having trouble settling in. Unfortunately, we can't offer refunds for courses that have already started. However, we’d like to help improve your experience. Let's schedule a time to meet and discuss options like adjusting your class level or switching classes.\n\nLet us know when you can stop by our reception, and we'll work to find a solution.\n\nBest regards,",
+      "neg": "Hello Anna,\n\nThank you for reaching out. I’m sorry to hear that you haven’t found your place yet. Regarding refunds for language courses, our policy does not allow for refunds after the course has begun. However, we want to help ensure you have a positive experience here, so I recommend scheduling a meeting with us to discuss your options, such as adjusting your class level or switching to a different class.\n\nPlease let us know a convenient time for you to visit our reception, and we’ll do our best to find a solution that works for you.\n\nBest regards,\n\n[Your Name]",
+      "ep_idx": 73
+    },
+    {
+      "request": "Improve in a direct and natural tone: The volunteering program that we have at the moment is working with kids.",
+      "pos": "Unfortunately, it's not possible to take only the health classes; you must enroll in the intensive course. Please note that we do not offer refunds.\n\nTo help you feel more comfortable in your class, please visit reception. We'll be happy to accompany you to the academic department.\n\nThank you.",
+      "neg": "Our current volunteering program focuses on working with kids.",
+      "ep_idx": 75
+    },
+    {
+      "request": "Que significa fb en este contexto: Residence Mercado (SHARED ROOM/FB) - 2 weeks 20/07/2025 - 02/08/2025ç",
+      "pos": "You can transfer the remaining amount to the same bank account. Please include your invoice number and full name.\n\nFor your accommodation details, I'll ask my colleague Marta from the Accommodation and Students Department to send them to you today.\n\nIf you have any other questions, feel free to ask. I’m happy to help!",
+      "neg": "En este contexto, \"FB\" significa \"Full Board,\" que en español se traduce como \"pensión completa.\" Esto implica que, durante la estancia en la residencia, se incluirán todas las comidas: desayuno, almuerzo y cena.",
+      "ep_idx": 77
+    },
+    {
+      "request": "Improve it in a direct and natural tone: The remaining amount should be paid before the 21/10/2024. If you want to pay it during this week, I´ll share with you the payment link:",
+      "pos": "You need to pay the remaining amount by October 21, 2024. If you'd like to make the payment this week, just let me know, and I'll provide you with the payment link.",
+      "neg": "Please ensure the remaining amount is paid by October 21, 2024. If you'd like to pay this week, let me know, and I'll send you the payment link.",
+      "ep_idx": 78
+    },
+    {
+      "request": "Do the same to this: If you prefer to pay later, we will send you the payment link few days before the 21st. \n\nLet me know your thoughts, thank you. \n\nCristina",
+      "pos": "Here's the payment link for the remaining $945.00.",
+      "neg": "If you'd rather pay later, we'll send you the payment link a few days before the 21st. \n\nFeel free to share any thoughts. Thank you.\n\nCristina",
+      "ep_idx": 79
+    },
+    {
+      "request": "Improve for Instagram: Every Monday, we welcome new to Españolé! 🌞 🌆❤️ç",
+      "pos": "Every Monday, we celebrate the arrival of new students and the return of familiar faces at Españolé! 🌞🌆❤️ Here's to new friendships and cherished memories with both new and old members of our community. #EspañoléFamily #WelcomeMonday #TogetherWeGrow",
+      "neg": "Welcome to Españolé! 🎉 Every Monday, we warmly embrace new faces from around the world. 🌞🌆❤️ #NewBeginnings #EspañoléFamily #MondayWelcome",
+      "ep_idx": 80
+    },
+    {
+      "request": "In english",
+      "pos": "Feel free to book your son's course using this link.",
+      "neg": "Every Monday, we welcome new students to Españolé and greet those continuing with us. 🌞🌆❤️ Here’s to making great memories together, whether you're just starting or carrying on with your course. #EspañoléCommunity #MondaysAtEspañolé",
+      "ep_idx": 85
+    },
+    {
+      "request": "Do the same with this: Let me know if you have any other doubt, I´ll be happy to help you!",
+      "pos": "What a wonderful gift for your father's birthday! We have the perfect option for you: our Intensive 20 course, which includes 20 general Spanish lessons from Monday to Friday, either in the morning or afternoon. Plus, you can enjoy our after-class activities. Some activities are free, while others require a fee, and we offer them from Monday to Saturday. Please take a look at this month's calendar:",
+      "neg": "If you have any other questions, feel free to let me know—I'm happy to help!",
+      "ep_idx": 86
+    },
+    {
+      "request": "Improve in a direct and naturanl tone: We have private classes and also Intensive courses, it would depend if the schedule is working for you. \n\nFor the private classes at the school (One to One), I would recommend a minimum of 3 classes per day, 4 days a week.\n\nAccording to what you have told me, rather than private classes only, I would recommend the Super Intensive course, which contains 20 general Spanish classes (in group) + 1 Spanish Plus Elective (5 classes per week) + 5 private classes per week. \n\nFor the Spanish Plus Elective with a level lower than B1 we have: Spanish life and culture, Grammar skills and Pronunciation and speaking.\n\nMy recommendation would be to choose Proninciation and speaking. \n\nHere I share with you the budget for the Super Intensive course, and the One to One private classes:",
+      "pos": "Our Super Intensive program blends general Spanish classes with pronunciation and speaking sessions, plus private lessons. This comprehensive approach will enhance your Spanish skills more effectively than taking only private lessons for a month.\n\nAre there specific times when you're unavailable for classes?\n\nI've attached our brochures, which detail all our courses and pricing.\n\nIf you need accommodation, we can assist with that as well.\n\nI look forward to hearing from you!",
+      "neg": "We offer private lessons and Intensive courses, and we can tailor these to fit your schedule. \n\nFor private lessons at our school (One-to-One), I recommend at least 3 classes per day, 4 days a week.\n\nBased on what you've shared, I suggest the Super Intensive course instead of just private lessons. This option includes 20 general Spanish classes (in a group setting), 1 Spanish Plus Elective (5 classes per week), and 5 private classes per week.\n\nIf your level is below B1, the available Spanish Plus Electives are: Spanish Life and Culture, Grammar Skills, and Pronunciation and Speaking.\n\nI recommend opting for the Pronunciation and Speaking elective.\n\nPlease find attached the pricing details for both the Super Intensive course and One-to-One private lessons.",
+      "ep_idx": 88
+    },
+    {
+      "request": "In a less native english",
+      "pos": "We offer private lessons and Intensive courses that can be customized to fit your schedule. For private lessons, I recommend at least 3 classes per day, 4 days a week. These lessons are available from 1 PM to 9 PM, depending on availability.",
+      "neg": "Our Super Intensive program combines general Spanish classes, pronunciation and speaking sessions, and private lessons. This mix will help you improve your Spanish more than just taking private lessons for one month.\n\nAre there specific times you cannot take classes?\n\nI have attached some brochures to show you all our courses and prices in detail.\n\nDo you need accommodation? We can help with that if you do.\n\nI look forward to hearing from you.",
+      "ep_idx": 89
+    },
+    {
+      "request": "Improve in a direct and natural tone, and none native english: Sign up from the Españole app, or sign up at the Activities Department.",
+      "pos": "Hello Desirée,\n\nThank you for your interest in the Intensive Spanish program at Españolé IH Valencia. We will send you more detailed information about the program soon. If you have any other questions or need further assistance, feel free to reach out.\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \nEspañolé IH Valencia",
+      "neg": "Sign up through the Españole app or at the Activities Department.",
+      "ep_idx": 90
+    },
+    {
+      "request": "Another",
+      "pos": "Our Intensive 20 course for long-term programs is one of our most popular options. It runs from Monday to Friday, offering morning or afternoon schedules with 4 classes each day.\n\nIf you choose a program longer than 12 weeks, you qualify for a discounted rate of €185.00 per week, instead of the usual €225.00.\n\nI’ve prepared the pricing options for both 20 weeks and 29 weeks for you:",
+      "neg": "Hello Desirée,\n\nThanks for reaching out about the Intensive Spanish program at Españolé IH Valencia. We'll send you more information soon. If you have any additional questions, feel free to contact us.\n\nBest,  \n[Your Name]  \n[Your Position]  \nEspañolé IH Valencia",
+      "ep_idx": 91
+    },
+    {
+      "request": "another",
+      "pos": "If you enroll in a program lasting more than 12 weeks, you can enjoy a discounted rate of €185.00 per week, down from the regular €225.00.",
+      "neg": "Do you need a place to stay? If you do, we can help arrange that for you.",
+      "ep_idx": 95
+    },
+    {
+      "request": "Another",
+      "pos": "This information will allow me to recommend the best course for you.",
+      "neg": "That’s a fantastic ambition! Becoming fluent in Spanish will really enhance your opportunities as a European journalist. Consider taking intensive courses, engaging in conversation with native speakers, and consuming Spanish media like books, films, and news to boost your skills.",
+      "ep_idx": 100
+    },
+    {
+      "request": "En ingles el genero se pone (M/F) para decir masculino y femenino, cuales son las siglas en frances?",
+      "pos": "Please use this link to make your reservation.",
+      "neg": "En francés, las siglas para indicar género masculino y femenino son (M/F), al igual que en inglés: \"M\" para \"masculin\" y \"F\" para \"féminin.\"",
+      "ep_idx": 102
+    },
+    {
+      "request": "Do the same: As it is the total amount, 255,00€, we have put it to pay at once.",
+      "pos": "🌿🚴‍♀️🚤 In September, IH Valencia students enjoyed the “Albufera, Bike and Boat” adventure! They explored the stunning Albufera lake, enjoyed a scenic boat trip, and biked through Dehesa del Saler. We wrapped up the day with a beach walk at El Saler. 🌅🗣️\n\n#IHValencia #NatureAdventure #StudySpanish",
+      "neg": "Since the total amount is €255.00, we have set it up for a one-time payment.",
+      "ep_idx": 104
+    },
+    {
+      "request": "For none english natives, and also change the emojis",
+      "pos": "I’ve attached the pictures (3 vertical and 1 horizontal). Feel free to choose the one you prefer, or use both if you wish.",
+      "neg": "🌳🚴‍♂️🚣‍♀️ In September, students at IH Valencia had a great time with our \"Albufera, Bike and Boat\" activity! They explored the beautiful Albufera lake, enjoyed a boat trip, and biked through the peaceful Dehesa del Saler. We finished the day with a walk on El Saler beach. 🌞🏖️\n\n#IHValencia #NatureAdventure #ExploreValencia",
+      "ep_idx": 106
+    },
+    {
+      "request": "Cuantas semanas tienen 12 meses",
+      "pos": "Merci d'être passé nous voir aujourd'hui !\n\nComme je vous l'ai mentionné, pour les cours à long terme, je vous recommande le cours Intensif 20. Ce programme, au tarif de 185,00 € par semaine avec des frais d'inscription de 55,00 €, comprend 20 leçons d'espagnol général, du lundi au vendredi, soit le matin, soit l'après-midi.\n\nEn réservant avant le 31 octobre, vous pouvez bénéficier des tarifs de 2024. Vous trouverez en pièce jointe notre brochure tarifaire pour plus de détails.\n\nJ'ai préparé pour vous un devis pour 45 semaines avec ce cours, atteignant un total de 8380,00 €.\n\nVous pouvez réserver directement sur notre site en suivant ce lien : [lien].",
+      "neg": "Doce meses generalmente equivalen a 52 semanas. Esto se basa en el hecho de que un año tiene 365 días y una semana tiene 7 días, por lo que 365 dividido entre 7 es aproximadamente 52,14. Dado que algunos meses tienen 30 días y otros 31, y febrero tiene 28 o 29 días dependiendo de si es un año bisiesto, el número de semanas en exactamente un año puede variar ligeramente, pero normalmente se redondea a 52 semanas.",
+      "ep_idx": 116
+    },
+    {
+      "request": "Do the same with this: I think my email went to your spam folder. \n\nI´ll share the details with you 😊",
+      "pos": "We’re thrilled to introduce Resiolé Boutique, the latest addition to our student residences at Españolé IH Valencia. Just minutes from the school, Resiolé Boutique offers a stylish and comfortable living experience, complete with high-quality furnishings, private bathrooms, independent air conditioning, and personal refrigerators in every room.\n\nExclusively for our students, Resiolé Boutique provides a safe and welcoming environment where students can relax, connect, and truly enjoy their time in Valencia. Alongside our other residences, Resiolé Mercado and La Nave, Boutique is centrally located, making city exploration easy and convenient. With friendly on-site staff always ready to assist, Resiolé residences are more than just places to stay—they’re our students' home away from home, designed to enrich their learning journey.\n\nNicole Rahm, our agent from Sweden, also learns Spanish and chose to study with us in Valencia. She was among the first to stay at Resiolé Boutique. After two weeks in a single room, Nicole shares her experience:",
+      "neg": "I suspect my email might have ended up in your spam folder.\n\nLet me share the details with you! 😊",
+      "ep_idx": 118
+    },
+    {
+      "request": "Summarize more the introduction, and less the opinion of Nicole Rahm",
+      "pos": "Españolé IH Valencia has launched a new residence and is already receiving positive feedback from its first students.",
+      "neg": "We’re excited to introduce Resiolé Boutique, the newest student residence at Españolé IH Valencia. Located just minutes from the school, it offers stylish, comfortable living with high-quality furnishings, private bathrooms, and independent air conditioning.\n\nExclusively for our students, Resiolé Boutique provides a welcoming and safe environment to relax and connect. Its central location makes exploring Valencia effortless, and our friendly staff are always on hand to assist. More than a place to stay, it’s your home away from home, designed to enrich your learning experience.\n\nNicole Rahm from Sweden, one of the first to stay here, enjoyed her time in a single room while studying Spanish with us.",
+      "ep_idx": 120
+    },
+    {
+      "request": "Do the same: If you are not able to find it, please let me know and I´ll send it again.",
+      "pos": "Our school is centrally located in Valencia, right in the old town, and is housed in the Gothic Palacio de los Fernandez de Cordoba, which also includes sections of the 11th-century Arab walls. You can explore the school here.\n\nRegarding your plans for February, March, and April, we definitely have courses available during those months.\n\nFor a three-month stay, I recommend our Intensive 20 course (€225 per week), which includes 20 general Spanish lessons each week, with four classes a day. We offer both morning and afternoon sessions, subject to availability (9:10-13:00 or 14:10-18:00), Monday to Friday.\n\nFor accommodation, you might consider our Residence Resiolé Mercado. We offer single rooms (€230 per week) and double rooms (€180 per week). If you book before October 31, we'll honor our 2024 pricing.\n\nHave you studied Spanish before?\n\nI've attached our brochure with more details about our courses and 2025 pricing.\n\nIf you have any questions or need additional information, please don't hesitate to ask. We're here to ensure your experience in Valencia is both enjoyable and rewarding.\n\nLooking forward to hearing from you soon.",
+      "neg": "If you can't find it, just let me know, and I'll resend it.",
+      "ep_idx": 125
+    },
+    {
+      "request": "In a non native english",
+      "pos": "I hope you're doing well 😊. I'm excited to share our article for November's IH News with you!",
+      "neg": "Our school is in the center of Valencia, in the old town. It is in the Gothic Palacio de los Fernandez de Cordoba and also has parts of the 11th-century Arab walls. You can see the school here.\n\nAbout your plans to come in February, March, and April, we have courses available in those months.\n\nFor three months, I suggest our Intensive 20 course (€225 per week). It has 20 general Spanish lessons per week, with four classes each day. We offer morning and afternoon schedules, subject to availability (9:10-13:00 or 14:10-18:00), from Monday to Friday.\n\nFor accommodation, our Residence Resiolé Mercado is an option. We have single rooms (€230 per week) and double rooms (€180 per week). If you book before October 31, we will keep the prices from 2024.\n\nHave you studied Spanish before?\n\nI attached our brochure with more details about our courses and prices for 2025.\n\nIf you have more questions or need more information, please feel free to ask. We are here to help make your experience in Valencia nice and rewarding.\n\nLooking forward to your reply soon.",
+      "ep_idx": 126
+    },
+    {
+      "request": "another",
+      "pos": "I'm currently checking with our academic department about the schedule availability for the private classes. I'll send you more details on Monday.",
+      "neg": "Catch up with you soon!",
+      "ep_idx": 127
+    },
+    {
+      "request": "Don´t use reach our",
+      "pos": "Certainly! Here's an improved version:\n\n---\n\nPlease be aware that this link will remain valid for only three days.\n\n--- \n\nThis version provides a slightly more formal tone and clear timeframe.",
+      "neg": "Of course! Here's a revised version without using \"reach out\":\n\n---\n\nSubject: Re: Request for 2025 Price Lists\n\nDear Monet,\n\nI hope this message finds you well!\n\nThank you for your email. I’m pleased to share that our 2025 Price Lists are ready. I will send them to you shortly, well before the deadline on the 25th of October.\n\nWe’re excited about ICEF Berlin and are glad to support your promotional efforts at the event. If there's anything else you need from our end, please feel free to let me know.\n\nWishing you a productive preparation for the event and an enjoyable weekend as well!\n\nWarm regards,\n\nCristina\n\n--- \n\nFeel free to customize it further to fit your style.",
+      "ep_idx": 131
+    },
+    {
+      "request": "Start by note",
+      "pos": "Sure! Here's a more natural and direct version:\n\n---\n\nNote: This link is good for just three days.\n\n--- \n\nThis version is straightforward and easy to understand.",
+      "neg": "Of course! Here's an improved version starting with \"Note\":\n\n---\n\nNote that this link will remain valid for only three days.\n\n--- \n\nThis version maintains clarity and a formal tone.",
+      "ep_idx": 132
+    },
+    {
+      "request": "Traduce el siguiente email, y resume: Bonjour Madame Kuskova\nJe vous remercie pour votre réactivité, je viens de réaliser le test et j’attend le résultat.\nMais j’ai encore quelques questions, sur le site il y est écrit que les dates pour partir ne sont pas les mêmes en fonction de si on est début ou non , mais quelle est le niveau “débutant” A2 ? B1?\nÉgalement, toujours pour les dates, quand serait- il possible de commencer le plutôt? Puis-je partir début novembre ?",
+      "pos": "Certainly! Here's a refined version:\n\n---\n\nWe offer several intensive courses from Monday to Friday, with both morning and afternoon sessions (until 6 o'clock). What is your goal in learning Spanish?\n\nFor example, our Intensive 20 course includes 20 Spanish lessons per week, with 4 lessons each day, and costs 225.00 euros per week, or 185.00 euros per week if you book for 12 weeks or more.\n\nWhen would you like to start, and how long do you plan to study?\n\nAttached is our brochure with more details on all our courses and prices.\n\nI look forward to your response.\n\n--- \n\nThis version maintains a direct and approachable tone.",
+      "neg": "Traducción:\n\n---\n\nHola, señora Kuskova:\n\nLe agradezco por su rapidez; acabo de realizar el test y estoy esperando el resultado. \n\nSin embargo, tengo algunas preguntas más. En el sitio web se menciona que las fechas de inicio varían según si uno es principiante o no. ¿Cuál es el nivel considerado como \"principiante\", A2 o B1?\n\nAdemás, respecto a las fechas, ¿cuándo sería posible comenzar lo antes posible? ¿Puedo empezar a principios de noviembre?\n\n---\n\nResumen:\n\nEl remitente agradece la rápida respuesta, ha realizado el test y espera el resultado. Pregunta sobre qué nivel (A2 o B1) se considera \"principiante\" y consulta sobre las fechas posibles para comenzar, específicamente si puede hacerlo a principios de noviembre.",
+      "ep_idx": 135
+    },
+    {
+      "request": "Correct this sentence: Last week we said good-bye to our student Keiko",
+      "pos": "🍳✨ Yesterday, our students had an amazing time learning to cook a traditional Spanish tortilla! 🥔🇪🇸 We gathered in the kitchen to explore Spanish cuisine and share some laughs. It was a fantastic way to practice Spanish and bond with each other outside the classroom. Huge thanks to everyone who participated! Can't wait for our next culinary adventure! 👩‍🍳👨‍🍳🙌",
+      "neg": "Your sentence is almost correct, but if you wish to add a bit more clarity or formality, you might consider the following modification:\n\n---\n\nLast week, we said goodbye to our student Keiko.\n\n--- \n\nIn this version, \"goodbye\" is written as one word, which is the preferred contemporary spelling. Additionally, a comma is added after \"Last week\" for slight improvement in readability.",
+      "ep_idx": 137
+    }
+  ]
+}

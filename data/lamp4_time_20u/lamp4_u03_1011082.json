@@ -1,0 +1,740 @@
+{
+  "author_id": "lamp4_u03_1011082",
+  "lamp_id": "1011082",
+  "rank": 3,
+  "n_profile_raw": 489,
+  "history_pairs": [
+    {
+      "request": "Generate a headline for the following article: President Trump has reportedly already invited Moore's opponent -- and now senator-elect -- Doug Jones to the White House.",
+      "article": "President Trump has reportedly already invited Moore's opponent -- and now senator-elect -- Doug Jones to the White House.",
+      "pos": "Roy Moore Still Won’t Concede Defeat: ‘The Battle Rages On’",
+      "neg": "Overview: President Trump has reportedly already invited Moore's opponent -- and now senator-elect -- Doug",
+      "date": "2017-12-14",
+      "ep_idx": 0
+    },
+    {
+      "request": "Generate a headline for the following article: Terry Zwigoff's claim comes on the heels of a similar allegation made this week by \"Lord of the Rings\" director Peter Jackson.",
+      "article": "Terry Zwigoff's claim comes on the heels of a similar allegation made this week by \"Lord of the Rings\" director Peter Jackson.",
+      "pos": "Second Director Says Weinsteins Blacklisted Actress Mira Sorvino From Film",
+      "neg": "Overview: Terry Zwigoff's claim comes on the heels of a similar allegation made this week",
+      "date": "2017-12-17",
+      "ep_idx": 1
+    },
+    {
+      "request": "Generate a headline for the following article: Several U.S. allies have spoken up in support of a free and open internet.",
+      "article": "Several U.S. allies have spoken up in support of a free and open internet.",
+      "pos": "France Promises To 'Defend Net Neutrality' In Wake Of FCC Vote In U.S.",
+      "neg": "Overview: Several U.S. allies have spoken up in support of a free and open internet.",
+      "date": "2017-12-17",
+      "ep_idx": 2
+    },
+    {
+      "request": "Generate a headline for the following article: The UNDP recently announced that it would no longer fund a critical Asiatic cheetah conservation program, prompting fears for the subspecies' future.",
+      "article": "The UNDP recently announced that it would no longer fund a critical Asiatic cheetah conservation program, prompting fears for the subspecies' future.",
+      "pos": "With Fewer Than 50 Left On Earth, Asiatic Cheetahs Are Fast Sprinting Toward Extinction",
+      "neg": "Overview: The UNDP recently announced that it would no longer fund a critical Asiatic cheetah",
+      "date": "2017-12-18",
+      "ep_idx": 3
+    },
+    {
+      "request": "Generate a headline for the following article: Police have beefed up security at the senator's residence in Newark, New Jersey.",
+      "article": "Police have beefed up security at the senator's residence in Newark, New Jersey.",
+      "pos": "Sen. Cory Booker Gets Extra Security Following Death Threat",
+      "neg": "Overview: Police have beefed up security at the senator's residence in Newark, New Jersey.",
+      "date": "2017-12-18",
+      "ep_idx": 4
+    },
+    {
+      "request": "Generate a headline for the following article: New guidelines advise people to keep phones \"away from the body.\"",
+      "article": "New guidelines advise people to keep phones \"away from the body.\"",
+      "pos": "California Health Officials Advise Caution Against Cellphone Radiation",
+      "neg": "Overview: New guidelines advise people to keep phones \"away from the body.\"",
+      "date": "2017-12-18",
+      "ep_idx": 5
+    },
+    {
+      "request": "Generate a headline for the following article: The move shows China is taking the lead on climate change as the U.S. retreats.",
+      "article": "The move shows China is taking the lead on climate change as the U.S. retreats.",
+      "pos": "China Unveils World's Largest Carbon Market",
+      "neg": "The move shows China is taking the lead on climate change as the U.S",
+      "date": "2017-12-19",
+      "ep_idx": 6
+    },
+    {
+      "request": "Generate a headline for the following article: A White House official said a new petition platform will be launched in January.",
+      "article": "A White House official said a new petition platform will be launched in January.",
+      "pos": "White House 'Temporarily' Shuts Down Petition Site After Not Responding To A Single Petition",
+      "neg": "Overview: A White House official said a new petition platform will be launched in January.",
+      "date": "2017-12-19",
+      "ep_idx": 7
+    },
+    {
+      "request": "Generate a headline for the following article: His opponent, Senator-elect Doug Jones, has urged him to \"move on.\"",
+      "article": "His opponent, Senator-elect Doug Jones, has urged him to \"move on.\"",
+      "pos": "Roy Moore Still Won't Concede Defeat. It's Been A Week Since The Election.",
+      "neg": "Overview: His opponent, Senator-elect Doug Jones, has urged him to \"move on.\"",
+      "date": "2017-12-19",
+      "ep_idx": 8
+    },
+    {
+      "request": "Generate a headline for the following article: 23,101 murder investigations were launched in the year's first 11 months.",
+      "article": "23,101 murder investigations were launched in the year's first 11 months.",
+      "pos": "2017 Was Mexico's Deadliest Year On Record",
+      "neg": "Overview: 23,101 murder investigations were launched in the year's first 11 months.",
+      "date": "2017-12-24",
+      "ep_idx": 9
+    },
+    {
+      "request": "Generate a headline for the following article: Officials said there was \"zero\" chance of survival for those trapped inside.",
+      "article": "Officials said there was \"zero\" chance of survival for those trapped inside.",
+      "pos": "Dozens Feared Dead In Massive Shopping Mall Blaze In Philippine City Of Davao",
+      "neg": "Overview: Officials said there was \"zero\" chance of survival for those trapped inside.",
+      "date": "2017-12-24",
+      "ep_idx": 10
+    },
+    {
+      "request": "Generate a headline for the following article: Vladimir Putin's government accused the U.S. of “direct interference\" after the State Department urged the country to \"hold genuine elections.\"",
+      "article": "Vladimir Putin's government accused the U.S. of “direct interference\" after the State Department urged the country to \"hold genuine elections.\"",
+      "pos": "Russia Warns U.S.: Don’t ‘Meddle’ In Upcoming Presidential Election",
+      "neg": "Vladimir Putin's government accused the U.S",
+      "date": "2017-12-28",
+      "ep_idx": 11
+    },
+    {
+      "request": "Generate a headline for the following article: “When I took office a year ago, I appealed for 2017 to be a year for peace. Unfortunately, in fundamental ways, the world has gone in reverse.\"",
+      "article": "“When I took office a year ago, I appealed for 2017 to be a year for peace. Unfortunately, in fundamental ways, the world has gone in reverse.\"",
+      "pos": "UN Secretary-General Puts World On 'Red Alert' In Somber New Year's Eve Address",
+      "neg": "“When I took office a year ago, I appealed for 2017 to be a year for peace",
+      "date": "2018-01-01",
+      "ep_idx": 12
+    },
+    {
+      "request": "Generate a headline for the following article: Richard Cousins, CEO of Compass Group, as well as his sons, fiancee and fiancee's daughter were killed in the New Year's Eve crash in Sydney.",
+      "article": "Richard Cousins, CEO of Compass Group, as well as his sons, fiancee and fiancee's daughter were killed in the New Year's Eve crash in Sydney.",
+      "pos": "CEO Of World’s Biggest Catering Company Among Those Killed In Seaplane Crash",
+      "neg": "Overview: Richard Cousins, CEO of Compass Group, as well as his sons, fiancee and fiancee's",
+      "date": "2018-01-01",
+      "ep_idx": 13
+    },
+    {
+      "request": "Generate a headline for the following article: A new law took effect on Jan. 1, affecting Facebook, Twitter, Google, YouTube, Snapchat and Instagram.",
+      "article": "A new law took effect on Jan. 1, affecting Facebook, Twitter, Google, YouTube, Snapchat and Instagram.",
+      "pos": "Social Media Sites In Germany Can Now Be Fined Millions For Not Deleting Hate Speech",
+      "neg": "A new law took effect on Jan",
+      "date": "2018-01-02",
+      "ep_idx": 14
+    },
+    {
+      "request": "Generate a headline for the following article: “This is a man who ... criticized President Barack Obama regularly for playing golf during his presidency, but that criticism hasn’t continued into [his] presidency.”",
+      "article": "“This is a man who ... criticized President Barack Obama regularly for playing golf during his presidency, but that criticism hasn’t continued into [his] presidency.”",
+      "pos": "Trump Says 'It's Back To Work,' Then Visits Golf Club For 7 Straight Days",
+      "neg": "“This is a man who ..",
+      "date": "2018-01-02",
+      "ep_idx": 15
+    },
+    {
+      "request": "Generate a headline for the following article: The former Milwaukee sheriff resumed tweeting after deleting messages promoting violence against the news media.",
+      "article": "The former Milwaukee sheriff resumed tweeting after deleting messages promoting violence against the news media.",
+      "pos": "Twitter Locks Trump Ally David Clarke’s Account Over ‘Taste Their Blood’ Media Threat",
+      "neg": "Overview: The former Milwaukee sheriff resumed tweeting after deleting messages promoting violence against the news",
+      "date": "2018-01-03",
+      "ep_idx": 16
+    },
+    {
+      "request": "Generate a headline for the following article: After no one admitted to owning the stash, police hauled in dozens of people because the pot was \"within everyone's reach or control.\"",
+      "article": "After no one admitted to owning the stash, police hauled in dozens of people because the pot was \"within everyone's reach or control.\"",
+      "pos": "Less Than 1 Ounce Of Marijuana Leads To Arrests Of More Than 60 Georgia Partygoers",
+      "neg": "Overview: After no one admitted to owning the stash, police hauled in dozens of people",
+      "date": "2018-01-03",
+      "ep_idx": 17
+    },
+    {
+      "request": "Generate a headline for the following article: The half Iranian-American, half African-American actress said she hopes others can view the protests from a \"humane perspective.\"",
+      "article": "The half Iranian-American, half African-American actress said she hopes others can view the protests from a \"humane perspective.\"",
+      "pos": "Yara Shahidi Compares Iran Protests With Black Lives Matter: We're All Interconnected",
+      "neg": "Overview: The half Iranian-American, half African-American actress said she hopes others can view the protests",
+      "date": "2018-01-04",
+      "ep_idx": 18
+    },
+    {
+      "request": "Generate a headline for the following article: In a frank Twitter exchange that suggested a history of possible misconduct, Harmon expressed regret for abusing his position.",
+      "article": "In a frank Twitter exchange that suggested a history of possible misconduct, Harmon expressed regret for abusing his position.",
+      "pos": "‘Community’ Creator Dan Harmon Apologizes To Writer Megan Ganz For Treating Her Like Garbage",
+      "neg": "Overview: In a frank Twitter exchange that suggested a history of possible misconduct, Harmon expressed",
+      "date": "2018-01-04",
+      "ep_idx": 19
+    },
+    {
+      "request": "Generate a headline for the following article: His legislation would seek to combat misinformation on social media sites during elections.",
+      "article": "His legislation would seek to combat misinformation on social media sites during elections.",
+      "pos": "French President Emmanuel Macron Vows To Ban 'Fake News'",
+      "neg": "Overview: His legislation would seek to combat misinformation on social media sites during elections.",
+      "date": "2018-01-04",
+      "ep_idx": 20
+    },
+    {
+      "request": "Generate a headline for the following article: The \"Nashville\" actress' top was embroidered with the phrase \"poverty is sexist.\"",
+      "article": "The \"Nashville\" actress' top was embroidered with the phrase \"poverty is sexist.\"",
+      "pos": "Connie Britton Wore This Sweater To The Golden Globes For A Powerful Reason",
+      "neg": "Overview: The \"Nashville\" actress' top was embroidered with the phrase \"poverty is sexist.\"",
+      "date": "2018-01-08",
+      "ep_idx": 21
+    },
+    {
+      "request": "Generate a headline for the following article: The \"Darkest Hour\" actor was accused of domestic violence in 2001. On Sunday, he won his first-ever Golden Globe.",
+      "article": "The \"Darkest Hour\" actor was accused of domestic violence in 2001. On Sunday, he won his first-ever Golden Globe.",
+      "pos": "Critics Say Gary Oldman's 'Time's Up' Pin Doesn't Make Up For Past Abuse Allegations",
+      "neg": "The \"Darkest Hour\" actor was accused of domestic violence in 2001",
+      "date": "2018-01-08",
+      "ep_idx": 22
+    },
+    {
+      "request": "Generate a headline for the following article: Prime Minister Prayuth Chan-ocha said \"any questions on politics or conflict\" should be directed to his cardboard image.",
+      "article": "Prime Minister Prayuth Chan-ocha said \"any questions on politics or conflict\" should be directed to his cardboard image.",
+      "pos": "Thai Leader Leaves Reporters With Cardboard Cutout Of Himself, Tells Them To 'Ask This Guy'",
+      "neg": "Overview: Prime Minister Prayuth Chan-ocha said \"any questions on politics or conflict\" should be directed",
+      "date": "2018-01-09",
+      "ep_idx": 23
+    },
+    {
+      "request": "Generate a headline for the following article: Sen. Kamala Harris and Sen. Cory Booker will be the 200-year-old panel's second and third African-American members.",
+      "article": "Sen. Kamala Harris and Sen. Cory Booker will be the 200-year-old panel's second and third African-American members.",
+      "pos": "Senate Judiciary Committee Has 2 Black Members For First Time In Its History",
+      "neg": "Overview: Sen. Kamala Harris and Sen. Cory Booker will be the 200-year-old panel's second and",
+      "date": "2018-01-10",
+      "ep_idx": 24
+    },
+    {
+      "request": "Generate a headline for the following article: The writer, who's been hailed a hero, described how the spreadsheet took on a life of its own, transforming the media industry and her own life.",
+      "article": "The writer, who's been hailed a hero, described how the spreadsheet took on a life of its own, transforming the media industry and her own life.",
+      "pos": "Moira Donegan Outs Herself As Creator Of 'S**tty Media Men' List",
+      "neg": "Overview: The writer, who's been hailed a hero, described how the spreadsheet took on a",
+      "date": "2018-01-11",
+      "ep_idx": 25
+    },
+    {
+      "request": "Generate a headline for the following article: None of the 168 people on board the Pegasus Airlines flight was injured in the accident.",
+      "article": "None of the 168 people on board the Pegasus Airlines flight was injured in the accident.",
+      "pos": "In Terrifying Close Call, Plane Skids Off Turkish Runway And Nearly Plunges Into Black Sea",
+      "neg": "Overview: None of the 168 people on board the Pegasus Airlines flight was injured in",
+      "date": "2018-01-14",
+      "ep_idx": 26
+    },
+    {
+      "request": "Generate a headline for the following article: The DACA program will be operated \"on the terms in place\" before it was rescinded last year, said U.S. Citizenship and Immigration Services on Saturday.",
+      "article": "The DACA program will be operated \"on the terms in place\" before it was rescinded last year, said U.S. Citizenship and Immigration Services on Saturday.",
+      "pos": "Citing Court Order, Trump Administration Resumes Accepting DACA Renewal Applications",
+      "neg": "The DACA program will be operated \"on the terms in place\" before it was rescinded last year, said U.S",
+      "date": "2018-01-14",
+      "ep_idx": 27
+    },
+    {
+      "request": "Generate a headline for the following article: The 65-year-old actor has been accused by more than a dozen women of sexual misconduct.",
+      "article": "The 65-year-old actor has been accused by more than a dozen women of sexual misconduct.",
+      "pos": "LAPD Launches Sexual Assault Investigation Against Steven Seagal",
+      "neg": "Overview: The 65-year-old actor has been accused by more than a dozen women of sexual",
+      "date": "2018-01-14",
+      "ep_idx": 28
+    },
+    {
+      "request": "Generate a headline for the following article: The former two-term GOP senator from Nebraska said Trump is “doing great damage to our country internationally.”",
+      "article": "The former two-term GOP senator from Nebraska said Trump is “doing great damage to our country internationally.”",
+      "pos": "Former Defense Secretary Chuck Hagel Calls Donald Trump 'An Embarrassment'",
+      "neg": "Overview: The former two-term GOP senator from Nebraska said Trump is “doing great damage to",
+      "date": "2018-01-15",
+      "ep_idx": 29
+    },
+    {
+      "request": "Generate a headline for the following article: Timothée Chalamet, Rebecca Hall and Griffin Newman expressed regret for deciding to work with Allen on his new film, \"A Rainy Day in New York.\"",
+      "article": "Timothée Chalamet, Rebecca Hall and Griffin Newman expressed regret for deciding to work with Allen on his new film, \"A Rainy Day in New York.\"",
+      "pos": "3 Actors In Woody Allen’s New Film Are Donating Their Pay To Anti-Abuse Charities",
+      "neg": "Overview: Timothée Chalamet, Rebecca Hall and Griffin Newman expressed regret for deciding to work with",
+      "date": "2018-01-16",
+      "ep_idx": 30
+    },
+    {
+      "request": "Generate a headline for the following article: When asked if he'd be willing to be interviewed for the probe, Trump was noncommittal.",
+      "article": "When asked if he'd be willing to be interviewed for the probe, Trump was noncommittal.",
+      "pos": "White House Attorney: Trump Is ’Very Eager’ To Speak With Robert Mueller In Russia Probe",
+      "neg": "Overview: When asked if he'd be willing to be interviewed for the probe, Trump was",
+      "date": "2018-01-18",
+      "ep_idx": 31
+    },
+    {
+      "request": "Generate a headline for the following article: The president's \"Fake News Awards\" add to an anti-media campaign \"unworthy of the country that adopted the First Amendment.\"",
+      "article": "The president's \"Fake News Awards\" add to an anti-media campaign \"unworthy of the country that adopted the First Amendment.\"",
+      "pos": "Reporters Without Borders Says Trump ‘Poses Major Threat To U.S. Democracy’",
+      "neg": "Overview: The president's \"Fake News Awards\" add to an anti-media campaign \"unworthy of the country",
+      "date": "2018-01-18",
+      "ep_idx": 32
+    },
+    {
+      "request": "Generate a headline for the following article: The Electron rocket, carrying three commercial satellites, was launched from Mahia Peninsula on Sunday.",
+      "article": "The Electron rocket, carrying three commercial satellites, was launched from Mahia Peninsula on Sunday.",
+      "pos": "New Zealand Just Became The 11th Country To Send A Rocket Into Orbit",
+      "neg": "Overview: The Electron rocket, carrying three commercial satellites, was launched from Mahia Peninsula on Sunday.",
+      "date": "2018-01-21",
+      "ep_idx": 33
+    },
+    {
+      "request": "Generate a headline for the following article: The senator and Iraq War veteran lambasted \"Cadet Bone Spurs\" Trump in a fiery speech on the Senate floor Saturday.",
+      "article": "The senator and Iraq War veteran lambasted \"Cadet Bone Spurs\" Trump in a fiery speech on the Senate floor Saturday.",
+      "pos": "Tammy Duckworth Scorches Donald Trump As 'Five-Deferment Draft Dodger'",
+      "neg": "Overview: The senator and Iraq War veteran lambasted \"Cadet Bone Spurs\" Trump in a fiery",
+      "date": "2018-01-21",
+      "ep_idx": 34
+    },
+    {
+      "request": "Generate a headline for the following article: Taylor Weyeneth was fired from a law firm in 2015 for not showing up to work.",
+      "article": "Taylor Weyeneth was fired from a law firm in 2015 for not showing up to work.",
+      "pos": "Trump's Deputy Drug Czar Is A 24-Year-Old With A Flimsy Work History",
+      "neg": "Overview: Taylor Weyeneth was fired from a law firm in 2015 for not showing up",
+      "date": "2018-01-22",
+      "ep_idx": 35
+    },
+    {
+      "request": "Generate a headline for the following article: \"I’m going to tell you what’s wrong with this statue,\" the 80-year-old actor said on Sunday night.",
+      "article": "\"I’m going to tell you what’s wrong with this statue,\" the 80-year-old actor said on Sunday night.",
+      "pos": "Morgan Freeman Criticizes 'Gender-Specific' SAG Statuettes",
+      "neg": "Overview: \"I’m going to tell you what’s wrong with this statue,\" the 80-year-old actor said",
+      "date": "2018-01-22",
+      "ep_idx": 36
+    },
+    {
+      "request": "Generate a headline for the following article: In Shanghai, an army of secret recyclers has been credited with keeping mountains of trash out of the city's landfills.",
+      "article": "In Shanghai, an army of secret recyclers has been credited with keeping mountains of trash out of the city's landfills.",
+      "pos": "What Happens When One Of The World's Biggest Cities Doesn't Recycle",
+      "neg": "Overview: In Shanghai, an army of secret recyclers has been credited with keeping mountains of",
+      "date": "2018-01-27",
+      "ep_idx": 37
+    },
+    {
+      "request": "Generate a headline for the following article: In recent Facebook posts, Michael Hunt, 43, had referred to the singer as his \"queen\" and had spoken of \"tak[ing] off\" with her.",
+      "article": "In recent Facebook posts, Michael Hunt, 43, had referred to the singer as his \"queen\" and had spoken of \"tak[ing] off\" with her.",
+      "pos": "Florida Police Thwart Man's Attempt To Kidnap Singer Lana Del Rey",
+      "neg": "Overview: In recent Facebook posts, Michael Hunt, 43, had referred to the singer as his",
+      "date": "2018-02-04",
+      "ep_idx": 38
+    },
+    {
+      "request": "Generate a headline for the following article: Jackson and his Uber driver were struck on the side of an interstate highway in Indiana.",
+      "article": "Jackson and his Uber driver were struck on the side of an interstate highway in Indiana.",
+      "pos": "Indianapolis Colts' Edwin Jackson Killed By Suspected Drunk Driver",
+      "neg": "Overview: Jackson and his Uber driver were struck on the side of an interstate highway",
+      "date": "2018-02-05",
+      "ep_idx": 39
+    },
+    {
+      "request": "Generate a headline for the following article: The \"unprecedented\" trip by North Korea's ceremonial leader suggests the possibility of high-level talks.",
+      "article": "The \"unprecedented\" trip by North Korea's ceremonial leader suggests the possibility of high-level talks.",
+      "pos": "North Korea To Send Top Official To South Korea For Olympics",
+      "neg": "Overview: The \"unprecedented\" trip by North Korea's ceremonial leader suggests the possibility of high-level talks.",
+      "date": "2018-02-05",
+      "ep_idx": 40
+    },
+    {
+      "request": "Generate a headline for the following article: U.S. District Judge Gonzalo Curiel will hear a case on Friday that could determine whether Trump can waive environmental laws for his wall.",
+      "article": "U.S. District Judge Gonzalo Curiel will hear a case on Friday that could determine whether Trump can waive environmental laws for his wall.",
+      "pos": "Judge Dissed By Trump As ‘Mexican’ Presiding Over Border Wall Case",
+      "neg": "Overview: U.S. District Judge Gonzalo Curiel will hear a case on Friday that could determine",
+      "date": "2018-02-06",
+      "ep_idx": 41
+    },
+    {
+      "request": "Generate a headline for the following article: The actor is suing agent Adam Venit, claiming he groped his genitals at a party in 2016.",
+      "article": "The actor is suing agent Adam Venit, claiming he groped his genitals at a party in 2016.",
+      "pos": "Terry Crews Claims ‘Expendables’ Producer Pressured Him To Drop Sexual Assault Suit",
+      "neg": "Overview: The actor is suing agent Adam Venit, claiming he groped his genitals at a",
+      "date": "2018-02-06",
+      "ep_idx": 42
+    },
+    {
+      "request": "Generate a headline for the following article: Syrian government forces, backed by the Russian Air Force, have been intensifying their airstrikes on the country's rebel-held areas.",
+      "article": "Syrian government forces, backed by the Russian Air Force, have been intensifying their airstrikes on the country's rebel-held areas.",
+      "pos": "VIDEO: Newborn Babies Reportedly Evacuated From Syrian Hospital Amid Russian Airstrikes",
+      "neg": "Overview: Syrian government forces, backed by the Russian Air Force, have been intensifying their airstrikes",
+      "date": "2018-02-07",
+      "ep_idx": 43
+    },
+    {
+      "request": "Generate a headline for the following article: And the U.S. is inadequately prepared to overcome this threat, warned the secretary of state.",
+      "article": "And the U.S. is inadequately prepared to overcome this threat, warned the secretary of state.",
+      "pos": "Rex Tillerson Says Russia Is Already Trying To Meddle In 2018 Midterms",
+      "neg": "Overview: And the U.S. is inadequately prepared to overcome this threat, warned the secretary of",
+      "date": "2018-02-07",
+      "ep_idx": 44
+    },
+    {
+      "request": "Generate a headline for the following article: DNA analysis of Britain's oldest complete skeleton reveals the first modern Britons had \"dark to black skin\" and dark hair.",
+      "article": "DNA analysis of Britain's oldest complete skeleton reveals the first modern Britons had \"dark to black skin\" and dark hair.",
+      "pos": "Oldest-Known Briton 'Cheddar Man’ Wasn’t Fair-Skinned After All",
+      "neg": "Overview: DNA analysis of Britain's oldest complete skeleton reveals the first modern Britons had \"dark",
+      "date": "2018-02-08",
+      "ep_idx": 45
+    },
+    {
+      "request": "Generate a headline for the following article: Speed skater Semen Elistratov is reportedly under investigation by the IOC for his comments.",
+      "article": "Speed skater Semen Elistratov is reportedly under investigation by the IOC for his comments.",
+      "pos": "Russian Athlete Dedicates Olympic Medal To ‘Unfairly’ Banned Compatriots",
+      "neg": "Overview: Speed skater Semen Elistratov is reportedly under investigation by the IOC for his comments.",
+      "date": "2018-02-11",
+      "ep_idx": 46
+    },
+    {
+      "request": "Generate a headline for the following article: More condoms will be distributed at the Pyeongchang Games than at any previous Winter Olympics.",
+      "article": "More condoms will be distributed at the Pyeongchang Games than at any previous Winter Olympics.",
+      "pos": "U.S. Figure Skater Adam Rippon Unimpressed By 'Generic' Olympic Condoms",
+      "neg": "Overview: More condoms will be distributed at the Pyeongchang Games than at any previous Winter",
+      "date": "2018-02-11",
+      "ep_idx": 47
+    },
+    {
+      "request": "Generate a headline for the following article: Min, skating for South Korea, completed her short dance routine on Sunday despite a precarious outfit situation.",
+      "article": "Min, skating for South Korea, completed her short dance routine on Sunday despite a precarious outfit situation.",
+      "pos": "Olympics Figure Skater Yura Min Overcomes Wardrobe Malfunction With Calm And Class",
+      "neg": "Overview: Min, skating for South Korea, completed her short dance routine on Sunday despite a",
+      "date": "2018-02-11",
+      "ep_idx": 48
+    },
+    {
+      "request": "Generate a headline for the following article: Canada captured the gold medal and the Olympic Athletes from Russia team clinched the silver.",
+      "article": "Canada captured the gold medal and the Olympic Athletes from Russia team clinched the silver.",
+      "pos": "Team USA Wows With Historic Performances, Wins Bronze In Figure Skating Team Event",
+      "neg": "Overview: Canada captured the gold medal and the Olympic Athletes from Russia team clinched the",
+      "date": "2018-02-12",
+      "ep_idx": 49
+    },
+    {
+      "request": "Generate a headline for the following article: Joshua Ramo infuriated Koreans and others with comments about Japan and Korea's history that viewers said glossed over the two nations' troubled past.",
+      "article": "Joshua Ramo infuriated Koreans and others with comments about Japan and Korea's history that viewers said glossed over the two nations' troubled past.",
+      "pos": "NBC Commentator Whose Insensitive Japan Comments Sparked Furor Is Done Covering Olympics",
+      "neg": "Overview: Joshua Ramo infuriated Koreans and others with comments about Japan and Korea's history that",
+      "date": "2018-02-12",
+      "ep_idx": 50
+    },
+    {
+      "request": "Generate a headline for the following article: Goalies on the U.S. women's ice hockey team may need to ditch the masks because of IOC guidelines.",
+      "article": "Goalies on the U.S. women's ice hockey team may need to ditch the masks because of IOC guidelines.",
+      "pos": "Statue Of Liberty Hockey Masks May Be Too 'Political' For Winter Olympics",
+      "neg": "Goalies on the U.S",
+      "date": "2018-02-13",
+      "ep_idx": 51
+    },
+    {
+      "request": "Generate a headline for the following article: Police said they found 44 pounds of suspected cocaine in the retired pitcher's rented California home.",
+      "article": "Police said they found 44 pounds of suspected cocaine in the retired pitcher's rented California home.",
+      "pos": "Former MLB All-Star Esteban Loaiza Nabbed In $500,000 Cocaine Bust",
+      "neg": "Overview: Police said they found 44 pounds of suspected cocaine in the retired pitcher's rented",
+      "date": "2018-02-13",
+      "ep_idx": 52
+    },
+    {
+      "request": "Generate a headline for the following article: Kim Jong-jin quit his job a decade ago to support his daughter’s budding snowboarding career.",
+      "article": "Kim Jong-jin quit his job a decade ago to support his daughter’s budding snowboarding career.",
+      "pos": "Chloe Kim’s Dad Celebrates The ‘American Dream’ After 17-Year-Old’s Gold Medal Win",
+      "neg": "Overview: Kim Jong-jin quit his job a decade ago to support his daughter’s budding snowboarding",
+      "date": "2018-02-13",
+      "ep_idx": 53
+    },
+    {
+      "request": "Generate a headline for the following article: The White House may be having a hard time finding someone for the job.",
+      "article": "The White House may be having a hard time finding someone for the job.",
+      "pos": "Trump Still Hasn’t Chosen A Science Adviser -- After 390 Days In Office",
+      "neg": "Overview: The White House may be having a hard time finding someone for the job.",
+      "date": "2018-02-14",
+      "ep_idx": 54
+    },
+    {
+      "request": "Generate a headline for the following article: “I may have felt choiceless before, but I know I have choices now.\"",
+      "article": "“I may have felt choiceless before, but I know I have choices now.\"",
+      "pos": "Lena Dunham Undergoes Total Hysterectomy In Ongoing Endometriosis Battle",
+      "neg": "Overview: “I may have felt choiceless before, but I know I have choices now.\"",
+      "date": "2018-02-14",
+      "ep_idx": 55
+    },
+    {
+      "request": "Generate a headline for the following article: “It’s the end of the road for me,\" Al Hoffman Jr., who has donated millions to GOP candidates over the years, told the New York Times.",
+      "article": "“It’s the end of the road for me,\" Al Hoffman Jr., who has donated millions to GOP candidates over the years, told the New York Times.",
+      "pos": "Top GOP Donor Won’t Back Candidates Unless They Support Assault Weapons Ban",
+      "neg": "Overview: “It’s the end of the road for me,\" Al Hoffman Jr., who has donated",
+      "date": "2018-02-18",
+      "ep_idx": 56
+    },
+    {
+      "request": "Generate a headline for the following article: The president's comments come on the heels of a gun control rally in Florida, where protesters lambasted Trump for his support for the NRA.",
+      "article": "The president's comments come on the heels of a gun control rally in Florida, where protesters lambasted Trump for his support for the NRA.",
+      "pos": "Trump Blames Democrats For Lack Of Gun Control Laws",
+      "neg": "Overview: The president's comments come on the heels of a gun control rally in Florida,",
+      "date": "2018-02-18",
+      "ep_idx": 57
+    },
+    {
+      "request": "Generate a headline for the following article: No major damages or injuries have been reported, but observers have expressed concern that China may be suppressing information about the blaze.",
+      "article": "No major damages or injuries have been reported, but observers have expressed concern that China may be suppressing information about the blaze.",
+      "pos": "‘Devastating’ Videos Show Jokhang Temple, ‘Heart Of Tibetan Buddhism,’ Consumed By Fire",
+      "neg": "Overview: No major damages or injuries have been reported, but observers have expressed concern that",
+      "date": "2018-02-18",
+      "ep_idx": 58
+    },
+    {
+      "request": "Generate a headline for the following article: Backers of the proposed law say circumcision violates the rights of children. Religious leaders say it tramples their beliefs.",
+      "article": "Backers of the proposed law say circumcision violates the rights of children. Religious leaders say it tramples their beliefs.",
+      "pos": "Iceland's Proposed Ban On Male Circumcision Alarms Religious Leaders",
+      "neg": "Backers of the proposed law say circumcision violates the rights of children",
+      "date": "2018-02-19",
+      "ep_idx": 59
+    },
+    {
+      "request": "Generate a headline for the following article: This is the third Winter Olympics in a row that the U.S. women's ice hockey team has made it to the finals.",
+      "article": "This is the third Winter Olympics in a row that the U.S. women's ice hockey team has made it to the finals.",
+      "pos": "U.S. Women’s Ice Hockey Team Crushes Finland, Heads To Olympic Finals",
+      "neg": "This is the third Winter Olympics in a row that the U.S",
+      "date": "2018-02-19",
+      "ep_idx": 60
+    },
+    {
+      "request": "Generate a headline for the following article: The Cleveland Cavaliers star's shoes had the words \"More Than An Athlete\" emblazoned on them.",
+      "article": "The Cleveland Cavaliers star's shoes had the words \"More Than An Athlete\" emblazoned on them.",
+      "pos": "LeBron James Wears Sneakers With Pointed Message To All-Star Game",
+      "neg": "Overview: The Cleveland Cavaliers star's shoes had the words \"More Than An Athlete\" emblazoned on",
+      "date": "2018-02-19",
+      "ep_idx": 61
+    },
+    {
+      "request": "Generate a headline for the following article: Making their Olympic debut, Gabriella Papadakis and Guillaume Cizeron also clinched the highest-ever free dance score.",
+      "article": "Making their Olympic debut, Gabriella Papadakis and Guillaume Cizeron also clinched the highest-ever free dance score.",
+      "pos": "French Ice Dance Duo Overcome ‘Nightmare’ Wardrobe Malfunction To Win Silver Medal",
+      "neg": "Overview: Making their Olympic debut, Gabriella Papadakis and Guillaume Cizeron also clinched the highest-ever free",
+      "date": "2018-02-20",
+      "ep_idx": 62
+    },
+    {
+      "request": "Generate a headline for the following article: State Sen. Dan Foreman abruptly canceled a meeting with the students and threatened to call law enforcement if they ever return.",
+      "article": "State Sen. Dan Foreman abruptly canceled a meeting with the students and threatened to call law enforcement if they ever return.",
+      "pos": "Idaho Senator Rants At Students Who Drove 300 Miles To Meet Him",
+      "neg": "Overview: State Sen. Dan Foreman abruptly canceled a meeting with the students and threatened to",
+      "date": "2018-02-20",
+      "ep_idx": 63
+    },
+    {
+      "request": "Generate a headline for the following article: Benjamin Kelly, an aide to Rep. Shawn Harrison (R-Tampa), repeated a conspiracy theory that has been gaining traction on social media.",
+      "article": "Benjamin Kelly, an aide to Rep. Shawn Harrison (R-Tampa), repeated a conspiracy theory that has been gaining traction on social media.",
+      "pos": "Aide To Florida GOP Lawmaker Fired After Calling School Shooting Survivors ‘Actors’",
+      "neg": "Benjamin Kelly, an aide to Rep",
+      "date": "2018-02-21",
+      "ep_idx": 64
+    },
+    {
+      "request": "Generate a headline for the following article: \"The Florida House of Representatives literally decided that porn is a greater risk to Floridians than assault weapons.\"",
+      "article": "\"The Florida House of Representatives literally decided that porn is a greater risk to Floridians than assault weapons.\"",
+      "pos": "Florida House Debates Porn, But Refuses To Discuss Assault Weapons",
+      "neg": "Overview: \"The Florida House of Representatives literally decided that porn is a greater risk to",
+      "date": "2018-02-21",
+      "ep_idx": 65
+    },
+    {
+      "request": "Generate a headline for the following article: The former first lady expressed \"total awe\" for the young activists who have risen up in the wake of last week's school shooting to call for sensible gun laws.",
+      "article": "The former first lady expressed \"total awe\" for the young activists who have risen up in the wake of last week's school shooting to call for sensible gun laws.",
+      "pos": "Michelle Obama Tells Students To Keep Fighting: 'We're Behind You Every Step'",
+      "neg": "Overview: The former first lady expressed \"total awe\" for the young activists who have risen",
+      "date": "2018-02-22",
+      "ep_idx": 66
+    },
+    {
+      "request": "Generate a headline for the following article: At a CNN-hosted town hall on Wednesday, NRA's Dana Loesch was roundly criticized by gun violence survivors and others for her remarks on gun control.",
+      "article": "At a CNN-hosted town hall on Wednesday, NRA's Dana Loesch was roundly criticized by gun violence survivors and others for her remarks on gun control.",
+      "pos": "Florida Sheriff Rebukes NRA Spokeswoman Who Claims She's 'Fighting' For Shooting Survivors",
+      "neg": "Overview: At a CNN-hosted town hall on Wednesday, NRA's Dana Loesch was roundly criticized by",
+      "date": "2018-02-22",
+      "ep_idx": 67
+    },
+    {
+      "request": "Generate a headline for the following article: The superstars EXO and CL performed at the ceremony to huge fanfare.",
+      "article": "The superstars EXO and CL performed at the ceremony to huge fanfare.",
+      "pos": "K-Pop Fans Lost Their Minds During The Winter Olympics Closing Ceremony",
+      "neg": "Overview: The superstars EXO and CL performed at the ceremony to huge fanfare.",
+      "date": "2018-02-25",
+      "ep_idx": 68
+    },
+    {
+      "request": "Generate a headline for the following article: Mona Charen, a conservative political analyst, was booed for her comments and later was escorted by security from the event for her safety.",
+      "article": "Mona Charen, a conservative political analyst, was booed for her comments and later was escorted by security from the event for her safety.",
+      "pos": "CPAC Speaker Lambasts GOP 'Hypocrites' Over Trump Sexual Harassment Allegations",
+      "neg": "Overview: Mona Charen, a conservative political analyst, was booed for her comments and later was",
+      "date": "2018-02-25",
+      "ep_idx": 69
+    },
+    {
+      "request": "Generate a headline for the following article: The board of disgraced movie mogul Harvey Weinstein's former company ended negotiations to sell the studio for $500 million.",
+      "article": "The board of disgraced movie mogul Harvey Weinstein's former company ended negotiations to sell the studio for $500 million.",
+      "pos": "Weinstein Company To Seek Bankruptcy After Last-Ditch Sale Talks Collapse",
+      "neg": "Overview: The board of disgraced movie mogul Harvey Weinstein's former company ended negotiations to sell",
+      "date": "2018-02-26",
+      "ep_idx": 70
+    },
+    {
+      "request": "Generate a headline for the following article: Bobsledder Nadezhda Sergeeva was the second Russian athlete to fail a doping test at the 2018 Winter Olympics.",
+      "article": "Bobsledder Nadezhda Sergeeva was the second Russian athlete to fail a doping test at the 2018 Winter Olympics.",
+      "pos": "Russian Olympian Who Wore 'I Don't Do Doping' Shirt Fails Doping Test",
+      "neg": "Overview: Bobsledder Nadezhda Sergeeva was the second Russian athlete to fail a doping test at",
+      "date": "2018-02-26",
+      "ep_idx": 71
+    },
+    {
+      "request": "Generate a headline for the following article: Stephanie Winston Wolkoff's company received almost $26 million to plan events for President Trump's inauguration last year.",
+      "article": "Stephanie Winston Wolkoff's company received almost $26 million to plan events for President Trump's inauguration last year.",
+      "pos": "Melania Trump Severs Ties With Senior Adviser Who Made Millions Planning Inauguration",
+      "neg": "Overview: Stephanie Winston Wolkoff's company received almost $26 million to plan events for President Trump's",
+      "date": "2018-02-27",
+      "ep_idx": 72
+    },
+    {
+      "request": "Generate a headline for the following article: Police say 55-year-old Prentis Robinson may have been targeted for outing suspected drug dealers on the video streaming platform.",
+      "article": "Police say 55-year-old Prentis Robinson may have been targeted for outing suspected drug dealers on the video streaming platform.",
+      "pos": "North Carolina Man Broadcasts His Own Killing On Facebook Live",
+      "neg": "Overview: Police say 55-year-old Prentis Robinson may have been targeted for outing suspected drug dealers",
+      "date": "2018-02-27",
+      "ep_idx": 73
+    },
+    {
+      "request": "Generate a headline for the following article: \"This will be the generation that restores life in America,” the vice president told a group of anti-abortion activists.",
+      "article": "\"This will be the generation that restores life in America,” the vice president told a group of anti-abortion activists.",
+      "pos": "Mike Pence Suggests Legal Abortions In U.S. Could End ‘In Our Time’",
+      "neg": "Overview: \"This will be the generation that restores life in America,” the vice president told",
+      "date": "2018-02-28",
+      "ep_idx": 74
+    },
+    {
+      "request": "Generate a headline for the following article: The law would go into effect about a decade after the 2011 mass shooting on Utoya island. Norway hasn't had another mass shooting since then.",
+      "article": "The law would go into effect about a decade after the 2011 mass shooting on Utoya island. Norway hasn't had another mass shooting since then.",
+      "pos": "Norway Ready To Ban Semi-Automatic Weapons Starting In 2021, Says Lawmaker",
+      "neg": "The law would go into effect about a decade after the 2011 mass shooting on Utoya island",
+      "date": "2018-02-28",
+      "ep_idx": 75
+    },
+    {
+      "request": "Generate a headline for the following article: They've been busy scrubbing the web as critics take aim at President Xi Jinping’s expansion of power.",
+      "article": "They've been busy scrubbing the web as critics take aim at President Xi Jinping’s expansion of power.",
+      "pos": "Chinese Censors Ban Winnie The Pooh, George Orwell And Letter 'N' To Silence Xi Critics",
+      "neg": "Overview: They've been busy scrubbing the web as critics take aim at President Xi Jinping’s",
+      "date": "2018-03-01",
+      "ep_idx": 76
+    },
+    {
+      "request": "Generate a headline for the following article: At the annual event, the president also joked about the press, Democrats, top aides -- and even his wife, Melania.",
+      "article": "At the annual event, the president also joked about the press, Democrats, top aides -- and even his wife, Melania.",
+      "pos": "Trump Mocks Kushner At Gridiron Dinner: 'Jared Could Not Get Through Security'",
+      "neg": "Overview: At the annual event, the president also joked about the press, Democrats, top aides",
+      "date": "2018-03-04",
+      "ep_idx": 77
+    },
+    {
+      "request": "Generate a headline for the following article: The president, whose flip-flopping position on the Iraq War is well-documented, sarcastically referred to Bush as a \"real genius.\"",
+      "article": "The president, whose flip-flopping position on the Iraq War is well-documented, sarcastically referred to Bush as a \"real genius.\"",
+      "pos": "Trump Mocks George W. Bush, Calls Iraq Invasion 'Single Worst Decision Ever Made'",
+      "neg": "Overview: The president, whose flip-flopping position on the Iraq War is well-documented, sarcastically referred to",
+      "date": "2018-03-04",
+      "ep_idx": 78
+    },
+    {
+      "request": "Generate a headline for the following article: Sudan, the world's last male northern white rhino, may not survive much longer, and there's talk of euthanasia.",
+      "article": "Sudan, the world's last male northern white rhino, may not survive much longer, and there's talk of euthanasia.",
+      "pos": "Extinction Looms For Northern White Rhino As Last Male Nears Death",
+      "neg": "Overview: Sudan, the world's last male northern white rhino, may not survive much longer, and",
+      "date": "2018-03-05",
+      "ep_idx": 79
+    }
+  ],
+  "heldout_queries": [
+    {
+      "id": "1011082_tail_0",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The agreement reportedly occurred during the G20 meeting in Germany last July.",
+      "article": "The agreement reportedly occurred during the G20 meeting in Germany last July.",
+      "pos": "Trump Reportedly Broke Another Promise, This Time To Australia",
+      "neg": "Overview: The agreement reportedly occurred during the G20 meeting in Germany last July.",
+      "date": "2018-03-06"
+    },
+    {
+      "id": "1011082_tail_1",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: A federal judge in Boise ruled this week that barring transgender people from changing the assigned gender in their birth certificates is unconstitutional.",
+      "article": "A federal judge in Boise ruled this week that barring transgender people from changing the assigned gender in their birth certificates is unconstitutional.",
+      "pos": "Idaho Transgender Community Celebrates Victory In Birth Certificate Ruling",
+      "neg": "Overview: A federal judge in Boise ruled this week that barring transgender people from changing",
+      "date": "2018-03-07"
+    },
+    {
+      "id": "1011082_tail_2",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: “We hear a lot about female empowerment in this country ... But for some reason you almost never hear anything about how men are doing in America.\"",
+      "article": "“We hear a lot about female empowerment in this country ... But for some reason you almost never hear anything about how men are doing in America.\"",
+      "pos": "For Women’s History Month, Tucker Carlson Is Airing A Series On The ‘Crisis’ Facing Men",
+      "neg": "“We hear a lot about female empowerment in this country ..",
+      "date": "2018-03-07"
+    },
+    {
+      "id": "1011082_tail_3",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The senator gave $5,000 to every state Democratic Party in the country for a total of $250,000.",
+      "article": "The senator gave $5,000 to every state Democratic Party in the country for a total of $250,000.",
+      "pos": "Elizabeth Warren Just Made Donations To Dems In All 50 States",
+      "neg": "Overview: The senator gave $5,000 to every state Democratic Party in the country for a",
+      "date": "2018-03-08"
+    },
+    {
+      "id": "1011082_tail_4",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Lawmakers voted to prohibit discrimination based on gender identity, marking another major win for transgender rights this week.",
+      "article": "Lawmakers voted to prohibit discrimination based on gender identity, marking another major win for transgender rights this week.",
+      "pos": "New Hampshire House Votes To Protect Transgender People From Discrimination",
+      "neg": "Overview: Lawmakers voted to prohibit discrimination based on gender identity, marking another major win for",
+      "date": "2018-03-08"
+    },
+    {
+      "id": "1011082_tail_5",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Activist Sherry Johnson, who was forced to marry her rapist at the age of 11, said her “heart is happy” following the vote.",
+      "article": "Activist Sherry Johnson, who was forced to marry her rapist at the age of 11, said her “heart is happy” following the vote.",
+      "pos": "Florida Lawmakers Vote To Ban Marriage Under The Age Of 17",
+      "neg": "Overview: Activist Sherry Johnson, who was forced to marry her rapist at the age of",
+      "date": "2018-03-11"
+    },
+    {
+      "id": "1011082_tail_6",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: Mina Basaran, the daughter of a Turkish tycoon, had been celebrating her bachelorette party in Dubai.",
+      "article": "Mina Basaran, the daughter of a Turkish tycoon, had been celebrating her bachelorette party in Dubai.",
+      "pos": "Turkish Heiress And 7 Friends Killed In Iran Plane Crash",
+      "neg": "Overview: Mina Basaran, the daughter of a Turkish tycoon, had been celebrating her bachelorette party",
+      "date": "2018-03-12"
+    },
+    {
+      "id": "1011082_tail_7",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The former SS guard was one of the last Nazi officers to stand trial for crimes related to the Holocaust.",
+      "article": "The former SS guard was one of the last Nazi officers to stand trial for crimes related to the Holocaust.",
+      "pos": "Oskar Groening, ‘Bookkeeper Of Auschwitz,' Dies At 96 Awaiting Prison",
+      "neg": "Overview: The former SS guard was one of the last Nazi officers to stand trial",
+      "date": "2018-03-13"
+    },
+    {
+      "id": "1011082_tail_8",
+      "is_official_dev_target": false,
+      "request": "Generate a headline for the following article: The chemical weapon was developed in secret in the Soviet Union in the 1980s.",
+      "article": "The chemical weapon was developed in secret in the Soviet Union in the 1980s.",
+      "pos": "What Is Novichok? Ex-Spy Poisoned With Rare Russia-Linked Nerve Agent",
+      "neg": "Overview: The chemical weapon was developed in secret in the Soviet Union in the 1980s.",
+      "date": "2018-03-13"
+    },
+    {
+      "id": "1011082",
+      "is_official_dev_target": true,
+      "request": "Generate a headline for the following article: Gov. Tate Reeves has warned Mississippians that the state is “not in the clear yet.”",
+      "article": "Gov. Tate Reeves has warned Mississippians that the state is “not in the clear yet.”",
+      "pos": "Mississippi Braces For More Rain As Hundreds Of Homes Flooded In Jackson Area",
+      "neg": "Overview: Gov. Tate Reeves has warned Mississippians that the state is “not in the clear",
+      "date": "dev_target"
+    }
+  ]
+}
